@@ -3,9 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/BrowseContextInfo.java" timestamp="1540302709645" />
-      <file name="/Dummy.txt" timestamp="1540292271691">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/BrowseContextInfo.java" timestamp="1540305245363">
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/PlmActiveListDropHandler.java" timestamp="1540293805388">
         <mark key="[" line="246" column="0" />
@@ -25,7 +26,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrFunctionEventQueue.java" timestamp="1540300484526">
         <mark key="'" line="64" column="42" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" timestamp="1540302869917" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" timestamp="1540304620211" />
       <file name="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/WinNTFileSystem.java" timestamp="1540298094195">
         <mark key="'" line="293" column="38" />
       </file>
@@ -33,6 +34,8 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/StandardBrowsePanel.java" timestamp="1540300919779">
         <mark key="'" line="263" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/sap/updateobjectsread/ProcessUpdateObjectsRead.java" timestamp="1540303770333" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/conversionservices/BrowseUrlFactory.java" timestamp="1540305085074" />
       <file name="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/EventDispatchThread.java" timestamp="1540298420843">
         <mark key="'" line="91" column="38" />
       </file>
@@ -68,17 +71,24 @@
       <jump line="122" column="30" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/PlmObserver.java" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text>PlmAnyObjectContainer plmObjects = new PlmAnyObjectContainer();
-plmObjects.addPlmObject(proj);
-plmObjects.readDetails();</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGlmICghaXNBbHJlYWR5U2VsZWN0ZWQob2JqKSkK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>PlmAnyObjectContainer plmObjects = new PlmAnyObjectContainer();
-plmObjects.addPlmObject(proj);
-plmObjects.readDetails();</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGlmICghaXNBbHJlYWR5U2VsZWN0ZWQob2JqKSkK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmICghaXNBbHJlYWR5U2VsZWN0ZWQob2JqKSkK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGlmICghaXNBbHJlYWR5U2VsZWN0ZWQob2JqKSkK</text>
+      </register>
+      <register name="3" type="4">
+        <text>PlmAnyObjectContainer plmObjects = new PlmAnyObjectContainer();
+plmObjects.addPlmObject(proj);
+plmObjects.readDetails();</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgZWxzZSBpZiAob28gaW5zdGFuY2VvZiBCclBTUHJvamVjdCkK</text>
       </register>
       <register name="/" type="4">
