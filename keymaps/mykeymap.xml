@@ -1,0 +1,170 @@
+<keymap version="1" name="mykeymap" parent="$default">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="BaseOnThisFunction" />
+  <action id="ChangesView.Diff" />
+  <action id="CheckinProject" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.Jdbc.Execute" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.DeleteRows" />
+  <action id="Console.TableResult.Submit" />
+  <action id="DatabaseView.CopyAction" />
+  <action id="Diff.ShowDiff" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorContextInfo" />
+  <action id="EditorDeleteLine" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="EditorEnter">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="EditorPasteFromX11" />
+  <action id="EditorSplitLine" />
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="ExportToTextFile" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="FindNext" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="ForceStepInto" />
+  <action id="ForceStepOver" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="alt #10000d6" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="Groovy.Shell.Execute" />
+  <action id="GuiDesigner.QuickJavadoc" />
+  <action id="HippieCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+    <keyboard-shortcut first-keystroke="alt #10000c4" />
+  </action>
+  <action id="InsertLiveTemplate" />
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="shift alt l" />
+  </action>
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="shift ctrl back_space" />
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+  <action id="KotlinShellExecute" />
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="OverrideMethods">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
+  <action id="QuickJavaDoc" />
+  <action id="RecentFiles" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
+  <action id="RerunTests" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f9" />
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="RevealIn">
+    <mouse-shortcut keystroke="alt button2" />
+    <mouse-shortcut keystroke="alt button3" />
+  </action>
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="shift f11" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="ctrl alt f7" />
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
+  <action id="SmartStepInto" />
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f7" />
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="shift f8" />
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f8" />
+    <keyboard-shortcut first-keystroke="alt a" />
+    <mouse-shortcut keystroke="alt button142" />
+  </action>
+  <action id="StructuralSearchPlugin.StructuralSearchAction">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="f11" />
+    <mouse-shortcut keystroke="control button143" />
+  </action>
+  <action id="ToggleBookmarkWithMnemonic">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="ctrl f8" />
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchy.BaseOnThisType" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="Vcs.ReformatCommitMessage" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="ViewSource" />
+  <action id="XDebugger.MuteBreakpoints">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="context.load" />
+  <action id="openAssertEqualsDiff" />
+</keymap>
