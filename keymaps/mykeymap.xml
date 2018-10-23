@@ -108,6 +108,7 @@
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
     <keyboard-shortcut first-keystroke="alt r" />
+    <mouse-shortcut keystroke="alt button143" />
   </action>
   <action id="RevealIn">
     <mouse-shortcut keystroke="alt button2" />

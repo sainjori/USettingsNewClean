@@ -3,33 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/BrowseContextInfo.java" timestamp="1540310416510">
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
-        <mark key="." line="141" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/PlmActiveListDropHandler.java" timestamp="1540293805388">
-        <mark key="[" line="246" column="0" />
-        <mark key="]" line="246" column="0" />
-        <mark key="." line="246" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/MenuTool.java" timestamp="1540298849125" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrFunctionToolbarBuilder.java" timestamp="1540298863605" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSProjectContainer.java" timestamp="1540299592852" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm-api/src/main/java/com/dscsag/plm/spi/interfaces/observer/ChangedObject.java" timestamp="1540303671222" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/brobj/BrPSProject.java" timestamp="1540299457956">
         <mark key="[" line="259" column="0" />
         <mark key="]" line="264" column="30" />
         <mark key="^" line="264" column="30" />
         <mark key="." line="264" column="30" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObjectBrowsePanel.java" timestamp="1540310562236">
-        <mark key="'" line="1769" column="38" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/tree/DefaultObrTreeModel.java" timestamp="1540315426889" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfSendTo.java" timestamp="1540315275576">
+        <mark key="[" line="91" column="70" />
+        <mark key="]" line="91" column="82" />
+        <mark key="." line="91" column="82" />
+        <mark key="^" line="91" column="82" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrFunctionEventQueue.java" timestamp="1540300484526">
-        <mark key="'" line="64" column="42" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" timestamp="1540304620211" />
       <file name="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/WinNTFileSystem.java" timestamp="1540298094195">
         <mark key="'" line="293" column="38" />
       </file>
@@ -37,15 +24,39 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/StandardBrowsePanel.java" timestamp="1540309759229">
         <mark key="'" line="263" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/sap/updateobjectsread/ProcessUpdateObjectsRead.java" timestamp="1540303770333" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/conversionservices/BrowseUrlFactory.java" timestamp="1540309427925" />
       <file name="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/EventDispatchThread.java" timestamp="1540298420843">
         <mark key="'" line="91" column="38" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/BrowseContextInfo.java" timestamp="1540316553977">
+        <mark key="'" line="278" column="0" />
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/MenuTool.java" timestamp="1540317203641" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrFunctionToolbarBuilder.java" timestamp="1540298863605" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm-api/src/main/java/com/dscsag/plm/spi/interfaces/observer/ChangedObject.java" timestamp="1540303671222" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObjectBrowsePanel.java" timestamp="1540315094789">
+        <mark key="'" line="1770" column="38" />
+        <mark key="[" line="1674" column="13" />
+        <mark key="]" line="1674" column="54" />
+        <mark key="^" line="1674" column="54" />
+        <mark key="." line="1674" column="54" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1540317173112" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrFunctionEventQueue.java" timestamp="1540316744633">
+        <mark key="'" line="64" column="42" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" timestamp="1540316770465">
+        <mark key="'" line="541" column="19" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/sap/updateobjectsread/ProcessUpdateObjectsRead.java" timestamp="1540303770333" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ctx/DefaultObrContextInfo.java" timestamp="1540314630921" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/conversionservices/BrowseUrlFactory.java" timestamp="1540309427925" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/PlmObserver.java" timestamp="1540303419250">
         <mark key="'" line="122" column="30" />
       </file>
-      <file name="/fragment.java" timestamp="1540309789260">
+      <file name="/fragment.java" timestamp="1540316343957">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -54,6 +65,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxSelectionField.java" timestamp="1540298680717">
         <mark key="'" line="82" column="25" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ctx/ObrContextInfo.java" timestamp="1540314712536" />
     </filemarks>
     <jumps>
       <jump line="75" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrFunctionEventQueue.java" />
@@ -73,6 +85,8 @@
       <jump line="334" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/PlmObserver.java" />
       <jump line="122" column="30" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/PlmObserver.java" />
       <jump line="1769" column="38" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObjectBrowsePanel.java" />
+      <jump line="541" column="19" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="278" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/BrowseContextInfo.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -81,8 +95,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlmICghaXNBbHJlYWR5U2VsZWN0ZWQob2JqKSkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmICghaXNBbHJlYWR5U2VsZWN0ZWQob2JqKSkK</text>
+      <register name="&quot;" type="4">
+        <text>MODE_UPDATE_AND_ADDEMPTY</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGlmICghaXNBbHJlYWR5U2VsZWN0ZWQob2JqKSkK</text>
@@ -94,6 +108,9 @@ plmObjects.readDetails();</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgZWxzZSBpZiAob28gaW5zdGFuY2VvZiBCclBTUHJvamVjdCkK</text>
+      </register>
+      <register name="-" type="4">
+        <text>MODE_UPDATE_AND_ADDEMPTY</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub3RZZXRVcGRhdGVkQ2hhbmdlZE9iamVjdHNcPg==</text>
