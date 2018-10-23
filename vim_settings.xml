@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/BrowseContextInfo.java" timestamp="1540293986074" />
       <file name="/Dummy.txt" timestamp="1540292271691">
         <mark key="[" line="0" column="0" />
       </file>
@@ -12,12 +11,23 @@
         <mark key="]" line="246" column="0" />
         <mark key="." line="246" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/brobj/BrPSProject.java" timestamp="1540293711960" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfSendTo.java" timestamp="1540293113161" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObjectBrowsePanel.java" timestamp="1540294127017" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1540291947793" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/brobj/BrPSProject.java" timestamp="1540296539343" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrFunctionEventQueue.java" timestamp="1540296872367">
+        <mark key="'" line="75" column="4" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" timestamp="1540296187872" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/PlmObserver.java" timestamp="1540297260603">
+        <mark key="'" line="557" column="4" />
+      </file>
+      <file name="/fragment.java" timestamp="1540296540691">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="64" column="42" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrFunctionEventQueue.java" />
+      <jump line="75" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrFunctionEventQueue.java" />
+      <jump line="557" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/PlmObserver.java" />
+    </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgZWxzZSBpZiAob28gaW5zdGFuY2VvZiBCclBTUHJvamVjdCkK</text>
@@ -25,13 +35,21 @@
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgZWxzZSBpZiAob28gaW5zdGFuY2VvZiBCclBTUHJvamVjdCkK</text>
       </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxldmVudHNcPg==</text>
+      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxldmVudHNcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxldmVudHNcPg==</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDxldmVudHNcPg==</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
