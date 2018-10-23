@@ -31,18 +31,18 @@
         <mark key="'" line="293" column="38" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/PlmObserverDispatcher.java" timestamp="1540303456125" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/StandardBrowsePanel.java" timestamp="1540300919779">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/StandardBrowsePanel.java" timestamp="1540309759229">
         <mark key="'" line="263" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/sap/updateobjectsread/ProcessUpdateObjectsRead.java" timestamp="1540303770333" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/conversionservices/BrowseUrlFactory.java" timestamp="1540305085074" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/conversionservices/BrowseUrlFactory.java" timestamp="1540309427925" />
       <file name="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/EventDispatchThread.java" timestamp="1540298420843">
         <mark key="'" line="91" column="38" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/PlmObserver.java" timestamp="1540303419250">
         <mark key="'" line="122" column="30" />
       </file>
-      <file name="/fragment.java" timestamp="1540303671571">
+      <file name="/fragment.java" timestamp="1540309789260">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -137,6 +137,9 @@ plmObjects.readDetails();</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
