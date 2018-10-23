@@ -13,7 +13,13 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/MenuTool.java" timestamp="1540298849125" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrFunctionToolbarBuilder.java" timestamp="1540298863605" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/brobj/BrPSProject.java" timestamp="1540296539343" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSProjectContainer.java" timestamp="1540299592852" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/brobj/BrPSProject.java" timestamp="1540299457956">
+        <mark key="[" line="259" column="0" />
+        <mark key="]" line="264" column="30" />
+        <mark key="^" line="264" column="30" />
+        <mark key="." line="264" column="30" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrFunctionEventQueue.java" timestamp="1540298209885">
         <mark key="'" line="64" column="42" />
       </file>
@@ -28,8 +34,10 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/PlmObserver.java" timestamp="1540297260603">
         <mark key="'" line="557" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1540298503809">
+      <file name="/fragment.java" timestamp="1540299881655">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/TreeMouseAdapter.java" timestamp="1540298286861" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxSelectionField.java" timestamp="1540298680717">
@@ -49,10 +57,17 @@
       <jump line="82" column="25" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxSelectionField.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZWxzZSBpZiAob28gaW5zdGFuY2VvZiBCclBTUHJvamVjdCkK</text>
+      <register name="1" type="4">
+        <text>PlmAnyObjectContainer plmObjects = new PlmAnyObjectContainer();
+plmObjects.addPlmObject(proj);
+plmObjects.readDetails();</text>
       </register>
-      <register name="&quot;" type="2">
+      <register name="&quot;" type="4">
+        <text>PlmAnyObjectContainer plmObjects = new PlmAnyObjectContainer();
+plmObjects.addPlmObject(proj);
+plmObjects.readDetails();</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgZWxzZSBpZiAob28gaW5zdGFuY2VvZiBCclBTUHJvamVjdCkK</text>
       </register>
       <register name="/" type="4">
@@ -94,6 +109,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
