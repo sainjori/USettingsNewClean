@@ -100,6 +100,7 @@
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
+  <action id="Replace" />
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="ctrl f5" />
     <keyboard-shortcut first-keystroke="ctrl alt r" />
@@ -163,6 +164,9 @@
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="ViewSource" />
+  <action id="VimRedo">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="XDebugger.MuteBreakpoints">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
