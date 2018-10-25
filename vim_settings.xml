@@ -64,7 +64,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" timestamp="1540382602811">
         <mark key="'" line="533" column="41" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/PlmSessionManager.java" timestamp="1540480550430">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/PlmSessionManager.java" timestamp="1540483370492">
         <mark key="'" line="217" column="2" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/test/src/plm/utils/configtransmitter/ConfigSapTransmitterTest.java" timestamp="1540473640822" />
@@ -75,10 +75,10 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/PlmObserver.java" timestamp="1540303419250">
         <mark key="'" line="122" column="30" />
       </file>
-      <file name="/fragment.java" timestamp="1540480440915">
+      <file name="/fragment.java" timestamp="1540483550040">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="12" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxSelectionField.java" timestamp="1540298680717">
@@ -189,10 +189,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>argv[0] = &quot;-print&quot;</text>
+        <text>System.out</text>
       </register>
       <register name="-" type="4">
-        <text>argv[0] = &quot;-print&quot;</text>
+        <text>System.out</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFUlJPUl9NRVNTQUdFXD4=</text>
