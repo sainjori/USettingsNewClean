@@ -18,15 +18,23 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/tools/src/main/java/com/dscsag/comm/type/socket/CommSocketServerBuilder.java" timestamp="1540478008015">
         <mark key="'" line="105" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/dic/Dic.java" timestamp="1540547791871" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/pipe/Pipe.java" timestamp="1540380202602">
         <mark key="'" line="94" column="21" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentChangeAttributes.java" timestamp="1540811734372">
+        <mark key="'" line="222" column="8" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/WinNTFileSystem.java" timestamp="1540298094195">
         <mark key="'" line="293" column="38" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/felix/org.apache.felix.framework/5.4.0/org.apache.felix.framework-5.4.0-sources.jar!/org/apache/felix/framework/Felix.java" timestamp="1540489654378">
         <mark key="'" line="343" column="30" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" timestamp="1540812001940">
+        <mark key="[" line="16" column="74" />
+        <mark key="]" line="16" column="42" />
+        <mark key="." line="16" column="42" />
+        <mark key="^" line="16" column="42" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/nio/channels/Selector.java" timestamp="1540477799709">
         <mark key="'" line="223" column="37" />
@@ -43,6 +51,10 @@
       <file name="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/nio/file/Files.java" timestamp="1540478343088">
         <mark key="'" line="1170" column="35" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1540811069291" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateAttributes.java" timestamp="1540811739211">
+        <mark key="'" line="318" column="32" />
+      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/EventDispatchThread.java" timestamp="1540298420843">
         <mark key="'" line="91" column="38" />
       </file>
@@ -52,16 +64,12 @@
       <file name="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Class.java" timestamp="1540566489104">
         <mark key="'" line="660" column="76" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/omf/LayoutDataUtils.java" timestamp="1540544324688" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/logon/LandscapeProviderHelper.java" timestamp="1540565317686" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/BrowserHelper.java" timestamp="1540383425697">
         <mark key="'" line="661" column="40" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/plm/plugins/OSGIFrameworkManager.java" timestamp="1540557479860" />
       <file name="C:/Program Files/Java/jdk1.8.0_181/src.zip!/javax/swing/JOptionPane.java" timestamp="1540474755674">
         <mark key="'" line="623" column="30" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/LogonMain.java" timestamp="1540576137959" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrFunctionEventQueue.java" timestamp="1540387805138">
         <mark key="'" line="64" column="42" />
       </file>
@@ -74,36 +82,29 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ctx/DefaultObrContextInfo.java" timestamp="1540374523001">
         <mark key="'" line="410" column="2" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/modules/stats/StatisticsImpl.java" timestamp="1540552494621" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/logon/ProcessSapLogonWithGui.java" timestamp="1540560775282" />
       <file name="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/System.java" timestamp="1540484761167">
         <mark key="'" line="632" column="20" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/env/Environment.java" timestamp="1540545561778" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/utils/YpsomedVeaHelper.java" timestamp="1540812130179">
+        <mark key="[" line="33" column="46" />
+        <mark key="]" line="33" column="55" />
+        <mark key="^" line="33" column="55" />
+        <mark key="." line="33" column="55" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/PlmObserver.java" timestamp="1540303419250">
         <mark key="'" line="122" column="30" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ServiceLoader.java" timestamp="1540489515971">
         <mark key="'" line="518" column="5" />
       </file>
-      <file name="/fragment.java" timestamp="1540577003527">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="12" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/felix/org.apache.felix.framework/5.6.10/org.apache.felix.framework-5.6.10-sources.jar!/org/osgi/framework/launch/FrameworkFactory.java" timestamp="1540552950473" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/gfx/GxSelectionField.java" timestamp="1540298680717">
         <mark key="'" line="82" column="25" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" timestamp="1540552342320">
         <mark key="'" line="126" column="2" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/sap/man/SapManager.java" timestamp="1540567695509" />
     </filemarks>
     <jumps>
-      <jump line="118" column="22" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
-      <jump line="152" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="156" column="26" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="159" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="258" column="10" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
@@ -202,13 +203,15 @@
       <jump line="206" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/pst/allocation/AllocationXmlReader.java" />
       <jump line="660" column="76" filename="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Class.java" />
       <jump line="79" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/LazyPlmControlXLanguageInitializer.java" />
+      <jump line="222" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentChangeAttributes.java" />
+      <jump line="318" column="32" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateAttributes.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>thi</text>
+        <text>METAINFNAME</text>
       </register>
       <register name="-" type="4">
-        <text>thi</text>
+        <text>METAINFNAME</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFUlJPUl9NRVNTQUdFXD4=</text>
@@ -217,50 +220,31 @@
         <text encoding="base64">ICAgIE9ick1vZGVsSW50ZXJmYWNlIG9taSA9IFBsbVNlc3Npb25NYW5hZ2VyLmdldEluc3QoKS5nZXRPYnJNb2RlbEludGVyZmFjZSgpOwogICAgT2JyVHJlZVNlbGVjdGlvbiBvYnJUcmVlU2VsZWN0aW9uID0gb21pLmdldE9iclRyZWVTZWxlY3Rpb24oUGxtU2Vzc2lvbk1hbmFnZXIuT0JfQ09OVEVYVCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIFBhdGggbWV0YUluZkZpbGUgPSBnZXRNZXRhSW5mRmlsZShnZXRNZXRhSW5mRGlyZWN0b3J5KHhtbERhdGEuZ2V0T3B0aW9ucygpKSwgeG1sRGF0YS5nZXRGaXJzdFBhcnRGaWxlbmFtZSgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEJyb3dzZXJIZWxwZXIuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIExpc3Q8TWFwPFN0cmluZywgU3RyaW5nPj4gb3B0aW9ucyA9IHhtbERhdGEuZ2V0T3B0aW9ucygpOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>@Override
-  public void handleUrl(String url)
-  {
-    PlmObject object = BrowserHelper.getPlmObjectFromUrl(url);
-    noUpdate = noUpdate(object);
-
-    if (!noUpdate)
-    {
-      plmObj = objCaster.cast(object);
-      adjustTabs(object);
-
-      if (plmObj != null)
-      {
-        readDetailsOfPlmObject();
-        ObrObject brObj = GuiUtils.convertPlmToBr(plmObj);
-        updateOBContext(brObj);
-      }
-    }
-    GuiUtils.clearStatusLineText();
-  }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEFwcGxQYXJ0IGZpcnN0UGFydCA9IHhtbERhdGEuZ2V0Rmlyc3RQYXJ0KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE9iclRyZWVTZWxlY3Rpb24gb2JyVHJlZVNlbGVjdGlvbiA9IG9taS5nZXRPYnJUcmVlU2VsZWN0aW9uKFBsbVNlc3Npb25NYW5hZ2VyLk9CX0NPTlRFWFQpOwo=</text>
+        <text encoding="base64">ICAgIHhtbERhdGEuZ2V0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE9iclRyZWVTZWxlY3Rpb24gb2JyVHJlZVNlbGVjdGlvbiA9IG9taS5nZXRPYnJUcmVlU2VsZWN0aW9uKFBsbVNlc3Npb25NYW5hZ2VyLk9CX0NPTlRFWFQpOwo=</text>
+        <text encoding="base64">WG1sRGF0YSB4bWxEYXRhID0gdGhpcy5kYXRhQ29udGFpbmVyLmdldE9iamVjdChQbG1Db21tQ29uc3RhbnRzLlhNTFBBUkFNUyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN1cGVyLmhhbmRsZVVybCh1cmwpOwo=</text>
+        <text encoding="base64">ICAgIGxnCg==</text>
       </register>
     </registers>
     <search>
