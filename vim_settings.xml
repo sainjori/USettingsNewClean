@@ -30,11 +30,11 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/felix/org.apache.felix.framework/5.4.0/org.apache.felix.framework-5.4.0-sources.jar!/org/apache/felix/framework/Felix.java" timestamp="1540489654378">
         <mark key="'" line="343" column="30" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" timestamp="1540813053389">
-        <mark key="[" line="23" column="15" />
-        <mark key="]" line="25" column="3" />
-        <mark key="." line="25" column="3" />
-        <mark key="^" line="25" column="3" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" timestamp="1540816988419">
+        <mark key="[" line="78" column="59" />
+        <mark key="]" line="78" column="44" />
+        <mark key="." line="78" column="44" />
+        <mark key="^" line="78" column="44" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/nio/channels/Selector.java" timestamp="1540477799709">
         <mark key="'" line="223" column="37" />
@@ -208,49 +208,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGF0dHJFbGVtZW50LmdldEF0dHJpYnV0ZSgpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text>getAttribute(&quot;ID&quot;);</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFUlJPUl9NRVNTQUdFXD4=</text>
+        <text encoding="base64">XDxkQnVpbGRlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIE9ick1vZGVsSW50ZXJmYWNlIG9taSA9IFBsbVNlc3Npb25NYW5hZ2VyLmdldEluc3QoKS5nZXRPYnJNb2RlbEludGVyZmFjZSgpOwogICAgT2JyVHJlZVNlbGVjdGlvbiBvYnJUcmVlU2VsZWN0aW9uID0gb21pLmdldE9iclRyZWVTZWxlY3Rpb24oUGxtU2Vzc2lvbk1hbmFnZXIuT0JfQ09OVEVYVCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBFbGVtZW50IGVFbGVtZW50ID0gKEVsZW1lbnQpIG5Ob2RlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGF0dHJFbGVtZW50LmdldEF0dHJpYnV0ZSgpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFBhdGggbWV0YUluZkZpbGUgPSBnZXRNZXRhSW5mRmlsZShnZXRNZXRhSW5mRGlyZWN0b3J5KHhtbERhdGEuZ2V0T3B0aW9ucygpKSwgeG1sRGF0YS5nZXRGaXJzdFBhcnRGaWxlbmFtZSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBteUNvbnRPYmplY3QuaWQgPSBlRWxlbWVudC5nZXRBdHRyaWJ1dGUoIklEIik7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIExpc3Q8TWFwPFN0cmluZywgU3RyaW5nPj4gb3B0aW9ucyA9IHhtbERhdGEuZ2V0T3B0aW9ucygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlJFTEVBU0VfRVhUIHJvbGwgbm8gOiAiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEFwcGxQYXJ0IGZpcnN0UGFydCA9IHhtbERhdGEuZ2V0Rmlyc3RQYXJ0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJcbkN1cnJlbnQgRWxlbWVudCA6IiArIG5Ob2RlLmdldE5vZGVOYW1lKCkpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHhtbERhdGEuZ2V0Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">bXAgPCBwYXJ0TGlzdC5nZXRMZW5ndGgoKTsgdGVtcCsrKSB7CiAgICAgIE5vZGUgbk5vZGUgPSBwYXJ0TGlzdC5pdGVtKHRlbXApOwogICAgfQoKICAgIHJldHVybiBPcHRpb25hbC5vZihyZXN1bHQpOwogIH0KCiAgcHJpdmF0ZSBEb2N1bWVudCBnZXRYbWxEb2N1bWVudChQYXRoIHBhdGgpCiAgewogICAgRG9jdW1lbnQgZG9jID0gbnVsbDsKICAgIHRyeQogICAgewogICAgICBEb2N1bWVudEJ1aWxkZXJGYWN0b3J5IGRiRmFjdG9yeSA9IERvY3VtZW50QnVpbGRlckZhY3RvcnkubmV3SW5zdGFuY2UoKTsKICAgICAgRG9jdW1lbnRCdWlsZGVyIA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">WG1sRGF0YSB4bWxEYXRhID0gdGhpcy5kYXRhQ29udGFpbmVyLmdldE9iamVjdChQbG1Db21tQ29uc3RhbnRzLlhNTFBBUkFNUyk7Cg==</text>
+        <text encoding="base64">ICAgIERvY3VtZW50IHhtbERvY3VtZW50ID0gZ2V0WG1sRG9jdW1lbnQocGF0aCk7CiAgICBpZiAoeG1sRG9jdW1lbnQgPT0gbnVsbCkKICAgICAgcmV0dXJuIE9wdGlvbmFsLmVtcHR5KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIERvY3VtZW50QnVpbGRlckZhY3RvcnkgZGJGYWN0b3J5ID0gRG9jdW1lbnRCdWlsZGVyRmFjdG9yeS5uZXdJbnN0YW5jZSgpOwogICAgRG9jdW1lbnRCdWlsZGVyIGRCdWlsZGVyOwo=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFUlJPUl9NRVNTQUdFXD4=</last-search>
+      <last-search encoding="base64">XDxkQnVpbGRlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFUlJPUl9NRVNTQUdFXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkQnVpbGRlclw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -264,6 +264,7 @@
         <entry encoding="base64">XDxjdXJyZW50RGlzcGxheVw+</entry>
         <entry encoding="base64">XDxwbG1PYmpcPg==</entry>
         <entry encoding="base64">XDxFUlJPUl9NRVNTQUdFXD4=</entry>
+        <entry encoding="base64">XDxkQnVpbGRlclw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -302,6 +303,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
