@@ -10,7 +10,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.11.0/addons-5.1.11.0-sources.jar!/plm/modules/dataexchange/ddx/gui/ExportOptionsPanel.java" timestamp="1540840432240" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/gfx/GxOkCancelDialog.java" timestamp="1540838565033" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMatBomHeader.java" timestamp="1540915781840" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" timestamp="1540928196217">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" timestamp="1540929565098">
         <mark key="c" line="200" column="73" />
         <mark key="'" line="368" column="10" />
         <mark key="[" line="83" column="0" />
@@ -20,11 +20,12 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1540835332256" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/gfx/GxIntelliTextField.java" timestamp="1540838502520" />
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/default.txt" timestamp="1540910140670">
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/default.txt" timestamp="1540929317332">
         <mark key="'" line="2483" column="0" />
-        <mark key="[" line="2542" column="0" />
-        <mark key="]" line="2542" column="0" />
-        <mark key="." line="2542" column="0" />
+        <mark key="[" line="2539" column="29" />
+        <mark key="]" line="2539" column="31" />
+        <mark key="." line="2539" column="31" />
+        <mark key="^" line="2539" column="31" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerProcessCreateMatBom.java" timestamp="1540914669432" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1540915513929">
@@ -57,7 +58,7 @@
         <mark key="." line="6" column="50" />
         <mark key="^" line="6" column="50" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/CustomerProcessCreateMatBom.java" timestamp="1540927649327">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/CustomerProcessCreateMatBom.java" timestamp="1540929644897">
         <mark key="[" line="141" column="0" />
         <mark key="]" line="141" column="0" />
         <mark key="^" line="93" column="61" />
@@ -191,11 +192,11 @@
       <jump line="521" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBQbG1NYXRlcmlhbCBwbG1NYXRlcmlhbCA9IGdldEhlYWRlck1hdGVyaWFsKGRhdGFPYmplY3QsIGUpOwogICAgICAgIENvbGxlY3Rpb248UGxtTWF0ZXJpYWw+IHBsbU1hdGVyaWFscyA9IGdldENoaWxkcmVuQ29tcG9uZW50cyhkYXRhT2JqZWN0LCBlKTsK</text>
+      <register name="&quot;" type="4">
+        <text>type1;type2</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>type1;type2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJ0SW5mb1w+</text>
