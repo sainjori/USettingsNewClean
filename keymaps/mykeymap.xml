@@ -73,6 +73,9 @@
     <keyboard-shortcut first-keystroke="alt slash" />
     <keyboard-shortcut first-keystroke="alt #10000c4" />
   </action>
+  <action id="Hotswap">
+    <keyboard-shortcut first-keystroke="alt comma" />
+  </action>
   <action id="InsertLiveTemplate" />
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="shift alt l" />
