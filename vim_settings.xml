@@ -3,7 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/proc/mat/ProcessMatBomMaintain.java" timestamp="1540990882643" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/proc/mat/ProcessMatBomMaintain.java" timestamp="1540993749923">
+        <mark key="'" line="346" column="62" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/util/Trace.java" timestamp="1540552846620">
         <mark key="'" line="287" column="1" />
       </file>
@@ -30,6 +32,9 @@
         <mark key="." line="80" column="105" />
         <mark key="^" line="80" column="105" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/omf/OmfMatBomChange.java" timestamp="1540994107747">
+        <mark key="'" line="80" column="40" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1540932163053">
         <mark key="'" line="291" column="0" />
       </file>
@@ -44,6 +49,13 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/BrowserHelper.java" timestamp="1540383425697">
         <mark key="'" line="661" column="40" />
+      </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/menu.guidef" timestamp="1540994143520">
+        <mark key="'" line="1562" column="65" />
+        <mark key="[" line="102" column="46" />
+        <mark key="]" line="102" column="59" />
+        <mark key="." line="102" column="59" />
+        <mark key="^" line="102" column="59" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/gfx/GxIntelliTextField.java" timestamp="1540838502520" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/default.txt" timestamp="1540930477338">
@@ -173,8 +185,12 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.11.0/addons-5.1.11.0-sources.jar!/plm/modules/ruleeditor/bomfile/EplBomXmlParser.java" timestamp="1540817789725" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/utils/Aefefe/Eventfff.java" timestamp="1540897288156" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/proc/mat/ProcessMatBomChange.java" timestamp="1540994379721" />
       <file name="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/System.java" timestamp="1540484761167">
         <mark key="'" line="632" column="20" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomChange.java" timestamp="1540994259172">
+        <mark key="'" line="636" column="8" />
       </file>
       <file name="/fragment.java" timestamp="1540991385981">
         <mark key="[" line="0" column="0" />
@@ -185,11 +201,6 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/gfx/GxComboBox.java" timestamp="1540892188390" />
     </filemarks>
     <jumps>
-      <jump line="396" column="25" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/StandardBrowsePanel.java" />
-      <jump line="397" column="13" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/StandardBrowsePanel.java" />
-      <jump line="411" column="28" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/StandardBrowsePanel.java" />
-      <jump line="418" column="27" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/StandardBrowsePanel.java" />
-      <jump line="507" column="64" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/StandardBrowsePanel.java" />
       <jump line="518" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/StandardBrowsePanel.java" />
       <jump line="522" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/StandardBrowsePanel.java" />
       <jump line="529" column="62" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/StandardBrowsePanel.java" />
@@ -285,19 +296,24 @@
       <jump line="218" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/modules/fa/FAUtils.java" />
       <jump line="274" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/modules/fa/FAUtils.java" />
       <jump line="186" column="24" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/modules/fa/FAUtils.java" />
+      <jump line="346" column="62" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/proc/mat/ProcessMatBomMaintain.java" />
+      <jump line="636" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomChange.java" />
+      <jump line="80" column="40" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/omf/OmfMatBomChange.java" />
+      <jump line="17" column="42" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/menu.guidef" />
+      <jump line="1561" column="65" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/menu.guidef" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>show.admin.menu</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>show.admin.menu</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbG1NYXRCb21MaW5rXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBQbG1Qcm9jZXNzVmVhRG9jdW1lbnRDcmVhdGVNYXRlcmlhbEJvbVNpbmdsZS50aGlzLnN1Y2Nlc3MgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gZm5jLnNob3cuYWRtaW4ubWVudQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
