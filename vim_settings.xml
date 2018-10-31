@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/proc/mat/ProcessMatBomMaintain.java" timestamp="1540999125190">
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/proc/mat/ProcessMatBomMaintain.java" timestamp="1541002457656">
         <mark key="'" line="105" column="39" />
         <mark key="[" line="292" column="40" />
         <mark key="]" line="292" column="39" />
@@ -63,9 +63,9 @@
         <mark key="^" line="102" column="59" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/gfx/GxIntelliTextField.java" timestamp="1540838502520" />
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/default.txt" timestamp="1540930477338">
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/default.txt" timestamp="1541003075036">
         <mark key="'" line="2483" column="0" />
-        <mark key="[" line="2537" column="34" />
+        <mark key="[" line="896" column="27" />
         <mark key="]" line="2537" column="35" />
         <mark key="." line="2537" column="35" />
         <mark key="^" line="2537" column="35" />
@@ -184,7 +184,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomChange.java" timestamp="1540996866949">
         <mark key="'" line="636" column="8" />
       </file>
-      <file name="/fragment.java" timestamp="1541000420178">
+      <file name="/fragment.java" timestamp="1541002465508">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="32" />
