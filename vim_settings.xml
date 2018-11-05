@@ -22,7 +22,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/pipe/Pipe.java" timestamp="1540380202602">
         <mark key="'" line="94" column="21" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/utils/PlmBomUtils.java" timestamp="1541004635235">
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/utils/PlmBomUtils.java" timestamp="1541429167485">
         <mark key="'" line="712" column="8" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/WinNTFileSystem.java" timestamp="1540298094195">
@@ -88,19 +88,19 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/util/Dialogbox.java" timestamp="1540559134287">
         <mark key="'" line="245" column="38" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/omf/OmfParaSolidFromWorkItemListObjectSaveAs.java" timestamp="1541426466764" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/omf/OmfParaSolidFromWorkItemListObjectSaveAs.java" timestamp="1541429423890" />
       <file name="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Runtime.java" timestamp="1540473268034">
         <mark key="'" line="313" column="46" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/tools/src/main/java/com/dscsag/comm/type/socket/CommSocketServerBuilder.java" timestamp="1540478008015">
         <mark key="'" line="105" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" timestamp="1541426821972">
-        <mark key="'" line="172" column="31" />
-        <mark key="[" line="100" column="61" />
-        <mark key="]" line="101" column="42" />
-        <mark key="." line="101" column="42" />
-        <mark key="^" line="101" column="42" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" timestamp="1541429720441">
+        <mark key="'" line="100" column="6" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
+        <mark key="^" line="110" column="34" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentChangeAttributes.java" timestamp="1540817907339">
         <mark key="'" line="222" column="8" />
@@ -163,7 +163,7 @@
       <file name="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/System.java" timestamp="1540484761167">
         <mark key="'" line="632" column="20" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomChange.java" timestamp="1541427340707">
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomChange.java" timestamp="1541429082900">
         <mark key="'" line="636" column="8" />
       </file>
       <file name="/fragment.java" timestamp="1541414552950">
@@ -176,8 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="221" column="24" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/browser/PsProjectBrowsePanel.java" />
-      <jump line="533" column="41" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="214" column="31" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/browser/PsProjectBrowsePanel.java" />
       <jump line="94" column="21" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/pipe/Pipe.java" />
       <jump line="196" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/browser/PsProjectBrowsePanel.java" />
@@ -276,46 +274,48 @@
       <jump line="601" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/ff.java" />
       <jump line="622" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/ff.java" />
       <jump line="556" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/dadi/YpsomedDadiExportBefore.java" />
+      <jump line="690" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
+      <jump line="100" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGIuaXNPa1ByZXNzZWQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>brdoc</text>
+        <text>getBomUsage</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub25jYWRfcG9zXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgYm9tVXNhZ2UgPSAoU3RyaW5nKSBzdHJpbmdNYXAuZ2V0KCJCT01fVVNBR0UiKTsK</text>
+        <text encoding="base64">ICAgICAgcHJwID0gYWRkT2JyUHJvcGVydHkobmV3IE9iclByb3BlcnR5KCJNQVRfVVNBR0UiLCBEaWMuZ2V0KCJwbG0uaW1wb3J0LjAwMzQiKSwgZ2V0Qm9tVXNhZ2UoKSwgdHJ1ZSwgZmFsc2UpKTsKICAgICAgcHJwLnNldFdpZHRoKDUpOwogICAgICBwcnAuc2V0RWRpdExlbmd0aCg1KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGIuaXNPa1ByZXNzZWQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAKICAgIAoK</text>
+        <text encoding="base64">ICAgICAgICB0Yi5nZXNlbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIE9wdGlvbmFsLmVtcHR5KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGIuCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFRhYmxlU2VsZWN0aW9uRGlhbG9nIHRiID0gbmV3IFRhYmxlU2VsZWN0aW9uRGlhbG9nPD4oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgcHJwLmFkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBEZWZhdWx0QnJvd3NlT2JqZWN0IGRlZmF1bHRCcm93c2VPYmplY3QgPSBuZXcgRGVmYXVsdEJyb3dzZU9iamVjdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBuZXcgUGxtUHJvY2Vzc0NhZE1hdGVyaWFsQm9tQ2hhbmdlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbWF0ZXJpYWwgPSAoU3RyaW5nKSBzdHJpbmdNYXAuZ2V0KCJCT01fVVNBR0UiKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
     </registers>
     <search>
