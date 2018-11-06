@@ -39,7 +39,7 @@
         <mark key="'" line="80" column="40" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/cad/PlmProcessCadMaterialBomChange.java" timestamp="1541494875015" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1540932163053">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1541510419916">
         <mark key="'" line="291" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateAttributes.java" timestamp="1540811739211">
@@ -106,12 +106,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/tools/src/main/java/com/dscsag/comm/type/socket/CommSocketServerBuilder.java" timestamp="1540478008015">
         <mark key="'" line="105" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" timestamp="1541508851331">
-        <mark key="'" line="490" column="35" />
-        <mark key="[" line="106" column="6" />
-        <mark key="]" line="106" column="6" />
-        <mark key="." line="106" column="6" />
-        <mark key="^" line="121" column="13" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" timestamp="1541511028818">
+        <mark key="'" line="746" column="4" />
+        <mark key="[" line="296" column="5" />
+        <mark key="]" line="298" column="0" />
+        <mark key="." line="298" column="0" />
+        <mark key="^" line="298" column="5" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentChangeAttributes.java" timestamp="1540817907339">
         <mark key="'" line="222" column="8" />
@@ -153,6 +153,11 @@
       <file name="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/FlowLayout.java" timestamp="1540840803762">
         <mark key="'" line="202" column="24" />
       </file>
+      <file name="/Dummy.txt" timestamp="1541510802967">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" timestamp="1540900675284">
         <mark key="'" line="1179" column="16" />
       </file>
@@ -191,7 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="313" column="46" filename="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Runtime.java" />
       <jump line="623" column="30" filename="C:/Program Files/Java/jdk1.8.0_181/src.zip!/javax/swing/JOptionPane.java" />
       <jump line="223" column="37" filename="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/nio/channels/Selector.java" />
       <jump line="105" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/tools/src/main/java/com/dscsag/comm/type/socket/CommSocketServerBuilder.java" />
@@ -291,13 +295,14 @@
       <jump line="473" column="35" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
       <jump line="383" column="28" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
       <jump line="127" column="2" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
+      <jump line="741" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>use Utils class to selecte correct mat bom. create plmbomheader with util class. use bapi with gui to change the bom</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTT1JUX1NUUklOR1w+</text>
@@ -306,31 +311,31 @@
         <text encoding="base64">ICogQGF1dGhvciBpZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgUGxtTWF0ZXJpYWwgaGVhZGVyTWF0ZXJpYWwgPSBkYXRhT2JqZWN0LmdldEhlYWRlck1hdGVyaWFsKCk7CiAgICAgIGlmIChoZWFkZXJNYXRlcmlhbCA9PSBudWxsKQogICAgICAgIHJldHVybiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1hdEJvbUhlYWRlci5zZXRQbG1NYXRCb21MaW5rKHBsbU1hdEJvbUxpbmspOwo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFBsbU1hdEJvbUxpbmsgcGxtTWF0Qm9tTGluayA9IEZBVXRpbHMuZ2V0SW5zdCgpLmdldE1hdEJvbUxpbmsoKTsK</text>
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbWF0Qm9tSXRlbS5zZXRDYWRQb3NpdGlvbihmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gICAgICBtYXRCb21IZWFkZXIuc2V0Qm9tU3RhdHVzKGJvbUhlYWRlclN0YXR1cyk7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">RGF0YU9iamVjdCgpCiAgICB7CgogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gICAgICBTdHJpbmcgYm9tSGVhZGVyU3RhdHVzID0gUHJlZmVyZW5jZXMuc3RyaW5nVmFsdWUoImN1c3RvbWVyLnRvb2xib20uaGVhZGVyLnN0YXR1cyIsICIxMCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFBsbU1hdGVyaWFsIG5ld0hlYWRlciA9IGRhdGFPYmplY3QuZ2V0SGVhZGVyTWF0ZXJpYWwoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIENvbGxlY3Rpb248UGxtQm9tSXRlbT4gcGxtQm9tSXRlbXMgPSBwbG1NYXRCb21IZWFkZXIuZ2V0UGxtQm9tSXRlbXMoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
