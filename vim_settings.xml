@@ -28,12 +28,13 @@
       <file name="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/WinNTFileSystem.java" timestamp="1540298094195">
         <mark key="'" line="293" column="38" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" timestamp="1541496402470">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" timestamp="1541513457338">
         <mark key="c" line="211" column="73" />
-        <mark key="'" line="633" column="4" />
-        <mark key="[" line="621" column="0" />
-        <mark key="]" line="621" column="0" />
-        <mark key="." line="621" column="0" />
+        <mark key="'" line="79" column="37" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+        <mark key="^" line="218" column="25" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/omf/OmfMatBomChange.java" timestamp="1540994107747">
         <mark key="'" line="80" column="40" />
@@ -54,7 +55,7 @@
       <file name="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Class.java" timestamp="1540566489104">
         <mark key="'" line="660" column="76" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/proc/mat/ProcessMatBomCreate.java" timestamp="1541414034795" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/proc/mat/ProcessMatBomCreate.java" timestamp="1541513564466" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/BrowserHelper.java" timestamp="1540383425697">
         <mark key="'" line="661" column="40" />
       </file>
@@ -106,12 +107,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/tools/src/main/java/com/dscsag/comm/type/socket/CommSocketServerBuilder.java" timestamp="1540478008015">
         <mark key="'" line="105" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" timestamp="1541511028818">
-        <mark key="'" line="746" column="4" />
-        <mark key="[" line="296" column="5" />
-        <mark key="]" line="298" column="0" />
-        <mark key="." line="298" column="0" />
-        <mark key="^" line="298" column="5" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" timestamp="1541512755411">
+        <mark key="'" line="291" column="25" />
+        <mark key="[" line="141" column="17" />
+        <mark key="]" line="141" column="25" />
+        <mark key="." line="141" column="25" />
+        <mark key="^" line="141" column="25" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentChangeAttributes.java" timestamp="1540817907339">
         <mark key="'" line="222" column="8" />
@@ -143,6 +144,9 @@
       <file name="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/EventDispatchThread.java" timestamp="1540298420843">
         <mark key="'" line="91" column="38" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/plm/MatNoConverter.java" timestamp="1541511811061">
+        <mark key="'" line="67" column="39" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/CustomerProcessCreateMatBom.java" timestamp="1541496241511">
         <mark key="'" line="69" column="17" />
         <mark key="[" line="57" column="11" />
@@ -153,10 +157,10 @@
       <file name="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/FlowLayout.java" timestamp="1540840803762">
         <mark key="'" line="202" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541510802967">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+      <file name="/Dummy.txt" timestamp="1541513118572">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" timestamp="1540900675284">
         <mark key="'" line="1179" column="16" />
@@ -196,11 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="623" column="30" filename="C:/Program Files/Java/jdk1.8.0_181/src.zip!/javax/swing/JOptionPane.java" />
-      <jump line="223" column="37" filename="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/nio/channels/Selector.java" />
-      <jump line="105" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/tools/src/main/java/com/dscsag/comm/type/socket/CommSocketServerBuilder.java" />
-      <jump line="1170" column="35" filename="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/nio/file/Files.java" />
-      <jump line="632" column="20" filename="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/System.java" />
       <jump line="518" column="5" filename="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ServiceLoader.java" />
       <jump line="343" column="30" filename="$MAVEN_REPOSITORY$/org/apache/felix/org.apache.felix.framework/5.4.0/org.apache.felix.framework-5.4.0-sources.jar!/org/apache/felix/framework/Felix.java" />
       <jump line="225" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/plm/plugins/BundleManager.java" />
@@ -296,13 +295,18 @@
       <jump line="383" column="28" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
       <jump line="127" column="2" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
       <jump line="741" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
+      <jump line="440" column="64" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/plm/MatNoConverter.java" />
+      <jump line="67" column="39" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/plm/MatNoConverter.java" />
+      <jump line="283" column="25" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
+      <jump line="423" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
+      <jump line="79" column="37" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>use Utils class to selecte correct mat bom. create plmbomheader with util class. use bapi with gui to change the bom</text>
+        <text>mat number with zeros or plain</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTT1JUX1NUUklOR1w+</text>
@@ -311,31 +315,31 @@
         <text encoding="base64">ICogQGF1dGhvciBpZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgUGxtTWF0ZXJpYWwgaGVhZGVyTWF0ZXJpYWwgPSBkYXRhT2JqZWN0LmdldEhlYWRlck1hdGVyaWFsKCk7CiAgICAgIGlmIChoZWFkZXJNYXRlcmlhbCA9PSBudWxsKQogICAgICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">RGF0YU9iamVjdCgpCiAgICB7CgogICAgfQo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBoZWFkZXJNYXRlcmlhbCA9IHBsbU1hdGVyaWFsOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgUGxtTWF0ZXJpYWwgcGxtTWF0ZXJpYWwgPSBwbG1BY2Nlc3MubWF0ZXJpYWxOZXcoZ2V0TWF0ZXJpYWxOdW1iZXIoKSk7CiAgICAgIFBsbU1hdGVyaWFsQ29udGFpbmVyIHBsbU1hdGVyaWFscyA9IG5ldyBQbG1NYXRlcmlhbENvbnRhaW5lcigpOwogICAgICBwbG1NYXRlcmlhbHMuYWRkTWF0ZXJpYWwocGxtTWF0ZXJpYWwpOwogICAgICBoZWFkZXJNYXRlcmlhbCA9IHBsbU1hdGVyaWFsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIFN0cmluZ1Rvb2wuc2V0TGVhZGluZyhtYXRlcmlhbE5vLCAnMCcsIDE4KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
     </registers>
     <search>
