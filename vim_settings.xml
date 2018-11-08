@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.7.1/customize/config/menu.guidef" timestamp="1541673757948">
+        <mark key="[" line="104" column="64" />
+        <mark key="]" line="105" column="65" />
+        <mark key="." line="105" column="65" />
+        <mark key="^" line="105" column="65" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/ff.java" timestamp="1541424865696">
         <mark key="'" line="622" column="0" />
       </file>
@@ -31,6 +37,12 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/omf/OmfMatBomChange.java" timestamp="1540994107747">
         <mark key="'" line="80" column="40" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberChangeNamespaceDoc.java" timestamp="1541673914212">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+        <mark key="^" line="10" column="3" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.7.1/basis/config/system-default.txt" timestamp="1541596186020">
         <mark key="'" line="22" column="0" />
@@ -145,13 +157,6 @@
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_181/src.zip!/javax/swing/DefaultComboBoxModel.java" timestamp="1541521552265">
         <mark key="'" line="108" column="35" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/CustomerProcessCreateMatBom.java" timestamp="1541496241511">
-        <mark key="'" line="69" column="17" />
-        <mark key="[" line="57" column="11" />
-        <mark key="]" line="57" column="13" />
-        <mark key="." line="57" column="13" />
-        <mark key="^" line="57" column="13" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.11.0/addons-5.1.11.0-sources.jar!/plm/proc/cad/PlmProcessCadSavePartslist.java" timestamp="1541514095262">
         <mark key="'" line="267" column="12" />
@@ -294,44 +299,44 @@
       <jump line="544" column="38" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>implement dialog remember selection preferences</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwcm90ZWN0ZWQgdm9pZCBfZXhlY3V0ZSgpIHRocm93cyBEZWZhdWx0TG9nRXhjZXB0aW9uCiAgewogICAgU3lzdGVtLm91dC5wcmludGxuKCJ0ZXN0Iik7CiAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>implement dialog remember selection preferences</text>
+        <text>extends PLMProcess</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgUHJlZmVyZW5jZXMuc2V0VXNlclZhbHVlKCJ5cHNvbWVkLmNyZWF0ZS5ib20ucGxhbnQiLCBwbGFudC5nZXRJdGVtKCkpOwo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigidGVzdCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdHlwZUNCCg==</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwcm90ZWN0ZWQgdm9pZCBfZXhlY3V0ZSgpIHRocm93cyBEZWZhdWx0TG9nRXhjZXB0aW9uCiAgewogICAgU3lzdGVtLm91dC5wcmludGxuKCJ0ZXN0Iik7CiAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgUHJlZk9iamVjdCBwcmVmVHlwZSA9IFByZWZlcmVuY2VzLmdldFByZWZPYmplY3QoTWF0Qm9tQ3JlYXRlT3B0aW9uc0V2ZW50LllQU09NRURfQ1JFQVRFX0JPTV9UWVBFKTsKICAgICAgaWYgKHByZWZUeXBlICE9IG51bGwpCiAgICAgIHsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGNvbWJvVHlwZUxpc3QuZ2V0U2l6ZSgpOyBpKyspCiAgICAgICAgewogICAgICAgICAgQ29tYm9PcHRpb24gZWxlbWVudEF0ID0gY29tYm9UeXBlTGlzdC5nZXRFbGVtZW50QXQoaSk7CiAgICAgICAgICBpZiAoZWxlbWVudEF0LmdldEl0ZW0oKS5lcXVhbHNJZ25vcmVDYXNlKHByZWZUeXBlLnN0cmluZ1ZhbHVlKCkpKQogICAgICAgICAgICB0eXBlQ0Iuc2V0U2VsZWN0ZWRJdGVtKGVsZW1lbnRBdCk7CiAgICAgICAgfQogICAgICB9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdHlwZUNCCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgUHJlZk9iamVjdCBwcmVmVHlwZSA9IFByZWZlcmVuY2VzLmdldFByZWZPYmplY3QoTWF0Qm9tQ3JlYXRlT3B0aW9uc0V2ZW50LllQU09NRURfQ1JFQVRFX0JPTV9UWVBFKTsKICAgICAgaWYgKHByZWZUeXBlICE9IG51bGwpCiAgICAgIHsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGNvbWJvVHlwZUxpc3QuZ2V0U2l6ZSgpOyBpKyspCiAgICAgICAgewogICAgICAgICAgQ29tYm9PcHRpb24gZWxlbWVudEF0ID0gY29tYm9UeXBlTGlzdC5nZXRFbGVtZW50QXQoaSk7CiAgICAgICAgICBpZiAoZWxlbWVudEF0LmdldEl0ZW0oKS5lcXVhbHNJZ25vcmVDYXNlKHByZWZUeXBlLnN0cmluZ1ZhbHVlKCkpKQogICAgICAgICAgICB0eXBlQ0Iuc2V0U2VsZWN0ZWRJdGVtKGVsZW1lbnRBdCk7CiAgICAgICAgfQogICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBjb21ib0JveE9wdGlvbnNXaXRoUHJlZi5nZXRTaXplKCk7IGkrKykKICAgICAgewogICAgICAgIENvbWJvT3B0aW9uIGVsZW1lbnRBdCA9IGNvbWJvQm94T3B0aW9uc1dpdGhQcmVmLmdldEVsZW1lbnRBdChpKTsKICAgICAgICBpZiAoZWxlbWVudEF0LmdldEl0ZW0oKS5lcXVhbHNJZ25vcmVDYXNlKHByZWZPYmplY3QuZ2V0VmFsdWVBdCgwKSkpCiAgICAgICAgICB1c2FnZUNCLnNldFNlbGVjdGVkSXRlbShlbGVtZW50QXQpOwogICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29tYm9Cb3hPcHRpb25zV2l0aFByZWYuaQo=</text>
+        <text encoding="base64">ICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBjb21ib0JveE9wdGlvbnNXaXRoUHJlZi5nZXRTaXplKCk7IGkrKykKICAgICAgewogICAgICAgIENvbWJvT3B0aW9uIGVsZW1lbnRBdCA9IGNvbWJvQm94T3B0aW9uc1dpdGhQcmVmLmdldEVsZW1lbnRBdChpKTsKICAgICAgICBpZiAoZWxlbWVudEF0LmdldEl0ZW0oKS5lcXVhbHNJZ25vcmVDYXNlKHByZWZPYmplY3QuZ2V0VmFsdWVBdCgwKSkpCiAgICAgICAgICB1c2FnZUNCLnNldFNlbGVjdGVkSXRlbShlbGVtZW50QXQpOwogICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdXNhZ2VDQi5zZXRzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgUHJlZmVyZW5jZXMuc2V0VXNlclZhbHVlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29tYm9Cb3hPcHRpb25zV2l0aFByZWYuaQo=</text>
       </register>
     </registers>
     <search>
