@@ -27,11 +27,10 @@
       <file name="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/WinNTFileSystem.java" timestamp="1540298094195">
         <mark key="'" line="293" column="38" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" timestamp="1541777037740">
-        <mark key="[" line="312" column="63" />
-        <mark key="]" line="312" column="69" />
-        <mark key="." line="312" column="69" />
-        <mark key="^" line="312" column="69" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" timestamp="1541779285252">
+        <mark key="[" line="291" column="0" />
+        <mark key="]" line="291" column="0" />
+        <mark key="." line="291" column="47" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/omf/OmfMatBomChange.java" timestamp="1540994107747">
         <mark key="'" line="80" column="40" />
@@ -166,7 +165,7 @@
       <file name="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/FlowLayout.java" timestamp="1540840803762">
         <mark key="'" line="202" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541777257016">
+      <file name="/Dummy.txt" timestamp="1541779739915">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" timestamp="1540900675284">
@@ -299,58 +298,44 @@
       <jump line="241" column="63" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>opiton</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>opiton</text>
+        <text>object</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wb21lbnRzTGlzdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRpYWxvZ2JveC5zZXRCdXR0b25UZXh0KERpYy5nZXQoIlNZU1RFTS5ULkJUTl9DT05UIiwgIkNvbnRpbnVlIiksIHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaGFzQ29udGVudChjb250T2JqZWN0Lm1hdGVyaWFsTm8pKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgU3RyaW5nIHRleHQgPSBEaWMuZ2V0KCJ5cHNvbWVkLmVycm9yLm1lc3NhZ2UubWlzc2luZy5tYXRlcmlhbC5wYXJ0Lm51bWJlciIsIG1lc3NhZ2UpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICArICJcbiBCaWxsIG9mIE1hdGVyaWFsIGlzIGluY29tcGxldGUuIgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNob3dFcnJvckNoaWxkTWF0SW52YWxpZChjb250T2JqZWN0KTsKICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGNvbnRpbnVlV2l0aCA9IHNob3dFcnJvckNoaWxkQ29udGludWUoY29udE9iamVjdCk7CiAgICAgICAgaWYgKCFjb250aW51ZVdpdGgpCiAgICAgICAgICBUcmFjZS5wcmludGxuKDAsICI+Qk9NOiBNaXNzaW5nIGNoaWxkIG1hdGVyaWFsIG51bWJlci4gUHJvY2VzcyBjcmVhdGUgTWF0IEJvbSBjYW5jZWxsZWQuIik7CiAgICAgICAgZGF0YU9iamVjdC5pZ25vcmVFbXB0eUNoaWxkcmVuID0gY29udGludWVXaXRoOwogICAgICAgIHJldHVybiBjb250aW51ZVdpdGg7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>private void showErrorChildMat(DataObject contObject)
-  {
-    String message;
-    if (hasContent(contObject.materialNo))
-      message = String.format(&quot;DMU Component \&quot;%s\&quot; does not have valid material number.&quot;
-          + &quot;\n Creating bill of material will be cancelled.&quot;, contObject.dmuItemName);
-    else
-      message = String.format(&quot;DMU Component \&quot;%s\&quot; does not have a material number. &quot;
-          + &quot;\n Bill of Material is incomplete.&quot;
-          + &quot;\n Creating bill of material will be cancelled.&quot;, contObject.dmuItemName);
-    String text = Dic.get(&quot;ypsomed.error.message.missing.material.part.number&quot;, message);
-    Dialogbox dialogbox = new Dialogbox(PlmSessionManager.getInst().getObjectManagerGui(), Dialogbox.ERROR, text);
-    dialogbox.setIcon(Dialogbox.ICON_STOP);
-    dialogbox.execute();
-  }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBlbHNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlCiAgICAgICAgewogICAgICAgICAgYm9vbGVhbiBjb250aW51ZVdpdGggPSBzaG93RXJyb3JDaGlsZENvbnRpbnVlKGNvbnRPYmplY3QpOwogICAgICAgICAgaWYgKCFjb250aW51ZVdpdGgpCiAgICAgICAgICAgIFRyYWNlLnByaW50bG4oMCwgIj5CT006IE1pc3NpbmcgY2hpbGQgbWF0ZXJpYWwgbnVtYmVyLiBQcm9jZXNzIGNyZWF0ZSBNYXQgQm9tIGNhbmNlbGxlZC4iKTsKICAgICAgICAgIGRhdGFPYmplY3QuaWdub3JlRW1wdHlDaGlsZHJlbiA9IGNvbnRpbnVlV2l0aDsKICAgICAgICAgIHJldHVybiBjb250aW51ZVdpdGg7CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgQXJyYXlMaXN0PE9iamVjdD4gb2JqZWN0cyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+        <text encoding="base64">Ly8gICAgU3RyaW5nIHRleHQgPSBEaWMuZ2V0KCJ5cHNvbWVkLmVycm9yLm1lc3NhZ2UubWlzc2luZy5tYXRlcmlhbC5wYXJ0Lm51bWJlciIsIG1lc3NhZ2UpOwo=</text>
       </register>
     </registers>
     <search>
