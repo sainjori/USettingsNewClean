@@ -4,11 +4,6 @@
     <globalmarks />
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/proc/doc/clone/gfx/DocCloneActionListener.java" timestamp="1542126401218" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/utils/PlmBomUtils.java" timestamp="1542114042953">
-        <mark key="'" line="712" column="8" />
-        <mark key="[" line="969" column="0" />
-        <mark key="]" line="969" column="112" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" timestamp="1542120288786">
         <mark key="[" line="291" column="0" />
         <mark key="]" line="291" column="0" />
@@ -30,6 +25,7 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentCloneStart.java" timestamp="1542129191079" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" timestamp="1542115377110">
         <mark key="'" line="103" column="91" />
         <mark key="[" line="150" column="2" />
@@ -47,7 +43,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1542126192498" />
-      <file name="/fragment.java" timestamp="1542114334370">
+      <file name="/fragment.java" timestamp="1542128602829">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
