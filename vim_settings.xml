@@ -27,11 +27,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1542135670675">
-        <mark key="[" line="596" column="0" />
-        <mark key="]" line="596" column="0" />
-        <mark key="^" line="597" column="52" />
-        <mark key="." line="596" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1542138259489">
+        <mark key="[" line="523" column="20" />
+        <mark key="]" line="523" column="30" />
+        <mark key="^" line="523" column="30" />
+        <mark key="." line="523" column="30" />
       </file>
       <file name="/fragment.java" timestamp="1542128602829">
         <mark key="[" line="0" column="0" />
@@ -142,11 +142,11 @@
       <jump line="213" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>downLoadDocument</text>
       </register>
       <register name="-" type="4">
-        <text>nonMasters</text>
+        <text>downLoadDocument</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YWJsZVNlbGVjdGlvbkRpYWxvZ1w+</text>
