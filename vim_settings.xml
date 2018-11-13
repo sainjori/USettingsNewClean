@@ -21,7 +21,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/pipe/Pipe.java" timestamp="1540380202602">
         <mark key="'" line="94" column="21" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/utils/PlmBomUtils.java" timestamp="1541790551518">
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/utils/PlmBomUtils.java" timestamp="1542106959503">
         <mark key="'" line="712" column="8" />
         <mark key="[" line="969" column="0" />
         <mark key="]" line="969" column="112" />
@@ -117,12 +117,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/tools/src/main/java/com/dscsag/comm/type/socket/CommSocketServerBuilder.java" timestamp="1540478008015">
         <mark key="'" line="105" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" timestamp="1542102757756">
-        <mark key="'" line="248" column="63" />
-        <mark key="[" line="107" column="5" />
-        <mark key="]" line="100" column="67" />
-        <mark key="." line="100" column="67" />
-        <mark key="^" line="100" column="67" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" timestamp="1542108029431">
+        <mark key="'" line="252" column="63" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="110" column="29" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentChangeAttributes.java" timestamp="1540817907339">
         <mark key="'" line="222" column="8" />
@@ -311,10 +311,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgUGxtTWF0ZXJpYWwgcGxtTWF0ZXJpYWwgPSBwbG1Cb21JdGVtcy5zdHJlYW0oKQogICAgICAgICAgLm1hcChQbG1NYXRCb21JdGVtLmNsYXNzOjpjYXN0KQogICAgICAgICAgLm1hcChQbG1NYXRCb21JdGVtOjpnZXRNYXRlcmlhbCkKICAgICAgICAgIC5maWx0ZXIoZSAtPiBlLmdldFNhcEtleSgpLmVxdWFsc0lnbm9yZUNhc2UoY29tcG9uZW50TWF0ZXJpYWwuZ2V0U2FwS2V5KCkpKQogICAgICAgICAgLmZpbmRBbnkoKS5vckVsc2UobnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgIENvbGxlY3Rpb248UGxtQm9tSXRlbT4gcGxtQm9tSXRlbXMgPSBwbG1NYXRCb21IZWFkZXIuZ2V0UGxtQm9tSXRlbXMoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>anyMatch</text>
+        <text>itemMaterial</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxib21JdGVtTWF0ZXJpYWxcPg==</text>
@@ -323,32 +323,31 @@
         <text encoding="base64">ICAgICAgUGxtQm9tSXRlbSBmaXJzdCA9IHBsbUJvbUl0ZW1zLnN0cmVhbSgpLmZpbmRGaXJzdCgpLm9yRWxzZShudWxsKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgUGxtTWF0ZXJpYWwgcGxtTWF0ZXJpYWwgPSBwbG1Cb21JdGVtcy5zdHJlYW0oKQogICAgICAgICAgLm1hcChQbG1NYXRCb21JdGVtLmNsYXNzOjpjYXN0KQogICAgICAgICAgLm1hcChQbG1NYXRCb21JdGVtOjpnZXRNYXRlcmlhbCkKICAgICAgICAgIC5maWx0ZXIoZSAtPiBlLmdldFNhcEtleSgpLmVxdWFsc0lnbm9yZUNhc2UoY29tcG9uZW50TWF0ZXJpYWwuZ2V0U2FwS2V5KCkpKQogICAgICAgICAgLmZpbmRBbnkoKS5vckVsc2UobnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgIENvbGxlY3Rpb248UGxtQm9tSXRlbT4gcGxtQm9tSXRlbXMgPSBwbG1NYXRCb21IZWFkZXIuZ2V0UGxtQm9tSXRlbXMoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgUGxtQm9tSXRlbSBmaXJzdCA9IHBsbUJvbUl0ZW1zLnN0cmVhbSgpLmZpbmRGaXJzdCgpLm9yRWxzZShudWxsKTsK</text>
+        <text encoding="base64">ICAgICAgICBwCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>findFirst()
-          .orElse(null)</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgZnJlcXVlbmN5ID0gQ29sbGVjdGlvbnMuZnJlcXVlbmN5KGNvbXBvbmVudE1hdGVyaWFscywgY29tcG9uZW50TWF0ZXJpYWwpOwogICAgICAgIFBsbU1hdEJvbUl0ZW0gbWF0Qm9tSXRlbSA9IG5ldyBQbG1NYXRCb21JdGVtKCIiLCAoZG91YmxlKSBmcmVxdWVuY3ksIEZBUHJlZmVyZW5jZXMuZ2V0QmFzZVVuaXQoKSwgU09SVF9TVFJJTkcsICIiLCAiIiwgIiIsICIiLAogICAgICAgICAgICBjb21wb25lbnRNYXRlcmlhbCk7CiAgICAgICAgcGxtTWF0Qm9tSGVhZGVyLmluc2VydE1hdEJvbUl0ZW0obWF0Qm9tSXRlbSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcGxtQm9tSXRlbXMuc3RyZWFtKCkubWFwKGUgLT4gZS5nZSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAocGwpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBQbG1Cb21JdGVtIHBsbUJvbUl0ZW0gPSBwbG1NYXRCb21IZWFkZXIuZ2V0UGxtQm9tSXRlbXMoKS5zdHJlYW0oKS5maW5kRmlyc3QoKS5vckVsc2UobnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgaW50IGZyZXF1ZW5jeSA9IENvbGxlY3Rpb25zLmZyZXF1ZW5jeShjb21wb25lbnRNYXRlcmlhbHMsIGNvbXBvbmVudE1hdGVyaWFsKTsKICAgICAgUGxtTWF0Qm9tSXRlbSBtYXRCb21JdGVtID0gbmV3IFBsbU1hdEJvbUl0ZW0oIiIsIChkb3VibGUpIGZyZXF1ZW5jeSwgRkFQcmVmZXJlbmNlcy5nZXRCYXNlVW5pdCgpLCBTT1JUX1NUUklORywgIiIsICIiLCAiIiwgIiIsCiAgICAgICAgICBjb21wb25lbnRNYXRlcmlhbCk7CiAgICAgIHBsbU1hdEJvbUhlYWRlci5pbnNlcnRNYXRCb21JdGVtKG1hdEJvbUl0ZW0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgUGxtTWF0Qm9tSGVhZGVyIHBsbU1hdEJvbUhlYWRlciA9IFBsbUJvbVV0aWxzLnJlYWRCb20oaGVhZGVyTWF0ZXJpYWwsIHBsbU1hdEJvbUxpbmssIG51bGwpOwo=</text>
+        <text encoding="base64">ICAgICAgU3RyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAocGxtQm9tSXRlbTEuZ2V0U2FwS2V5KCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgUGxtTWF0ZXJpYWwgcGxtTWF0ZXJpYWwgPSBwbG1Cb21JdGVtcy5zdHJlYW0oKQogICAgICAgICAgLm1hcChQbG1NYXRCb21JdGVtLmNsYXNzOjpjYXN0KQogICAgICAgICAgLm1hcChQbG1NYXRCb21JdGVtOjpnZXRNYXRlcmlhbCkKICAgICAgICAgIC5maWx0ZXIoZSAtPiBlLmdldFNhcEtleSgpLmVxdWFsc0lnbm9yZUNhc2UoY29tcG9uZW50TWF0ZXJpYWwuZ2V0U2FwS2V5KCkpKQogICAgICAgICAgLmZpbmRBbnkoKS5vckVsc2UobnVsbCk7Cg==</text>
       </register>
     </registers>
     <search>
