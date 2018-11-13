@@ -117,12 +117,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/tools/src/main/java/com/dscsag/comm/type/socket/CommSocketServerBuilder.java" timestamp="1540478008015">
         <mark key="'" line="105" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" timestamp="1542108029431">
-        <mark key="'" line="252" column="63" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-        <mark key="^" line="110" column="29" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" timestamp="1542109195357">
+        <mark key="'" line="253" column="63" />
+        <mark key="[" line="116" column="33" />
+        <mark key="]" line="117" column="39" />
+        <mark key="." line="117" column="39" />
+        <mark key="^" line="117" column="39" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentChangeAttributes.java" timestamp="1540817907339">
         <mark key="'" line="222" column="8" />
@@ -147,6 +147,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/util/Dialogbox.java" timestamp="1541771914492">
         <mark key="'" line="386" column="19" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmBomItem.java" timestamp="1542109186116">
+        <mark key="'" line="105" column="18" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/pst/allocation/AllocationXmlReader.java" timestamp="1540564615358">
         <mark key="'" line="206" column="0" />
@@ -208,11 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="286" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
-      <jump line="287" column="28" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
-      <jump line="290" column="37" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
-      <jump line="292" column="41" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
-      <jump line="296" column="38" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
       <jump line="298" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
       <jump line="299" column="28" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
       <jump line="302" column="40" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
@@ -308,16 +306,21 @@
       <jump line="343" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMatBomItem.java" />
       <jump line="947" column="25" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMatBomItem.java" />
       <jump line="959" column="21" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMatBomItem.java" />
+      <jump line="749" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmBomItem.java" />
+      <jump line="757" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmBomItem.java" />
+      <jump line="980" column="41" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmBomItem.java" />
+      <jump line="1148" column="43" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmBomItem.java" />
+      <jump line="105" column="18" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmBomItem.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIENvbGxlY3Rpb248UGxtQm9tSXRlbT4gcGxtQm9tSXRlbXMgPSBwbG1NYXRCb21IZWFkZXIuZ2V0UGxtQm9tSXRlbXMoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>insertMatBomItem</text>
       </register>
       <register name="-" type="4">
-        <text>itemMaterial</text>
+        <text>insertMatBomItem</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxib21JdGVtTWF0ZXJpYWxcPg==</text>
+        <text encoding="base64">XDxjYWRGbGFnXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgUGxtQm9tSXRlbSBmaXJzdCA9IHBsbUJvbUl0ZW1zLnN0cmVhbSgpLmZpbmRGaXJzdCgpLm9yRWxzZShudWxsKTsK</text>
@@ -351,15 +354,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxib21JdGVtTWF0ZXJpYWxcPg==</last-search>
+      <last-search encoding="base64">XDxjYWRGbGFnXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxib21JdGVtTWF0ZXJpYWxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjYWRGbGFnXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXJlbnRcPg==</entry>
         <entry encoding="base64">XDxHeExhYmVsXD4=</entry>
         <entry encoding="base64">XDxwYXJ0SW5mb1w+</entry>
         <entry encoding="base64">XDxCT01fQUxURVJOQVRJVkVcPg==</entry>
@@ -379,6 +381,7 @@
         <entry encoding="base64">XDxib21BbHJlYWR5RXhpc3RzXD4=</entry>
         <entry encoding="base64">XDxNQVRfU0hPUlRfVEVYVFw+</entry>
         <entry encoding="base64">XDxib21JdGVtTWF0ZXJpYWxcPg==</entry>
+        <entry encoding="base64">XDxjYWRGbGFnXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
