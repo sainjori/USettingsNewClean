@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.7.1/customize/config/menu.guidef" timestamp="1541673757948">
+        <mark key="[" line="104" column="64" />
+        <mark key="]" line="105" column="65" />
+        <mark key="." line="105" column="65" />
+        <mark key="^" line="105" column="65" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/proc/doc/clone/gfx/DocCloneActionListener.java" timestamp="1542126401218" />
       <file name="/a.dummy" timestamp="1542133076826">
         <mark key="[" line="0" column="0" />
@@ -11,6 +17,12 @@
         <mark key="[" line="291" column="0" />
         <mark key="]" line="291" column="0" />
         <mark key="." line="291" column="47" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberChangeNamespaceDoc.java" timestamp="1541679455526">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+        <mark key="^" line="10" column="3" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.9.3/basis/dictionary/de/ectr.txt" timestamp="1542126243506" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" timestamp="1542130120538" />
@@ -22,16 +34,11 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentCloneStart.java" timestamp="1542129191079" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneExtended.java" timestamp="1542126505138" />
       <file name="C:/ENTWICKLUNG/Backup/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/prm/proc/PlmProcessCadDocumentSaveAsPrm.java" timestamp="1542133303867" />
-      <file name="/Dummy.txt" timestamp="1542122336773">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1542138259489">
-        <mark key="[" line="523" column="20" />
-        <mark key="]" line="523" column="30" />
-        <mark key="^" line="523" column="30" />
-        <mark key="." line="523" column="30" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1542140876809">
+        <mark key="[" line="563" column="0" />
+        <mark key="]" line="563" column="0" />
+        <mark key="^" line="540" column="73" />
+        <mark key="." line="563" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1542128602829">
         <mark key="[" line="0" column="0" />
@@ -142,11 +149,11 @@
       <jump line="213" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>downLoadDocument</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>downLoadDocument</text>
+        <text>wfertigTeilNewNumber</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YWJsZVNlbGVjdGlvbkRpYWxvZ1w+</text>
@@ -158,28 +165,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG5vbk1hc3Rlci5pc05vbk1hc3RlcigpKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIENvbGxlY3Rpb248UGxtV2hlcmV1c2VkRG9jdW1lbnQ+IG5vbk1hc3RlcnMgPSBuY01vZGVsLmdldE5vbk1hc3RlcnMoKTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">cHJpdmF0ZSBib29sZWFuIGlzTmNNb2RlbENvbXBtZW50KFBsbURvY3VtZW50IHBsbURvY3VtZW50LCBQbG1Eb2N1bWVudCBuY01vZGVsKQogIHsKICAgIHRyeQogICAgewogICAgICBQbG1Eb2N1bWVudCBmZXJ0aWdUZWlsTmV3TnVtYmVyID0gZ2V0RmVydGlnVGVpbE5ld051bWJlcihuY01vZGVsKTsKICAgICAgaWYgKGZlcnRpZ1RlaWxOZXdOdW1iZXIgIT0gbnVsbCAmJiBmZXJ0aWdUZWlsTmV3TnVtYmVyLmdldFNhcEtleSgpLmVxdWFsc0lnbm9yZUNhc2UocGxtRG9jdW1lbnQuZ2V0U2FwS2V5KCkpKQogICAgICB7CiAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgIH0KCiAgICB9CiAgICBjYXRjaCAoRGVmYXVsdExvZ0V4Y2VwdGlvbiBlKQogICAgewogICAgICBUcmFjZS5wcmludGxuKDAsIGUpOwogICAgfQogICAgcmV0dXJuIGZhbHNlOwogIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgKChBcnJheUxpc3Q8UGxtRG9jdW1lbnQ+KSByZXN1bHQpLmFkZEFsbCgpCg==</text>
+        <text encoding="base64">ICAgIGZvciAoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5ldyAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgRGF0YUNvbnRhaW5lciBkYXRhMSA9IHByb2Nlc3NEb2NHZXROb25NYXN0ZXJzRmFzdC5nZXREYXRhKCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIFByb2Nlc3NEb2NHZXROb25NYXN0ZXJzRmFzdCBwcm9jZXNzRG9jR2V0Tm9uTWFzdGVyc0Zhc3QgPSBuZXcgUHJvY2Vzc0RvY0dldE5vbk1hc3RlcnNGYXN0KCk7Cg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAogICAgc3RydWN1dHJlLnB1dChmZXJ0aWdUZWlsTmV3TnVtYmVyLCBuZXcgSGFzaFNldDw+KCkpOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIENvbGxlY3Rpb248UGxtRG9jdW1lbnQ+IG5vbk1hc3RlcnMgPSBuY01vZGVsLmdldE5vbk1hc3RlcnMoKTsK</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHN0cnVjdXRyZS5hCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">aWYgKGlzTmNNb2RlbENvbXBtZW50KHBsbURvY3VtZW50LCBuY01vZGVsKSkKICAgIHsKICAgICAgVHJhY2UucHJpbnRsbigwLCAiQWJvcnQgZ2V0Q2hpbGRyZW5jb21wb25lbnQgYmVjYXVzZSBpdCBpcyBjb21wb25lbnQgb2YgTkNNT0RFTCIpOwogICAgICByZXR1cm4gbmV3IEFycmF5TGlzdDxDbG9uZURvY3VtZW50PihBcnJheXMuYXNMaXN0KG5ldyBDbG9uZURvY3VtZW50KHBsbURvY3VtZW50KSkpOwogICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>278</text>
