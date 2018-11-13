@@ -21,7 +21,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/pipe/Pipe.java" timestamp="1540380202602">
         <mark key="'" line="94" column="21" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/utils/PlmBomUtils.java" timestamp="1542106959503">
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/utils/PlmBomUtils.java" timestamp="1542114042953">
         <mark key="'" line="712" column="8" />
         <mark key="[" line="969" column="0" />
         <mark key="]" line="969" column="112" />
@@ -50,7 +50,7 @@
         <mark key="^" line="665" column="33" />
         <mark key="." line="665" column="33" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1542101179516">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1542114658599">
         <mark key="'" line="814" column="44" />
         <mark key="[" line="814" column="45" />
         <mark key="]" line="814" column="44" />
@@ -60,8 +60,8 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateAttributes.java" timestamp="1540811739211">
         <mark key="'" line="318" column="32" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" timestamp="1541788257292">
-        <mark key="'" line="554" column="46" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" timestamp="1542114211125">
+        <mark key="'" line="421" column="8" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_181/src.zip!/javax/swing/UIManager.java" timestamp="1540551843254">
         <mark key="'" line="173" column="21" />
@@ -117,12 +117,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/tools/src/main/java/com/dscsag/comm/type/socket/CommSocketServerBuilder.java" timestamp="1540478008015">
         <mark key="'" line="105" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" timestamp="1542113549176">
-        <mark key="'" line="252" column="63" />
-        <mark key="[" line="96" column="3" />
-        <mark key="]" line="97" column="49" />
-        <mark key="." line="97" column="49" />
-        <mark key="^" line="97" column="49" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" timestamp="1542114677934">
+        <mark key="'" line="771" column="0" />
+        <mark key="[" line="760" column="0" />
+        <mark key="]" line="760" column="0" />
+        <mark key="." line="760" column="0" />
+        <mark key="^" line="768" column="43" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentChangeAttributes.java" timestamp="1540817907339">
         <mark key="'" line="222" column="8" />
@@ -201,36 +201,16 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomChange.java" timestamp="1541494709587">
         <mark key="'" line="636" column="8" />
       </file>
-      <file name="/fragment.java" timestamp="1541790183545">
+      <file name="/fragment.java" timestamp="1542114334370">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="70" />
-        <mark key="." line="0" column="70" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/ECTRStartupTimeStatistics.java" timestamp="1540552342320">
         <mark key="'" line="126" column="2" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="298" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
-      <jump line="299" column="28" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
-      <jump line="302" column="40" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
-      <jump line="304" column="33" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
-      <jump line="312" column="30" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
-      <jump line="319" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
-      <jump line="320" column="24" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
-      <jump line="323" column="61" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
-      <jump line="331" column="43" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
-      <jump line="355" column="5" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
-      <jump line="438" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
-      <jump line="439" column="27" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
-      <jump line="451" column="46" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
-      <jump line="454" column="37" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
-      <jump line="463" column="46" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
-      <jump line="469" column="38" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
-      <jump line="482" column="47" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
-      <jump line="483" column="51" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
-      <jump line="536" column="36" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
-      <jump line="538" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
       <jump line="539" column="28" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
       <jump line="542" column="30" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
       <jump line="544" column="20" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
@@ -311,58 +291,77 @@
       <jump line="980" column="41" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmBomItem.java" />
       <jump line="1148" column="43" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmBomItem.java" />
       <jump line="105" column="18" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmBomItem.java" />
+      <jump line="113" column="52" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
+      <jump line="378" column="13" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
+      <jump line="385" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
+      <jump line="386" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
+      <jump line="391" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
+      <jump line="392" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
+      <jump line="393" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
+      <jump line="394" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
+      <jump line="395" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
+      <jump line="396" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
+      <jump line="397" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
+      <jump line="401" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
+      <jump line="402" column="48" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
+      <jump line="404" column="51" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
+      <jump line="407" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
+      <jump line="421" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
+      <jump line="147" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
+      <jump line="442" column="25" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
+      <jump line="441" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
+      <jump line="771" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>objects</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgdGFibGVTZWxlY3Rpb25EaWFsb2cudXBkYXRlRGlzcGxheSgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>objects</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYWRGbGFnXD4=</text>
+        <text encoding="base64">XDx0YWJsZVNlbGVjdGlvbkRpYWxvZ1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgUGxtQm9tSXRlbSBmaXJzdCA9IHBsbUJvbUl0ZW1zLnN0cmVhbSgpLmZpbmRGaXJzdCgpLm9yRWxzZShudWxsKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIENvbGxlY3Rpb248UGxtQm9tSXRlbT4gcGxtQm9tSXRlbXMgPSBwbG1NYXRCb21IZWFkZXIuZ2V0UGxtQm9tSXRlbXMoKTsK</text>
+        <text encoding="base64">ICAgICAgdGFibGVTZWxlY3Rpb25EaWFsb2cudXBkYXRlRGlzcGxheSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwCg==</text>
+        <text encoding="base64">ICAgICAgdGFibGVTZWxlY3Rpb25EaWFsb2cuc2V0VmlzaWJsZSh0cnVlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGFibGVTZWxlY3Rpb25EaWFsb2cuc2V0TG9jYXRpb24oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgZnJlcXVlbmN5ID0gQ29sbGVjdGlvbnMuZnJlcXVlbmN5KGNvbXBvbmVudE1hdGVyaWFscywgY29tcG9uZW50TWF0ZXJpYWwpOwogICAgICAgIFBsbU1hdEJvbUl0ZW0gbWF0Qm9tSXRlbSA9IG5ldyBQbG1NYXRCb21JdGVtKCIiLCAoZG91YmxlKSBmcmVxdWVuY3ksIEZBUHJlZmVyZW5jZXMuZ2V0QmFzZVVuaXQoKSwgU09SVF9TVFJJTkcsICIiLCAiIiwgIiIsICIiLAogICAgICAgICAgICBjb21wb25lbnRNYXRlcmlhbCk7CiAgICAgICAgcGxtTWF0Qm9tSGVhZGVyLmluc2VydE1hdEJvbUl0ZW0obWF0Qm9tSXRlbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgUGxtTWF0Qm9tTGluayBwbG1NYXRCb21MaW5rID0gUGxtQm9tVXRpbHMuc2VsZWN0Qm9tKGhlYWRlck1hdGVyaWFsKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocGwpCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaW50IGZyZXF1ZW5jeSA9IENvbGxlY3Rpb25zLmZyZXF1ZW5jeShjb21wb25lbnRNYXRlcmlhbHMsIGNvbXBvbmVudE1hdGVyaWFsKTsKICAgICAgUGxtTWF0Qm9tSXRlbSBtYXRCb21JdGVtID0gbmV3IFBsbU1hdEJvbUl0ZW0oIiIsIChkb3VibGUpIGZyZXF1ZW5jeSwgRkFQcmVmZXJlbmNlcy5nZXRCYXNlVW5pdCgpLCBTT1JUX1NUUklORywgIiIsICIiLCAiIiwgIiIsCiAgICAgICAgICBjb21wb25lbnRNYXRlcmlhbCk7CiAgICAgIHBsbU1hdEJvbUhlYWRlci5pbnNlcnRNYXRCb21JdGVtKG1hdEJvbUl0ZW0pOwo=</text>
+        <text encoding="base64">ICAgICAgbmV3IEZmZgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgU3RyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocGxtQm9tSXRlbTEuZ2V0U2FwS2V5KCkpCg==</text>
+        <text encoding="base64">ICB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgUGxtTWF0ZXJpYWwgcGxtTWF0ZXJpYWwgPSBwbG1Cb21JdGVtcy5zdHJlYW0oKQogICAgICAgICAgLm1hcChQbG1NYXRCb21JdGVtLmNsYXNzOjpjYXN0KQogICAgICAgICAgLm1hcChQbG1NYXRCb21JdGVtOjpnZXRNYXRlcmlhbCkKICAgICAgICAgIC5maWx0ZXIoZSAtPiBlLmdldFNhcEtleSgpLmVxdWFsc0lnbm9yZUNhc2UoY29tcG9uZW50TWF0ZXJpYWwuZ2V0U2FwS2V5KCkpKQogICAgICAgICAgLmZpbmRBbnkoKS5vckVsc2UobnVsbCk7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGNsYXNzIEZmZgo=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYWRGbGFnXD4=</last-search>
+      <last-search encoding="base64">XDx0YWJsZVNlbGVjdGlvbkRpYWxvZ1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYWRGbGFnXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0YWJsZVNlbGVjdGlvbkRpYWxvZ1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxHeExhYmVsXD4=</entry>
         <entry encoding="base64">XDxwYXJ0SW5mb1w+</entry>
         <entry encoding="base64">XDxCT01fQUxURVJOQVRJVkVcPg==</entry>
         <entry encoding="base64">XDxwbG1NYXRCb21MaW5rXD4=</entry>
@@ -382,6 +381,7 @@
         <entry encoding="base64">XDxNQVRfU0hPUlRfVEVYVFw+</entry>
         <entry encoding="base64">XDxib21JdGVtTWF0ZXJpYWxcPg==</entry>
         <entry encoding="base64">XDxjYWRGbGFnXD4=</entry>
+        <entry encoding="base64">XDx0YWJsZVNlbGVjdGlvbkRpYWxvZ1w+</entry>
       </history-search>
       <history-cmd />
       <history-expr />
