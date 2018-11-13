@@ -37,7 +37,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1542126192498" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1542131894101">
+        <mark key="[" line="580" column="0" />
+        <mark key="]" line="580" column="0" />
+        <mark key="^" line="581" column="48" />
+        <mark key="." line="580" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1542128602829">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -148,7 +153,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobWF0RG9jRXF1aXBCdWNrZXQuZ2V0TWF0cmlhbCgpICE9IG51bGwpCiAgICAgICAgICAgIHJldHVybjsKCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>h</text>
@@ -160,31 +165,31 @@
         <text encoding="base64">ICAgICAgICBpZiAobWF0RG9jRXF1aXBCdWNrZXQuZ2V0TWF0cmlhbCgpID09IG51bGwpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobWF0RG9jRXF1aXBCdWNrZXQuZ2V0TWF0cmlhbCgpICE9IG51bGwpCiAgICAgICAgICAgIHJldHVybjsKCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZG9jdW1lbnQgPT0gbnVsbCkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVHJhY2UucHJpbnRsbigwLCAiRG9jdW1lbnQgZm9yIERNVSBDb21wb25lbnQgWyIgKyBlbnRyeS50b1N0cmluZygpICsiXSBjb3VsZCBub3QgYmUgZm91bmQuIFNraXAgRE1VIENvbXBvbmVudCIpOwo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgbWF0ZXJpYWxObyA9IFN0cmluZ1Rvb2wuc2V0TGVhZGluZyhtYXRlcmlhbE5vLCAnMCcsIDE4KTsK</text>
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBQbG1NYXRlcmlhbCBwbG1NYXRlcmlhbCA9IHBsbUFjY2Vzcy5tYXRlcmlhbE5ldyhtYXRlcmlhbE5vKTsKCiAgICAgICAgaWYgKHBsbU1hdGVyaWFsLmV4aXN0ZW5jZUNoZWNrKCkpCiAgICAgICAgICAgIG1hdERvY0VxdWlwQnVja2V0LnNldE1hdGVyaWFsKHBsbU1hdGVyaWFsKTsK</text>
+        <text encoding="base64">ICAgIG5vbk1hc3RlcnMuZm9yRWFjaCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAobWF0RG9jRXF1aXBCdWNrZXQuZ2V0TWF0cmlhbCgpICE9IG51bGwpCiAgICAgICAgICAgIHJldHVybjsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZG9jdW1lbnQgPT0gbnVsbCkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVHJhY2UucHJpbnRsbigwLCAiRG9jdW1lbnQgZm9yIERNVSBDb21wb25lbnQgWyIgKyBlbnRyeS50b1N0cmluZygpICsgIl0gY291bGQgbm90IGJlIGZvdW5kLiBTa2lwIERNVSBDb21wb25lbnQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVHJhY2UucHJpbnRsbigwLCAiRG9jdW1lbnQgZm9yIERNVSBDb21wb25lbnQgWyIgKyBlbnRyeS50b1N0cmluZygpICsiXSBjb3VsZCBub3QgYmUgZm91bmQuIFNraXAgRE1VIENvbXBvbmVudCIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgbWF0ZXJpYWxObyA9IFN0cmluZ1Rvb2wuc2V0TGVhZGluZyhtYXRlcmlhbE5vLCAnMCcsIDE4KTsK</text>
       </register>
       <register name=":" type="4">
         <text>278</text>
