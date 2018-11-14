@@ -41,12 +41,12 @@
         <mark key="^" line="665" column="33" />
         <mark key="." line="665" column="33" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1542211553158">
-        <mark key="'" line="384" column="44" />
-        <mark key="[" line="508" column="22" />
-        <mark key="]" line="509" column="3" />
-        <mark key="^" line="509" column="3" />
-        <mark key="." line="509" column="3" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1542214515664">
+        <mark key="'" line="387" column="44" />
+        <mark key="[" line="547" column="26" />
+        <mark key="]" line="547" column="25" />
+        <mark key="." line="547" column="25" />
+        <mark key="^" line="547" column="25" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1542204066753">
         <mark key="'" line="255" column="68" />
@@ -63,7 +63,7 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentCloneStart.java" timestamp="1542210235939" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentCloneStart.java" timestamp="1542214350723" />
       <file name="/fragment.java" timestamp="1542128602829">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -180,44 +180,44 @@
       <jump line="38" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/brobj/DocumentRelation.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>plm.proc.doc.clone.CloneRecord.ASSIGNMENT_MASTER;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGVsc2UKICAgICAgcmV0ID0gbnVsbDsK</text>
       </register>
       <register name="-" type="4">
-        <text>plm.proc.doc.clone.CloneRecord.ASSIGNMENT_MASTER;</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3B5TGlua3NcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICBhY3Rpb24gPSBnZXRDbG9uZU9wdGlvbkZvclBhcmFtZXRlcigoU3RyaW5nKSBkb2N1bWVudENsb25lSW5mby5nZXQoIkFDVElPTiIpKTsK</text>
+        <text encoding="base64">ICAgICAgaWYgKG5ld0RUeXBlLmdldERuYSgpID09IERUeXBlLk5VTUJFUl9BU1NJR05NRU5UX01BU1RFUikKICAgICAgICBuZXdOdW1iZXIgPSAiQEBAQEBNQVNURVIiOwogICAgICBlbHNlCiAgICAgICAgbmV3TnVtYmVyID0gIioiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIChuZXdObUNsb25lRGF0YS5udW1iZXIgIT0gbnVsbCkKICAgICAgZG9jTnVtYmVyID0gbmV3Tm1DbG9uZURhdGEubnVtYmVyOwo=</text>
+        <text encoding="base64">ICAgIGVsc2UKICAgICAgcmV0ID0gbnVsbDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBuZXdEdHlwZUlkID0gbmV3Tm1DbG9uZURhdGEuZHR5cGVJZCA9PSBudWxsID8gdGVtcGxObS5nZXREVHlwZUlkKCkgOiBuZXdObUNsb25lRGF0YS5kdHlwZUlkOwo=</text>
+        <text encoding="base64">ICAgICAgcmV0ID0gZ2V0Q2xvbmVBY3Rpb25Gb3JDdXRvbWVyQWN0aW9uKGFjdGlvbktleSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlRG9jdW1lbnRXaXRoRGV0YWlscyA9IAo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBhY3Rpb25LZXkgPSBhY3Rpb25WYWx1ZS5nZXRLZXkoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgIEd4S2V5VmFsdWUgYWN0aW9uVmFsdWUgPSAoR3hLZXlWYWx1ZSkgcG9zaXRpb24uZ2V0T2JyUHJvcGVydHkoQnJDbG9uZVBvc2l0aW9uLkNMT05FX09QVElPTikuZ2V0VmFsdWUoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChuZXdObUNsb25lRGF0YS52ZXJzaW9uICE9IG51bGwpCiAgICAgIGRvY1ZlcnNpb24gPSBuZXdObUNsb25lRGF0YS52ZXJzaW9uOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFBsbURvY3VtZW50IG5ld05tOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBkb2NOdW1iZXI7CiAgICBpZiAobmV3RFR5cGUuZ2V0RG5hKCkgPT0gRFR5cGUuTlVNQkVSX0FTU0lHTk1FTlRfTUFTVEVSKQogICAgICBkb2NOdW1iZXIgPSAiQEBAQEBNQVNURVIiOwogICAgZWxzZQogICAgICBkb2NOdW1iZXIgPSAiKiI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbmV3TnVtYmVyID0gIioiOwo=</text>
       </register>
       <register name=":" type="4">
         <text>278</text>
