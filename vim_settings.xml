@@ -16,7 +16,10 @@
         <mark key="." line="150" column="8" />
         <mark key="^" line="150" column="8" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/clone/CloneRecord.java" timestamp="1542209421961" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/clone/CloneRecord.java" timestamp="1542211446385">
+        <mark key="[" line="52" column="42" />
+        <mark key="]" line="52" column="55" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" timestamp="1542195501883">
         <mark key="'" line="517" column="22" />
         <mark key="[" line="159" column="0" />
@@ -38,12 +41,12 @@
         <mark key="^" line="665" column="33" />
         <mark key="." line="665" column="33" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1542210625861">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1542211553158">
         <mark key="'" line="384" column="44" />
-        <mark key="[" line="494" column="0" />
-        <mark key="]" line="494" column="0" />
-        <mark key="^" line="495" column="94" />
-        <mark key="." line="494" column="0" />
+        <mark key="[" line="508" column="22" />
+        <mark key="]" line="509" column="3" />
+        <mark key="^" line="509" column="3" />
+        <mark key="." line="509" column="3" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1542204066753">
         <mark key="'" line="255" column="68" />
@@ -177,11 +180,11 @@
       <jump line="38" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/brobj/DocumentRelation.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>plm.proc.doc.clone.CloneRecord.ASSIGNMENT_MASTER;</text>
       </register>
       <register name="-" type="4">
-        <text>newDtypeId</text>
+        <text>plm.proc.doc.clone.CloneRecord.ASSIGNMENT_MASTER;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3B5TGlua3NcPg==</text>
@@ -190,31 +193,31 @@
         <text encoding="base64">ICAgICBhY3Rpb24gPSBnZXRDbG9uZU9wdGlvbkZvclBhcmFtZXRlcigoU3RyaW5nKSBkb2N1bWVudENsb25lSW5mby5nZXQoIkFDVElPTiIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChuZXdObUNsb25lRGF0YS5udW1iZXIgIT0gbnVsbCkKICAgICAgZG9jTnVtYmVyID0gbmV3Tm1DbG9uZURhdGEubnVtYmVyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBuZXdEdHlwZUlkID0gbmV3Tm1DbG9uZURhdGEuZHR5cGVJZCA9PSBudWxsID8gdGVtcGxObS5nZXREVHlwZUlkKCkgOiBuZXdObUNsb25lRGF0YS5kdHlwZUlkOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlRG9jdW1lbnRXaXRoRGV0YWlscyA9IAo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBuZXdEdHlwZUlkID0gbmV3Tm1DbG9uZURhdGEuZHR5cGVJZCA9PSBudWxsID8gdGVtcGxObS5nZXREVHlwZUlkKCkgOiBuZXdObUNsb25lRGF0YS5kdHlwZUlkOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgIHRlbXBsYXRlRG9jdW1lbnRXaXRoRGV0YWlscyA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFBsbURvY3VtZW50IG5ld05tOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFBsbURvY3VtZW50IG5ld05tOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBzID0gU3RyaW5nLnZhbHVlT2Yoc2VsZWN0ZWRPYnIuZ2V0VmFsdWUoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>278</text>
