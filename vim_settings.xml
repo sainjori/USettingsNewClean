@@ -24,6 +24,9 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" timestamp="1542114211125">
+        <mark key="'" line="421" column="8" />
+      </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.9.3/basis/dictionary/de/ectr.txt" timestamp="1542126243506" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" timestamp="1542130120538" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/utils/YpsomedVeaHelper.java" timestamp="1542118635995">
@@ -33,7 +36,13 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentCloneStart.java" timestamp="1542129191079" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneExtended.java" timestamp="1542126505138" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmBomItem.java" timestamp="1542109186116">
+        <mark key="'" line="105" column="18" />
+      </file>
       <file name="C:/ENTWICKLUNG/Backup/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/prm/proc/PlmProcessCadDocumentSaveAsPrm.java" timestamp="1542133303867" />
+      <file name="/BrDocument.java" timestamp="1542191104270">
+        <mark key="'" line="220" column="29" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1542140876809">
         <mark key="[" line="563" column="0" />
         <mark key="]" line="563" column="0" />
@@ -47,7 +56,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="557" column="37" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
       <jump line="566" column="45" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
       <jump line="570" column="35" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
       <jump line="572" column="37" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
@@ -147,6 +155,7 @@
       <jump line="249" column="27" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" />
       <jump line="70" column="69" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/utils/YpsomedVeaHelper.java" />
       <jump line="213" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" />
+      <jump line="220" column="29" filename="/BrDocument.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -156,7 +165,7 @@
         <text>wfertigTeilNewNumber</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0YWJsZVNlbGVjdGlvbkRpYWxvZ1w+</text>
+        <text encoding="base64">XDxNQVRTVEFUVVNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAobWF0RG9jRXF1aXBCdWNrZXQuZ2V0TWF0cmlhbCgpID09IG51bGwpCg==</text>
@@ -193,15 +202,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0YWJsZVNlbGVjdGlvbkRpYWxvZ1w+</last-search>
+      <last-search encoding="base64">XDxNQVRTVEFUVVNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0YWJsZVNlbGVjdGlvbkRpYWxvZ1w+</last-pattern>
+      <last-pattern encoding="base64">XDxNQVRTVEFUVVNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXJ0SW5mb1w+</entry>
         <entry encoding="base64">XDxCT01fQUxURVJOQVRJVkVcPg==</entry>
         <entry encoding="base64">XDxwbG1NYXRCb21MaW5rXD4=</entry>
         <entry encoding="base64">XDxjb3B5X25vbmNhZF9wb3NcPg==</entry>
@@ -221,6 +229,7 @@
         <entry encoding="base64">XDxib21JdGVtTWF0ZXJpYWxcPg==</entry>
         <entry encoding="base64">XDxjYWRGbGFnXD4=</entry>
         <entry encoding="base64">XDx0YWJsZVNlbGVjdGlvbkRpYWxvZ1w+</entry>
+        <entry encoding="base64">XDxNQVRTVEFUVVNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>4731</entry>
