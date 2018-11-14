@@ -6,6 +6,7 @@
       <file name="/Dummy.txt" timestamp="1542204939988">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/proc/doc/clone/CloneRecord.java" timestamp="1542218314116" />
       <file name="/a.dummy" timestamp="1542133076826">
         <mark key="[" line="0" column="0" />
       </file>
@@ -41,12 +42,12 @@
         <mark key="^" line="665" column="33" />
         <mark key="." line="665" column="33" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1542215461794">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1542218412490">
         <mark key="'" line="388" column="44" />
-        <mark key="[" line="496" column="58" />
-        <mark key="]" line="496" column="66" />
-        <mark key="." line="496" column="66" />
-        <mark key="^" line="496" column="66" />
+        <mark key="[" line="500" column="18" />
+        <mark key="]" line="500" column="17" />
+        <mark key="." line="500" column="17" />
+        <mark key="^" line="500" column="17" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1542204066753">
         <mark key="'" line="255" column="68" />
@@ -63,7 +64,7 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentCloneStart.java" timestamp="1542214350723" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentCloneStart.java" timestamp="1542216873373" />
       <file name="/fragment.java" timestamp="1542128602829">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -181,43 +182,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ncModel</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>ncModel</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3B5TGlua3NcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG5ld0RUeXBlLmdldERuYSgpID09IERUeXBlLk5VTUJFUl9BU1NJR05NRU5UX01BU1RFUikKICAgICAgICBuZXdOdW1iZXIgPSAiQEBAQEBNQVNURVIiOwogICAgICBlbHNlCiAgICAgICAgbmV3TnVtYmVyID0gIioiOwo=</text>
+        <text encoding="base64">ICAgIFRyYWNlLnByaW50bG4oMCwgIj4+Y3JlYXRlTm9uTWFzdGVyTW9kZWxOZXcgLS0tIHRlbXBsYXRlRG9jdW1lbnRXaXRoZGV0YWlscyIgKyB0ZW1wbGF0ZURvY3VtZW50V2l0aERldGFpbHMudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVsc2UKICAgICAgcmV0ID0gbnVsbDsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGVsc2UK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0ID0gZ2V0Q2xvbmVBY3Rpb25Gb3JDdXRvbWVyQWN0aW9uKGFjdGlvbktleSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBhY3Rpb25LZXkgPSBhY3Rpb25WYWx1ZS5nZXRLZXkoKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEd4S2V5VmFsdWUgYWN0aW9uVmFsdWUgPSAoR3hLZXlWYWx1ZSkgcG9zaXRpb24uZ2V0T2JyUHJvcGVydHkoQnJDbG9uZVBvc2l0aW9uLkNMT05FX09QVElPTikuZ2V0VmFsdWUoKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChuZXdObUNsb25lRGF0YS52ZXJzaW9uICE9IG51bGwpCiAgICAgIGRvY1ZlcnNpb24gPSBuZXdObUNsb25lRGF0YS52ZXJzaW9uOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIFRyYQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbigwLCAiQ2FzZSIpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgbmV3TnVtYmVyID0gZG9jdW1lbnRSZWxhdGlvbi5nZXROZXdOdW1iZXIoKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBkb2NOdW1iZXI7CiAgICBpZiAobmV3RFR5cGUuZ2V0RG5hKCkgPT0gRFR5cGUuTlVNQkVSX0FTU0lHTk1FTlRfTUFTVEVSKQogICAgICBkb2NOdW1iZXIgPSAiQEBAQEBNQVNURVIiOwogICAgZWxzZQogICAgICBkb2NOdW1iZXIgPSAiKiI7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbmV3TnVtYmVyID0gIioiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>278</text>
