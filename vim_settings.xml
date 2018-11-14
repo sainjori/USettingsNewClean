@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1542204939988">
+      <file name="/Dummy.txt" timestamp="1542224190974">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/proc/doc/clone/CloneRecord.java" timestamp="1542218314116" />
@@ -42,12 +42,12 @@
         <mark key="^" line="665" column="33" />
         <mark key="." line="665" column="33" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1542223141095">
-        <mark key="'" line="116" column="29" />
-        <mark key="[" line="505" column="0" />
-        <mark key="]" line="505" column="0" />
-        <mark key="." line="505" column="0" />
-        <mark key="^" line="511" column="63" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1542223879926">
+        <mark key="'" line="402" column="23" />
+        <mark key="[" line="387" column="0" />
+        <mark key="]" line="387" column="0" />
+        <mark key="." line="387" column="0" />
+        <mark key="^" line="530" column="85" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1542204066753">
         <mark key="'" line="255" column="68" />
@@ -64,22 +64,21 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentCloneStart.java" timestamp="1542219827701" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentCloneStart.java" timestamp="1542223541342" />
       <file name="/fragment.java" timestamp="1542223143536">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/brobj/DocumentRelation.java" timestamp="1542221668509">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/brobj/DocumentRelation.java" timestamp="1542223969111">
         <mark key="'" line="44" column="4" />
-        <mark key="[" line="27" column="23" />
-        <mark key="]" line="27" column="32" />
-        <mark key="." line="27" column="32" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
         <mark key="^" line="27" column="32" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="703" column="24" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
       <jump line="335" column="52" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
       <jump line="310" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
       <jump line="236" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/util/Dialogbox.java" />
@@ -179,43 +178,63 @@
       <jump line="160" column="11" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/brobj/DocumentRelation.java" />
       <jump line="25" column="24" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/brobj/DocumentRelation.java" />
       <jump line="44" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/brobj/DocumentRelation.java" />
+      <jump line="402" column="23" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>DType</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwcml2YXRlIFBsbURvY3VtZW50IHRlbXBsYXRlRG9jdW1lbnRXaXRoRGV0YWlsczsK</text>
       </register>
       <register name="-" type="4">
-        <text>DType</text>
+        <text>newVersion</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3B5TGlua3NcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvcHlDbGFzcz0gKChTdHJpbmcpIGRvY3VtZW50Q2xvbmVJbmZvLmdldCgiQ09QWV9DTEFTUyIpKS5lcXVhbHNJZ25vcmVDYXNlKCJYIikgPyB0cnVlIDogZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgIFBsbURvY3VtZW50IG5ld0RvY3VtZW50ID0gY3JlYXRlTWFzdGVyTW9kZWxOZXcobmNNb2RlbCwgZG9jdW1lbnRSZWxhdGlvbik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIFBsbURvY3VtZW50IHRlbXBsYXRlRG9jdW1lbnRXaXRoRGV0YWlsczsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFRyYWNlLnByaW50bG4oMCwgIj4+IC0tLSBub25NYXN0ZXI6Iitub25NYXN0ZXIudG9TdHJpbmcoKSk7CiAgICBUcmFjZS5wcmludGxuKDAsICI+PiAtLS0gbmNNb2RlbE1hc3RlcjoiK25jTW9kZWxNYXN0ZXIudG9TdHJpbmcoKSk7CiAgICBUcmFjZS5wcmludGxuKDAsICI+PiAtLS0gRG9jdW1lbnRSZWxhdGlvbjoiK2RvY3VtZW50UmVsYXRpb24udG9TdHJpbmcoKSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIFBsbURvY3VtZW50IHRlbXBsYXRlRG9jdW1lbnRXaXRoRGV0YWlscyA9IGRvY3VtZW50UmVsYXRpb24uZ2V0VGVtcGxhdGVEb2N1bWVudFdpdGhEZXRhaWxzKCk7CiAgICBUcmFjZS5wcmludGxuKDAsICI+PiAtLS0gdGVtcGxhdGVEb2N1bWVudFdpdGhkZXRhaWxzIiArIHRlbXBsYXRlRG9jdW1lbnRXaXRoRGV0YWlscy50b1N0cmluZygpKTsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="4" type="4">
+        <text>public PlmDocument getTemplateDocumentWithDetails()
+  {
+    if (templateDocumentWithDetails != null)
+      return templateDocumentWithDetails;
+
+    PlmDocumentContainer plmDocuments = new PlmDocumentContainer();
+    PlmDocument oldAssemblyComponent = getOldAssemblyComponent();
+    plmDocuments.addDocument(oldAssemblyComponent);
+
+    try
+    {
+      plmDocuments.readDetails();
+      templateDocumentWithDetails = oldAssemblyComponent;
+    }
+    catch (DefaultLogException e)
+    {
+      Trace.println(0, e);
+    }
+    return oldAssemblyComponent;
+  }</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFRyYQo=</text>
+        <text encoding="base64">ICAgIFBsbURvY3VtZW50IGUgPSBwbG1BY2Nlc3MuZG9jdW1lbnROZXcoIlVHRDAwMDAwMDAwMDAwMDAwMTAwMDAyNTE1NjUwMDAwMCIpOwogICAgUGxtRG9jdW1lbnRDb250YWluZXIgcGxtRG9jdW1lbnRzID0gbmV3IFBsbURvY3VtZW50Q29udGFpbmVyKCk7CiAgICBwbG1Eb2N1bWVudHMuYWRkRG9jdW1lbnQoZSk7CiAgICBwbG1Eb2N1bWVudHMucmVhZERldGFpbHMoKTsKICAgIG5vbk1hc3RlcnMuYWRkKGUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIFRyYWNlLnByaW50bG4oMCwgIj4+IC0tLSBuZXdEb2MiICsgbmV3RG9jLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbigwLCAiQ2FzZSIpOwo=</text>
+        <text encoding="base64">Ly8gICAgU3RyaW5nIG5ld1ZlcnNpb24gPSBQbG1DbG9uZVV0aWxzLmdldE5ld0RvY3VtZW50VmVyc2lvbihub25NYXN0ZXIuZ2V0RFR5cGVJZCgpLCBudWxsKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
