@@ -3,26 +3,30 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.7.1/customize/config/menu.guidef" timestamp="1541673757948">
-        <mark key="[" line="104" column="64" />
-        <mark key="]" line="105" column="65" />
-        <mark key="." line="105" column="65" />
-        <mark key="^" line="105" column="65" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/proc/doc/clone/gfx/DocCloneActionListener.java" timestamp="1542126401218" />
       <file name="/a.dummy" timestamp="1542133076826">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" timestamp="1542120288786">
-        <mark key="[" line="291" column="0" />
-        <mark key="]" line="291" column="0" />
-        <mark key="." line="291" column="47" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" timestamp="1542194448297">
+        <mark key="'" line="512" column="22" />
+        <mark key="[" line="245" column="33" />
+        <mark key="]" line="258" column="36" />
+        <mark key="^" line="258" column="36" />
+        <mark key="." line="258" column="36" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberChangeNamespaceDoc.java" timestamp="1541679455526">
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="10" column="3" />
-        <mark key="." line="10" column="3" />
-        <mark key="^" line="10" column="3" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.7.1/basis/config/system-default.txt" timestamp="1541596186020">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="663" column="70" />
+        <mark key="]" line="665" column="33" />
+        <mark key="^" line="665" column="33" />
+        <mark key="." line="665" column="33" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1542191680696">
+        <mark key="'" line="745" column="0" />
+        <mark key="[" line="814" column="45" />
+        <mark key="]" line="814" column="44" />
+        <mark key="." line="814" column="44" />
+        <mark key="^" line="814" column="44" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" timestamp="1542114211125">
         <mark key="'" line="421" column="8" />
@@ -35,15 +39,25 @@
         <mark key="." line="59" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.3/plm-5.1.9.3-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentCloneStart.java" timestamp="1542129191079" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" timestamp="1542115377110">
+        <mark key="'" line="103" column="91" />
+        <mark key="[" line="150" column="2" />
+        <mark key="]" line="150" column="8" />
+        <mark key="." line="150" column="8" />
+        <mark key="^" line="150" column="8" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneExtended.java" timestamp="1542126505138" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmBomItem.java" timestamp="1542109186116">
         <mark key="'" line="105" column="18" />
       </file>
       <file name="C:/ENTWICKLUNG/Backup/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/prm/proc/PlmProcessCadDocumentSaveAsPrm.java" timestamp="1542133303867" />
+      <file name="/Dummy.txt" timestamp="1542194549778">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/BrDocument.java" timestamp="1542191104270">
         <mark key="'" line="220" column="29" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1542140876809">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1542191498071">
         <mark key="[" line="563" column="0" />
         <mark key="]" line="563" column="0" />
         <mark key="^" line="540" column="73" />
@@ -56,8 +70,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="566" column="45" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
-      <jump line="570" column="35" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
       <jump line="572" column="37" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
       <jump line="614" column="48" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
       <jump line="634" column="46" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/pref/PrefObject.java" />
@@ -156,46 +168,48 @@
       <jump line="70" column="69" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/utils/YpsomedVeaHelper.java" />
       <jump line="213" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" />
       <jump line="220" column="29" filename="/BrDocument.java" />
+      <jump line="512" column="22" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
+      <jump line="745" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>wfertigTeilNewNumber</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNQVRTVEFUVVNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobWF0RG9jRXF1aXBCdWNrZXQuZ2V0TWF0cmlhbCgpID09IG51bGwpCg==</text>
+        <text encoding="base64">ICAgIGdjLmluc2V0cyA9IG5ldyBJbnNldHMoMTAsIDUwLDEwLDUpOwoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdjLmluc2V0cyA9IG5ldyBJbnNldHMoMTAsIDUwLDEwLDUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">cHJpdmF0ZSBib29sZWFuIGlzTmNNb2RlbENvbXBtZW50KFBsbURvY3VtZW50IHBsbURvY3VtZW50LCBQbG1Eb2N1bWVudCBuY01vZGVsKQogIHsKICAgIHRyeQogICAgewogICAgICBQbG1Eb2N1bWVudCBmZXJ0aWdUZWlsTmV3TnVtYmVyID0gZ2V0RmVydGlnVGVpbE5ld051bWJlcihuY01vZGVsKTsKICAgICAgaWYgKGZlcnRpZ1RlaWxOZXdOdW1iZXIgIT0gbnVsbCAmJiBmZXJ0aWdUZWlsTmV3TnVtYmVyLmdldFNhcEtleSgpLmVxdWFsc0lnbm9yZUNhc2UocGxtRG9jdW1lbnQuZ2V0U2FwS2V5KCkpKQogICAgICB7CiAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgIH0KCiAgICB9CiAgICBjYXRjaCAoRGVmYXVsdExvZ0V4Y2VwdGlvbiBlKQogICAgewogICAgICBUcmFjZS5wcmludGxuKDAsIGUpOwogICAgfQogICAgcmV0dXJuIGZhbHNlOwogIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbXAxLnBhY2sK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciAoKQo=</text>
+        <text encoding="base64">ICAgIG5vcnRoUGFuZWwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAogICAgc3RydWN1dHJlLnB1dChmZXJ0aWdUZWlsTmV3TnVtYmVyLCBuZXcgSGFzaFNldDw+KCkpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0cnVjdXRyZS5hCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">cHJpdmF0ZSBib29sZWFuIGlzTmNNb2RlbENvbXBtZW50KFBsbURvY3VtZW50IHBsbURvY3VtZW50LCBQbG1Eb2N1bWVudCBuY01vZGVsKQogIHsKICAgIHRyeQogICAgewogICAgICBQbG1Eb2N1bWVudCBmZXJ0aWdUZWlsTmV3TnVtYmVyID0gZ2V0RmVydGlnVGVpbE5ld051bWJlcihuY01vZGVsKTsKICAgICAgaWYgKGZlcnRpZ1RlaWxOZXdOdW1iZXIgIT0gbnVsbCAmJiBmZXJ0aWdUZWlsTmV3TnVtYmVyLmdldFNhcEtleSgpLmVxdWFsc0lnbm9yZUNhc2UocGxtRG9jdW1lbnQuZ2V0U2FwS2V5KCkpKQogICAgICB7CiAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgIH0KCiAgICB9CiAgICBjYXRjaCAoRGVmYXVsdExvZ0V4Y2VwdGlvbiBlKQogICAgewogICAgICBUcmFjZS5wcmludGxuKDAsIGUpOwogICAgfQogICAgcmV0dXJuIGZhbHNlOwogIH0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZvciAoKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">aWYgKGlzTmNNb2RlbENvbXBtZW50KHBsbURvY3VtZW50LCBuY01vZGVsKSkKICAgIHsKICAgICAgVHJhY2UucHJpbnRsbigwLCAiQWJvcnQgZ2V0Q2hpbGRyZW5jb21wb25lbnQgYmVjYXVzZSBpdCBpcyBjb21wb25lbnQgb2YgTkNNT0RFTCIpOwogICAgICByZXR1cm4gbmV3IEFycmF5TGlzdDxDbG9uZURvY3VtZW50PihBcnJheXMuYXNMaXN0KG5ldyBDbG9uZURvY3VtZW50KHBsbURvY3VtZW50KSkpOwogICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>278</text>
