@@ -4,11 +4,14 @@
     <globalmarks />
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/MaterialAttributeMapperFromSap.java" timestamp="1542623812786" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/proc/WeberProcessImportExportGet.java" timestamp="1542805511219">
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="19" column="43" />
-        <mark key="^" line="19" column="43" />
-        <mark key="." line="19" column="43" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/proc/WeberProcessImportExportGet.java" timestamp="1542807480742">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="42" column="111" />
+        <mark key="^" line="42" column="111" />
+        <mark key="." line="42" column="111" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/cadagent/proc/doc/ProcessExcGetMultidetail.java" timestamp="1542806593436">
+        <mark key="'" line="236" column="4" />
       </file>
       <file name="/a.dummy" timestamp="1542133076826">
         <mark key="[" line="0" column="0" />
@@ -21,6 +24,7 @@
         <mark key="^" line="131" column="67" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/PlmProcessAttribsCreate.java" timestamp="1542653927360" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.7.1/sapbase-5.1.7.1-sources.jar!/cadagent/objmod/PlmDocument.java" timestamp="1542806935219" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/attributes-from-sap.xml" timestamp="1542654805264">
         <mark key="'" line="373" column="66" />
         <mark key="[" line="483" column="0" />
@@ -59,6 +63,7 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcExport.java" timestamp="1542807466805" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/brobj/DocumentRelation.java" timestamp="1542621005570">
         <mark key="'" line="44" column="4" />
         <mark key="[" line="28" column="0" />
@@ -76,6 +81,9 @@
         <mark key="'" line="17" column="45" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" timestamp="1542653784940" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/cadagent/objmod/PlmImportEntry.java" timestamp="1542806539654">
+        <mark key="'" line="460" column="28" />
+      </file>
       <file name="/BrDocument.java" timestamp="1542191104270">
         <mark key="'" line="220" column="29" />
       </file>
@@ -95,8 +103,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="503" column="17" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/util/Dialogbox.java" />
-      <jump line="598" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/util/Dialogbox.java" />
       <jump line="819" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/util/Dialogbox.java" />
       <jump line="825" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/util/Dialogbox.java" />
       <jump line="177" column="19" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/util/Dialogbox.java" />
@@ -195,6 +201,8 @@
       <jump line="415" column="25" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="863" column="49" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
       <jump line="517" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="460" column="28" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/cadagent/objmod/PlmImportEntry.java" />
+      <jump line="236" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/cadagent/proc/doc/ProcessExcGetMultidetail.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
