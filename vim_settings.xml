@@ -12,9 +12,6 @@
         <mark key="^" line="34" column="24" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1542133076826">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocChangeLongtextMulti.java" timestamp="1542888110246" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.7.1/sapbase-5.1.7.1-sources.jar!/cadagent/objmod/PlmDocument.java" timestamp="1542806935219" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" timestamp="1542803006204">
@@ -61,12 +58,12 @@
         <mark key="." line="105" column="74" />
       </file>
       <file name="/default.txt" timestamp="1542886465178" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1542904566518">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1542908518042">
         <mark key="'" line="195" column="55" />
-        <mark key="[" line="89" column="47" />
-        <mark key="]" line="89" column="56" />
-        <mark key="^" line="89" column="56" />
-        <mark key="." line="89" column="56" />
+        <mark key="[" line="316" column="0" />
+        <mark key="]" line="316" column="0" />
+        <mark key="^" line="316" column="9" />
+        <mark key="." line="316" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/.gitignore" timestamp="1542885529941">
         <mark key="[" line="4" column="10" />
@@ -115,9 +112,6 @@
         <mark key="^" line="27" column="32" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" timestamp="1542902266169" />
-      <file name="/Dummy.txt" timestamp="1542887903312">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" timestamp="1542636959446">
         <mark key="'" line="73" column="45" />
       </file>
@@ -240,44 +234,44 @@
       <jump line="195" column="55" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>prefObjectsBeginningWith.size() + 1;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>prefObjectsBeginningWith.size() + 1;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx4bWxBdHRyaWJ1dHNGb3JPYmplY3RMaXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgaW50IG1hcHBlZExvbmdUZXh0TGluZXNDb3VudEZyb21QcmVmID0gcHJlZk9iamVjdHNCZWdpbm5pbmdXaXRoLnNpemUoKSArIDE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxhbmd1YWdlVGV4dExpbmVNYXAucHV0KGxhbmcsIG5ldyBQbG1Mb25nVGV4dExpbmUoUGxtTG9uZ1RleHRMaW5lLkZPUk1BVF9BTElHTl9MRUZULCAiIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGludCBtYXBwZWRMb25nVGV4dExpbmVzQ291bnRGcm9tUHJlZiA9IHByZWZPYmplY3RzQmVnaW5uaW5nV2l0aC5zaXplKCkgKyAxOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwbG1Mb25nVGV4dExpbmUuc2V0VGV4dCgoU3RyaW5nKSBpbnRlZ2VyT2JyUHJvcGVydHlIYXNoTWFwLmdldChpbnRlZ2VyKS5nZXRWYWx1ZSgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I0NfRF9UUkFOUyA9IAo=</text>
+        <text encoding="base64">ICAgICAgcGxtTG9uZ1RleHRMaW5lLnNldFRleHQoKFN0cmluZykgaW50ZWdlck9iclByb3BlcnR5SGFzaE1hcC5nZXQoaW50ZWdlcikuZ2V0VmFsdWUoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgIHhtbEF0dHJpYnV0c0Zvck9iamVjdExpc3QuY2xlYXIoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgICAgICBuZXcgUGxtTG9uZ1RleHRMaW5lKFBsbUxvbmdUZXh0TGluZS5GT1JNQVRfQUxJR05fTEVGVCwgIiIpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogUHJlZmVyZW5jZXM6CiAqICB3ZWJlci5hc3NpZ24ucHJvamVjdC5hbGxvd2VkLmRvY3R5cGVzID0gRE9DO1BERgogKiAgd2ViZXIuYXNzaWduLnByb2plY3QuYWxsb3dlZC5tYXguc2VsZWN0aW9uID0gMTAKICogIHdlYmVyLmFzc2lnbi5wcm9qZWN0LnVzZWQuc2VwZXJhdG9yID0gLAogKiAgd2ViZXIuYXNzaWduLnByb2plY3QuY29uZmlybS5vdmVyd3JpdGUuZXhpc3RpbmcgPSB0cnVlIC8vbm90IGltcGxlbWVudGVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBuZXcgUGxtTG9uZ1RleHRMaW5lKCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>310</text>
