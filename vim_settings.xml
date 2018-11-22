@@ -24,12 +24,6 @@
         <mark key="." line="857" column="69" />
         <mark key="^" line="857" column="69" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.1/customize/config/longtext_config.xml" timestamp="1542887135583">
-        <mark key="[" line="23" column="11" />
-        <mark key="]" line="23" column="11" />
-        <mark key="." line="23" column="11" />
-        <mark key="^" line="23" column="11" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberChangeNamespaceDoc.java" timestamp="1542826465360">
         <mark key="'" line="165" column="61" />
         <mark key="[" line="40" column="0" />
@@ -50,6 +44,7 @@
         <mark key="^" line="524" column="27" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcExport.java" timestamp="1542807466805" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/proc/doc/ProcessDocSaveLongtext.java" timestamp="1542900430260" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/proc/PlmProcessFolderSearch.java" timestamp="1542819864836" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/brobj/WeberDefaultBrowseObject.java" timestamp="1542812191594" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.1/.gitignore" timestamp="1542886834958">
@@ -66,12 +61,12 @@
         <mark key="." line="105" column="74" />
       </file>
       <file name="/default.txt" timestamp="1542886465178" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1542896513221">
-        <mark key="'" line="64" column="8" />
-        <mark key="[" line="167" column="17" />
-        <mark key="]" line="167" column="18" />
-        <mark key="^" line="91" column="62" />
-        <mark key="." line="167" column="18" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1542900807951">
+        <mark key="'" line="195" column="55" />
+        <mark key="[" line="59" column="29" />
+        <mark key="]" line="60" column="37" />
+        <mark key="^" line="60" column="37" />
+        <mark key="." line="60" column="37" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/.gitignore" timestamp="1542885529941">
         <mark key="[" line="4" column="10" />
@@ -109,7 +104,7 @@
         <mark key="^" line="2640" column="40" />
         <mark key="." line="2640" column="40" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/utils/longtext/LongtextArrayContainer.java" timestamp="1542895139189">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/utils/longtext/LongtextArrayContainer.java" timestamp="1542899536370">
         <mark key="'" line="65" column="11" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/brobj/DocumentRelation.java" timestamp="1542621005570">
@@ -119,7 +114,7 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="27" column="32" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" timestamp="1542888177627" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" timestamp="1542900257380" />
       <file name="/Dummy.txt" timestamp="1542887903312">
         <mark key="[" line="0" column="0" />
       </file>
@@ -135,7 +130,8 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1542820395356">
         <mark key="'" line="795" column="6" />
       </file>
-      <file name="/fragment.java" timestamp="1542896571532">
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.1/customize/config/longtext_config_DR1.xml" timestamp="1542898881255" />
+      <file name="/fragment.java" timestamp="1542900837247">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -238,10 +234,10 @@
       <jump line="60" column="46" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/utils/longtext/LongtextArrayContainer.java" />
       <jump line="65" column="11" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/utils/longtext/LongtextArrayContainer.java" />
       <jump line="170" column="48" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
-      <jump line="195" column="55" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
       <jump line="50" column="37" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
       <jump line="60" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
       <jump line="64" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
+      <jump line="195" column="55" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
