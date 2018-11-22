@@ -11,21 +11,10 @@
         <mark key="^" line="34" column="24" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/cadagent/proc/doc/ProcessExcGetMultidetail.java" timestamp="1542824213296">
-        <mark key="'" line="187" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/omf/OmfPronoviaGuiShow.java" timestamp="1542820816694" />
       <file name="/a.dummy" timestamp="1542133076826">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" timestamp="1542646791755">
-        <mark key="'" line="111" column="35" />
-        <mark key="[" line="254" column="0" />
-        <mark key="]" line="254" column="0" />
-        <mark key="." line="254" column="0" />
-        <mark key="^" line="131" column="67" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/PlmProcessAttribsCreate.java" timestamp="1542653927360" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocChangeLongtextMulti.java" timestamp="1542887797050" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.7.1/sapbase-5.1.7.1-sources.jar!/cadagent/objmod/PlmDocument.java" timestamp="1542806935219" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" timestamp="1542803006204">
         <mark key="'" line="863" column="49" />
@@ -34,9 +23,11 @@
         <mark key="." line="857" column="69" />
         <mark key="^" line="857" column="69" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneExtended.java" timestamp="1542621049822" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmBomItem.java" timestamp="1542109186116">
-        <mark key="'" line="105" column="18" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.1/customize/config/longtext_config.xml" timestamp="1542887135583">
+        <mark key="[" line="23" column="11" />
+        <mark key="]" line="23" column="11" />
+        <mark key="." line="23" column="11" />
+        <mark key="^" line="23" column="11" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberChangeNamespaceDoc.java" timestamp="1542826465360">
         <mark key="'" line="165" column="61" />
@@ -45,8 +36,17 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="42" column="2" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/proc/PlmProcessDataExcImport.java" timestamp="1542824426007">
-        <mark key="'" line="2494" column="18" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.1/customize/dictionary/de/customer.txt" timestamp="1542886632777">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.7.1/basis/config/system-default.txt" timestamp="1541596186020">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="663" column="70" />
+        <mark key="]" line="665" column="33" />
+        <mark key="^" line="665" column="33" />
+        <mark key="." line="665" column="33" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1542803823133">
         <mark key="'" line="517" column="10" />
@@ -64,38 +64,28 @@
         <mark key="." line="53" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcExport.java" timestamp="1542807466805" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/brobj/DocumentRelation.java" timestamp="1542621005570">
-        <mark key="'" line="44" column="4" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="27" column="32" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/proc/PlmProcessFolderSearch.java" timestamp="1542819864836" />
-      <file name="/Dummy.txt" timestamp="1542826521008">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" timestamp="1542636959446">
-        <mark key="'" line="73" column="45" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/brobj/WeberDefaultBrowseObject.java" timestamp="1542812191594" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.1/.gitignore" timestamp="1542886834958">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="6" />
+        <mark key="." line="8" column="6" />
+      </file>
+      <file name="/customer.txt" timestamp="1542886609393" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/attributes-to-sap.xml" timestamp="1542652903836">
         <mark key="'" line="17" column="45" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/omf/OmfDocDelete.java" timestamp="1542815743064" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" timestamp="1542653784940" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/cadagent/objmod/PlmImportEntry.java" timestamp="1542806539654">
         <mark key="'" line="460" column="28" />
       </file>
-      <file name="/BrDocument.java" timestamp="1542191104270">
-        <mark key="'" line="220" column="29" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentCloneStart.java" timestamp="1542623321407">
-        <mark key="'" line="1034" column="38" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/convert/omf/OmfConversionInfo.java" timestamp="1542813408050" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/proc/doc/PlmProcessDocumentStatusChange.java" timestamp="1542814547827" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/omf/OmfTmpFldCreate.java" timestamp="1542816550726" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.1/customize/config/menu.guidef" timestamp="1542886686792">
+        <mark key="[" line="104" column="64" />
+        <mark key="]" line="105" column="74" />
+        <mark key="^" line="105" column="74" />
+        <mark key="." line="105" column="74" />
+      </file>
+      <file name="/default.txt" timestamp="1542886465178" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/.gitignore" timestamp="1542885529941">
         <mark key="[" line="4" column="10" />
         <mark key="]" line="5" column="5" />
@@ -107,9 +97,60 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/omf/OmfPronoviaGuiShow.java" timestamp="1542820816694" />
+      <file name="/menu.guidef" timestamp="1542886692082" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" timestamp="1542646791755">
+        <mark key="'" line="111" column="35" />
+        <mark key="[" line="254" column="0" />
+        <mark key="]" line="254" column="0" />
+        <mark key="." line="254" column="0" />
+        <mark key="^" line="131" column="67" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/PlmProcessAttribsCreate.java" timestamp="1542653927360" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneExtended.java" timestamp="1542621049822" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.1/basis/config/system-default.txt" timestamp="1542886439032">
+        <mark key="'" line="13" column="37" />
+        <mark key="[" line="686" column="72" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmBomItem.java" timestamp="1542109186116">
+        <mark key="'" line="105" column="18" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/proc/PlmProcessDataExcImport.java" timestamp="1542824426007">
+        <mark key="'" line="2494" column="18" />
+      </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.1/customize/config/default.txt" timestamp="1542886476762">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="2640" column="40" />
+        <mark key="]" line="2640" column="40" />
+        <mark key="^" line="2640" column="40" />
+        <mark key="." line="2640" column="40" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/brobj/DocumentRelation.java" timestamp="1542621005570">
+        <mark key="'" line="44" column="4" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="27" column="32" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1542887903312">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/system-default.txt" timestamp="1542886426672" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/omf/OmfDocDelete.java" timestamp="1542815743064" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" timestamp="1542653784940" />
+      <file name="/BrDocument.java" timestamp="1542191104270">
+        <mark key="'" line="220" column="29" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentCloneStart.java" timestamp="1542623321407">
+        <mark key="'" line="1034" column="38" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/proc/doc/PlmProcessDocumentStatusChange.java" timestamp="1542814547827" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/omf/OmfTmpFldCreate.java" timestamp="1542816550726" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.13.1/addons-5.1.13.1-sources.jar!/plm/proc/PlmProcessCustConversionSchedule.java" timestamp="1542621667814" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1542820395356">
-        <mark key="'" line="795" column="6" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.1/customize/config/longtext_config_DR1.xml" timestamp="1542887181215">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1542821322811">
         <mark key="[" line="0" column="0" />
@@ -124,8 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="947" column="25" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMatBomItem.java" />
-      <jump line="959" column="21" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMatBomItem.java" />
       <jump line="749" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmBomItem.java" />
       <jump line="757" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmBomItem.java" />
       <jump line="980" column="41" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmBomItem.java" />
@@ -224,13 +263,15 @@
       <jump line="133" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberChangeNamespaceDoc.java" />
       <jump line="43" column="50" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberChangeNamespaceDoc.java" />
       <jump line="165" column="61" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberChangeNamespaceDoc.java" />
+      <jump line="13" column="37" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.1/basis/config/system-default.txt" />
+      <jump line="22" column="0" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.1/customize/config/default.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>28</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQUlBfTkVXX05BTUVTUEFDRVw+</text>
@@ -239,31 +280,31 @@
         <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbigwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogUHJlZmVyZW5jZXM6CiAqICB3ZWJlci5hc3NpZ24ucHJvamVjdC5hbGxvd2VkLmRvY3R5cGVzID0gRE9DO1BERgogKiAgd2ViZXIuYXNzaWduLnByb2plY3QuYWxsb3dlZC5tYXguc2VsZWN0aW9uID0gMTAKICogIHdlYmVyLmFzc2lnbi5wcm9qZWN0LnVzZWQuc2VwZXJhdG9yID0gLAogKiAgd2ViZXIuYXNzaWduLnByb2plY3QuY29uZmlybS5vdmVyd3JpdGUuZXhpc3RpbmcgPSB0cnVlIC8vbm90IGltcGxlbWVudGVkCg==</text>
+        <text encoding="base64">I0NfRF9UUkFOUyA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogRmlsbCBaLVRhYmxlIGZyb20gUkVTOCBmaWVsZC4K</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgdm9pZCBhY3Rpb25QZXJmb3JtZWQoQWN0aW9uRXZlbnQgZSkKICB7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRlc3QiKTsKICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICogUHJlZmVyZW5jZXM6CiAqICB3ZWJlci5hc3NpZ24ucHJvamVjdC5hbGxvd2VkLmRvY3R5cGVzID0gRE9DO1BERgogKiAgd2ViZXIuYXNzaWduLnByb2plY3QuYWxsb3dlZC5tYXguc2VsZWN0aW9uID0gMTAKICogIHdlYmVyLmFzc2lnbi5wcm9qZWN0LnVzZWQuc2VwZXJhdG9yID0gLAogKiAgd2ViZXIuYXNzaWduLnByb2plY3QuY29uZmlybS5vdmVyd3JpdGUuZXhpc3RpbmcgPSB0cnVlIC8vbm90IGltcGxlbWVudGVkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogRmlsbCBaLVRhYmxlIGZyb20gUkVTOCBmaWVsZC4K</text>
       </register>
       <register name=":" type="4">
         <text>278</text>
