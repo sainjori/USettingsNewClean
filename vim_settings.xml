@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/MaterialAttributeMapperFromSap.java" timestamp="1542623812786" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/MaterialAttributeMapperFromSap.java" timestamp="1542990920418" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.7.1/customize/config/menu.guidef" timestamp="1542893936318" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/proc/WeberProcessImportExportGet.java" timestamp="1542825848497">
         <mark key="'" line="47" column="36" />
@@ -12,19 +12,19 @@
         <mark key="^" line="34" column="24" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/operations/XFormatOperation.java" timestamp="1542988656947" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/operations/XFormatOperation.java" timestamp="1542991127103" />
       <file name="/a.dummy" timestamp="1542133076826">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/operations/MapOperation.java" timestamp="1542988425715" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocChangeLongtextMulti.java" timestamp="1542888110246" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.7.1/sapbase-5.1.7.1-sources.jar!/cadagent/objmod/PlmDocument.java" timestamp="1542806935219" />
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/attributes-from-sap.xml" timestamp="1542987091814">
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/attributes-from-sap.xml" timestamp="1542991623051">
         <mark key="'" line="40" column="20" />
-        <mark key="[" line="488" column="9" />
-        <mark key="]" line="488" column="11" />
-        <mark key="^" line="488" column="11" />
-        <mark key="." line="488" column="11" />
+        <mark key="[" line="466" column="48" />
+        <mark key="]" line="466" column="51" />
+        <mark key="^" line="466" column="51" />
+        <mark key="." line="466" column="51" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" timestamp="1542803006204">
         <mark key="'" line="863" column="49" />
@@ -69,7 +69,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/omf/OmfPronoviaGuiShow.java" timestamp="1542820816694" />
       <file name="/menu.guidef" timestamp="1542886692082" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/operations/FirstNonEmptyOperation.java" timestamp="1542988723822" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/operations/FirstNonEmptyOperation.java" timestamp="1542991265314" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" timestamp="1542646791755">
         <mark key="'" line="111" column="35" />
         <mark key="[" line="254" column="0" />
@@ -81,7 +81,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/operations/opcreateservices/OperationFactory.java" timestamp="1542986333344" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneExtended.java" timestamp="1542621049822" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/util/Dialogbox.java" timestamp="1542968717592" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/OpXmlParser.java" timestamp="1542985958616">
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/OpXmlParser.java" timestamp="1542990669659">
         <mark key="[" line="245" column="0" />
         <mark key="]" line="245" column="0" />
         <mark key="^" line="245" column="0" />
@@ -121,14 +121,14 @@
         <mark key="." line="80" column="14" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/proc/doc/PlmProcessDocumentStatusChange.java" timestamp="1542814547827" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/operations/ApplAttributeOperation.java" timestamp="1542989339253" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/operations/ApplAttributeOperation.java" timestamp="1542990851715" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/omf/OmfTmpFldCreate.java" timestamp="1542816550726" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.13.1/addons-5.1.13.1-sources.jar!/plm/proc/PlmProcessCustConversionSchedule.java" timestamp="1542621667814" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1542820395356">
         <mark key="'" line="795" column="6" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.1/customize/config/longtext_config_DR1.xml" timestamp="1542898881255" />
-      <file name="/fragment.java" timestamp="1542989332944">
+      <file name="/fragment.java" timestamp="1542991263042">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -245,10 +245,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MA</text>
+        <text>DIR</text>
       </register>
       <register name="-" type="4">
-        <text>MA</text>
+        <text>DIR</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbG1NYXRlcmlhbFw+</text>
