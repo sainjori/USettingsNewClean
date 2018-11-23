@@ -33,12 +33,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1542803823133">
-        <mark key="'" line="517" column="10" />
-        <mark key="[" line="523" column="9" />
-        <mark key="]" line="524" column="27" />
-        <mark key="." line="524" column="27" />
-        <mark key="^" line="524" column="27" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1542971076120">
+        <mark key="'" line="599" column="30" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="498" column="67" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcExport.java" timestamp="1542807466805" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/proc/doc/ProcessDocSaveLongtext.java" timestamp="1542900430260" />
@@ -90,10 +90,8 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/PlmProcessAttribsCreate.java" timestamp="1542653927360" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneExtended.java" timestamp="1542621049822" />
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.1/basis/config/system-default.txt" timestamp="1542886439032">
-        <mark key="'" line="13" column="37" />
-        <mark key="[" line="686" column="72" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/util/Dialogbox.java" timestamp="1542968717592" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/doc/checkout/helper/SessionConflictResolver.java" timestamp="1542969214550" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.1/customize/config/default.txt" timestamp="1542888470079">
         <mark key="'" line="2631" column="0" />
         <mark key="[" line="2640" column="40" />
@@ -125,16 +123,13 @@
         <mark key="'" line="795" column="6" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.1/customize/config/longtext_config_DR1.xml" timestamp="1542898881255" />
-      <file name="/fragment.java" timestamp="1542903651978">
+      <file name="/fragment.java" timestamp="1542970338380">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="386" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
-      <jump line="391" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
-      <jump line="392" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
       <jump line="393" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
       <jump line="394" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
       <jump line="395" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
@@ -232,46 +227,114 @@
       <jump line="60" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
       <jump line="64" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
       <jump line="195" column="55" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
+      <jump line="125" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="126" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="599" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ICON_STOP</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx4bWxBdHRyaWJ1dHNGb3JPYmplY3RMaXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxhbmd1YWdlVGV4dExpbmVNYXAucHV0KGxhbmcsIG5ldyBQbG1Mb25nVGV4dExpbmUoUGxtTG9uZ1RleHRMaW5lLkZPUk1BVF9BTElHTl9MRUZULCAiIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgbXNnID0gRGljLmdldCgieXBzb21lZC5tZXNzYWdlLmRpYWxvZ2JveC5taXNzaW5nLnRlbXBsYXRlbWF0ZXJpYWwiLAogICAgICAgICAgICAiRGFzIFZvcmxhZ2VtYXRlcmlhbCAlMSBpc3QgbmljaHQgaW0gU0FQLVN5c3RlbSB2b3JoYW5kZW4uICIKICAgICAgICAgICAgICAgICsgIkJpdHRlIGRpZSBLb25maWd1cmF0aW9uIGRlciBQcmVmZXJlbmNlLVZhcmlhYmxlbiAiCiAgICAgICAgICAgICAgICArICInJTInICIKICAgICAgICAgICAgICAgICsgIvxiZXJwcvxmZW4uIERpZSBGdW5rdGlvbiB3aXJkIGJlZW5kZXQuIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LnNhcC5tYW4uU2FwTWFuYWdlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2xlYW4gZnJvbURhZGk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwbG1Mb25nVGV4dExpbmUuc2V0VGV4dCgoU3RyaW5nKSBpbnRlZ2VyT2JyUHJvcGVydHlIYXNoTWFwLmdldChpbnRlZ2VyKS5nZXRWYWx1ZSgpKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LnNhcC5tYW4uU2FwTWFuYWdlcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcGxtTG9uZ1RleHRMaW5lLnNldFRleHQoKFN0cmluZykgaW50ZWdlck9iclByb3BlcnR5SGFzaE1hcC5nZXQoaW50ZWdlcikuZ2V0VmFsdWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHhtbEF0dHJpYnV0c0Zvck9iamVjdExpc3QuY2xlYXIoKTsK</text>
+      <register name="6" type="4">
+        <text>private static class MaterialDefaults
+    {
+        private MaterialDefaults()
+        {
+            // empty
+        }
+
+        public static void configureDefaults(PlmMaterial material)
+        {
+            configureIndSector(material);
+            configureDivision(material);
+            configureBaseUnit(material);
+        }
+
+        public static void configureIndSector(PlmMaterial material)
+        {
+            material.setIndSector(Preferences.stringValue(&quot;ypsomed.dmu.mat.indsector&quot;, &quot;M&quot;));
+        }
+
+        public static void configureBaseUnit(PlmMaterial material)
+        {
+            material.setBaseUnit(Preferences.stringValue(&quot;ypsomed.dmu.mat.baseUnit.&quot; + SapManager.getActiveLanguage().toUpperCase(),
+                Preferences.stringValue(&quot;ypsomed.dmu.mat.baseUnit&quot;, &quot;EA&quot;))); // !!!! noch nicht fertig
+        }
+
+        public static void configureDivision(PlmMaterial material)
+        {
+            String division = Preferences.stringValue(&quot;ypsomed.dmu.mat.division&quot;);
+            if (hasContent(division))
+                material.setDivision(division);
+        }
+
+        public static void configureGroup(PlmMaterial material)
+        {
+            String materialGroup = Preferences.stringValue(&quot;ypsomed.dmu.mat.matlgroup&quot;);
+            if (hasContent(materialGroup))
+                material.setMatlGroup(materialGroup);
+        }
+
+        public static void configurePlantStatus(PlmMaterial material)
+        {
+            String xPlantStatus = Preferences.stringValue(&quot;ypsomed.dmu.mat.xPlantStatus&quot;);
+            if (hasContent(xPlantStatus))
+                material.setStatus(xPlantStatus);
+        }
+
+        public static void configureLab(PlmMaterial material)
+        {
+            String lab = Preferences.stringValue(&quot;ypsomed.dmu.mat.office&quot;);
+            if (hasContent(lab))
+                material.setLabor(lab);
+        }
+
+        public static String getDefaultType()
+        {
+            return Preferences.stringValue(&quot;ypsomed.dmu.mat.type&quot;, &quot;&quot;);
+        }
+
+        public static String getDefaultType(String defaultType)
+        {
+            String type = getDefaultType();
+            if (!hasContent(type))
+                type = defaultType;
+            return type;
+        }
+    }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJbWFnZUljb24gaWNvbiA9IEVudmlyb25tZW50LmdldEltYWdlSWNvblJDKCJzbWFsbC9zcGhlcmVfb2siLCAiRkZGRkZGIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgUGxtTG9uZ1RleHRMaW5lKFBsbUxvbmdUZXh0TGluZS5GT1JNQVRfQUxJR05fTEVGVCwgIiIpKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIEJ1Y2tldE9iamVjdCBidWNrZXRPYmplY3Q7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBuZXcgUGxtTG9uZ1RleHRMaW5lKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>310</text>
@@ -356,6 +419,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
