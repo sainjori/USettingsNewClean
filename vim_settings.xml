@@ -33,12 +33,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1542971076120">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1542973474757">
         <mark key="'" line="599" column="30" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="498" column="67" />
-        <mark key="." line="45" column="0" />
+        <mark key="[" line="199" column="0" />
+        <mark key="]" line="199" column="0" />
+        <mark key="^" line="240" column="27" />
+        <mark key="." line="199" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcExport.java" timestamp="1542807466805" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/proc/doc/ProcessDocSaveLongtext.java" timestamp="1542900430260" />
@@ -123,7 +123,7 @@
         <mark key="'" line="795" column="6" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.1/customize/config/longtext_config_DR1.xml" timestamp="1542898881255" />
-      <file name="/fragment.java" timestamp="1542970338380">
+      <file name="/fragment.java" timestamp="1542973225023">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -233,10 +233,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ICON_STOP</text>
+        <text>collect</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx4bWxBdHRyaWJ1dHNGb3JPYmplY3RMaXN0XD4=</text>
@@ -245,96 +245,31 @@
         <text encoding="base64">ICAgICAgICBTdHJpbmcgbXNnID0gRGljLmdldCgieXBzb21lZC5tZXNzYWdlLmRpYWxvZ2JveC5taXNzaW5nLnRlbXBsYXRlbWF0ZXJpYWwiLAogICAgICAgICAgICAiRGFzIFZvcmxhZ2VtYXRlcmlhbCAlMSBpc3QgbmljaHQgaW0gU0FQLVN5c3RlbSB2b3JoYW5kZW4uICIKICAgICAgICAgICAgICAgICsgIkJpdHRlIGRpZSBLb25maWd1cmF0aW9uIGRlciBQcmVmZXJlbmNlLVZhcmlhYmxlbiAiCiAgICAgICAgICAgICAgICArICInJTInICIKICAgICAgICAgICAgICAgICsgIvxiZXJwcvxmZW4uIERpZSBGdW5rdGlvbiB3aXJkIGJlZW5kZXQuIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LnNhcC5tYW4uU2FwTWFuYWdlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJ1Y2tldE9iamVjdC5nZXRQbG1NYXRlcmlhbCgpLmV4aXN0ZW5jZUNoZWNrKCkpCiAgICAgICAgICAgICAgICBjb250aW51ZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2xlYW4gZnJvbURhZGk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LnNhcC5tYW4uU2FwTWFuYWdlcjsK</text>
+        <text encoding="base64">CiAgICAgICAgCiAgICAgICAgCgogICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>private static class MaterialDefaults
-    {
-        private MaterialDefaults()
-        {
-            // empty
-        }
-
-        public static void configureDefaults(PlmMaterial material)
-        {
-            configureIndSector(material);
-            configureDivision(material);
-            configureBaseUnit(material);
-        }
-
-        public static void configureIndSector(PlmMaterial material)
-        {
-            material.setIndSector(Preferences.stringValue(&quot;ypsomed.dmu.mat.indsector&quot;, &quot;M&quot;));
-        }
-
-        public static void configureBaseUnit(PlmMaterial material)
-        {
-            material.setBaseUnit(Preferences.stringValue(&quot;ypsomed.dmu.mat.baseUnit.&quot; + SapManager.getActiveLanguage().toUpperCase(),
-                Preferences.stringValue(&quot;ypsomed.dmu.mat.baseUnit&quot;, &quot;EA&quot;))); // !!!! noch nicht fertig
-        }
-
-        public static void configureDivision(PlmMaterial material)
-        {
-            String division = Preferences.stringValue(&quot;ypsomed.dmu.mat.division&quot;);
-            if (hasContent(division))
-                material.setDivision(division);
-        }
-
-        public static void configureGroup(PlmMaterial material)
-        {
-            String materialGroup = Preferences.stringValue(&quot;ypsomed.dmu.mat.matlgroup&quot;);
-            if (hasContent(materialGroup))
-                material.setMatlGroup(materialGroup);
-        }
-
-        public static void configurePlantStatus(PlmMaterial material)
-        {
-            String xPlantStatus = Preferences.stringValue(&quot;ypsomed.dmu.mat.xPlantStatus&quot;);
-            if (hasContent(xPlantStatus))
-                material.setStatus(xPlantStatus);
-        }
-
-        public static void configureLab(PlmMaterial material)
-        {
-            String lab = Preferences.stringValue(&quot;ypsomed.dmu.mat.office&quot;);
-            if (hasContent(lab))
-                material.setLabor(lab);
-        }
-
-        public static String getDefaultType()
-        {
-            return Preferences.stringValue(&quot;ypsomed.dmu.mat.type&quot;, &quot;&quot;);
-        }
-
-        public static String getDefaultType(String defaultType)
-        {
-            String type = getDefaultType();
-            if (!hasContent(type))
-                type = defaultType;
-            return type;
-        }
-    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJbWFnZUljb24gaWNvbiA9IEVudmlyb25tZW50LmdldEltYWdlSWNvblJDKCJzbWFsbC9zcGhlcmVfb2siLCAiRkZGRkZGIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIEJ1Y2tldE9iamVjdCBidWNrZXRPYmplY3Q7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG1ldGVyaWFscy5zdHJlYW0oKS5maWx0ZXIobWF0IC0+ICFtYXQuZXhpc3RzSW5TYXAoKSkuY29sbGVjdCh0b0xpc3QoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>310</text>
