@@ -12,6 +12,9 @@
         <mark key="^" line="34" column="24" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1542133076826">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocChangeLongtextMulti.java" timestamp="1542888110246" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.7.1/sapbase-5.1.7.1-sources.jar!/cadagent/objmod/PlmDocument.java" timestamp="1542806935219" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" timestamp="1542803006204">
@@ -33,12 +36,17 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1542973474757">
-        <mark key="'" line="599" column="30" />
-        <mark key="[" line="199" column="0" />
-        <mark key="]" line="199" column="0" />
-        <mark key="^" line="240" column="27" />
-        <mark key="." line="199" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1542976444098">
+        <mark key="'" line="874" column="23" />
+        <mark key="[" line="238" column="119" />
+        <mark key="]" line="239" column="75" />
+        <mark key="^" line="239" column="75" />
+        <mark key="." line="239" column="75" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" timestamp="1542826417091">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcExport.java" timestamp="1542807466805" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/proc/doc/ProcessDocSaveLongtext.java" timestamp="1542900430260" />
@@ -110,7 +118,10 @@
         <mark key="^" line="27" column="32" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" timestamp="1542902266169" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" timestamp="1542636959446">
+      <file name="/Dummy.txt" timestamp="1542976548729">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmMaterial.java" timestamp="1542975212398">
         <mark key="'" line="73" column="45" />
       </file>
       <file name="/system-default.txt" timestamp="1542886426672" />
@@ -123,35 +134,13 @@
         <mark key="'" line="795" column="6" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.1/customize/config/longtext_config_DR1.xml" timestamp="1542898881255" />
-      <file name="/fragment.java" timestamp="1542973225023">
+      <file name="/fragment.java" timestamp="1542976493219">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="393" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
-      <jump line="394" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
-      <jump line="395" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
-      <jump line="396" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
-      <jump line="397" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
-      <jump line="401" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
-      <jump line="402" column="48" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
-      <jump line="404" column="51" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
-      <jump line="407" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
-      <jump line="421" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/proc/mat/PlmProcessMaterialBomSelect.java" />
-      <jump line="147" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
-      <jump line="442" column="25" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
-      <jump line="441" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
-      <jump line="771" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
-      <jump line="103" column="91" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
-      <jump line="249" column="27" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" />
-      <jump line="70" column="69" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/utils/YpsomedVeaHelper.java" />
-      <jump line="213" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" />
-      <jump line="220" column="29" filename="/BrDocument.java" />
-      <jump line="512" column="22" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
-      <jump line="745" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
-      <jump line="423" column="31" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="79" column="35" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="249" column="68" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="444" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
@@ -230,55 +219,77 @@
       <jump line="125" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="126" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="599" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="204" column="49" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="230" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="649" column="31" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="654" column="19" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="718" column="54" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="723" column="28" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="726" column="61" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="729" column="54" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="738" column="20" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="739" column="20" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="741" column="16" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="742" column="16" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="743" column="35" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="799" column="28" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="800" column="109" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="803" column="41" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="817" column="20" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="818" column="41" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="832" column="100" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="865" column="53" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="869" column="23" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="874" column="23" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maW5kQW55KCkuaWZQcmVzZW50KGUgLT4gZS5zZXRFeGlzdHNJblNhcChwbG1NYXRlcmlhbC5leGlzdHNJblNhcCgpKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>collect</text>
+        <text encoding="base64">bWFwKCllIC0+IGUuc2V0RXhpc3RzSW5TYXAocGxtTWF0ZXJpYWwuZXhpc3RzSW5TYXAoKSk7</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx4bWxBdHRyaWJ1dHNGb3JPYmplY3RMaXN0XD4=</text>
+        <text encoding="base64">XDxwbG1NYXRlcmlhbFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgbXNnID0gRGljLmdldCgieXBzb21lZC5tZXNzYWdlLmRpYWxvZ2JveC5taXNzaW5nLnRlbXBsYXRlbWF0ZXJpYWwiLAogICAgICAgICAgICAiRGFzIFZvcmxhZ2VtYXRlcmlhbCAlMSBpc3QgbmljaHQgaW0gU0FQLVN5c3RlbSB2b3JoYW5kZW4uICIKICAgICAgICAgICAgICAgICsgIkJpdHRlIGRpZSBLb25maWd1cmF0aW9uIGRlciBQcmVmZXJlbmNlLVZhcmlhYmxlbiAiCiAgICAgICAgICAgICAgICArICInJTInICIKICAgICAgICAgICAgICAgICsgIvxiZXJwcvxmZW4uIERpZSBGdW5rdGlvbiB3aXJkIGJlZW5kZXQuIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maW5kQW55KCkuaWZQcmVzZW50KGUgLT4gZS5zZXRFeGlzdHNJblNhcChwbG1NYXRlcmlhbC5leGlzdHNJblNhcCgpKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJ1Y2tldE9iamVjdC5nZXRQbG1NYXRlcmlhbCgpLmV4aXN0ZW5jZUNoZWNrKCkpCiAgICAgICAgICAgICAgICBjb250aW51ZTsK</text>
+        <text encoding="base64">ICAgICAgICBQbG1hYwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQbG1hYwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgCiAgICAgICAgCgogICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGxtTWF0ZXJpYWxzLnJlYWROb3RNYWluRGV0YWlscyh0cnVlLCBmYWxzZSxmYWxzZSk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJ1Y2tldE9iamVjdC5nZXRQbG1NYXRlcmlhbCgpLmV4aXN0ZW5jZUNoZWNrKCkpCiAgICAgICAgICAgICAgICBjb250aW51ZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICAgICAgCiAgICAgICAgCgogICAgICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG1ldGVyaWFscy5zdHJlYW0oKS5maWx0ZXIobWF0IC0+ICFtYXQuZXhpc3RzSW5TYXAoKSkuY29sbGVjdCh0b0xpc3QoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>310</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx4bWxBdHRyaWJ1dHNGb3JPYmplY3RMaXN0XD4=</last-search>
+      <last-search encoding="base64">XDxwbG1NYXRlcmlhbFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx4bWxBdHRyaWJ1dHNGb3JPYmplY3RMaXN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwbG1NYXRlcmlhbFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxjb3B5TGlua3NcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -286,7 +297,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJQ09OX0VYQ0xcPg==</entry>
         <entry encoding="base64">XDxva0J1dHRvblRleHRcPg==</entry>
         <entry encoding="base64">XDxidE9rXD4=</entry>
         <entry encoding="base64">XDxjb21wb21lbnRzTGlzdFw+</entry>
@@ -306,6 +316,7 @@
         <entry encoding="base64">XDxQUlBfTkVXX05BTUVTUEFDRVw+</entry>
         <entry encoding="base64">XDxpbnN0YW5jZVw+</entry>
         <entry encoding="base64">XDx4bWxBdHRyaWJ1dHNGb3JPYmplY3RMaXN0XD4=</entry>
+        <entry encoding="base64">XDxwbG1NYXRlcmlhbFw+</entry>
       </history-search>
       <history-cmd>
         <entry>4731</entry>
