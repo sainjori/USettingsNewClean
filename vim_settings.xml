@@ -12,9 +12,11 @@
         <mark key="^" line="34" column="24" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/operations/XFormatOperation.java" timestamp="1542988656947" />
       <file name="/a.dummy" timestamp="1542133076826">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/operations/MapOperation.java" timestamp="1542988425715" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocChangeLongtextMulti.java" timestamp="1542888110246" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.7.1/sapbase-5.1.7.1-sources.jar!/cadagent/objmod/PlmDocument.java" timestamp="1542806935219" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/attributes-from-sap.xml" timestamp="1542987091814">
@@ -38,7 +40,7 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="42" column="2" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/operations/MaraOperation.java" timestamp="1542987105701" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/operations/MaraOperation.java" timestamp="1542988581678" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1542985411594">
         <mark key="'" line="874" column="23" />
         <mark key="[" line="238" column="119" />
@@ -52,7 +54,7 @@
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/applications/ugs/customize/config/dtype.xml" timestamp="1542987067998" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/brobj/WeberDefaultBrowseObject.java" timestamp="1542812191594" />
       <file name="/customer.txt" timestamp="1542886609393" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/operations/DirOperation.java" timestamp="1542982920923" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/operations/DirOperation.java" timestamp="1542988314372" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/convert/omf/OmfConversionInfo.java" timestamp="1542813408050" />
       <file name="/default.txt" timestamp="1542886465178" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1542908518042">
@@ -67,6 +69,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/omf/OmfPronoviaGuiShow.java" timestamp="1542820816694" />
       <file name="/menu.guidef" timestamp="1542886692082" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/operations/FirstNonEmptyOperation.java" timestamp="1542988723822" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" timestamp="1542646791755">
         <mark key="'" line="111" column="35" />
         <mark key="[" line="254" column="0" />
@@ -74,7 +77,7 @@
         <mark key="." line="254" column="0" />
         <mark key="^" line="131" column="67" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/PlmProcessAttribsCreate.java" timestamp="1542983267866" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/PlmProcessAttribsCreate.java" timestamp="1542988487995" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/operations/opcreateservices/OperationFactory.java" timestamp="1542986333344" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneExtended.java" timestamp="1542621049822" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.11.0/base-5.1.11.0-sources.jar!/cadagent/cfc/util/Dialogbox.java" timestamp="1542968717592" />
@@ -111,21 +114,21 @@
       </file>
       <file name="/system-default.txt" timestamp="1542886426672" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/omf/OmfDocDelete.java" timestamp="1542815743064" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" timestamp="1542985649362">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" timestamp="1542987838852">
         <mark key="[" line="79" column="19" />
         <mark key="]" line="80" column="14" />
         <mark key="^" line="80" column="14" />
         <mark key="." line="80" column="14" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/proc/doc/PlmProcessDocumentStatusChange.java" timestamp="1542814547827" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/operations/ApplAttributeOperation.java" timestamp="1542983528234" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/operations/ApplAttributeOperation.java" timestamp="1542989339253" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/omf/OmfTmpFldCreate.java" timestamp="1542816550726" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.13.1/addons-5.1.13.1-sources.jar!/plm/proc/PlmProcessCustConversionSchedule.java" timestamp="1542621667814" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1542820395356">
         <mark key="'" line="795" column="6" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.1/customize/config/longtext_config_DR1.xml" timestamp="1542898881255" />
-      <file name="/fragment.java" timestamp="1542986396389">
+      <file name="/fragment.java" timestamp="1542989332944">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -366,6 +369,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
