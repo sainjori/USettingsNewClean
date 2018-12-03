@@ -3,14 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/attributes-from-sap.xml" timestamp="1543834276660">
-        <mark key="'" line="40" column="20" />
-        <mark key="[" line="516" column="34" />
-        <mark key="]" line="516" column="40" />
-        <mark key="^" line="516" column="40" />
-        <mark key="." line="516" column="40" />
+      <file name="/a.dummy" timestamp="1542133076826">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" timestamp="1543829621732">
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/attributes-from-sap.xml" timestamp="1543836637115">
+        <mark key="'" line="40" column="20" />
+        <mark key="[" line="643" column="7" />
+        <mark key="]" line="643" column="9" />
+        <mark key="^" line="643" column="9" />
+        <mark key="." line="643" column="9" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" timestamp="1543837367299">
         <mark key="'" line="490" column="14" />
         <mark key="[" line="857" column="43" />
         <mark key="]" line="857" column="69" />
@@ -18,28 +21,36 @@
         <mark key="^" line="857" column="69" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateAttributes.java" timestamp="1543834175598">
-        <mark key="'" line="536" column="28" />
-        <mark key="[" line="84" column="25" />
-        <mark key="]" line="85" column="11" />
-        <mark key="." line="85" column="11" />
-        <mark key="^" line="85" column="11" />
+        <mark key="'" line="559" column="28" />
+        <mark key="]" line="12" column="11" />
+        <mark key="." line="12" column="11" />
+        <mark key="^" line="12" column="11" />
       </file>
+      <file name="/attributes-from-sap.xml" timestamp="1543838134088" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" timestamp="1543837667057">
+        <mark key="'" line="111" column="35" />
+        <mark key="[" line="254" column="0" />
+        <mark key="]" line="254" column="0" />
+        <mark key="." line="254" column="0" />
+        <mark key="^" line="131" column="67" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/PlmProcessAttribsCreate.java" timestamp="1543835727771" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/OpXmlParser.java" timestamp="1542990669659">
         <mark key="[" line="245" column="0" />
         <mark key="]" line="245" column="0" />
         <mark key="^" line="245" column="0" />
         <mark key="." line="245" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543832761445">
-        <mark key="]" line="1" column="5" />
+      <file name="/Dummy.txt" timestamp="1543838148416">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" timestamp="1543831929538">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" timestamp="1543836274828">
         <mark key="[" line="79" column="19" />
         <mark key="]" line="80" column="14" />
         <mark key="^" line="80" column="14" />
         <mark key="." line="80" column="14" />
       </file>
-      <file name="/fragment.java" timestamp="1542991263042">
+      <file name="/fragment.java" timestamp="1543838362119">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -156,10 +167,12 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>S</text>
+        <text>config
+
+attributsection</text>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb2N1bWVudFw+</text>
@@ -168,31 +181,33 @@
         <text encoding="base64">ICAgIDxBUFBMX0FUVFJJQlVURSBuYW1lPSJTQVBfRE9DX1ZFUlMiIGhpZGRlbj0iZmFsc2UiPgogICAgICA8TUEgZmllbGQ9IkRPQ1VNRU5UVkVSU0lPTiIvPgogICAgPC9BUFBMX0FUVFJJQlVURT4K</text>
       </register>
       <register name="1" type="4">
+        <text>config
+
+attributsection</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">IC8qCiAgeXBzb21lZCA2NzoKICB1c2UgRElTIGZvciBhdHRyaWJ1dCBtYXBwaW5nIGFuZCBtYWtlIHN1cmUgaXQgZ2V0cyB0aGUgbWF0ZXJpYWwgZGF0YSBhbHNvIHRvIGJlIGF2YWlsYWJsZSBpbiB0byBzYXAgeG1sCiAgICov</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTWF0ZXJpYWxBdHRyaWJ1dGVNYXBwZXJGcm9tU2FwIG1hdGVyaWFsQXR0cmlidXRlTWFwcGVyRnJvbVNhcCA9IG5ldyBNYXRlcmlhbEF0dHJpYnV0ZU1hcHBlckZyb21TYXAoYXR0cmlidXRlc2VjdGlvbk5hbWUpOwogICAgICAgICAgICBQbG1NYXRlcmlhbCBtYXQgPSBtYXREb2NFcXVpcEJ1Y2tldC5nZXRNYXRyaWFsKCkgIT0gbnVsbCA/IG1hdERvY0VxdWlwQnVja2V0LmdldE1hdHJpYWwoKSA6IHBsbUFjY2Vzcy5tYXRlcmlhbE5ldygiKiIpOwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTWF0ZXJpYWxBdHRyaWJ1dGVNYXBwZXJGcm9tU2FwIG1hdGVyaWFsQXR0cmlidXRlTWFwcGVyRnJvbVNhcCA9IG5ldyBNYXRlcmlhbEF0dHJpYnV0ZU1hcHBlckZyb21TYXAoYXR0cmlidXRlc2VjdGlvbk5hbWUpOwogICAgICAgICAgICBQbG1NYXRlcmlhbCBtYXQgPSBtYXREb2NFcXVpcEJ1Y2tldC5nZXRNYXRyaWFsKCkgIT0gbnVsbCA/IG1hdERvY0VxdWlwQnVja2V0LmdldE1hdHJpYWwoKSA6IHBsbUFjY2Vzcy5tYXRlcmlhbE5ldygiKiIpOwogICAgICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IGF0dHJpYnV0ZXMgPSBtYXRlcmlhbEF0dHJpYnV0ZU1hcHBlckZyb21TYXAuZ2V0QXR0cmlidXRlcyggbWF0KTsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Ly8K</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Lwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgPE1BIGZpZWxkPSJNQVRMX1RZUEUiLz4KICAgICAgICA8WEZPUk1BVCBvdXRwdXRGb3JtYXQ9Ik1hdGVyaWFsa3VyenRleHQ/Ii8+CiAgICAgIA==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNQVRMX1RZUEUK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBNQVRMX1RZUEUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBNQVRMX1RZUEUK</text>
       </register>
       <register name=":" type="4">
         <text>310</text>
