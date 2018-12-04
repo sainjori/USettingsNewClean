@@ -7,10 +7,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" timestamp="1543864575158" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" timestamp="1543853125279">
-        <mark key="'" line="815" column="55" />
-        <mark key="^" line="891" column="60" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/@angular/forms/src/validators.d.ts" timestamp="1543942049746" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.11.0/plm-5.1.11.0-sources.jar!/plm/attrib/OpXmlParser.java" timestamp="1542990669659">
         <mark key="[" line="245" column="0" />
@@ -43,6 +39,7 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="/customer.txt" timestamp="1543861765801" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.ts" timestamp="1543944728994" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/dictionary/de/customer.txt" timestamp="1543865638095">
         <mark key="[" line="23" column="44" />
         <mark key="]" line="23" column="46" />
@@ -77,12 +74,13 @@
         <mark key="." line="17" column="82" />
         <mark key="^" line="17" column="82" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.ts" timestamp="1543942327178">
-        <mark key="[" line="154" column="18" />
-        <mark key="]" line="155" column="3" />
-        <mark key="." line="155" column="3" />
-        <mark key="^" line="155" column="3" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.ts" timestamp="1543945937109">
+        <mark key="[" line="152" column="68" />
+        <mark key="]" line="153" column="3" />
+        <mark key="." line="153" column="3" />
+        <mark key="^" line="153" column="3" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1543944788201" />
       <file name="/monitoring_dashboard.triggered_alert [localDashboardDb]" timestamp="1543939071476">
         <mark key="[" line="0" column="0" />
       </file>
@@ -203,44 +201,44 @@
       <jump line="844" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/cfc/pref/Preferences.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmCg==</text>
+      <register name="&quot;" type="4">
+        <text>formGroup</text>
       </register>
       <register name="-" type="4">
-        <text>AC</text>
+        <text>formGroup</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmVmT2JqZWN0c1RhYmxlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNUUklOR19UWVBFID0gInN0cmluZyI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3JtTW9kZWxbdmFyaWFibGVOYW1lXSA9IG5ldyBGb3JtQ29udHJvbCh0aGlzLnZhcmlhYmxlVmFsdWVzW3ZhcmlhYmxlTmFtZV0ucHJlZmVyZW5jZVZhbHVlLCB2YWxpZGF0b3JzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIF9zZXR1cEZvcm0odmFyaWFibGVOYW1lczogc3RyaW5nW10pIHsKICAgIGNvbnN0IGZvcm1Nb2RlbCA9IHt9OwogICAgY29uc3QgcGFzc3dvcmRGb3JtcyA9IHt9CiAgICBmb3IgKGNvbnN0IHZhcmlhYmxlTmFtZSBvZiB2YXJpYWJsZU5hbWVzKSB7CiAgICAgIGNvbnN0IHZhbGlkYXRvcnMgPSBbVmFsaWRhdG9ycy5wYXR0ZXJuKHRoaXMudmFyaWFibGVDb25maWdbdmFyaWFibGVOYW1lXS52YWxpZGF0aW9uUGF0dGVybildOwogICAgICBpZiAodGhpcy52YXJpYWJsZUNvbmZpZ1t2YXJpYWJsZU5hbWVdLnJlcXVpcmVkID09PSAndHJ1ZScpIHsKICAgICAgICB2YWxpZGF0b3JzLnB1c2goVmFsaWRhdG9ycy5yZXF1aXJlZCk7CiAgICAgIH0KICAgICAgaWYgKHRoaXMudmFyaWFibGVDb25maWdbdmFyaWFibGVOYW1lXS50eXBlID09PSAncGFzc3dvcmQnKSB7CiAgICAgICAgcGFzc3dvcmRGb3Jtc1t2YXJpYWJsZU5hbWVdID0gbmV3IEZvcm1Db250cm9sKHRoaXMudmFyaWFibGVWYWx1ZXNbdmFyaWFibGVOYW1lXS5wcmVmZXJlbmNlVmFsdWUsIHZhbGlkYXRvcnMpOwogICAgICB9ZWxzZSB7CiAgICAgICAgZm9ybU1vZGVsW3ZhcmlhYmxlTmFtZV0gPSBuZXcgRm9ybUNvbnRyb2wodGhpcy52YXJpYWJsZVZhbHVlc1t2YXJpYWJsZU5hbWVdLnByZWZlcmVuY2VWYWx1ZSwgdmFsaWRhdG9ycyk7CiAgICAgIH0KICAgIH0KICAgIGxldCBmb3JtR3JvdXAgPSBuZXcgRm9ybUdyb3VwKHBhc3N3b3JkRm9ybXMpOwogICAgZm9ybUdyb3VwLnNldFZhbGlkYXRvcnMoW1ZhbGlkYXRvcnMucmVxdWlyZWQsIHRoaXMuZmZmXSkKICAgIHRoaXMudmFyaWFibGVGb3JtID0gbmV3IEZvcm1Hcm91cChmb3JtTW9kZWwpOwogICAgdGhpcy52YXJpYWJsZUZvcm0uYWRkQ29udHJvbCgicGFzc3dvcmQiLCBmb3JtR3JvdXApOwogIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RydWUnKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ZhbHNlJyk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCBjb25maXJtUGFzc3dvcmQgPSBBQy5nZXQoJ2NvbmZpcm1QYXNzd29yZCcpLnZhbHVlOyAvLyB0byBnZXQgdmFsdWUgaW4gaW5wdXQgdGFnCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgZm9ybU1vZGVsW3ZhcmlhYmxlTmFtZV0gPSBuZXcgRm9ybUNvbnRyb2wodGhpcy52YXJpYWJsZVZhbHVlc1t2YXJpYWJsZU5hbWVdLnByZWZlcmVuY2VWYWx1ZSwgdmFsaWRhdG9ycyk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBmb3JtTW9kZWxbdmFyaWFibGVOYW1lXSA9IG5ldyBGb3JtQ29udHJvbCh0aGlzLnZhcmlhYmxlVmFsdWVzW3ZhcmlhYmxlTmFtZV0ucHJlZmVyZW5jZVZhbHVlLCB2YWxpZGF0b3JzKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBmb3JtTW9kZWxbdmFyaWFibGVOYW1lXSA9IG5ldyBGb3JtQ29udHJvbCh0aGlzLnZhcmlhYmxlVmFsdWVzW3ZhcmlhYmxlTmFtZV0ucHJlZmVyZW5jZVZhbHVlLCB2YWxpZGF0b3JzKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzd29yZEZvcm1zW3ZhcmlhYmxlTmFtZV0gPSBuZXcgRm9ybUNvbnRyb2wodGhpcy52YXJpYWJsZVZhbHVlc1t2YXJpYWJsZU5hbWVdLnByZWZlcmVuY2VWYWx1ZSwgVmFsaWRhdG9ycyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgfWVsc2Ugewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzdGF0aWMgcGFzc3dvcmRWYWxpZGF0aW9uKGNvbnRyb2w6IEFic3RyYWN0Q29udHJvbCk6IFZhbGlkYXRpb25FcnJvcnMgfCBudWxsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7dmFyaWFibGVDb25maWcgfCBqc29ufX0K</text>
+        <text encoding="base64">ICAgICAgZm9ybU1vZGVsW3ZhcmlhYmxlTmFtZV0gPSBuZXcgRm9ybUNvbnRyb2wodGhpcy52YXJpYWJsZVZhbHVlc1t2YXJpYWJsZU5hbWVdLnByZWZlcmVuY2VWYWx1ZSwgdmFsaWRhdG9ycyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>460</text>
