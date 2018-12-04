@@ -23,10 +23,12 @@
       <file name="/dummy.sql" timestamp="1543939123728">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.html" timestamp="1543940961576">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.html" timestamp="1543950250438">
+        <mark key="'" line="1" column="21" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="19" column="33" />
       </file>
       <file name="/Dummy.txt" timestamp="1543938731070">
         <mark key="[" line="0" column="0" />
@@ -74,7 +76,8 @@
         <mark key="." line="17" column="82" />
         <mark key="^" line="17" column="82" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.ts" timestamp="1543945937109">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.ts" timestamp="1543950125492">
+        <mark key="'" line="116" column="37" />
         <mark key="[" line="152" column="68" />
         <mark key="]" line="153" column="3" />
         <mark key="." line="153" column="3" />
@@ -99,12 +102,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="460" column="28" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/cadagent/objmod/PlmImportEntry.java" />
-      <jump line="236" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/cadagent/proc/doc/ProcessExcGetMultidetail.java" />
-      <jump line="187" column="0" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/cadagent/proc/doc/ProcessExcGetMultidetail.java" />
-      <jump line="53" column="29" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/proc/WeberProcessImportExportGet.java" />
-      <jump line="42" column="36" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/proc/WeberProcessImportExportGet.java" />
-      <jump line="181" column="9" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="400" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="476" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="477" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
@@ -199,55 +196,61 @@
       <jump line="751" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/cfc/pref/Preferences.java" />
       <jump line="778" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/cfc/pref/Preferences.java" />
       <jump line="844" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/cfc/pref/Preferences.java" />
+      <jump line="28" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.ts" />
+      <jump line="105" column="40" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.ts" />
+      <jump line="107" column="13" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.ts" />
+      <jump line="116" column="37" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.ts" />
+      <jump line="6" column="62" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.html" />
+      <jump line="1" column="21" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>formGroup</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAge3tyb3cgfCBqc29ufX0K</text>
       </register>
       <register name="-" type="4">
-        <text>formGroup</text>
+        <text>boolean</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmVmT2JqZWN0c1RhYmxlXD4=</text>
+        <text encoding="base64">XDx2YXJpYWJsZUZvcm1cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmb3JtTW9kZWxbdmFyaWFibGVOYW1lXSA9IG5ldyBGb3JtQ29udHJvbCh0aGlzLnZhcmlhYmxlVmFsdWVzW3ZhcmlhYmxlTmFtZV0ucHJlZmVyZW5jZVZhbHVlLCB2YWxpZGF0b3JzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIF9zZXR1cEZvcm0odmFyaWFibGVOYW1lczogc3RyaW5nW10pIHsKICAgIGNvbnN0IGZvcm1Nb2RlbCA9IHt9OwogICAgY29uc3QgcGFzc3dvcmRGb3JtcyA9IHt9CiAgICBmb3IgKGNvbnN0IHZhcmlhYmxlTmFtZSBvZiB2YXJpYWJsZU5hbWVzKSB7CiAgICAgIGNvbnN0IHZhbGlkYXRvcnMgPSBbVmFsaWRhdG9ycy5wYXR0ZXJuKHRoaXMudmFyaWFibGVDb25maWdbdmFyaWFibGVOYW1lXS52YWxpZGF0aW9uUGF0dGVybildOwogICAgICBpZiAodGhpcy52YXJpYWJsZUNvbmZpZ1t2YXJpYWJsZU5hbWVdLnJlcXVpcmVkID09PSAndHJ1ZScpIHsKICAgICAgICB2YWxpZGF0b3JzLnB1c2goVmFsaWRhdG9ycy5yZXF1aXJlZCk7CiAgICAgIH0KICAgICAgaWYgKHRoaXMudmFyaWFibGVDb25maWdbdmFyaWFibGVOYW1lXS50eXBlID09PSAncGFzc3dvcmQnKSB7CiAgICAgICAgcGFzc3dvcmRGb3Jtc1t2YXJpYWJsZU5hbWVdID0gbmV3IEZvcm1Db250cm9sKHRoaXMudmFyaWFibGVWYWx1ZXNbdmFyaWFibGVOYW1lXS5wcmVmZXJlbmNlVmFsdWUsIHZhbGlkYXRvcnMpOwogICAgICB9ZWxzZSB7CiAgICAgICAgZm9ybU1vZGVsW3ZhcmlhYmxlTmFtZV0gPSBuZXcgRm9ybUNvbnRyb2wodGhpcy52YXJpYWJsZVZhbHVlc1t2YXJpYWJsZU5hbWVdLnByZWZlcmVuY2VWYWx1ZSwgdmFsaWRhdG9ycyk7CiAgICAgIH0KICAgIH0KICAgIGxldCBmb3JtR3JvdXAgPSBuZXcgRm9ybUdyb3VwKHBhc3N3b3JkRm9ybXMpOwogICAgZm9ybUdyb3VwLnNldFZhbGlkYXRvcnMoW1ZhbGlkYXRvcnMucmVxdWlyZWQsIHRoaXMuZmZmXSkKICAgIHRoaXMudmFyaWFibGVGb3JtID0gbmV3IEZvcm1Hcm91cChmb3JtTW9kZWwpOwogICAgdGhpcy52YXJpYWJsZUZvcm0uYWRkQ29udHJvbCgicGFzc3dvcmQiLCBmb3JtR3JvdXApOwogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAge3tyb3cgfCBqc29ufX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgPCEtLXt7Y29sIHwganNvbn19LS0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZm9ybU1vZGVsW3ZhcmlhYmxlTmFtZV0gPSBuZXcgRm9ybUNvbnRyb2wodGhpcy52YXJpYWJsZVZhbHVlc1t2YXJpYWJsZU5hbWVdLnByZWZlcmVuY2VWYWx1ZSwgdmFsaWRhdG9ycyk7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIF9zZXR1cEZvcm0odmFyaWFibGVOYW1lczogc3RyaW5nW10pIHsKICAgIGNvbnN0IGZvcm1Nb2RlbCA9IHt9OwogICAgY29uc3QgcGFzc3dvcmRGb3JtcyA9IHt9CiAgICBmb3IgKGNvbnN0IHZhcmlhYmxlTmFtZSBvZiB2YXJpYWJsZU5hbWVzKSB7CiAgICAgIGNvbnN0IHZhbGlkYXRvcnMgPSBbVmFsaWRhdG9ycy5wYXR0ZXJuKHRoaXMudmFyaWFibGVDb25maWdbdmFyaWFibGVOYW1lXS52YWxpZGF0aW9uUGF0dGVybildOwogICAgICBpZiAodGhpcy52YXJpYWJsZUNvbmZpZ1t2YXJpYWJsZU5hbWVdLnJlcXVpcmVkID09PSAndHJ1ZScpIHsKICAgICAgICB2YWxpZGF0b3JzLnB1c2goVmFsaWRhdG9ycy5yZXF1aXJlZCk7CiAgICAgIH0KICAgICAgaWYgKHRoaXMudmFyaWFibGVDb25maWdbdmFyaWFibGVOYW1lXS50eXBlID09PSAncGFzc3dvcmQnKSB7CiAgICAgICAgcGFzc3dvcmRGb3Jtc1t2YXJpYWJsZU5hbWVdID0gbmV3IEZvcm1Db250cm9sKHRoaXMudmFyaWFibGVWYWx1ZXNbdmFyaWFibGVOYW1lXS5wcmVmZXJlbmNlVmFsdWUsIHZhbGlkYXRvcnMpOwogICAgICB9ZWxzZSB7CiAgICAgICAgZm9ybU1vZGVsW3ZhcmlhYmxlTmFtZV0gPSBuZXcgRm9ybUNvbnRyb2wodGhpcy52YXJpYWJsZVZhbHVlc1t2YXJpYWJsZU5hbWVdLnByZWZlcmVuY2VWYWx1ZSwgdmFsaWRhdG9ycyk7CiAgICAgIH0KICAgIH0KICAgIGxldCBmb3JtR3JvdXAgPSBuZXcgRm9ybUdyb3VwKHBhc3N3b3JkRm9ybXMpOwogICAgZm9ybUdyb3VwLnNldFZhbGlkYXRvcnMoW1ZhbGlkYXRvcnMucmVxdWlyZWQsIHRoaXMuZmZmXSkKICAgIHRoaXMudmFyaWFibGVGb3JtID0gbmV3IEZvcm1Hcm91cChmb3JtTW9kZWwpOwogICAgdGhpcy52YXJpYWJsZUZvcm0uYWRkQ29udHJvbCgicGFzc3dvcmQiLCBmb3JtR3JvdXApOwogIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtTW9kZWxbdmFyaWFibGVOYW1lXSA9IG5ldyBGb3JtQ29udHJvbCh0aGlzLnZhcmlhYmxlVmFsdWVzW3ZhcmlhYmxlTmFtZV0ucHJlZmVyZW5jZVZhbHVlLCB2YWxpZGF0b3JzKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtTW9kZWxbdmFyaWFibGVOYW1lXSA9IG5ldyBGb3JtQ29udHJvbCh0aGlzLnZhcmlhYmxlVmFsdWVzW3ZhcmlhYmxlTmFtZV0ucHJlZmVyZW5jZVZhbHVlLCB2YWxpZGF0b3JzKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzd29yZEZvcm1zW3ZhcmlhYmxlTmFtZV0gPSBuZXcgRm9ybUNvbnRyb2wodGhpcy52YXJpYWJsZVZhbHVlc1t2YXJpYWJsZU5hbWVdLnByZWZlcmVuY2VWYWx1ZSwgVmFsaWRhdG9ycyk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfWVsc2Ugewo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgZm9ybU1vZGVsW3ZhcmlhYmxlTmFtZV0gPSBuZXcgRm9ybUNvbnRyb2wodGhpcy52YXJpYWJsZVZhbHVlc1t2YXJpYWJsZU5hbWVdLnByZWZlcmVuY2VWYWx1ZSwgdmFsaWRhdG9ycyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBmb3JtTW9kZWxbdmFyaWFibGVOYW1lXSA9IG5ldyBGb3JtQ29udHJvbCh0aGlzLnZhcmlhYmxlVmFsdWVzW3ZhcmlhYmxlTmFtZV0ucHJlZmVyZW5jZVZhbHVlLCB2YWxpZGF0b3JzKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBmb3JtTW9kZWxbdmFyaWFibGVOYW1lXSA9IG5ldyBGb3JtQ29udHJvbCh0aGlzLnZhcmlhYmxlVmFsdWVzW3ZhcmlhYmxlTmFtZV0ucHJlZmVyZW5jZVZhbHVlLCB2YWxpZGF0b3JzKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzd29yZEZvcm1zW3ZhcmlhYmxlTmFtZV0gPSBuZXcgRm9ybUNvbnRyb2wodGhpcy52YXJpYWJsZVZhbHVlc1t2YXJpYWJsZU5hbWVdLnByZWZlcmVuY2VWYWx1ZSwgVmFsaWRhdG9ycyk7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgfWVsc2Ugewo=</text>
       </register>
       <register name=":" type="4">
         <text>460</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmVmT2JqZWN0c1RhYmxlXD4=</last-search>
+      <last-search encoding="base64">XDx2YXJpYWJsZUZvcm1cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmVmT2JqZWN0c1RhYmxlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx2YXJpYWJsZUZvcm1cPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxjb3B5TGlua3NcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -255,8 +258,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwbG1Cb21JdGVtc1w+</entry>
-        <entry encoding="base64">XDxib21BbHJlYWR5RXhpc3RzXD4=</entry>
         <entry encoding="base64">XDxNQVRfU0hPUlRfVEVYVFw+</entry>
         <entry encoding="base64">XDxib21JdGVtTWF0ZXJpYWxcPg==</entry>
         <entry encoding="base64">XDxjYWRGbGFnXD4=</entry>
@@ -275,6 +276,8 @@
         <entry encoding="base64">XDxkb2N1bWVudFw+</entry>
         <entry>execute</entry>
         <entry encoding="base64">XDxwcmVmT2JqZWN0c1RhYmxlXD4=</entry>
+        <entry encoding="base64">XDx2YXJpYWJsZUNvbmZpZ1w+</entry>
+        <entry encoding="base64">XDx2YXJpYWJsZUZvcm1cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>4731</entry>
