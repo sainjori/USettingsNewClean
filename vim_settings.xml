@@ -20,12 +20,13 @@
         <mark key="^" line="245" column="0" />
         <mark key="." line="245" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1543939080944">
+      <file name="/a.sql" timestamp="1544005845072">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1544003212732">
+      <file name="/dummy.sql" timestamp="1544005840441">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-save-process.ts" timestamp="1544006156944" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.html" timestamp="1543950250438">
         <mark key="'" line="1" column="21" />
         <mark key="[" line="6" column="0" />
@@ -33,8 +34,8 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="17" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544003414706">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1544005460604">
+        <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
@@ -82,18 +83,24 @@
         <mark key="." line="17" column="82" />
         <mark key="^" line="17" column="82" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.ts" timestamp="1544003904866">
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="0" />
-        <mark key="." line="163" column="0" />
-        <mark key="^" line="155" column="39" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.ts" timestamp="1544006230905">
+        <mark key="[" line="163" column="6" />
+        <mark key="]" line="163" column="20" />
+        <mark key="." line="163" column="20" />
+        <mark key="^" line="163" column="20" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1543944788201" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1544006291866">
+        <mark key="'" line="54" column="10" />
+        <mark key="[" line="166" column="33" />
+        <mark key="]" line="166" column="33" />
+        <mark key="." line="166" column="33" />
+        <mark key="^" line="166" column="33" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/@angular/forms/src/directives/validators.d.ts" timestamp="1544003705604">
         <mark key="[" line="106" column="0" />
         <mark key="]" line="106" column="50" />
       </file>
-      <file name="/monitoring_dashboard.triggered_alert [localDashboardDb]" timestamp="1544003126668">
+      <file name="/monitoring_dashboard.triggered_alert [localDashboardDb]" timestamp="1544005840175">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/configuration/ConfigDefinitionProvider.java" timestamp="1543940834013" />
@@ -111,7 +118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="400" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="476" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="477" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="855" column="19" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
@@ -211,55 +217,56 @@
       <jump line="116" column="37" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.ts" />
       <jump line="6" column="62" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.html" />
       <jump line="1" column="21" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.html" />
+      <jump line="54" column="10" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>controls</text>
+        <text>too ealry form control validate gets coalled at start and has no parent. not yet added to formgroup. solution get after fromgropu has been created</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YXJpYWJsZUZvcm1cPg==</text>
+        <text encoding="base64">XDxzYXZlQnV0dG9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIChjOiBBYnN0cmFjdENvbnRyb2wpOiBWYWxpZGF0aW9uRXJyb3JzIHwgbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgcGFzc3dvcmRDb250cm9sLnNldEVycm9ycyhudWxsKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGMucGFyZW50Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5ub3RpZmljYXRpb25zU2VydmljZS5lcnJvcignSW52YWxpZCBkYXRhJywgJ1RoZSBlbnRlcmVkIGRhdGEgbWlzc2VzIGZpZWxkcyBvciBjb250YWlucyBpbnZhbGlkIGRhdGEhJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldCBwYXNzd29yZCA9IGMuZ2V0KCdwYXNzd29yZCcpLnZhbHVlOyAvLyB0byBnZXQgdmFsdWUgaW4gaW5wdXQgdGFnCiAgICBsZXQgY29uZmlybVBhc3N3b3JkID0gYy5nZXQoJ2NvbmZpcm1QYXNzd29yZCcpLnZhbHVlOyAvLyB0byBnZXQgdmFsdWUgaW4gaW5wdXQgdGFnCiAgICBpZihwYXNzd29yZCAhPSBjb25maXJtUGFzc3dvcmQpIHsKICAgICAgY29uc29sZS5sb2coJ2ZhbHNlJyk7CiAgICAgIGMuZ2V0KCdjb25maXJtUGFzc3dvcmQnKS5zZXRFcnJvcnMoIHtNYXRjaFBhc3N3b3JkOiB0cnVlfSApCiAgICB9IGVsc2UgewogICAgICBjb25zb2xlLmxvZygndHJ1ZScpOwogICAgICByZXR1cm4gbnVsbAogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgIGxldCBwYXNzd29yZFJlcGVhdCA9IHB3UmVwZWF0Q29udHJvbC52YWx1ZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KGM6IEFic3RyYWN0Q29udHJvbCk6IFZhbGlkYXRpb25FcnJvcnMgfCBudWxsOwo=</text>
+        <text encoding="base64">ICAgIGxldCBwYXNzd29yZCA9IHBhc3N3b3JkQ29udHJvbC52YWx1ZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGxldCBhYnN0cmFjdENvbnRyb2wxID0gdGhpcy52YXJpYWJsZUZvcm0uY29udHJvbHNbJ21haWwuc2VuZGluZy51c2VyLnBhc3N3b3JkLnJlcGVhdCddOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfWVsc2V7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMudmFyaWFibGVGb3JtCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtTW9kZWxbdmFyaWFibGVOYW1lXSA9IG5ldyBGb3JtQ29udHJvbCh0aGlzLnZhcmlhYmxlVmFsdWVzW3ZhcmlhYmxlTmFtZV0ucHJlZmVyZW5jZVZhbHVlLCB2YWxpZGF0b3JzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCBwYXNzd29yZCA9IGNvbnRyb2wucGFyZW50WydtYWlsLnNlbmRpbmcudXNlci5wYXNzd29yZCddLnZhbHVlOwogICAgbGV0IGNvbmZpcm1QYXNzd29yZCA9IGNvbnRyb2wucGFyZW50WydtYWlsLnNlbmRpbmcudXNlci5wYXNzd29yZC5yZXBlYXQnXS52YWx1ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>460</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2YXJpYWJsZUZvcm1cPg==</last-search>
+      <last-search encoding="base64">XDxzYXZlQnV0dG9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YXJpYWJsZUZvcm1cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzYXZlQnV0dG9uXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxjb3B5TGlua3NcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -267,7 +274,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxNQVRfU0hPUlRfVEVYVFw+</entry>
         <entry encoding="base64">XDxib21JdGVtTWF0ZXJpYWxcPg==</entry>
         <entry encoding="base64">XDxjYWRGbGFnXD4=</entry>
         <entry encoding="base64">XDx0YWJsZVNlbGVjdGlvbkRpYWxvZ1w+</entry>
@@ -287,6 +293,7 @@
         <entry encoding="base64">XDxwcmVmT2JqZWN0c1RhYmxlXD4=</entry>
         <entry encoding="base64">XDx2YXJpYWJsZUNvbmZpZ1w+</entry>
         <entry encoding="base64">XDx2YXJpYWJsZUZvcm1cPg==</entry>
+        <entry encoding="base64">XDxzYXZlQnV0dG9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>4731</entry>
