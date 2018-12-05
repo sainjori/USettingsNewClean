@@ -10,7 +10,7 @@
       <file name="/monitoring_dashboard.alert_filter [localDashboardDb]" timestamp="1544003119673">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/monitoring_dashboard.alert_criterion [localDashboardDb]" timestamp="1544003113683">
+      <file name="/monitoring_dashboard.alert_criterion [localDashboardDb]" timestamp="1544037177392">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0_triggers.sql" timestamp="1544031225911">
@@ -19,7 +19,7 @@
         <mark key="." line="40" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/@angular/forms/src/validators.d.ts" timestamp="1543942049746" />
-      <file name="/a.sql" timestamp="1544026832707">
+      <file name="/a.sql" timestamp="1544037193858">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/cfc/pref/Preferences.java" timestamp="1543863348328">
@@ -28,12 +28,12 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/proc/mat/ProcessMatBomCreate.java" timestamp="1543845728726">
         <mark key="'" line="103" column="5" />
       </file>
-      <file name="/dummy.sql" timestamp="1544026824319">
+      <file name="/dummy.sql" timestamp="1544037179140">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-save-process.ts" timestamp="1544006156944" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" timestamp="1544031363997">
-        <mark key="'" line="193" column="59" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" timestamp="1544037270954">
+        <mark key="'" line="112" column="26" />
         <mark key="[" line="194" column="0" />
         <mark key="]" line="194" column="0" />
         <mark key="^" line="187" column="1" />
@@ -113,16 +113,17 @@
       <file name="/monitoring_dashboard.alert_action [localDashboardDb]" timestamp="1544026622854">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/AlertCriterionEndpoint.java" timestamp="1544036757731">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+      </file>
       <file name="/monitoring_dashboard.triggered_alert [localDashboardDb]" timestamp="1544026624526">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/configuration/ConfigDefinitionProvider.java" timestamp="1544024629311" />
     </filemarks>
     <jumps>
-      <jump line="284" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
-      <jump line="285" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
-      <jump line="286" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
-      <jump line="297" column="35" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="1268" column="19" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="132" column="18" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="280" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
@@ -219,28 +220,32 @@
       <jump line="186" column="23" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" />
       <jump line="251" column="28" filename="$MAVEN_REPOSITORY$/org/liquibase/liquibase-core/3.5.1/liquibase-core-3.5.1.jar!/liquibase/parser/core/xml/dbchangelog-3.5.xsd" />
       <jump line="193" column="59" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" />
+      <jump line="149" column="26" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" />
+      <jump line="39" column="26" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" />
+      <jump line="84" column="26" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" />
+      <jump line="112" column="26" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwb2pvc1RvSW5zZXJ0LmZvckVhY2goZSAtPiBlLnNldExhc3RVcGRhdGVkQnkoc2VjdXJpdHlDb250ZXh0LmdldFVzZXJQcmluY2lwYWwoKS5nZXROYW1lKCkpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9zcWxGaWxlPg==</text>
+        <text>setCreatedBy</text>
       </register>
       <register name="/" type="4">
-        <text>\/</text>
+        <text encoding="base64">XDxsYXN0X3VwZGF0ZWRfYnlcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiIFtuZ0NsYXNzXT0ieydoYXMtZGFuZ2VyJzogIWFsZXJ0RGVmRm9ybS5jb250cm9scy5zZXZlcml0eS52YWxpZCAmJiBhbGVydERlZkZvcm0uY29udHJvbHMuc2V2ZXJpdHkudG91Y2hlZH0iPgo=</text>
+        <text encoding="base64">ICAgICAgICBwb2pvc1RvSW5zZXJ0LmZvckVhY2goZSAtPiBlLnNldENyZWF0ZWRCeShzZWN1cml0eUNvbnRleHQuZ2V0VXNlclByaW5jaXBhbCgpLmdldE5hbWUoKSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwb2pvc1RvSW5zZXJ0LmZvckVhY2goZSAtPiBlLnNldExhc3RVcGRhdGVkQnkoc2VjdXJpdHlDb250ZXh0LmdldFVzZXJQcmluY2lwYWwoKS5nZXROYW1lKCkpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb2pvc1RvSW5zZXJ0LmZvckVhY2goZSAtPiBlLnNldENyZWF0ZWRCeShzZWN1cml0eUNvbnRleHQuZ2V0VXNlclByaW5jaXBhbCgpLmdldE5hbWUoKSkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -258,16 +263,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1wvLzs=</text>
       </register>
     </registers>
     <search>
-      <last-search>\/</last-search>
+      <last-search encoding="base64">XDxsYXN0X3VwZGF0ZWRfYnlcPg==</last-search>
       <last-offset />
-      <last-pattern>\/</last-pattern>
+      <last-pattern encoding="base64">XDxsYXN0X3VwZGF0ZWRfYnlcPg==</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -275,7 +280,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxNQVRTVEFUVVNcPg==</entry>
         <entry encoding="base64">XDxjYXNlQVw+</entry>
         <entry encoding="base64">XDxOQ19BU1NFTUJMWV9TVEFUVVNfTElTVFw+</entry>
         <entry encoding="base64">XDxjb3B5TGlua3NcPg==</entry>
@@ -295,6 +299,7 @@
         <entry encoding="base64">XDxjb25maWdEZWZpbml0aW9uUHJvdmlkZXJcPg==</entry>
         <entry encoding="base64">XDxjaGFuZ2VTZXRBdHRyaWJ1dGVzXD4=</entry>
         <entry>\/</entry>
+        <entry encoding="base64">XDxsYXN0X3VwZGF0ZWRfYnlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>4731</entry>
