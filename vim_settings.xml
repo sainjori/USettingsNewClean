@@ -32,7 +32,7 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="17" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544005460604">
+      <file name="/Dummy.txt" timestamp="1544030652930">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
@@ -204,10 +204,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>defaultExpirationInterval</text>
+        <text>password and password repeat works</text>
       </register>
       <register name="-" type="4">
-        <text>defaultExpirationInterval</text>
+        <text>password and password repeat works</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25maWdEZWZpbml0aW9uUHJvdmlkZXJcPg==</text>
