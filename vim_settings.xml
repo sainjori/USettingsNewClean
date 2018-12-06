@@ -1,49 +1,22 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/CheckResult.java" timestamp="1544098018714" />
       <file name="/a.dummy" timestamp="1543846386611">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/statistic-settings.component.ts" timestamp="1544095723203">
-        <mark key="'" line="162" column="37" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" timestamp="1543864575158" />
       <file name="/monitoring_dashboard.alert_filter [localDashboardDb]" timestamp="1544003119673">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/settings-save-process.ts" timestamp="1544096782721" />
-      <file name="/monitoring_dashboard.alert_criterion [localDashboardDb]" timestamp="1544037177392">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0_triggers.sql" timestamp="1544031225911">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/@angular/forms/src/validators.d.ts" timestamp="1543942049746" />
-      <file name="/a.sql" timestamp="1544037193858">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/cfc/pref/Preferences.java" timestamp="1543863348328">
         <mark key="'" line="844" column="4" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/proc/mat/ProcessMatBomCreate.java" timestamp="1543845728726">
         <mark key="'" line="103" column="5" />
       </file>
-      <file name="/dummy.sql" timestamp="1544037179140">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-save-process.ts" timestamp="1544006156944" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" timestamp="1544037270954">
-        <mark key="'" line="112" column="26" />
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="194" column="0" />
-        <mark key="^" line="187" column="1" />
-        <mark key="." line="194" column="0" />
-      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-save-process.ts" timestamp="1544098770172" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.html" timestamp="1544027327776">
         <mark key="'" line="1" column="21" />
         <mark key="[" line="6" column="0" />
@@ -52,36 +25,14 @@
         <mark key="^" line="17" column="33" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_2_0.xml" timestamp="1544031174020" />
-      <file name="/Dummy.txt" timestamp="1544031461597">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/DashboardApplication.java" timestamp="1543938558421">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/liquibase/liquibase-core/3.5.1/liquibase-core-3.5.1.jar!/liquibase/parser/core/xml/dbchangelog-3.5.xsd" timestamp="1544030975583">
-        <mark key="'" line="251" column="28" />
-      </file>
       <file name="/customer.txt" timestamp="1543861765801" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.ts" timestamp="1543944728994" />
       <file name="/monitoring_dashboard.alert_definition [localDashboardDb]" timestamp="1544026824115">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/backend/api/ectrStatisticSettingsEndpoint.service.ts" timestamp="1544097485148">
-        <mark key="'" line="341" column="9" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/pom.xml" timestamp="1543851607052">
         <mark key="[" line="14" column="18" />
         <mark key="]" line="14" column="19" />
         <mark key="." line="14" column="19" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.html" timestamp="1543939021476">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1544029318235">
         <mark key="'" line="54" column="10" />
@@ -95,6 +46,68 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/ConfigDefinitionEndpoint.java" timestamp="1544024853642">
+        <mark key="'" line="32" column="40" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/AlertCriterionEndpoint.java" timestamp="1544036757731">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/CheckResult.java" timestamp="1544098018714" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/statistic-settings.component.ts" timestamp="1544095723203">
+        <mark key="'" line="162" column="37" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" timestamp="1543864575158" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/settings-save-process.ts" timestamp="1544096782721" />
+      <file name="/monitoring_dashboard.alert_criterion [localDashboardDb]" timestamp="1544037177392">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/MidwayDAO.java" timestamp="1544099113362">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0_triggers.sql" timestamp="1544031225911">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1544037193858">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1544037179140">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" timestamp="1544037270954">
+        <mark key="'" line="112" column="26" />
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="194" column="0" />
+        <mark key="^" line="187" column="1" />
+        <mark key="." line="194" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1544031461597">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/DashboardApplication.java" timestamp="1543938558421">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/liquibase/liquibase-core/3.5.1/liquibase-core-3.5.1.jar!/liquibase/parser/core/xml/dbchangelog-3.5.xsd" timestamp="1544030975583">
+        <mark key="'" line="251" column="28" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.ts" timestamp="1543944728994" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/backend/api/ectrStatisticSettingsEndpoint.service.ts" timestamp="1544097485148">
+        <mark key="'" line="341" column="9" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.html" timestamp="1543939021476">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" timestamp="1544029992954">
         <mark key="'" line="186" column="23" />
         <mark key="[" line="45" column="248" />
@@ -102,16 +115,8 @@
         <mark key="^" line="45" column="215" />
         <mark key="." line="45" column="256" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/ConfigDefinitionEndpoint.java" timestamp="1544024853642">
-        <mark key="'" line="32" column="40" />
-      </file>
       <file name="/monitoring_dashboard.alert_action [localDashboardDb]" timestamp="1544026622854">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/AlertCriterionEndpoint.java" timestamp="1544036757731">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
       </file>
       <file name="/monitoring_dashboard.triggered_alert [localDashboardDb]" timestamp="1544026624526">
         <mark key="[" line="0" column="0" />
@@ -222,7 +227,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBMT0dHRVIgPSBMb2dnZXIuZ2V0TG9nZ2VyKEFsZXJ0RGVmaW5pdGlvblJlYWRQcm9jZXNzLmNsYXNzLmdldE5hbWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBEU0xDb250ZXh0KGNvbmZpZ3VyYXRpb24pCg==</text>
       </register>
       <register name="-" type="4">
         <text>setCreatedBy</text>
@@ -234,19 +239,19 @@
         <text encoding="base64">ICAgICAgICBwb2pvc1RvSW5zZXJ0LmZvckVhY2goZSAtPiBlLnNldENyZWF0ZWRCeShzZWN1cml0eUNvbnRleHQuZ2V0VXNlclByaW5jaXBhbCgpLmdldE5hbWUoKSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBMT0dHRVIgPSBMb2dnZXIuZ2V0TG9nZ2VyKEFsZXJ0RGVmaW5pdGlvblJlYWRQcm9jZXNzLmNsYXNzLmdldE5hbWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBEU0xDb250ZXh0KGNvbmZpZ3VyYXRpb24pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwb2pvc1RvSW5zZXJ0LmZvckVhY2goZSAtPiBlLnNldExhc3RVcGRhdGVkQnkoc2VjdXJpdHlDb250ZXh0LmdldFVzZXJQcmluY2lwYWwoKS5nZXROYW1lKCkpKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBMT0dHRVIgPSBMb2dnZXIuZ2V0TG9nZ2VyKEFsZXJ0RGVmaW5pdGlvblJlYWRQcm9jZXNzLmNsYXNzLmdldE5hbWUoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwb2pvc1RvSW5zZXJ0LmZvckVhY2goZSAtPiBlLnNldENyZWF0ZWRCeShzZWN1cml0eUNvbnRleHQuZ2V0VXNlclByaW5jaXBhbCgpLmdldE5hbWUoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwb2pvc1RvSW5zZXJ0LmZvckVhY2goZSAtPiBlLnNldExhc3RVcGRhdGVkQnkoc2VjdXJpdHlDb250ZXh0LmdldFVzZXJQcmluY2lwYWwoKS5nZXROYW1lKCkpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwb2pvc1RvSW5zZXJ0LmZvckVhY2goZSAtPiBlLnNldENyZWF0ZWRCeShzZWN1cml0eUNvbnRleHQuZ2V0VXNlclByaW5jaXBhbCgpLmdldE5hbWUoKSkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
