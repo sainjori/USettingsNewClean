@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/a.dummy" timestamp="1543846386611">
@@ -9,21 +9,16 @@
       <file name="/monitoring_dashboard.alert_filter [localDashboardDb]" timestamp="1544003119673">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/interfaces/IAlertCriterion.java" timestamp="1544101409731" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/@angular/forms/src/validators.d.ts" timestamp="1543942049746" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/cfc/pref/Preferences.java" timestamp="1543863348328">
         <mark key="'" line="844" column="4" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/run-migrations.bat" timestamp="1544101745555" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/proc/mat/ProcessMatBomCreate.java" timestamp="1543845728726">
         <mark key="'" line="103" column="5" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-save-process.ts" timestamp="1544098770172" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.html" timestamp="1544027327776">
-        <mark key="'" line="1" column="21" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="17" column="33" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_2_0.xml" timestamp="1544031174020" />
       <file name="/customer.txt" timestamp="1543861765801" />
       <file name="/monitoring_dashboard.alert_definition [localDashboardDb]" timestamp="1544026824115">
@@ -34,13 +29,6 @@
         <mark key="]" line="14" column="19" />
         <mark key="." line="14" column="19" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1544029318235">
-        <mark key="'" line="54" column="10" />
-        <mark key="[" line="171" column="10" />
-        <mark key="]" line="171" column="10" />
-        <mark key="." line="171" column="10" />
-        <mark key="^" line="171" column="10" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertDefinitionReadProcess.java" timestamp="1544097879660">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -48,11 +36,6 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/ConfigDefinitionEndpoint.java" timestamp="1544024853642">
         <mark key="'" line="32" column="40" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/AlertCriterionEndpoint.java" timestamp="1544036757731">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/CheckResult.java" timestamp="1544098018714" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/statistic-settings.component.ts" timestamp="1544095723203">
@@ -73,23 +56,22 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1544037193858">
+      <file name="/a.sql" timestamp="1544102668365">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1544037179140">
+      <file name="/monitoring_dashboard.databasechangelog [localDashboardDb]" timestamp="1544102036865">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1544102672971">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" timestamp="1544037270954">
         <mark key="'" line="112" column="26" />
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="194" column="0" />
-        <mark key="^" line="187" column="1" />
-        <mark key="." line="194" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544031461597">
+      <file name="/Dummy.txt" timestamp="1544102510466">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/DashboardApplication.java" timestamp="1543938558421">
         <mark key="[" line="4" column="0" />
@@ -107,13 +89,6 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" timestamp="1544029992954">
-        <mark key="'" line="186" column="23" />
-        <mark key="[" line="45" column="248" />
-        <mark key="]" line="45" column="248" />
-        <mark key="^" line="45" column="215" />
-        <mark key="." line="45" column="256" />
       </file>
       <file name="/monitoring_dashboard.alert_action [localDashboardDb]" timestamp="1544026622854">
         <mark key="[" line="0" column="0" />
@@ -226,11 +201,11 @@
       <jump line="341" column="9" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/backend/api/ectrStatisticSettingsEndpoint.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBEU0xDb250ZXh0KGNvbmZpZ3VyYXRpb24pCg==</text>
+      <register name="&quot;" type="4">
+        <text>ONITORING-74: Wenn du triggers anlegen möchtest, musst du diese in der Migrationsdatei referenzieren:</text>
       </register>
       <register name="-" type="4">
-        <text>setCreatedBy</text>
+        <text>ONITORING-74: Wenn du triggers anlegen möchtest, musst du diese in der Migrationsdatei referenzieren:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsYXN0X3VwZGF0ZWRfYnlcPg==</text>
