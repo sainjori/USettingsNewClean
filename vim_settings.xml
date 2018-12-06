@@ -6,10 +6,14 @@
       <file name="/a.dummy" timestamp="1543846386611">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/statistic-settings.component.ts" timestamp="1544095723203">
+        <mark key="'" line="162" column="37" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" timestamp="1543864575158" />
       <file name="/monitoring_dashboard.alert_filter [localDashboardDb]" timestamp="1544003119673">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/settings-save-process.ts" timestamp="1544095822993" />
       <file name="/monitoring_dashboard.alert_criterion [localDashboardDb]" timestamp="1544037177392">
         <mark key="[" line="0" column="0" />
       </file>
@@ -96,10 +100,6 @@
         <mark key="." line="171" column="10" />
         <mark key="^" line="171" column="10" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/@angular/forms/src/directives/validators.d.ts" timestamp="1544003705604">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="50" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" timestamp="1544029992954">
         <mark key="'" line="186" column="23" />
         <mark key="[" line="45" column="248" />
@@ -124,7 +124,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/configuration/ConfigDefinitionProvider.java" timestamp="1544024629311" />
     </filemarks>
     <jumps>
-      <jump line="1268" column="19" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="132" column="18" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="280" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="314" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
@@ -224,6 +223,7 @@
       <jump line="39" column="26" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" />
       <jump line="84" column="26" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" />
       <jump line="112" column="26" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" />
+      <jump line="162" column="37" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/statistic-settings.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
