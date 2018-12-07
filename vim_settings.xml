@@ -12,7 +12,7 @@
       <file name="/monitoring_dashboard.alert_filter [localDashboardDb]" timestamp="1544003119673">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/monitoring_dashboard.alert_criterion [localDashboardDb]" timestamp="1544110615868">
+      <file name="/monitoring_dashboard.alert_criterion [localDashboardDb]" timestamp="1544181508894">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/MidwayDAO.java" timestamp="1544099113362">
@@ -31,7 +31,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/cfc/pref/Preferences.java" timestamp="1543863348328">
         <mark key="'" line="844" column="4" />
       </file>
-      <file name="/monitoring_dashboard.databasechangelog [localDashboardDb]" timestamp="1544103522320">
+      <file name="/monitoring_dashboard.databasechangelog [localDashboardDb]" timestamp="1544181508924">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/run-migrations.bat" timestamp="1544102979116" />
@@ -79,11 +79,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1544113372930">
-        <mark key="'" line="421" column="60" />
-        <mark key="[" line="273" column="0" />
-        <mark key="]" line="273" column="0" />
-        <mark key="." line="273" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1544182092888">
+        <mark key="'" line="415" column="60" />
+        <mark key="[" line="282" column="0" />
+        <mark key="]" line="282" column="0" />
+        <mark key="." line="282" column="0" />
         <mark key="^" line="272" column="50" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertDefinitionReadProcess.java" timestamp="1544097879660">
@@ -214,7 +214,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChhbGVydEZpbHRlclBvam9zLmxlbmd0aCA9PT0gMCkgewogICAgICAvLyBjb25zdCBtZXRhRGF0YUZpbHRlckZvcm1Hcm91cCA9IHRoaXMuZ2V0TWV0YURhdGFGaWx0ZXJGb3JtR3JvdXAoe2FsZXJ0RmlsdGVyRGF0YToge30sIHR5cGU6ICdNRVRBREFUQSd9KTsKICAgICAgLy8gdGhpcy5yZW1lbWJlckFkZGVkKG1ldGFEYXRhRmlsdGVyRm9ybUdyb3VwLCB0aGlzLmFkZGVkTWV0YUZpbHRlcnMpOwogICAgICAvLyBmb3JtR3JvdXBzLnB1c2gobWV0YURhdGFGaWx0ZXJGb3JtR3JvdXApCiAgICAgIC8vIHJldHVybiB0aGlzLmZiLmFycmF5KGZvcm1Hcm91cHMpOwogICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>=</text>
@@ -226,31 +226,31 @@
         <text encoding="base64">ICAgICAgYWdncmVnYXRpb25UeXBlOiBbYWxlcnRDcml0LmFnZ3JlZ2F0aW9uVHlwZSB8fCAnJywgVmFsaWRhdG9ycy5jb21wb3NlKFtWYWxpZGF0b3JzLnJlcXVpcmVkXSldLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChhbGVydEZpbHRlclBvam9zLmxlbmd0aCA9PT0gMCkgewogICAgICAvLyBjb25zdCBtZXRhRGF0YUZpbHRlckZvcm1Hcm91cCA9IHRoaXMuZ2V0TWV0YURhdGFGaWx0ZXJGb3JtR3JvdXAoe2FsZXJ0RmlsdGVyRGF0YToge30sIHR5cGU6ICdNRVRBREFUQSd9KTsKICAgICAgLy8gdGhpcy5yZW1lbWJlckFkZGVkKG1ldGFEYXRhRmlsdGVyRm9ybUdyb3VwLCB0aGlzLmFkZGVkTWV0YUZpbHRlcnMpOwogICAgICAvLyBmb3JtR3JvdXBzLnB1c2gobWV0YURhdGFGaWx0ZXJGb3JtR3JvdXApCiAgICAgIC8vIHJldHVybiB0aGlzLmZiLmFycmF5KGZvcm1Hcm91cHMpOwogICAgfQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBhdHRyaWJ1dGVzID0gYXR0cmlidXRlc01hcHBpbmdXaXRoRG9jdW1lbnQobWF0RG9jRXF1aXBCdWNrZXQsIGF0dHJpYnV0ZXNlY3Rpb25OYW1lKTsKICAgICAgICAgICAgbWF0RG9jRXF1aXBCdWNrZXQuc2V0QXR0cmlidXRzKGF0dHJpYnV0ZXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBhdHRyaWJ1dGVzID0gYXR0cmlidXRlc01hcHBpbmdXaXRoRG9jdW1lbnQobWF0RG9jRXF1aXBCdWNrZXQsIGF0dHJpYnV0ZXNlY3Rpb25OYW1lKTsKICAgICAgICAgICAgbWF0RG9jRXF1aXBCdWNrZXQuc2V0QXR0cmlidXRzKGF0dHJpYnV0ZXMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYWdncmVnYXRpb25GaWVsZDogW2FsZXJ0Q3JpdC5hZ2dyZWdhdGlvbkZpZWxkIHx8ICcnXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYWdncmVnYXRpb25UeXBlOiBbYWxlcnRDcml0LmFnZ3JlZ2F0aW9uVHlwZSB8fCAnJ10sCg==</text>
+        <text encoding="base64">ICAgICAgYWdncmVnYXRpb25GaWVsZDogW2FsZXJ0Q3JpdC5hZ2dyZWdhdGlvbkZpZWxkIHx8ICcnXSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7e2NvbnRyb2wuZ2V0KCd2YWx1ZScpLnZhbGlkfX0K</text>
+        <text encoding="base64">ICAgICAgYWdncmVnYXRpb25UeXBlOiBbYWxlcnRDcml0LmFnZ3JlZ2F0aW9uVHlwZSB8fCAnJ10sCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1wvLzs=</text>
