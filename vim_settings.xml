@@ -15,11 +15,11 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.html" timestamp="1544183113064" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/run-migrations.bat" timestamp="1544102979116" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateAttributes.java" timestamp="1544178727265">
-        <mark key="[" line="96" column="100" />
-        <mark key="]" line="97" column="58" />
-        <mark key="." line="97" column="58" />
-        <mark key="^" line="97" column="58" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateAttributes.java" timestamp="1544200852283">
+        <mark key="[" line="88" column="17" />
+        <mark key="]" line="88" column="16" />
+        <mark key="." line="88" column="16" />
+        <mark key="^" line="88" column="16" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-save-process.ts" timestamp="1544190776592">
         <mark key="[" line="155" column="86" />
@@ -266,10 +266,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>if (matDocEquipBucket.getMatrial() != null)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>if (matDocEquipBucket.getMatrial() != null)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWxldGVkQ2FsY3VsYXRlZFZhbHVlSURzXD4=</text>
