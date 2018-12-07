@@ -3,16 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/backend/api/eventLogEndpoint.service.ts" timestamp="1544184549813" />
       <file name="/a.dummy" timestamp="1543846386611">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/statistic-settings.component.ts" timestamp="1544095723203">
-        <mark key="'" line="162" column="37" />
       </file>
       <file name="/monitoring_dashboard.alert_filter [localDashboardDb]" timestamp="1544003119673">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/monitoring_dashboard.alert_criterion [localDashboardDb]" timestamp="1544181508894">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/monitoring_dashboard.kibana_dashboard [localDashboardDb]" timestamp="1544184785964">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/MidwayDAO.java" timestamp="1544099113362">
@@ -29,9 +30,6 @@
       <file name="/a.sql" timestamp="1544102668365">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/cfc/pref/Preferences.java" timestamp="1543863348328">
-        <mark key="'" line="844" column="4" />
-      </file>
       <file name="/monitoring_dashboard.databasechangelog [localDashboardDb]" timestamp="1544181508924">
         <mark key="[" line="0" column="0" />
       </file>
@@ -42,14 +40,11 @@
         <mark key="." line="97" column="58" />
         <mark key="^" line="97" column="58" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/proc/mat/ProcessMatBomCreate.java" timestamp="1543845728726">
-        <mark key="'" line="103" column="5" />
-      </file>
-      <file name="/dummy.sql" timestamp="1544110616137">
+      <file name="/monitoring_dashboard.event_log_entry [localDashboardDb]" timestamp="1544184750418">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" timestamp="1544037270954">
-        <mark key="'" line="112" column="26" />
+      <file name="/dummy.sql" timestamp="1544184786142">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1544177701394">
         <mark key="[" line="0" column="0" />
@@ -61,16 +56,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/liquibase/liquibase-core/3.5.1/liquibase-core-3.5.1.jar!/liquibase/parser/core/xml/dbchangelog-3.5.xsd" timestamp="1544030975583">
-        <mark key="'" line="251" column="28" />
-      </file>
       <file name="/monitoring_dashboard.alert_definition [localDashboardDb]" timestamp="1544026824115">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.ts" timestamp="1544183278415" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/backend/api/ectrStatisticSettingsEndpoint.service.ts" timestamp="1544097485148">
-        <mark key="'" line="341" column="9" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/pom.xml" timestamp="1543851607052">
         <mark key="[" line="9" column="18" />
         <mark key="]" line="9" column="19" />
@@ -81,8 +70,8 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1544183357562">
-        <mark key="'" line="415" column="60" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" timestamp="1544184519113">
+        <mark key="'" line="70" column="10" />
         <mark key="[" line="427" column="0" />
         <mark key="]" line="427" column="0" />
         <mark key="^" line="424" column="24" />
@@ -98,9 +87,6 @@
         <mark key="]" line="187" column="93" />
         <mark key="." line="187" column="93" />
         <mark key="^" line="187" column="93" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/ConfigDefinitionEndpoint.java" timestamp="1544024853642">
-        <mark key="'" line="32" column="40" />
       </file>
       <file name="/monitoring_dashboard.alert_action [localDashboardDb]" timestamp="1544026622854">
         <mark key="[" line="0" column="0" />
@@ -119,10 +105,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="314" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
-      <jump line="315" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
-      <jump line="323" column="17" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
-      <jump line="834" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="835" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="842" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="844" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
@@ -219,6 +201,10 @@
       <jump line="162" column="37" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/statistic-settings.component.ts" />
       <jump line="341" column="9" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/backend/api/ectrStatisticSettingsEndpoint.service.ts" />
       <jump line="413" column="60" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
+      <jump line="47" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
+      <jump line="386" column="11" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
+      <jump line="411" column="33" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
+      <jump line="70" column="10" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -228,7 +214,7 @@
         <text>setCreatedBy</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsYXN0X3VwZGF0ZWRfYnlcPg==</text>
+        <text encoding="base64">XDxtZXRhRmlsdGVyRmllbGRzRXZlbnRMb2dzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwb2pvc1RvSW5zZXJ0LmZvckVhY2goZSAtPiBlLnNldENyZWF0ZWRCeShzZWN1cml0eUNvbnRleHQuZ2V0VXNlclByaW5jaXBhbCgpLmdldE5hbWUoKSkpOwo=</text>
@@ -265,9 +251,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsYXN0X3VwZGF0ZWRfYnlcPg==</last-search>
+      <last-search encoding="base64">XDxtZXRhRmlsdGVyRmllbGRzRXZlbnRMb2dzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsYXN0X3VwZGF0ZWRfYnlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtZXRhRmlsdGVyRmllbGRzRXZlbnRMb2dzXD4=</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -275,8 +261,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYXNlQVw+</entry>
-        <entry encoding="base64">XDxOQ19BU1NFTUJMWV9TVEFUVVNfTElTVFw+</entry>
         <entry encoding="base64">XDxjb3B5TGlua3NcPg==</entry>
         <entry encoding="base64">XDxidE9LXD4=</entry>
         <entry encoding="base64">XDxwbkJ1dHRvbklubmVyXD4=</entry>
@@ -295,6 +279,8 @@
         <entry encoding="base64">XDxjaGFuZ2VTZXRBdHRyaWJ1dGVzXD4=</entry>
         <entry>\/</entry>
         <entry encoding="base64">XDxsYXN0X3VwZGF0ZWRfYnlcPg==</entry>
+        <entry encoding="base64">XDxtZXRhRmlsdGVyRmllbGRzXD4=</entry>
+        <entry encoding="base64">XDxtZXRhRmlsdGVyRmllbGRzRXZlbnRMb2dzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>4731</entry>
