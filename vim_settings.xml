@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/@angular/router/src/config.d.ts" timestamp="1544196124467">
+        <mark key="'" line="335" column="25" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/AlertActionsEndpoint.java" timestamp="1544188443715">
         <mark key="[" line="59" column="97" />
         <mark key="]" line="60" column="100" />
@@ -20,8 +23,14 @@
         <mark key="." line="56" column="100" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertCriteriaPlannedTask.java" timestamp="1544443552165" />
+      <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/DSLContext.java" timestamp="1544447239993">
+        <mark key="'" line="110" column="30" />
+      </file>
       <file name="/monitoring_dashboard.alert_filter [localDashboardDb]" timestamp="1544003119673">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/settings-save-process.ts" timestamp="1544190710982">
+        <mark key="'" line="18" column="2" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/email/MailContent.java" timestamp="1544443823868" />
       <file name="/monitoring_dashboard.alert_criterion [localDashboardDb]" timestamp="1544442806353">
@@ -73,6 +82,9 @@
       <file name="/dummy.sql" timestamp="1544443259570">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/client-overview/client-info/client-info.component.ts" timestamp="1544185572660">
+        <mark key="'" line="36" column="2" />
+      </file>
       <file name="/Dummy.txt" timestamp="1544444067039">
         <mark key="[" line="0" column="0" />
       </file>
@@ -89,6 +101,12 @@
       </file>
       <file name="/monitoring_dashboard.alert_definition [localDashboardDb]" timestamp="1544442819691">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/edit-settings/edit-settings.component.ts" timestamp="1544190192230">
+        <mark key="'" line="85" column="13" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1544185643077">
+        <mark key="'" line="358" column="16" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-routing.module.ts" timestamp="1544197391395">
         <mark key="[" line="47" column="4" />
@@ -108,10 +126,11 @@
         <mark key="." line="158" column="32" />
         <mark key="^" line="158" column="32" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertCriteriaChecker.java" timestamp="1544445562604">
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertCriteriaChecker.java" timestamp="1544447167093">
+        <mark key="[" line="126" column="58" />
+        <mark key="]" line="126" column="58" />
+        <mark key="." line="126" column="58" />
+        <mark key="^" line="128" column="16" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" timestamp="1544437608931">
         <mark key="'" line="240" column="25" />
@@ -137,7 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="726" column="61" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="729" column="54" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="738" column="20" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="739" column="20" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
@@ -237,13 +255,14 @@
       <jump line="135" column="7" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
       <jump line="207" column="38" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
       <jump line="182" column="33" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-save-process.ts" />
+      <jump line="110" column="30" filename="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/DSLContext.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRyaWdnZXJlZEF0LmFmdGVyKCkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>selectCount</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;smtp.gmail.com&quot;</text>
+        <text>selectCount</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWxldGVkQ2FsY3VsYXRlZFZhbHVlSURzXD4=</text>
@@ -252,31 +271,31 @@
         <text encoding="base64">ICAgICAgICBMaXN0PFRyaWdnZXJlZEFsZXJ0UG9qbz4gdHJpZ2dlcmVkQWxlcnRQb2pvcyA9IGFsZXJ0VHJpZ2dlcmVkRGFvLmZldGNoQnlBbGVydERlZmluaXRpb25JZChhbGVydERlZklkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRyaWdnZXJlZEF0LmFmdGVyKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9uZyBkdXJhdGlvbiA9IGNyaXRlcmlvbi5nZXREdXJhdGlvbigpOwogICAgICAgICAgICBBbGVydENyaXRlcmlvblRpbWVmcmFtZSB0aW1lRnJhbWUgPSBjcml0ZXJpb24uZ2V0VGltZWZyYW1lKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cmlnZ2VyZWRBbGVydFBvam9zLnN0cmVhbSgpLm1hcChlIC0+IG5ldyBEYXRlKGUuZ2V0VHJpZ2dlcmVkQXQoKS5nZXRUaW1lKCkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRyaWdnZXJlZEF0LmFmdGVyKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cmlnZ2VyZWRBbGVydFBvam9zLnN0cmVhbSgpLm1hcChlIC0+IG5ldyBEYXRlKGUuZ2V0VHJpZ2dlcmVkQXQoKS5nZXRUaW1lKCkpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnRUcmlnZ2VyZWREYW8uaW5zZXJ0KHRyaWdnZXJlZEFsZXJ0UG9qbyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCB2YWxpZGF0b3JGbjEgPSBWYWxpZGF0b3JzLmNvbXBvc2UoW1ZhbGlkYXRvcnMucmVxdWlyZWRdKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnRUcmlnZ2VyZWREYW8uaW5zZXJ0KHRyaWdnZXJlZEFsZXJ0UG9qbyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCB2YWxpZGF0b3JGbjEgPSBWYWxpZGF0b3JzLmNvbXBvc2UoW1ZhbGlkYXRvcnMucmVxdWlyZWRdKTsK</text>
       </register>
       <register name=":" type="4">
         <text>154</text>
