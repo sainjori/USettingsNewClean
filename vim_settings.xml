@@ -13,6 +13,9 @@
         <mark key="." line="60" column="100" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/CheckResult.java" timestamp="1544439397499" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/JSONDataBinding.java" timestamp="1544447907125">
+        <mark key="'" line="84" column="27" />
+      </file>
       <file name="/a.dummy" timestamp="1543846386611">
         <mark key="[" line="0" column="0" />
       </file>
@@ -88,6 +91,9 @@
       <file name="/Dummy.txt" timestamp="1544444067039">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/DSL.java" timestamp="1544447852206">
+        <mark key="'" line="12743" column="49" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1544439045977">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -126,11 +132,10 @@
         <mark key="." line="158" column="32" />
         <mark key="^" line="158" column="32" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertCriteriaChecker.java" timestamp="1544447167093">
-        <mark key="[" line="126" column="58" />
-        <mark key="]" line="126" column="58" />
-        <mark key="." line="126" column="58" />
-        <mark key="^" line="128" column="16" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/alerts/AlertCriteriaChecker.java" timestamp="1544448070066">
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="126" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" timestamp="1544437608931">
         <mark key="'" line="240" column="25" />
@@ -156,9 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="729" column="54" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
-      <jump line="738" column="20" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
-      <jump line="739" column="20" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="741" column="16" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="742" column="16" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="743" column="35" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
@@ -256,55 +258,58 @@
       <jump line="207" column="38" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.ts" />
       <jump line="182" column="33" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-save-process.ts" />
       <jump line="110" column="30" filename="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/DSLContext.java" />
+      <jump line="12743" column="49" filename="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/DSL.java" />
+      <jump line="19" column="21" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/JSONDataBinding.java" />
+      <jump line="84" column="27" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/JSONDataBinding.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>selectCount</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5jcmVhdGUoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>selectCount</text>
+        <text>create</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWxldGVkQ2FsY3VsYXRlZFZhbHVlSURzXD4=</text>
+        <text encoding="base64">XDxEU0xcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMaXN0PFRyaWdnZXJlZEFsZXJ0UG9qbz4gdHJpZ2dlcmVkQWxlcnRQb2pvcyA9IGFsZXJ0VHJpZ2dlcmVkRGFvLmZldGNoQnlBbGVydERlZmluaXRpb25JZChhbGVydERlZklkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9uZyBkdXJhdGlvbiA9IGNyaXRlcmlvbi5nZXREdXJhdGlvbigpOwogICAgICAgICAgICBBbGVydENyaXRlcmlvblRpbWVmcmFtZSB0aW1lRnJhbWUgPSBjcml0ZXJpb24uZ2V0VGltZWZyYW1lKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5jcmVhdGUoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRyaWdnZXJlZEF0LmFmdGVyKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5tYXgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cmlnZ2VyZWRBbGVydFBvam9zLnN0cmVhbSgpLm1hcChlIC0+IG5ldyBEYXRlKGUuZ2V0VHJpZ2dlcmVkQXQoKS5nZXRUaW1lKCkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9uZyBkdXJhdGlvbiA9IGNyaXRlcmlvbi5nZXREdXJhdGlvbigpOwogICAgICAgICAgICBBbGVydENyaXRlcmlvblRpbWVmcmFtZSB0aW1lRnJhbWUgPSBjcml0ZXJpb24uZ2V0VGltZWZyYW1lKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRyaWdnZXJlZEF0LmFmdGVyKCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cmlnZ2VyZWRBbGVydFBvam9zLnN0cmVhbSgpLm1hcChlIC0+IG5ldyBEYXRlKGUuZ2V0VHJpZ2dlcmVkQXQoKS5nZXRUaW1lKCkpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnRUcmlnZ2VyZWREYW8uaW5zZXJ0KHRyaWdnZXJlZEFsZXJ0UG9qbyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCB2YWxpZGF0b3JGbjEgPSBWYWxpZGF0b3JzLmNvbXBvc2UoW1ZhbGlkYXRvcnMucmVxdWlyZWRdKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
       </register>
       <register name=":" type="4">
         <text>154</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWxldGVkQ2FsY3VsYXRlZFZhbHVlSURzXD4=</last-search>
+      <last-search encoding="base64">XDxEU0xcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWxldGVkQ2FsY3VsYXRlZFZhbHVlSURzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxEU0xcPg==</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -312,7 +317,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbnN0YW5jZVw+</entry>
         <entry encoding="base64">XDx4bWxBdHRyaWJ1dHNGb3JPYmplY3RMaXN0XD4=</entry>
         <entry encoding="base64">XDxwbG1NYXRlcmlhbFw+</entry>
         <entry encoding="base64">XDxkb2N1bWVudFw+</entry>
@@ -332,6 +336,7 @@
         <entry encoding="base64">XDxhZGRlZE1ldGFGaWx0ZXJzXD4=</entry>
         <entry encoding="base64">XDxhbGVydERlZmluaXRpb25Qb2pvXD4=</entry>
         <entry encoding="base64">XDxkZWxldGVkQ2FsY3VsYXRlZFZhbHVlSURzXD4=</entry>
+        <entry encoding="base64">XDxEU0xcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>4731</entry>
