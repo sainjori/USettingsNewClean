@@ -74,7 +74,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/client-overview/client-info/client-info.component.ts" timestamp="1544185572660">
         <mark key="'" line="36" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544549261482">
+      <file name="/Dummy.txt" timestamp="1544615725985">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -246,8 +246,10 @@
       <jump line="144" column="8" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGR0RmFjdG9yeSA9IHRoaXMuY29tcG9uZW50RmFjdG9yeVJlc29sdmVyLnJlc29sdmVDb21wb25lbnRGYWN0b3J5KER5bmFtaWNEYXRhVGFibGVDb21wb25lbnQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Es funktioniert doch noch nicht richtig. Wenn an einer DMU-Komponente nur eine Materialnummer vorhanden ist, dann findet offenbar kein Attributer-Mapping statt, obwohl vorher das Material erkannt und im SAP auf Existenz geprüft wurde. Das sieht dann im Logfile so aus:
+
+Eigentlich müsste das Attribute Mapping mit den Materialdaten und mit leeren Dokumentdaten aufgerufen werden. Bitte schau mal nach wo es hier klemmt.</text>
       </register>
       <register name="-" type="4">
         <text>dynamicDataTableComponentComponentFactory</text>
@@ -258,32 +260,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRoaXMuZHQuaW5zdGFuY2UucmVmcmVzaCgpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGR0RmFjdG9yeSA9IHRoaXMuY29tcG9uZW50RmFjdG9yeVJlc29sdmVyLnJlc29sdmVDb21wb25lbnRGYWN0b3J5KER5bmFtaWNEYXRhVGFibGVDb21wb25lbnQpOwo=</text>
+      <register name="1" type="4">
+        <text>Es funktioniert doch noch nicht richtig. Wenn an einer DMU-Komponente nur eine Materialnummer vorhanden ist, dann findet offenbar kein Attributer-Mapping statt, obwohl vorher das Material erkannt und im SAP auf Existenz geprüft wurde. Das sieht dann im Logfile so aus:
+
+Eigentlich müsste das Attribute Mapping mit den Materialdaten und mit leeren Dokumentdaten aufgerufen werden. Bitte schau mal nach wo es hier klemmt.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGR0RmFjdG9yeSA9IHRoaXMuY29tcG9uZW50RmFjdG9yeVJlc29sdmVyLnJlc29sdmVDb21wb25lbnRGYWN0b3J5KER5bmFtaWNEYXRhVGFibGVDb21wb25lbnQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHZpZXdDb250YWluZXJSZWYgPSB0aGlzLmN1cnJlbnRBcHBBZEhvc3Qudmlld0NvbnRhaW5lclJlZjsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHZpZXdDb250YWluZXJSZWYuY2xlYXIoKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGR5bmFtaWNUYWJsZTogRHluYW1pY0RhdGFUYWJsZUNvbXBvbmVudDxBbGVydFRyaWdnZXJlZFJlc3BvbnNlPjsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMuY3VycmVudEFwcEFkSG9zdC52aWV3Q29udGFpbmVyUmVmLmNsZWFyKCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHZpZXdDb250YWluZXJSZWYgPSB0aGlzLmN1cnJlbnRBcHBBZEhvc3Qudmlld0NvbnRhaW5lclJlZjsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHZpZXdDb250YWluZXJSZWYuY2xlYXIoKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBwcml2YXRlIGR5bmFtaWNUYWJsZTogRHluYW1pY0RhdGFUYWJsZUNvbXBvbmVudDxBbGVydFRyaWdnZXJlZFJlc3BvbnNlPjsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vIHRoaXMuY3VycmVudEFwcEFkSG9zdC52aWV3Q29udGFpbmVyUmVmLmNsZWFyKCk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGR5bmFtaWNUYWJsZS5zZXRBZGRpdGlvbmFsRmlsdGVyKHsKICAgICAgX3R5cGU6ICdDT05EJywKICAgICAgZmllbGQ6ICdncm91cCcsCiAgICAgIG9wZXJhbmQ6ICc9JywKICAgICAgdmFsdWU6IGdyb3VwCiAgICB9KTsKICAgIGR5bmFtaWNUYWJsZS5yZWZyZXNoKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgIGR5bmFtaWNUYWJsZS5zZXRBZGRpdGlvbmFsRmlsdGVyKHsKICAgICAgX3R5cGU6ICdDT05EJywKICAgICAgZmllbGQ6ICdncm91cCcsCiAgICAgIG9wZXJhbmQ6ICc9JywKICAgICAgdmFsdWU6IGdyb3VwCiAgICB9KTsKICAgIGR5bmFtaWNUYWJsZS5yZWZyZXNoKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>154</text>
