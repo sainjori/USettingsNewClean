@@ -3,9 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/conv/ConvertBeforeGetConversionRequest.java" timestamp="1544633388783" />
       <file name="/a.dummy" timestamp="1543846386611">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.2-rc20/sapbase-5.1.13.2-rc20.jar!/cadagent/proc/doc/ProcessDocDelete.class" timestamp="1544634020533" />
       <file name="/monitoring_dashboard.alert_filter [localDashboardDb]" timestamp="1544003119673">
         <mark key="[" line="0" column="0" />
       </file>
@@ -43,17 +45,16 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/defined-alerts/defined-alerts.component.ts" timestamp="1544532405618">
-        <mark key="'" line="51" column="2" />
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
-        <mark key="^" line="131" column="76" />
-        <mark key="." line="148" column="0" />
-      </file>
       <file name="/monitoring_dashboard.alert_definition [localDashboardDb]" timestamp="1544522295235">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1544632196913" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/fctr_extensions/src/main/java/com/dscsag/cust/renk/omf/OmfFaToolCreateRevision.java" timestamp="1544634084862" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1544634497439">
+        <mark key="[" line="273" column="0" />
+        <mark key="]" line="273" column="0" />
+        <mark key="." line="273" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.2-rc20/sapbase-5.1.13.2-rc20-sources.jar!/cadagent/proc/doc/ProcessDocDelete.java" timestamp="1544633213352" />
       <file name="/monitoring_dashboard.alert_criterion [localDashboardDb]" timestamp="1544442806353">
         <mark key="[" line="0" column="0" />
       </file>
@@ -79,7 +80,7 @@
       <file name="/dummy.sql" timestamp="1544549352057">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544615725985">
+      <file name="/Dummy.txt" timestamp="1544634275273">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -87,21 +88,11 @@
       <file name="/monitoring_dashboard.preference [localDashboardDb]" timestamp="1544532325551">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1544537474899">
-        <mark key="'" line="82" column="2" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.html" timestamp="1544544571843">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
         <mark key="^" line="13" column="74" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/add-alert/add-alert.component.html" timestamp="1544437608931">
-        <mark key="'" line="240" column="25" />
-        <mark key="[" line="218" column="42" />
-        <mark key="]" line="218" column="42" />
-        <mark key="." line="218" column="42" />
-        <mark key="^" line="216" column="99" />
       </file>
       <file name="/monitoring_dashboard.alert_action [localDashboardDb]" timestamp="1544522489245">
         <mark key="[" line="0" column="0" />
@@ -114,7 +105,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="15" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/ConfigDefinitionEndpoint.java" />
       <jump line="27" column="37" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/ConfigDefinitionEndpoint.java" />
       <jump line="30" column="61" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/ConfigDefinitionEndpoint.java" />
       <jump line="32" column="40" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/ConfigDefinitionEndpoint.java" />
@@ -214,50 +204,49 @@
       <jump line="143" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" />
       <jump line="144" column="8" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" />
       <jump line="168" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
+      <jump line="281" column="24" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Es funktioniert doch noch nicht richtig. Wenn an einer DMU-Komponente nur eine Materialnummer vorhanden ist, dann findet offenbar kein Attributer-Mapping statt, obwohl vorher das Material erkannt und im SAP auf Existenz geprüft wurde. Das sieht dann im Logfile so aus:
-
-Eigentlich müsste das Attribute Mapping mit den Materialdaten und mit leeren Dokumentdaten aufgerufen werden. Bitte schau mal nach wo es hier klemmt.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>dynamicDataTableComponentComponentFactory</text>
+        <text>rollback</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeVJlc29sdmVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZHQuaW5zdGFuY2UucmVmcmVzaCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVEb2N1bWVudEluU2FwKHBsbURvY3VtZW50KTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>Es funktioniert doch noch nicht richtig. Wenn an einer DMU-Komponente nur eine Materialnummer vorhanden ist, dann findet offenbar kein Attributer-Mapping statt, obwohl vorher das Material erkannt und im SAP auf Existenz geprüft wurde. Das sieht dann im Logfile so aus:
-
-Eigentlich müsste das Attribute Mapping mit den Materialdaten und mit leeren Dokumentdaten aufgerufen werden. Bitte schau mal nach wo es hier klemmt.</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGR0RmFjdG9yeSA9IHRoaXMuY29tcG9uZW50RmFjdG9yeVJlc29sdmVyLnJlc29sdmVDb21wb25lbnRGYWN0b3J5KER5bmFtaWNEYXRhVGFibGVDb21wb25lbnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHZpZXdDb250YWluZXJSZWYgPSB0aGlzLmN1cnJlbnRBcHBBZEhvc3Qudmlld0NvbnRhaW5lclJlZjsK</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGIgPSBQcmVmZXJlbmNlcy5ib29sZWFuVmFsdWUoInJlbmsuZG9jdW1lbnRzLmNyZWF0ZS5vdmVyd3JpdGUuZW5hYmxlZCIsIGZhbHNlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZpZXdDb250YWluZXJSZWYuY2xlYXIoKTsK</text>
+        <text encoding="base64">ICAgICAgZWxzZSBpZiAoUHJlZmVyZW5jZXMuc3RyaW5nVmFsdWUoInJlbmsiKS5lcXVhbHNJZ25vcmVDYXNlKCkpewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGR5bmFtaWNUYWJsZTogRHluYW1pY0RhdGFUYWJsZUNvbXBvbmVudDxBbGVydFRyaWdnZXJlZFJlc3BvbnNlPjsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMuY3VycmVudEFwcEFkSG9zdC52aWV3Q29udGFpbmVyUmVmLmNsZWFyKCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGR5bmFtaWNUYWJsZS5zZXRBZGRpdGlvbmFsRmlsdGVyKHsKICAgICAgX3R5cGU6ICdDT05EJywKICAgICAgZmllbGQ6ICdncm91cCcsCiAgICAgIG9wZXJhbmQ6ICc9JywKICAgICAgdmFsdWU6IGdyb3VwCiAgICB9KTsKICAgIGR5bmFtaWNUYWJsZS5yZWZyZXNoKCk7Cg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjcmVhdGVEb2N1bWVudEluU2FwKHBsbURvY3VtZW50KTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="9" type="4">
+        <text>Es funktioniert doch noch nicht richtig. Wenn an einer DMU-Komponente nur eine Materialnummer vorhanden ist, dann findet offenbar kein Attributer-Mapping statt, obwohl vorher das Material erkannt und im SAP auf Existenz geprüft wurde. Das sieht dann im Logfile so aus:
+
+Eigentlich müsste das Attribute Mapping mit den Materialdaten und mit leeren Dokumentdaten aufgerufen werden. Bitte schau mal nach wo es hier klemmt.</text>
       </register>
       <register name=":" type="4">
         <text>154</text>
