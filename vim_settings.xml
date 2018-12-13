@@ -3,11 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/CreateAssemblyToolProcess.java" timestamp="1544722029809">
-        <mark key="[" line="314" column="27" />
-        <mark key="]" line="314" column="27" />
-        <mark key="." line="314" column="27" />
-        <mark key="^" line="315" column="69" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/CreateAssemblyToolProcess.java" timestamp="1544723583900">
+        <mark key="[" line="300" column="48" />
+        <mark key="]" line="301" column="18" />
+        <mark key="." line="301" column="18" />
+        <mark key="^" line="301" column="18" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/addons/ectr-teamcenter-integration/customize/config/default.txt" timestamp="1544722983034">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="4" />
+        <mark key="^" line="15" column="4" />
+        <mark key="." line="15" column="4" />
       </file>
       <file name="/a.dummy" timestamp="1543846386611">
         <mark key="[" line="0" column="0" />
@@ -28,6 +34,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/addons/ectr-teamcenter-integration/customize/config/tc_attribute_mapping.csv" timestamp="1544721521291" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/ff.ts" timestamp="1544544192387">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="34" />
+        <mark key="." line="3" column="34" />
+        <mark key="^" line="3" column="34" />
+      </file>
       <file name="/monitoring_dashboard.event_log_entry [localDashboardDb]" timestamp="1544549295722">
         <mark key="[" line="0" column="0" />
       </file>
@@ -36,13 +48,6 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" timestamp="1544704843626" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2-rc20/plm-5.1.13.2-rc20-sources.jar!/plm/sess/ApplPart.java" timestamp="1544710152033" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" timestamp="1544549238895">
-        <mark key="'" line="144" column="8" />
-        <mark key="[" line="168" column="80" />
-        <mark key="]" line="169" column="3" />
-        <mark key="." line="169" column="3" />
-        <mark key="^" line="169" column="3" />
-      </file>
       <file name="/dummy.sql" timestamp="1544549352057">
         <mark key="[" line="0" column="0" />
       </file>
@@ -60,7 +65,16 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/datacontainer/Doc.java" timestamp="1544708655186">
         <mark key="'" line="28" column="9" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1544712672167">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmProcessMaterialSetAll.java" timestamp="1544722946264">
+        <mark key="'" line="436" column="93" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.html" timestamp="1544544571843">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="13" column="74" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1544722916030">
         <mark key="'" line="375" column="20" />
         <mark key="[" line="293" column="0" />
         <mark key="]" line="293" column="0" />
@@ -72,17 +86,13 @@
       <file name="/monitoring_dashboard.triggered_alert [localDashboardDb]" timestamp="1544549341443">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1544721873786">
+      <file name="/fragment.java" timestamp="1544723548714">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="193" column="59" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" />
-      <jump line="149" column="26" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" />
-      <jump line="39" column="26" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" />
-      <jump line="84" column="26" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" />
       <jump line="112" column="26" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_7_0.xml" />
       <jump line="162" column="37" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/statistic-settings.component.ts" />
       <jump line="341" column="9" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/backend/api/ectrStatisticSettingsEndpoint.service.ts" />
@@ -179,55 +189,59 @@
       <jump line="14" column="27" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/datacontainer/Doc.java" />
       <jump line="28" column="9" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/datacontainer/Doc.java" />
       <jump line="567" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" />
+      <jump line="172" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmProcessMaterialSetAll.java" />
+      <jump line="104" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmProcessMaterialSetAll.java" />
+      <jump line="124" column="15" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmProcessMaterialSetAll.java" />
+      <jump line="436" column="93" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmProcessMaterialSetAll.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGRpdGlvbmFsRmlsZXNcPg==</text>
+        <text encoding="base64">XDxBUElfTkFNRVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFwaVBhcmFtZXRlci5hZGRJbXBvcnQoIklWX1RDX0NMQVNTX05BTUUiLCBjbGFzc0lkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2xhc3NBbGxvY2F0aW9uLmdldFBsbVZhbHVlQXNzaWdubWVudHMoKS5yZW1vdmVJZihlIC0+IHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRlc3QiKTsKICAgICAgICBlLmdldFZhbHVlQXQoMGspCiAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgIH0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZSkK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IHByaXZhdGUgdm9pZCBjcmVhdGVTdG9vbERhdGFYbWwoRmlsZSBtYWluT3JpZ2luYWwpCiAgewogICAgLy8gIisrY29udmVydC5leGUiIC1wIHBmYWRcMTAwMDAyNTg4NXVnbTAwMF8wMC5wcnQgLWNyZWF0ZV9tZXRhaW5mIC1kb250X3NhdmVfcGFydCAtbG9hZF9jb21wb25lbnRzIC1zZWFyY2hfZGlycyBwZmFkCiAgICBUcmFjZS5wcmludGxuKDQsICJDUkVBVEUgU1RPT0xfREFUQV9YTUwgIEZPUjogICIgKyBtYWluT3JpZ2luYWwuZ2V0UGF0aCgpKTsKCiAgICBTdHJpbmcgYW5hbHlzZVByb2dyYW0gPSBnZXRBbmFseXNlUHJvZ3JhbSgpOwogICAgVHJhY2UucHJpbnRsbig0LCAiQW5hbHlzZXByb2dyYW06ICAiICsgYW5hbHlzZVByb2dyYW0pOwoKICAgIExpc3Q8U3RyaW5nPiBwYXJhbWV0ZXJzID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICBwYXJhbWV0ZXJzLmFkZChhbmFseXNlUHJvZ3JhbSk7CiAgICBwYXJhbWV0ZXJzLmFkZCgiLXAiKTsKICAgIHBhcmFtZXRlcnMuYWRkKG1haW5PcmlnaW5hbC5nZXRQYXRoKCkpOwogICAgcGFyYW1ldGVycy5hZGQoIi1jcmVhdGVfbWV0YWluZiIpOwovLyAgICBwYXJhbWV0ZXJzLmFkZCgiLWRvbnRfc2F2ZV9wYXJ0Iik7Ci8vICAgIHBhcmFtZXRlcnMuYWRkKCItbG9hZF9jb21wb25lbnRzIik7Ci8vICAgIHBhcmFtZXRlcnMuYWRkKCItc2VhcmNoX2RpcnMiKTsKLy8gICAgcGFyYW1ldGVycy5hZGQocGFydEZpbGUuZ2V0UGFyZW50KCkpOwoKICAgIFRyYWNlLnByaW50bG4oNCwgU3RyaW5nLmZvcm1hdCgiW0lORk9dIENhbGwgZXh0ZXJuYWwgUHJvZ3JhbSAlcyB3aXRoIHBhcmFtZXRlcjogJXMiLCBhbmFseXNlUHJvZ3JhbSwgIHBhcmFtZXRlcnMudG9TdHJpbmcoKSkpOwogICAgdHJ5CiAgICB7CiAgICAgIGNhbGxFeHRlcm5hbFByb2dyYW0ocGFyYW1ldGVycyk7CiAgICB9CiAgICBjYXRjaCAoRGVmYXVsdExvZ0V4Y2VwdGlvbiBlKQogICAgewogICAgICBUcmFjZS5wcmludGxuKDAsIGUpOwogICAgfQogIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY2xhc3NBbGxvY2F0aW9uLmdldFBsbVZhbHVlQXNzaWdubWVudHMoKS5mb3IK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY3JlYXRlTWV0YWluZnMobWFpbk9yaWdpbmFsKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNoZWNraW5PcmlnaW5hbHMoZG9jdW1lbnQsIG1haW5PcmlnaW5hbCwgYWRkaXRpb25hbE9yaWdpbmFscyk7Cgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IHByaXZhdGUgdm9pZCBjcmVhdGVTdG9vbERhdGFYbWwoRmlsZSBtYWluT3JpZ2luYWwpCiAgewogICAgLy8gIisrY29udmVydC5leGUiIC1wIHBmYWRcMTAwMDAyNTg4NXVnbTAwMF8wMC5wcnQgLWNyZWF0ZV9tZXRhaW5mIC1kb250X3NhdmVfcGFydCAtbG9hZF9jb21wb25lbnRzIC1zZWFyY2hfZGlycyBwZmFkCiAgICBUcmFjZS5wcmludGxuKDQsICJDUkVBVEUgU1RPT0xfREFUQV9YTUwgIEZPUjogICIgKyBtYWluT3JpZ2luYWwuZ2V0UGF0aCgpKTsKCiAgICBTdHJpbmcgYW5hbHlzZVByb2dyYW0gPSBnZXRBbmFseXNlUHJvZ3JhbSgpOwogICAgVHJhY2UucHJpbnRsbig0LCAiQW5hbHlzZXByb2dyYW06ICAiICsgYW5hbHlzZVByb2dyYW0pOwoKICAgIExpc3Q8U3RyaW5nPiBwYXJhbWV0ZXJzID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICBwYXJhbWV0ZXJzLmFkZChhbmFseXNlUHJvZ3JhbSk7CiAgICBwYXJhbWV0ZXJzLmFkZCgiLXAiKTsKICAgIHBhcmFtZXRlcnMuYWRkKG1haW5PcmlnaW5hbC5nZXRQYXRoKCkpOwogICAgcGFyYW1ldGVycy5hZGQoIi1jcmVhdGVfbWV0YWluZiIpOwovLyAgICBwYXJhbWV0ZXJzLmFkZCgiLWRvbnRfc2F2ZV9wYXJ0Iik7Ci8vICAgIHBhcmFtZXRlcnMuYWRkKCItbG9hZF9jb21wb25lbnRzIik7Ci8vICAgIHBhcmFtZXRlcnMuYWRkKCItc2VhcmNoX2RpcnMiKTsKLy8gICAgcGFyYW1ldGVycy5hZGQocGFydEZpbGUuZ2V0UGFyZW50KCkpOwoKICAgIFRyYWNlLnByaW50bG4oNCwgU3RyaW5nLmZvcm1hdCgiW0lORk9dIENhbGwgZXh0ZXJuYWwgUHJvZ3JhbSAlcyB3aXRoIHBhcmFtZXRlcjogJXMiLCBhbmFseXNlUHJvZ3JhbSwgIHBhcmFtZXRlcnMudG9TdHJpbmcoKSkpOwogICAgdHJ5CiAgICB7CiAgICAgIGNhbGxFeHRlcm5hbFByb2dyYW0ocGFyYW1ldGVycyk7CiAgICB9CiAgICBjYXRjaCAoRGVmYXVsdExvZ0V4Y2VwdGlvbiBlKQogICAgewogICAgICBUcmFjZS5wcmludGxuKDAsIGUpOwogICAgfQogIH0=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIEZpbGUgZ2V0QWRkaXRpb25hbEZvbGRlcihGaWxlIG1haW5PcmlnaW5hbCkKICB7CiAgICBTdHJpbmcgcmVwbGFjZSA9IG1haW5PcmlnaW5hbC5nZXRBYnNvbHV0ZVBhdGgoKS5yZXBsYWNlKCIuIiwgIiwiKTsKICAgIEZpbGUgZmlsZSA9IG5ldyBGaWxlKHJlcGxhY2UpOwogICAgaWYgKGZpbGUuZXhpc3RzKCkpCiAgICAgIHJldHVybiBmaWxlOwogICAgcmV0dXJuIG51bGw7CiAgfQo=</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name=":" type="4">
         <text>439</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGRpdGlvbmFsRmlsZXNcPg==</last-search>
+      <last-search encoding="base64">XDxBUElfTkFNRVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGRpdGlvbmFsRmlsZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxBUElfTkFNRVw+</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -235,7 +249,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2YXJpYWJsZUZvcm1cPg==</entry>
         <entry encoding="base64">XDxzYXZlQnV0dG9uXD4=</entry>
         <entry encoding="base64">XDxjb25maWdEZWZpbml0aW9uUHJvdmlkZXJcPg==</entry>
         <entry encoding="base64">XDxjaGFuZ2VTZXRBdHRyaWJ1dGVzXD4=</entry>
@@ -255,6 +268,7 @@
         <entry encoding="base64">XDxncm91cHNcPg==</entry>
         <entry encoding="base64">XDxxdWVyeVJlc29sdmVyXD4=</entry>
         <entry encoding="base64">XDxhZGRpdGlvbmFsRmlsZXNcPg==</entry>
+        <entry encoding="base64">XDxBUElfTkFNRVw+</entry>
       </history-search>
       <history-cmd>
         <entry>4731</entry>
