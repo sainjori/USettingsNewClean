@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/CreateAssemblyToolProcess.java" timestamp="1544723583900">
-        <mark key="[" line="300" column="48" />
-        <mark key="]" line="301" column="18" />
-        <mark key="." line="301" column="18" />
-        <mark key="^" line="301" column="18" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/CreateAssemblyToolProcess.java" timestamp="1544726252058">
+        <mark key="[" line="199" column="84" />
+        <mark key="]" line="199" column="96" />
+        <mark key="." line="199" column="96" />
+        <mark key="^" line="199" column="96" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/addons/ectr-teamcenter-integration/customize/config/default.txt" timestamp="1544722983034">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/addons/ectr-teamcenter-integration/customize/config/default.txt" timestamp="1544725421688">
         <mark key="[" line="15" column="4" />
         <mark key="]" line="15" column="4" />
         <mark key="^" line="15" column="4" />
@@ -33,7 +33,7 @@
       <file name="/monitoring_dashboard.databasechangelog [localDashboardDb]" timestamp="1544181508924">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/addons/ectr-teamcenter-integration/customize/config/tc_attribute_mapping.csv" timestamp="1544721521291" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/addons/ectr-teamcenter-integration/customize/config/tc_attribute_mapping.csv" timestamp="1544725566722" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/ff.ts" timestamp="1544544192387">
         <mark key="[" line="3" column="17" />
         <mark key="]" line="3" column="34" />
@@ -86,10 +86,10 @@
       <file name="/monitoring_dashboard.triggered_alert [localDashboardDb]" timestamp="1544549341443">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1544723548714">
+      <file name="/fragment.java" timestamp="1544726104603">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
     </filemarks>
     <jumps>
@@ -196,16 +196,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElfTkFNRVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFwaVBhcmFtZXRlci5hZGRJbXBvcnQoIklWX1RDX0NMQVNTX05BTUUiLCBjbGFzc0lkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xhc3NBbGxvY2F0aW9uLmFzc2lnblZhbHVlKGNoYXJOYW1lLCBiaWdEZWNpbWFsVmFsdWUudG9QbGFpblN0cmluZygpLCB2YWx1ZS5zaXplKCkgPiAxKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgY2xhc3NBbGxvY2F0aW9uLmdldFBsbVZhbHVlQXNzaWdubWVudHMoKS5yZW1vdmVJZihlIC0+IHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRlc3QiKTsKICAgICAgICBlLmdldFZhbHVlQXQoMGspCiAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgIH0pOwo=</text>
