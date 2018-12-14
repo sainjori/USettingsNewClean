@@ -3,26 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/CreateAssemblyToolProcess.java" timestamp="1544806621466">
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/addons/ectr-teamcenter-integration/customize/config/default.txt" timestamp="1544725421688">
         <mark key="[" line="15" column="4" />
         <mark key="]" line="15" column="4" />
         <mark key="^" line="15" column="4" />
         <mark key="." line="15" column="4" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/email/MailContent.java" timestamp="1544520342510">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/common-components.module.ts" timestamp="1544544053006">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.2-rc20/sapbase-5.1.13.2-rc20-sources.jar!/cadagent/objmod/PlmClass.java" timestamp="1544790031808" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/addons/ectr-teamcenter-integration/customize/config/tc_attribute_mapping.csv" timestamp="1544725566722" />
@@ -35,24 +20,9 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" timestamp="1544708992528">
         <mark key="'" line="567" column="2" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/app.module.ts" timestamp="1544544910571">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" timestamp="1544704843626" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2-rc20/plm-5.1.13.2-rc20-sources.jar!/plm/sess/ApplPart.java" timestamp="1544710152033" />
-      <file name="/Dummy.txt" timestamp="1544801761682">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts-view.directive.ts" timestamp="1544544507218">
-        <mark key="[" line="6" column="11" />
-        <mark key="]" line="6" column="11" />
-        <mark key="." line="6" column="11" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1544439045977">
+      <file name="/Dummy.txt" timestamp="1544814987765">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -66,7 +36,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerProcessCheckinGenerateMetainfData.java" timestamp="1544801077669">
         <mark key="[" line="108" column="0" />
         <mark key="]" line="108" column="0" />
-        <mark key="^" line="106" column="83" />
         <mark key="." line="108" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.html" timestamp="1544544571843">
@@ -75,11 +44,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="13" column="74" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1544808736827">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1544814562537">
         <mark key="'" line="96" column="36" />
-        <mark key="[" line="293" column="0" />
-        <mark key="]" line="293" column="0" />
-        <mark key="." line="293" column="0" />
+        <mark key="[" line="115" column="87" />
+        <mark key="]" line="176" column="13" />
+        <mark key="." line="176" column="13" />
+        <mark key="^" line="176" column="13" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.2-rc20/sapbase-5.1.13.2-rc20-sources.jar!/cadagent/proc/mat/ProcessMatCreateDark.java" timestamp="1544799323696" />
       <file name="/fragment.java" timestamp="1544726104603">
