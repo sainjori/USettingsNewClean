@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/CreateAssemblyToolProcess.java" timestamp="1544790757134">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/CreateAssemblyToolProcess.java" timestamp="1544801694093">
         <mark key="[" line="386" column="42" />
-        <mark key="]" line="386" column="44" />
-        <mark key="." line="386" column="44" />
-        <mark key="^" line="386" column="44" />
+        <mark key="]" line="387" column="71" />
+        <mark key="." line="387" column="71" />
+        <mark key="^" line="387" column="71" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/addons/ectr-teamcenter-integration/customize/config/default.txt" timestamp="1544725421688">
         <mark key="[" line="15" column="4" />
@@ -28,7 +28,7 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/AssemblyComponent.java" timestamp="1544704843626" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2-rc20/plm-5.1.13.2-rc20-sources.jar!/plm/sess/ApplPart.java" timestamp="1544710152033" />
-      <file name="/Dummy.txt" timestamp="1544789766704">
+      <file name="/Dummy.txt" timestamp="1544801761682">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -167,11 +167,11 @@
       <jump line="716" column="46" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>&quot;DE&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>classId</text>
+        <text>&quot;DE&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElfTkFNRVw+</text>
