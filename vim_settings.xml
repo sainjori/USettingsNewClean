@@ -18,6 +18,12 @@
       <file name="/monitoring_dashboard.alert_criterion [localDashboardDb]" timestamp="1544442806353">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/attributes-from-sap.xml" timestamp="1545059357556">
+        <mark key="[" line="504" column="51" />
+        <mark key="]" line="504" column="54" />
+        <mark key="." line="504" column="54" />
+        <mark key="^" line="504" column="54" />
+      </file>
       <file name="/monitoring_dashboard.kibana_dashboard [localDashboardDb]" timestamp="1544184785964">
         <mark key="[" line="0" column="0" />
       </file>
@@ -93,7 +99,7 @@
       <file name="/monitoring_dashboard.triggered_alert [localDashboardDb]" timestamp="1544549341443">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1544817186068">
+      <file name="/fragment.java" timestamp="1545059267304">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -203,10 +209,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bucketObjects</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>bucketObjects</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbkJ1dHRvblw+</text>
