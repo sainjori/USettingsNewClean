@@ -22,11 +22,11 @@
       <file name="/monitoring_dashboard.alert_criterion [localDashboardDb]" timestamp="1544442806353">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/pom.xml" timestamp="1545131484975">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/pom.xml" timestamp="1545133784613">
         <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="22" />
-        <mark key="^" line="12" column="22" />
-        <mark key="." line="12" column="22" />
+        <mark key="]" line="12" column="24" />
+        <mark key="^" line="12" column="24" />
+        <mark key="." line="12" column="24" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/attributes-from-sap.xml" timestamp="1545061875270">
         <mark key="[" line="512" column="53" />
@@ -249,10 +249,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4.3.0-SNAPSHOT</text>
+        <text>4.4.24</text>
       </register>
       <register name="-" type="4">
-        <text>4.3.0-SNAPSHOT</text>
+        <text>4.4.24</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQbG1Qcm9jZXNzRG9jdW1lbnRDb3B5QXNcPg==</text>
