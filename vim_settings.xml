@@ -22,11 +22,11 @@
       <file name="/monitoring_dashboard.alert_criterion [localDashboardDb]" timestamp="1544442806353">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/pom.xml" timestamp="1545125297308">
-        <mark key="[" line="18" column="17" />
-        <mark key="]" line="12" column="34" />
-        <mark key="^" line="12" column="34" />
-        <mark key="." line="12" column="34" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/pom.xml" timestamp="1545131484975">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="22" />
+        <mark key="^" line="12" column="22" />
+        <mark key="." line="12" column="22" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/attributes-from-sap.xml" timestamp="1545061875270">
         <mark key="[" line="512" column="53" />
@@ -72,6 +72,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" timestamp="1544708992528">
         <mark key="'" line="567" column="2" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" timestamp="1545131123828" />
       <file name="/dummy.sql" timestamp="1544549352057">
         <mark key="[" line="0" column="0" />
       </file>
@@ -80,8 +81,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/__JKProcessDocumentSaveAsGui.java" timestamp="1545125495473">
-        <mark key="'" line="499" column="72" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/__JKProcessDocumentSaveAsGui.java" timestamp="1545130694479">
+        <mark key="'" line="436" column="58" />
         <mark key="[" line="508" column="23" />
         <mark key="]" line="508" column="32" />
         <mark key="^" line="508" column="32" />
@@ -109,8 +110,8 @@
         <mark key="]" line="108" column="0" />
         <mark key="." line="108" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" timestamp="1545129997659">
-        <mark key="'" line="1248" column="34" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" timestamp="1545131281979">
+        <mark key="'" line="274" column="7" />
         <mark key="[" line="45" column="24" />
         <mark key="]" line="45" column="23" />
         <mark key="." line="45" column="23" />
@@ -138,27 +139,13 @@
       <file name="/monitoring_dashboard.triggered_alert [localDashboardDb]" timestamp="1544549341443">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1545062131154">
+      <file name="/fragment.java" timestamp="1545130278706">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="11" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/objects/ParsedAlertActionDTO.java" />
-      <jump line="37" column="11" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/objects/ParsedAlertActionDTO.java" />
-      <jump line="48" column="11" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/objects/ParsedAlertActionDTO.java" />
-      <jump line="59" column="11" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/objects/ParsedAlertActionDTO.java" />
-      <jump line="70" column="11" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/objects/ParsedAlertActionDTO.java" />
-      <jump line="81" column="11" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/objects/ParsedAlertActionDTO.java" />
-      <jump line="92" column="11" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/objects/ParsedAlertActionDTO.java" />
-      <jump line="103" column="11" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/objects/ParsedAlertActionDTO.java" />
-      <jump line="109" column="12" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/objects/ParsedAlertActionDTO.java" />
-      <jump line="120" column="22" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/objects/ParsedAlertActionDTO.java" />
-      <jump line="121" column="42" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/objects/ParsedAlertActionDTO.java" />
-      <jump line="34" column="34" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/pojos/AlertActionPojo.java" />
-      <jump line="47" column="42" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/pojos/AlertActionPojo.java" />
-      <jump line="59" column="30" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/pojos/AlertActionPojo.java" />
       <jump line="69" column="36" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/pojos/AlertActionPojo.java" />
       <jump line="118" column="20" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/pojos/AlertActionPojo.java" />
       <jump line="122" column="50" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/pojos/AlertActionPojo.java" />
@@ -245,16 +232,30 @@
       <jump line="307" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
       <jump line="314" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
       <jump line="1248" column="34" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="436" column="58" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/__JKProcessDocumentSaveAsGui.java" />
+      <jump line="76" column="16" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="104" column="28" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="105" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="160" column="19" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="161" column="19" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="195" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="196" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="197" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="198" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="715" column="87" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="739" column="25" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="803" column="42" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="274" column="7" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>LogStack;</text>
+        <text>4.3.0-SNAPSHOT</text>
       </register>
       <register name="-" type="4">
-        <text>LogStack;</text>
+        <text>4.3.0-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMb2dTdGFja1w+</text>
+        <text encoding="base64">XDxQbG1Qcm9jZXNzRG9jdW1lbnRDb3B5QXNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICB0YWJsZVNlbGVjdGlvbkRpYWxvZy5yZW1vdmVBbGxDaG9pY2VzKCk7Cg==</text>
@@ -291,9 +292,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMb2dTdGFja1w+</last-search>
+      <last-search encoding="base64">XDxQbG1Qcm9jZXNzRG9jdW1lbnRDb3B5QXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMb2dTdGFja1w+</last-pattern>
+      <last-pattern encoding="base64">XDxQbG1Qcm9jZXNzRG9jdW1lbnRDb3B5QXNcPg==</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -301,7 +302,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtZXRhRmlsdGVyRmllbGRzRXZlbnRMb2dzXD4=</entry>
         <entry encoding="base64">XDxhZGRlZE1ldGFGaWx0ZXJzXD4=</entry>
         <entry encoding="base64">XDxhbGVydERlZmluaXRpb25Qb2pvXD4=</entry>
         <entry encoding="base64">XDxkZWxldGVkQ2FsY3VsYXRlZFZhbHVlSURzXD4=</entry>
@@ -321,6 +321,7 @@
         <entry encoding="base64">XDxKQ29cPg==</entry>
         <entry encoding="base64">XDxKQ09cPg==</entry>
         <entry encoding="base64">XDxMb2dTdGFja1w+</entry>
+        <entry encoding="base64">XDxQbG1Qcm9jZXNzRG9jdW1lbnRDb3B5QXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>4731</entry>
