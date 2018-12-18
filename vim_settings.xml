@@ -13,6 +13,9 @@
       <file name="/a.dummy" timestamp="1544821246232">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/Backup/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/PlmProcessDocumentCopyAsGui.java" timestamp="1545137489904">
+        <mark key="'" line="729" column="12" />
+      </file>
       <file name="/monitoring_dashboard.alert_filter [localDashboardDb]" timestamp="1544003119673">
         <mark key="[" line="0" column="0" />
       </file>
@@ -22,11 +25,10 @@
       <file name="/monitoring_dashboard.alert_criterion [localDashboardDb]" timestamp="1544442806353">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/pom.xml" timestamp="1545133784613">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="24" />
-        <mark key="^" line="12" column="24" />
-        <mark key="." line="12" column="24" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/pom.xml" timestamp="1545137245435">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/attributes-from-sap.xml" timestamp="1545061875270">
         <mark key="[" line="512" column="53" />
@@ -72,7 +74,13 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" timestamp="1544708992528">
         <mark key="'" line="567" column="2" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" timestamp="1545131123828" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" timestamp="1545136950232">
+        <mark key="'" line="220" column="31" />
+        <mark key="[" line="163" column="13" />
+        <mark key="]" line="163" column="14" />
+        <mark key="^" line="163" column="14" />
+        <mark key="." line="163" column="14" />
+      </file>
       <file name="/dummy.sql" timestamp="1544549352057">
         <mark key="[" line="0" column="0" />
       </file>
@@ -110,8 +118,8 @@
         <mark key="]" line="108" column="0" />
         <mark key="." line="108" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" timestamp="1545131281979">
-        <mark key="'" line="274" column="7" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" timestamp="1545136721646">
+        <mark key="'" line="892" column="6" />
         <mark key="[" line="45" column="24" />
         <mark key="]" line="45" column="23" />
         <mark key="." line="45" column="23" />
@@ -130,6 +138,7 @@
         <mark key="." line="176" column="13" />
         <mark key="^" line="176" column="13" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" timestamp="1545137544556" />
       <file name="/monitoring_dashboard.alert_action [localDashboardDb]" timestamp="1544522489245">
         <mark key="[" line="0" column="0" />
       </file>
@@ -139,83 +148,13 @@
       <file name="/monitoring_dashboard.triggered_alert [localDashboardDb]" timestamp="1544549341443">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1545130278706">
+      <file name="/fragment.java" timestamp="1545134634882">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="36" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/pojos/AlertActionPojo.java" />
-      <jump line="118" column="20" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/pojos/AlertActionPojo.java" />
-      <jump line="122" column="50" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/pojos/AlertActionPojo.java" />
-      <jump line="123" column="36" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/pojos/AlertActionPojo.java" />
-      <jump line="199" column="12" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/pojos/AlertActionPojo.java" />
-      <jump line="200" column="22" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/pojos/AlertActionPojo.java" />
-      <jump line="203" column="52" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/pojos/AlertActionPojo.java" />
-      <jump line="240" column="72" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/pojos/AlertActionPojo.java" />
-      <jump line="256" column="31" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/pojos/AlertActionPojo.java" />
-      <jump line="45" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/midways/midways.component.ts" />
-      <jump line="58" column="9" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/midways/midways.component.ts" />
-      <jump line="75" column="9" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/statistic-settings.component.ts" />
-      <jump line="62" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/statistic-settings.component.ts" />
-      <jump line="1" column="9" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/user-management/user-management.component.ts" />
-      <jump line="26" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/user-management/user-management.component.ts" />
-      <jump line="51" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/defined-alerts/defined-alerts.component.ts" />
-      <jump line="34" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" />
-      <jump line="171" column="18" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" />
-      <jump line="103" column="18" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" />
-      <jump line="87" column="11" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" />
-      <jump line="70" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" />
-      <jump line="222" column="16" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
-      <jump line="30" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
-      <jump line="82" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
-      <jump line="214" column="91" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" />
-      <jump line="68" column="39" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" />
-      <jump line="213" column="53" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" />
-      <jump line="113" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" />
-      <jump line="149" column="19" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" />
-      <jump line="43" column="33" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" />
-      <jump line="141" column="21" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" />
-      <jump line="143" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" />
-      <jump line="144" column="8" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/alerts/alerts.component.ts" />
-      <jump line="168" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
-      <jump line="281" column="24" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
-      <jump line="375" column="20" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
-      <jump line="38" column="11" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/datacontainer/Doc.java" />
-      <jump line="14" column="27" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/datacontainer/Doc.java" />
-      <jump line="28" column="9" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/datacontainer/Doc.java" />
-      <jump line="567" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" />
-      <jump line="172" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmProcessMaterialSetAll.java" />
-      <jump line="104" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmProcessMaterialSetAll.java" />
-      <jump line="124" column="15" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmProcessMaterialSetAll.java" />
-      <jump line="436" column="93" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmProcessMaterialSetAll.java" />
-      <jump line="859" column="58" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
-      <jump line="716" column="46" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
-      <jump line="887" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
-      <jump line="918" column="58" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
-      <jump line="96" column="36" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
-      <jump line="182" column="24" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
-      <jump line="212" column="9" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
-      <jump line="243" column="9" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
-      <jump line="258" column="24" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
-      <jump line="304" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
-      <jump line="305" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
-      <jump line="1408" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
-      <jump line="1412" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
-      <jump line="1413" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
-      <jump line="1420" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
-      <jump line="1422" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
-      <jump line="183" column="21" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
-      <jump line="329" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
-      <jump line="340" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
-      <jump line="369" column="14" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
-      <jump line="945" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
-      <jump line="946" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
-      <jump line="948" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
-      <jump line="1308" column="31" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
-      <jump line="135" column="18" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
-      <jump line="276" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="308" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="238" column="52" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="139" column="46" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentChangeAttributes.java" />
@@ -244,57 +183,127 @@
       <jump line="198" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
       <jump line="715" column="87" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
       <jump line="739" column="25" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
-      <jump line="803" column="42" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
       <jump line="274" column="7" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="946" column="15" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="693" column="12" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="604" column="34" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" />
+      <jump line="803" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="888" column="29" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="948" column="15" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="804" column="51" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" />
+      <jump line="807" column="65" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" />
+      <jump line="819" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" />
+      <jump line="808" column="16" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" />
+      <jump line="124" column="22" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="342" column="33" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="344" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="778" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="779" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="855" column="16" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="815" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" />
+      <jump line="205" column="21" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" />
+      <jump line="511" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" />
+      <jump line="566" column="25" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" />
+      <jump line="567" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" />
+      <jump line="569" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" />
+      <jump line="570" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" />
+      <jump line="598" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" />
+      <jump line="605" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" />
+      <jump line="606" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" />
+      <jump line="613" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" />
+      <jump line="614" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" />
+      <jump line="636" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" />
+      <jump line="643" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" />
+      <jump line="729" column="12" filename="C:/ENTWICKLUNG/Backup/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/PlmProcessDocumentCopyAsGui.java" />
+      <jump line="932" column="15" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="1238" column="64" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="1381" column="5" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="1382" column="61" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="1394" column="16" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="1397" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="1401" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="132" column="21" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="357" column="31" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="358" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="420" column="14" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="421" column="14" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="425" column="14" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="426" column="14" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="446" column="14" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="447" column="14" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="786" column="31" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="787" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="866" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="924" column="15" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="689" column="12" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="908" column="15" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="692" column="12" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="203" column="21" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" />
+      <jump line="491" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" />
+      <jump line="492" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" />
+      <jump line="624" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" />
+      <jump line="625" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" />
+      <jump line="635" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" />
+      <jump line="913" column="15" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" />
+      <jump line="223" column="18" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" />
+      <jump line="634" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" />
+      <jump line="641" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" />
+      <jump line="737" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" />
+      <jump line="1252" column="34" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="136" column="21" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="892" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
+      <jump line="704" column="46" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" />
+      <jump line="306" column="48" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" />
+      <jump line="220" column="31" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/PlmProcessDocumentCopyAsGui.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>4.4.24</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmRzY3NhZzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+cGxtPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="-" type="4">
-        <text>4.4.24</text>
+        <text>throws DefaultLogException</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQbG1Qcm9jZXNzRG9jdW1lbnRDb3B5QXNcPg==</text>
+        <text encoding="base64">XDxkdGNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0YWJsZVNlbGVjdGlvbkRpYWxvZy5yZW1vdmVBbGxDaG9pY2VzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBQcm9jZXNzRG9jR2V0TGlzdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmRzY3NhZzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+cGxtPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChhdHRyaWJ1dGVPcGVyYXRpb24uaXNIaWRkZW4oKSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBQcm9jZXNzRG9jR2V0TGlzdC5JTgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICBmYWxzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXR0cmlidXRlU2VjdGlvbi4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChhdHRyaWJ1dGVPcGVyYXRpb24uaXNIaWRkZW4oKSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYXR0cmlidXRlU2VjdGlvbi4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXR0cmlidXRlU2VjdGlvbi4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBdHRyaWJ1dGVTZWN0aW9uIGF0dHJpYnV0ZVNlY3Rpb24gPSBPcFhtbFBhcnNlci5nZXRBdHRyaWJ1dGVTZWN0aW9uKGF0dHJpYnV0U2VjdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYXR0cmlidXRlU2VjdGlvbi4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBMaXN0PEN1c3RvbUFzc2lnbkJyb3dzZU9iamVjdD4gY3VzdG9tQnJvd3NlT2JqZWN0cyA9IGJ1Y2tldExpc3Quc3RyZWFtKCkuZmlsdGVyKGUgLT4gaGFzQ29udGVudChlLmdldElkKCkpKS5tYXAoQ3VzdG9tQXNzaWduQnJvd3NlT2JqZWN0OjpuZXcpLmNvbGxlY3QoCi8vICAgICAgICAgICAgICAgIHRvTGlzdCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBdHRyaWJ1dGVTZWN0aW9uIGF0dHJpYnV0ZVNlY3Rpb24gPSBPcFhtbFBhcnNlci5nZXRBdHRyaWJ1dGVTZWN0aW9uKGF0dHJpYnV0U2VjdGlvbik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>292</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQbG1Qcm9jZXNzRG9jdW1lbnRDb3B5QXNcPg==</last-search>
+      <last-search encoding="base64">XDxkdGNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQbG1Qcm9jZXNzRG9jdW1lbnRDb3B5QXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkdGNcPg==</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -302,17 +311,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZGRlZE1ldGFGaWx0ZXJzXD4=</entry>
-        <entry encoding="base64">XDxhbGVydERlZmluaXRpb25Qb2pvXD4=</entry>
-        <entry encoding="base64">XDxkZWxldGVkQ2FsY3VsYXRlZFZhbHVlSURzXD4=</entry>
-        <entry encoding="base64">XDxEU0xcPg==</entry>
-        <entry encoding="base64">XDxQYXJzZWRBbGVydEFjdGlvbkRUT1w+</entry>
-        <entry encoding="base64">XDxyZWV4ZWN1dGVBY3Rpb25BZnRlclw+</entry>
-        <entry encoding="base64">XDxDb2x1bW5EZWZcPg==</entry>
-        <entry encoding="base64">XDxjb2x1bW5EZWZpbml0aW9uc1w+</entry>
-        <entry encoding="base64">XDxncm91cHNcPg==</entry>
-        <entry encoding="base64">XDxxdWVyeVJlc29sdmVyXD4=</entry>
-        <entry encoding="base64">XDxhZGRpdGlvbmFsRmlsZXNcPg==</entry>
         <entry encoding="base64">XDxBUElfTkFNRVw+</entry>
         <entry encoding="base64">XDxleGNlcHRpb25zXD4=</entry>
         <entry encoding="base64">XDxzaG93Q2hlY2tCb3hcPg==</entry>
@@ -322,6 +320,17 @@
         <entry encoding="base64">XDxKQ09cPg==</entry>
         <entry encoding="base64">XDxMb2dTdGFja1w+</entry>
         <entry encoding="base64">XDxQbG1Qcm9jZXNzRG9jdW1lbnRDb3B5QXNcPg==</entry>
+        <entry encoding="base64">XDxsYmxfaWR4SW5jXD4=</entry>
+        <entry encoding="base64">XDx0eHREZXN0VGxcPg==</entry>
+        <entry encoding="base64">XDxzb3VyY2VJRExhYmVsXD4=</entry>
+        <entry encoding="base64">XDx0eHREZXN0TnJcPg==</entry>
+        <entry encoding="base64">XDxsYmxfc291cmNlX2lkXD4=</entry>
+        <entry encoding="base64">XDxsYmxfZGVzdF9pZFw+</entry>
+        <entry encoding="base64">XDxjbWJEZXN0QXJcPg==</entry>
+        <entry encoding="base64">XDxsYmxEZXN0SWRcPg==</entry>
+        <entry encoding="base64">XDxjaGtJZHhcPg==</entry>
+        <entry encoding="base64">XDxsaXN0blw+</entry>
+        <entry encoding="base64">XDxkdGNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>4731</entry>
