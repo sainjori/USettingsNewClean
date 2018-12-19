@@ -39,6 +39,12 @@
       <file name="/a.sql" timestamp="1544102668365">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberChangeNamespaceDoc.java" timestamp="1545222309359">
+        <mark key="[" line="73" column="51" />
+        <mark key="]" line="73" column="69" />
+        <mark key="." line="73" column="50" />
+        <mark key="^" line="73" column="69" />
+      </file>
       <file name="/monitoring_dashboard.databasechangelog [localDashboardDb]" timestamp="1544181508924">
         <mark key="[" line="0" column="0" />
       </file>
@@ -72,7 +78,7 @@
       <file name="/dummy.sql" timestamp="1544549352057">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545154464383">
+      <file name="/Dummy.txt" timestamp="1545222542795">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -99,7 +105,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmProcessMaterialSetAll.java" timestamp="1544722946264">
         <mark key="'" line="436" column="93" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerProcessCheckinGenerateMetainfData.java" timestamp="1545155194102" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" timestamp="1545139310269">
         <mark key="'" line="845" column="16" />
         <mark key="[" line="45" column="24" />
@@ -240,10 +245,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>allowedDocTypes</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>allowedDocTypes</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYkRvY3VtZW50SURzXD4=</text>
@@ -252,31 +257,31 @@
         <text encoding="base64">ICAgIFRyYWNlLnByaW50bG4oMCwgIkNoZWNraW4gZmlsZXMgLi4uIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbigwLCAiYXBwIGRpcmVjdG9yeSBuYW1lOiAiICspOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIFN0cmluZ1tdIGFsbG93ZWREb2NUeXBlcyA9IHByZWZBbGxvd2VkRG9jVHlwZXMuc3BsaXQoIjsiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9yCg==</text>
+        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbigwLCAiYXBwIGRpcmVjdG9yeSBuYW1lOiAiICspOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBoYW5kbGVOdW1iZXJBc3NpZ25tZW50RXh0ZXJuYWwobmV3TnIpOwo=</text>
+        <text encoding="base64">ICAgIG9yCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGFuZGxlTnVtYmVyQXNzaWdubWVudEV4dGVybmFsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBoYW5kbGVOdW1iZXJBc3NpZ25tZW50RXh0ZXJuYWwobmV3TnIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBoYW5kbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGFuZGxlTnVtYmVyQXNzaWdubWVudEV4dGVybmFsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYkRvY3VtZW50SURzLnJlbW92ZUFsbEl0ZW1zKCk7CiAgICAgICAgICAgICAgICAgICAgY2JEb2N1bWVudElEcy5hZGRJdGVtKG5ld05yKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBoYW5kbGVOdW1iZXJBc3NpZ25tZW50RXh0ZXJuYWwobmV3TnIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>292</text>
