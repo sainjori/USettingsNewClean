@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/pom.xml" timestamp="1545228333600">
-        <mark key="[" line="9" column="17" />
-        <mark key="]" line="9" column="24" />
-        <mark key="." line="9" column="24" />
-        <mark key="^" line="9" column="24" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/pom.xml" timestamp="1545241486055">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="16" column="10" />
       </file>
       <file name="C:/ENTWICKLUNG/Backup/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/PlmProcessDocumentCopyAsGui.java" timestamp="1545137489904">
         <mark key="'" line="729" column="12" />
@@ -51,6 +51,9 @@
         <mark key="n" line="1478" column="6" />
         <mark key="^" line="812" column="71" />
       </file>
+      <file name="$USER_HOME$/AppData/Local/Temp/7zOCB7935E0/JKProcessDocumentCopyAsGui.class" timestamp="1545241783356">
+        <mark key="'" line="195" column="158" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1545154355220">
         <mark key="'" line="238" column="52" />
         <mark key="[" line="942" column="99" />
@@ -78,7 +81,7 @@
         <mark key="^" line="163" column="14" />
         <mark key="." line="163" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545239767627">
+      <file name="/Dummy.txt" timestamp="1545241437173">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/__JKProcessDocumentSaveAsGui.java" timestamp="1545130694479">
@@ -140,12 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1091" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
-      <jump line="1092" column="3" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
-      <jump line="1093" column="3" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
-      <jump line="1094" column="3" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
-      <jump line="1095" column="3" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
-      <jump line="1096" column="3" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
       <jump line="1097" column="3" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
       <jump line="1129" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
       <jump line="1130" column="3" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
@@ -240,55 +237,61 @@
       <jump line="1471" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
       <jump line="1006" column="15" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
       <jump line="210" column="21" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
+      <jump line="441" column="19" filename="$USER_HOME$/AppData/Local/Temp/7zOCB7935E0/JKProcessDocumentCopyAsGui.class" />
+      <jump line="101" column="21" filename="$USER_HOME$/AppData/Local/Temp/7zOCB7935E0/JKProcessDocumentCopyAsGui.class" />
+      <jump line="338" column="158" filename="$USER_HOME$/AppData/Local/Temp/7zOCB7935E0/JKProcessDocumentCopyAsGui.class" />
+      <jump line="192" column="44" filename="$USER_HOME$/AppData/Local/Temp/7zOCB7935E0/JKProcessDocumentCopyAsGui.class" />
+      <jump line="193" column="15" filename="$USER_HOME$/AppData/Local/Temp/7zOCB7935E0/JKProcessDocumentCopyAsGui.class" />
+      <jump line="195" column="158" filename="$USER_HOME$/AppData/Local/Temp/7zOCB7935E0/JKProcessDocumentCopyAsGui.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgU3RyaW5nIHRyYWNlID0gcmV0LnN0cmVhbSgpLm1hcChQbG1Eb2N1bWVudDo6Z2V0TnVtYmVyKS5jb2xsZWN0KENvbGxlY3RvcnMuam9pbmluZygifCIsICJbIiwgIl0iKSk7CiAgICAgICAgICAgICAgICAgIFRyYWNlLnByaW50bG4odGhpcy5nZXRDbGFzcygpLmdldE5hbWUoKSwgMCwgIj4gUHJvY2VzcyAiKyB0cmFjZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>collect</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGtJZHhcPg==</text>
+        <text encoding="base64">XDx2YXIxNlw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNiRG9jdW1lbnRJRHMucmVtb3ZlQWxsSXRlbXMoKTsKICAgICAgICAgICAgICAgIGNiRG9jdW1lbnRJRHMuYWRkSXRlbShuZXdOcik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgU3RyaW5nIHRyYWNlID0gcmV0LnN0cmVhbSgpLm1hcChQbG1Eb2N1bWVudDo6Z2V0TnVtYmVyKS5jb2xsZWN0KENvbGxlY3RvcnMuam9pbmluZygifCIsICJbIiwgIl0iKSk7CiAgICAgICAgICAgICAgICAgIFRyYWNlLnByaW50bG4odGhpcy5nZXRDbGFzcygpLmdldE5hbWUoKSwgMCwgIj4gUHJvY2VzcyAiKyB0cmFjZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIDM0NDQ0LTIyCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">PGJ1aWxkPgogICAgPHBsdWdpbk1hbmFnZW1lbnQ+CiAgICAgIDxwbHVnaW5zPgogICAgICAgIDxwbHVnaW4+CiAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L2dyb3VwSWQ+CiAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1jb21waWxlci1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICA8dmVyc2lvbj4zLjcuMDwvdmVyc2lvbj4KICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICA8c291cmNlPjEuODwvc291cmNlPgogICAgICAgICAgICA8dGFyZ2V0PjEuODwvdGFyZ2V0PgogICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgIDwvcGx1Z2luPgogICAgICA8L3BsdWdpbnM+CiAgICA8L3BsdWdpbk1hbmFnZW1lbnQ+CiAgPC9idWlsZD4=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8IS0tPHBhcmVudD4tLT4KICAgIDwhLS08Z3JvdXBJZD5jb20uZHNjc2FnPC9ncm91cElkPi0tPgogICAgPCEtLTxhcnRpZmFjdElkPmJ1aWxkPC9hcnRpZmFjdElkPi0tPgogICAgPCEtLTx2ZXJzaW9uPjEuMC4wPC92ZXJzaW9uPi0tPgogIDwhLS08L3BhcmVudD4tLT4K</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAvL0d4S2V5VmFsdWUgZ3hrdiA9IChHeEtleVZhbHVlKSBneGMuZ2V0U2VsZWN0ZWRJdGVtKCk7CiAgICAgICAgLy9TdHJpbmcga2V5ID0gZ3hrdi5nZXRLZXkoKTsKICAgICAgICAvLwogICAgICAgIC8vaWYgKGtleS5lcXVhbHMoUGxtUHJvY2Vzc0RvY3VtZW50Q29weUFzLkdVSV9ET19OT1RfQ0xBU1NJRllfRk9MREVSKSkKICAgICAgICAvL3sKICAgICAgICAvLyAgcGZvbGRlciA9IG51bGw7CiAgICAgICAgLy99CiAgICAgICAgLy9lbHNlCiAgICAgICAgLy97CiAgICAgICAgLy8gIFN0cmluZyBuYW1lID0gUGxtQ2xhc3MuZ2V0Q2xhc3NOYW1lKGtleSk7CiAgICAgICAgLy8gIFN0cmluZyB0eXBlID0gUGxtQ2xhc3MuZ2V0Q2xhc3NUeXBlKGtleSk7CiAgICAgICAgLy8gIGlmIChuYW1lICE9IG51bGwgJiYgdHlwZSAhPSBudWxsKQogICAgICAgIC8vICAgIHBmb2xkZXIgPSBwbG1BY2Nlc3MuY2xhc3NOZXcobmFtZSx0eXBlKTsKICAgICAgICAvL30KICAgICAgICAvL30=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8cGx1Z2luPgogICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tY2xlYW4tcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgPHZlcnNpb24+My4wLjA8L3ZlcnNpb24+CiAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgPCEtLSBzZWUgaHR0cDovL21hdmVuLmFwYWNoZS5vcmcvcmVmL2N1cnJlbnQvbWF2ZW4tY29yZS9kZWZhdWx0LWJpbmRpbmdzLmh0bWwjUGx1Z2luX2JpbmRpbmdzX2Zvcl9qYXJfcGFja2FnaW5nIC0tPgogICAgICAgIDxwbHVnaW4+CiAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1yZXNvdXJjZXMtcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgPHZlcnNpb24+My4wLjI8L3ZlcnNpb24+CiAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgPHBsdWdpbj4KICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLXN1cmVmaXJlLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgIDx2ZXJzaW9uPjIuMjAuMTwvdmVyc2lvbj4KICAgICAgICA8L3BsdWdpbj4KICAgICAgICA8cGx1Z2luPgogICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tamFyLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgIDx2ZXJzaW9uPjMuMC4yPC92ZXJzaW9uPgogICAgICAgIDwvcGx1Z2luPgogICAgICAgIDxwbHVnaW4+CiAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1pbnN0YWxsLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgIDx2ZXJzaW9uPjIuNS4yPC92ZXJzaW9uPgogICAgICAgIDwvcGx1Z2luPgogICAgICAgIDxwbHVnaW4+CiAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1kZXBsb3ktcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgPHZlcnNpb24+Mi44LjI8L3ZlcnNpb24+CiAgICAgICAgPC9wbHVnaW4+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8YnVpbGQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8L3BsdWdpbj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldCA9IChWZWN0b3Ipb3V0X2RjLmdldE9iamVjdChQcm9jZXNzRG9jR2V0TGlzdC5PVVRfRE9DUyk7CgogICAgICAgICAgICAgIFN0cmluZyBpZHhTdHIgPSBuci5zdWJzdHJpbmcgKGlkeCArIDEpOwogICAgICAgICAgICAgIHRyeQogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGludCBhY3RJZHggPSBJbnRlZ2VyLnBhcnNlSW50IChpZHhTdHIpOwogICAgICAgICAgICAgICAgYWN0SWR4Kys7CiAgICAgICAgICAgICAgICBTdHJpbmcgbmV3SWR4ID0gIiIgKyBhY3RJZHg7CiAgICAgICAgICAgICAgICBuZXdJZHggPSBTdHJpbmdUb29sLnNldExlYWRpbmcgKG5ld0lkeCwgJzAnLCAyKTsKICAgICAgICAgICAgICAgIFN0cmluZyBuZXdOciA9IG5yLnN1YnN0cmluZyAoMCwgaWR4ICsgMSkgKyBuZXdJZHg7CiAgICAgICAgICAgICAgICBjYkRvY3VtZW50SURzLnJlbW92ZUFsbEl0ZW1zKCk7CiAgICAgICAgICAgICAgICBjYkRvY3VtZW50SURzLmFkZEl0ZW0obmV3TnIpOwovLyAgICAgICAgICAgICAgICB0eHREZXN0TnIuc2V0VGV4dChuZXdOcik7CiAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIGNhdGNoIChFeGNlcHRpb24gbmV4KQogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICA8L3BsdWdpbnM+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>292</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGtJZHhcPg==</last-search>
+      <last-search encoding="base64">XDx2YXIxNlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGtJZHhcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx2YXIxNlw+</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -296,7 +299,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMb2dTdGFja1w+</entry>
         <entry encoding="base64">XDxQbG1Qcm9jZXNzRG9jdW1lbnRDb3B5QXNcPg==</entry>
         <entry encoding="base64">XDx0eHREZXN0VGxcPg==</entry>
         <entry encoding="base64">XDxzb3VyY2VJRExhYmVsXD4=</entry>
@@ -316,6 +318,7 @@
         <entry encoding="base64">XDxsYmxfaWR4SW5jXD4=</entry>
         <entry encoding="base64">XDxjYkRvY3VtZW50SURzXD4=</entry>
         <entry encoding="base64">XDxjaGtJZHhcPg==</entry>
+        <entry encoding="base64">XDx2YXIxNlw+</entry>
       </history-search>
       <history-cmd>
         <entry>4731</entry>
