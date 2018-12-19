@@ -78,7 +78,7 @@
       <file name="/dummy.sql" timestamp="1544549352057">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545222542795">
+      <file name="/Dummy.txt" timestamp="1545224144540">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -139,6 +139,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/proc/WeberChangeNameSpaceProcess.java" timestamp="1545224480094">
+        <mark key="[" line="77" column="36" />
+        <mark key="]" line="77" column="36" />
+        <mark key="." line="77" column="36" />
+        <mark key="^" line="31" column="111" />
       </file>
     </filemarks>
     <jumps>
@@ -245,10 +251,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>allowedDocTypes</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>allowedDocTypes</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYkRvY3VtZW50SURzXD4=</text>
