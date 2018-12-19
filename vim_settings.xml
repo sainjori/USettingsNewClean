@@ -54,12 +54,12 @@
       <file name="$USER_HOME$/AppData/Local/Temp/7zOCB7935E0/JKProcessDocumentCopyAsGui.class" timestamp="1545241783356">
         <mark key="'" line="195" column="158" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1545154355220">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1545246217428">
         <mark key="'" line="238" column="52" />
-        <mark key="[" line="942" column="99" />
-        <mark key="]" line="942" column="105" />
-        <mark key="." line="942" column="105" />
-        <mark key="^" line="942" column="105" />
+        <mark key="[" line="451" column="79" />
+        <mark key="]" line="451" column="78" />
+        <mark key="." line="451" column="78" />
+        <mark key="^" line="451" column="78" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateAttributes.java" timestamp="1545153863564">
         <mark key="'" line="108" column="12" />
@@ -81,8 +81,10 @@
         <mark key="^" line="163" column="14" />
         <mark key="." line="163" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545245538369">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1545246055436">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/__JKProcessDocumentSaveAsGui.java" timestamp="1545130694479">
         <mark key="'" line="436" column="58" />
@@ -246,10 +248,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;*&quot;</text>
+        <text>Materializer: Gleiche DMU-Komponenten für die Materialanlage zusammenfassen</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;*&quot;</text>
+        <text>Materializer: Gleiche DMU-Komponenten für die Materialanlage zusammenfassen</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxneFw+</text>
