@@ -13,12 +13,11 @@
         <mark key="'" line="194" column="60" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/tesat/trunk/java/src/tesat/brobj/BrObjFactory.java" timestamp="1547040815668" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/tesat/trunk/java/src/tesat/dadi/TesatDadiAfterSessionUpdate.java" timestamp="1547047768171">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/tesat/trunk/java/src/tesat/dadi/TesatDadiAfterSessionUpdate.java" timestamp="1547198260939">
         <mark key="'" line="192" column="31" />
-        <mark key="[" line="204" column="94" />
-        <mark key="]" line="204" column="94" />
-        <mark key="^" line="204" column="94" />
-        <mark key="." line="204" column="94" />
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="194" column="39" />
+        <mark key="." line="194" column="39" />
       </file>
       <file name="C:/ENTWICKLUNG/Backup/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/PlmProcessDocumentCopyAsGui.java" timestamp="1545137489904">
         <mark key="'" line="729" column="12" />
@@ -262,11 +261,11 @@
       <jump line="192" column="31" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/tesat/trunk/java/src/tesat/dadi/TesatDadiAfterSessionUpdate.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>enm_files</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>enm_files</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdTaG9ydFRleHRcPg==</text>
@@ -275,31 +274,31 @@
         <text encoding="base64">ICAgICAgTGlzdDxGaWxlPiBicmRfZmlsZXMgPSBuZXcgQXJyYXlMaXN0PEZpbGU+KCk7CiAgICAgIExpc3Q8RmlsZT4gZW5tX2ZpbGVzID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVubV9maWxlcy5hZGQoZik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZF9maWxlcy5hZGQoZik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBicmRfZmlsZXMuYWRkKGYpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChUcmFjZS5nZXRMZXZlbCgpID49IDQpCiAgICAgICAgICAgIFRyYWNlLnByaW50bG4oNCwgIlRlc2F0RGFkaUFmdGVyU2Vzc2lvblVwZGF0ZTogaGFuZGxlVTQwSWRmSW1wb3J0KCk6IG5vIElERiBmaWxlcyBmb3VuZCAtIG5vdGhpbmcgdG8gZG8uIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9jZXNzRW5tRmlsZXMoZW5tX2ZpbGVzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZW5tX2ZpbGVzLmlzRW1wdHkoKSkKICAgICAgICAgIGlmIChUcmFjZS5nZXRMZXZlbCgpID49IDQpCiAgICAgICAgICAgIFRyYWNlLnByaW50bG4oNCwgIlRlc2F0RGFkaUFmdGVyU2Vzc2lvblVwZGF0ZTogaGFuZGxlVTQwSWRmSW1wb3J0KCk6IG5vIElERiBmaWxlcyBmb3VuZCAtIG5vdGhpbmcgdG8gZG8uIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>292</text>
