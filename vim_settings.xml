@@ -72,8 +72,12 @@
       <file name="$USER_HOME$/AppData/Local/Temp/7zOCB7935E0/JKProcessDocumentCopyAsGui.class" timestamp="1545241783356">
         <mark key="'" line="195" column="158" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1546864835684">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1547205203811">
         <mark key="'" line="388" column="0" />
+        <mark key="[" line="469" column="48" />
+        <mark key="]" line="469" column="52" />
+        <mark key="." line="469" column="52" />
+        <mark key="^" line="469" column="52" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateAttributes.java" timestamp="1545153863564">
         <mark key="'" line="108" column="12" />
@@ -98,7 +102,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/ReferenceMapping.java" timestamp="1545249082791">
         <mark key="'" line="42" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547204415003">
+      <file name="/Dummy.txt" timestamp="1547205496671">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -261,11 +265,11 @@
       <jump line="514" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/tesat/trunk/java/src/tesat/dadi/TesatDadiAfterSessionUpdate.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdTaG9ydFRleHRcPg==</text>
