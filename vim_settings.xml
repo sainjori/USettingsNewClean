@@ -12,6 +12,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/CreateAssemblyToolProcess.java" timestamp="1545249086352">
         <mark key="'" line="194" column="60" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.12.1/sapbase-5.1.12.1-sources.jar!/cadagent/objmod/PlmBomItem.java" timestamp="1548083987232" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/tesat/trunk/java/src/tesat/dadi/TesatDadiAfterSessionUpdate.java" timestamp="1547200122025">
         <mark key="'" line="514" column="0" />
         <mark key="[" line="194" column="0" />
@@ -52,7 +53,13 @@
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/attributes-from-sap.xml" timestamp="1546861337027">
         <mark key="[" line="441" column="12" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" timestamp="1548083087127" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" timestamp="1548085714676">
+        <mark key="'" line="673" column="10" />
+        <mark key="[" line="782" column="9" />
+        <mark key="]" line="782" column="13" />
+        <mark key="^" line="782" column="13" />
+        <mark key="." line="782" column="13" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFWorkbook.java" timestamp="1545070601687">
         <mark key="'" line="295" column="0" />
       </file>
@@ -102,7 +109,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/ReferenceMapping.java" timestamp="1545249082791">
         <mark key="'" line="42" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547205496671">
+      <file name="/Dummy.txt" timestamp="1548083738834">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -126,6 +133,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmProcessMaterialSetAll.java" timestamp="1544722946264">
         <mark key="'" line="436" column="93" />
       </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/default.txt" timestamp="1548084921489" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/pom.xml" timestamp="1545321883876">
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
@@ -138,11 +146,7 @@
         <mark key="." line="45" column="23" />
         <mark key="^" line="45" column="23" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" timestamp="1545249078457">
-        <mark key="]" line="294" column="12" />
-        <mark key="." line="294" column="12" />
-        <mark key="^" line="294" column="12" />
-      </file>
+      <file name="/default.txt" timestamp="1548084864566" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" timestamp="1545148099661">
         <mark key="'" line="1570" column="8" />
         <mark key="[" line="801" column="34" />
@@ -163,12 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1341" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
-      <jump line="1342" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
-      <jump line="1430" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
-      <jump line="1437" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
-      <jump line="1452" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
-      <jump line="1453" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
       <jump line="1454" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
       <jump line="1568" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
       <jump line="108" column="12" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateAttributes.java" />
@@ -263,19 +261,25 @@
       <jump line="388" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="192" column="31" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/tesat/trunk/java/src/tesat/dadi/TesatDadiAfterSessionUpdate.java" />
       <jump line="514" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/tesat/trunk/java/src/tesat/dadi/TesatDadiAfterSessionUpdate.java" />
+      <jump line="718" column="25" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
+      <jump line="576" column="42" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
+      <jump line="661" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
+      <jump line="669" column="12" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
+      <jump line="672" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
+      <jump line="673" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>tyi</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>tyi</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZXdTaG9ydFRleHRcPg==</text>
+        <text encoding="base64">XDx0eXBlQ0JcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgTGlzdDxGaWxlPiBicmRfZmlsZXMgPSBuZXcgQXJyYXlMaXN0PEZpbGU+KCk7CiAgICAgIExpc3Q8RmlsZT4gZW5tX2ZpbGVzID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgaWYodHlwZSAhPSBudWxsKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
@@ -309,9 +313,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZXdTaG9ydFRleHRcPg==</last-search>
+      <last-search encoding="base64">XDx0eXBlQ0JcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZXdTaG9ydFRleHRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0eXBlQ0JcPg==</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -319,7 +323,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzb3VyY2VJRExhYmVsXD4=</entry>
         <entry encoding="base64">XDx0eHREZXN0TnJcPg==</entry>
         <entry encoding="base64">XDxsYmxfc291cmNlX2lkXD4=</entry>
         <entry encoding="base64">XDxsYmxfZGVzdF9pZFw+</entry>
@@ -339,6 +342,7 @@
         <entry encoding="base64">XDxjaGtJZHhcPg==</entry>
         <entry encoding="base64">XDxsaXN0blw+</entry>
         <entry encoding="base64">XDxuZXdTaG9ydFRleHRcPg==</entry>
+        <entry encoding="base64">XDx0eXBlQ0JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>4731</entry>
