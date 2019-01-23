@@ -9,8 +9,15 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.12.1/sapbase-5.1.12.1-sources.jar!/cadagent/objmod/PlmMatBomItem.java" timestamp="1548163793770">
         <mark key="'" line="199" column="4" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/tesat/trunk/java/src/tesat/dadi/TesatDadiAfterSessionUpdate.java" timestamp="1548239298334">
-        <mark key="'" line="536" column="15" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.2/sapbase-5.1.13.2-sources.jar!/cadagent/objmod/PlmDocument.java" timestamp="1548240942691">
+        <mark key="'" line="189" column="26" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/tesat/trunk/java/src/tesat/dadi/TesatDadiAfterSessionUpdate.java" timestamp="1548241628340">
+        <mark key="'" line="540" column="15" />
+        <mark key="[" line="687" column="21" />
+        <mark key="]" line="687" column="25" />
+        <mark key="^" line="687" column="25" />
+        <mark key="." line="687" column="25" />
       </file>
       <file name="C:/ENTWICKLUNG/Backup/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/PlmProcessDocumentCopyAsGui.java" timestamp="1545137489904">
         <mark key="'" line="725" column="12" />
@@ -62,6 +69,9 @@
         <mark key="]" line="629" column="0" />
         <mark key="." line="629" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/cfc/util/Trace.java" timestamp="1548241093713">
+        <mark key="'" line="810" column="21" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" timestamp="1545309762578">
         <mark key="'" line="1329" column="30" />
         <mark key="[" line="757" column="0" />
@@ -103,7 +113,8 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/ReferenceMapping.java" timestamp="1545249082791">
         <mark key="'" line="42" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548168086795">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/tesat/trunk/java/src/tesat/omf/OmfDocCreateDrawingFromTemplate.java" timestamp="1548240995656" />
+      <file name="/Dummy.txt" timestamp="1548241731573">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -139,6 +150,9 @@
         <mark key="." line="45" column="23" />
         <mark key="^" line="45" column="23" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.2/sapbase-5.1.13.2-sources.jar!/cadagent/proc/doc/ProcessDocStructureExplode4.java" timestamp="1548241019256">
+        <mark key="'" line="207" column="9" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" timestamp="1545148099661">
         <mark key="'" line="1570" column="8" />
         <mark key="[" line="801" column="34" />
@@ -159,9 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="21" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
-      <jump line="888" column="29" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
-      <jump line="946" column="15" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
       <jump line="739" column="12" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
       <jump line="1638" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
       <jump line="1640" column="24" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
@@ -259,55 +270,58 @@
       <jump line="161" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
       <jump line="482" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/tesat/trunk/java/src/tesat/dadi/TesatDadiAfterSessionUpdate.java" />
       <jump line="536" column="15" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/tesat/trunk/java/src/tesat/dadi/TesatDadiAfterSessionUpdate.java" />
+      <jump line="189" column="26" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.2/sapbase-5.1.13.2-sources.jar!/cadagent/objmod/PlmDocument.java" />
+      <jump line="207" column="9" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.2/sapbase-5.1.13.2-sources.jar!/cadagent/proc/doc/ProcessDocStructureExplode4.java" />
+      <jump line="810" column="21" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/cfc/util/Trace.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNhZGFnZW50Lm9iam1vZC5QbG1Eb2NCb21JdGVtOwo=</text>
+      <register name="&quot;" type="4">
+        <text>DOC</text>
       </register>
       <register name="-" type="4">
-        <text>max_bom_pos</text>
+        <text>DOC</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxib21JdGVtTWF0ZXJpYWxcPg==</text>
+        <text encoding="base64">XDxwbG1Eb2NTdHJ1Y3R1cmVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaWYodHlwZSAhPSBudWxsKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNhZGFnZW50Lm9iam1vZC5QbG1Eb2NCb21JdGVtOwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIFBsbURvY1N0cnVjdHVyZSBkb2NTdHJ1Y3R1cmUgPSBueF9kb2MuZ2V0RG9jU3RydWN0dXJlKCk7CiAgICByZXR1cm4gbnVsbDsK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9zTnVtYmVyID0gSW50ZWdlci50b1N0cmluZyhtYXhfYm9tX3Bvcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIG0K</text>
+        <text encoding="base64">ICAgICAgICBwbG1Eb2N1bWVudHMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsYXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBib21faXRlbS5zZXRQb3NOdW1iZXIocyk7Cg==</text>
+        <text encoding="base64">ICAgICAgZG9jc3RydS5mbHVzaCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZm9yIChQbG1Cb21JdGVtIHBsbUJvbUl0ZW0gOiBwbG1Cb21JdGVtcykKICAgICAgewogICAgICAgIFBsbU1hdEJvbUl0ZW0gcGxtQm9tSXRlbTEgPSAoUGxtTWF0Qm9tSXRlbSkgcGxtQm9tSXRlbTsKICAgICAgICBQbG1NYXRlcmlhbCBwbG1NYXRlcmlhbCA9IHBsbUJvbUl0ZW0xLmdldFBsbU1hdGVyaWFsKCk7CiAgICAgICAgaWYgKCFwbG1NYXRlcmlhbC5nZXRTYXBLZXkoKS5lcXVhbHNJZ25vcmVDYXNlKGNvbXBvbmVudE1hdGVyaWFsLmdldFNhcEtleSgpKSkKCiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpZihwbG1fZG9jLmdldFNhcEtleSgpLmVxdWFscyhtYXN0ZXJfb2xkLmdldFNhcEtleSgpKSkKICAgICAgICB7CiAgICAgICAgICBUcmFjZS5wcmludGxuKDQsICJCb21JdGVtIGZvdW5kOiAiK2JpKTsKICAgICAgICAgIGJpLnNldERvY3VtZW50KG1hc3Rlcl90YXJnZXQpOwogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwbAo=</text>
+        <text encoding="base64">ICAgIFRyYWNlLnByaW50bG4oMSwgIjogbmV3IGRyYXdpbmcgIiArIHBsbV9ubV9udi5nZXRTYXBLZXkoKSArICIgZ2V0cyBuZXcgbWFzdGVyIGluIHRoZSBCT00gIiArIG1hc3Rlcl90YXJnZXQuZ2V0U2FwS2V5KCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>292</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxib21JdGVtTWF0ZXJpYWxcPg==</last-search>
+      <last-search encoding="base64">XDxwbG1Eb2NTdHJ1Y3R1cmVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxib21JdGVtTWF0ZXJpYWxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwbG1Eb2NTdHJ1Y3R1cmVcPg==</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -315,7 +329,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsYmxfc291cmNlX2lkXD4=</entry>
         <entry encoding="base64">XDxsYmxfZGVzdF9pZFw+</entry>
         <entry encoding="base64">XDxjbWJEZXN0QXJcPg==</entry>
         <entry encoding="base64">XDxsYmxEZXN0SWRcPg==</entry>
@@ -335,6 +348,7 @@
         <entry encoding="base64">XDxuZXdTaG9ydFRleHRcPg==</entry>
         <entry encoding="base64">XDx0eXBlQ0JcPg==</entry>
         <entry encoding="base64">XDxib21JdGVtTWF0ZXJpYWxcPg==</entry>
+        <entry encoding="base64">XDxwbG1Eb2NTdHJ1Y3R1cmVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>4731</entry>
