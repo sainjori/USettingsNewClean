@@ -78,10 +78,10 @@
       <file name="$USER_HOME$/AppData/Local/Temp/7zOCB7935E0/JKProcessDocumentCopyAsGui.class" timestamp="1545241783356">
         <mark key="'" line="195" column="158" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/run-migrations.bat" timestamp="1548344916420">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/run-migrations.bat" timestamp="1548345613955">
         <mark key="[" line="22" column="124" />
-        <mark key="]" line="22" column="139" />
-        <mark key="." line="22" column="139" />
+        <mark key="]" line="22" column="124" />
+        <mark key="." line="22" column="124" />
         <mark key="^" line="22" column="139" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1547205203811">
@@ -277,10 +277,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>--logLevel=debug</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>--logLevel=debug</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX3UzMF90b191NDBcPg==</text>
