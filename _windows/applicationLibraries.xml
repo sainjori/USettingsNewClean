@@ -1,0 +1,12 @@
+<application>
+  <component name="libraryTable">
+    <library name="activemq:jaxb-impl:20050407" type="repository">
+      <properties maven-id="activemq:jaxb-impl:20050407" />
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/activemq/jaxb-impl/20050407/jaxb-impl-20050407.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
