@@ -1,9 +1,8 @@
 <application>
   <component name="libraryTable">
-    <library name="activemq:jaxb-impl:20050407" type="repository">
-      <properties maven-id="activemq:jaxb-impl:20050407" />
+    <library name="mysql-connector-java-5.1.40-bin">
       <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/activemq/jaxb-impl/20050407/jaxb-impl-20050407.jar!/" />
+        <root url="jar://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/mysql-connector-java-5.1.40-bin.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
