@@ -41,6 +41,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/datacontainer/Doc.java" timestamp="1544708655186">
         <mark key="'" line="28" column="9" />
       </file>
+      <file name="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-example/src/test/java/com/example/helloworld/IntegrationTest.java" timestamp="1548768424340" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.2/sapbase-5.1.13.2-sources.jar!/cadagent/proc/doc/ProcessDocStructureExplode4.java" timestamp="1548241019256">
         <mark key="'" line="207" column="9" />
       </file>
@@ -88,6 +89,9 @@
       <file name="/monitoring_dashboard.preference [monitoring_dashboard@localhost]" timestamp="1548680009481">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/RuntimeException.java" timestamp="1548768320855">
+        <mark key="'" line="85" column="72" />
+      </file>
       <file name="/monitoring_dashboard.auth_token [monitoring_dashboard@localhost]" timestamp="1548680003455">
         <mark key="[" line="0" column="0" />
       </file>
@@ -114,6 +118,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmProcessMaterialSetAll.java" timestamp="1544722946264">
         <mark key="'" line="436" column="93" />
       </file>
+      <file name="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/ResourceHelpers.java" timestamp="1548768415683" />
       <file name="C:/ENTWICKLUNG/sandbox/dropwizardstart/pom.xml" timestamp="1548682344543">
         <mark key="'" line="137" column="40" />
       </file>
@@ -131,7 +136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="819" column="16" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
       <jump line="831" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
       <jump line="832" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
       <jump line="940" column="15" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
@@ -231,6 +235,7 @@
       <jump line="121" column="4" filename="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final-sources.jar!/org/hibernate/validator/internal/engine/ConfigurationImpl.java" />
       <jump line="234" column="31" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-example/pom.xml" />
       <jump line="339" column="23" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-example/pom.xml" />
+      <jump line="85" column="72" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/RuntimeException.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
