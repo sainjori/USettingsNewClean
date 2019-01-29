@@ -29,6 +29,9 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" timestamp="1544708992528">
         <mark key="'" line="567" column="2" />
       </file>
+      <file name="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-example/pom.xml" timestamp="1548767544335">
+        <mark key="'" line="339" column="23" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" timestamp="1545237084784">
         <mark key="'" line="946" column="15" />
       </file>
@@ -128,8 +131,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="530" column="47" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
-      <jump line="818" column="16" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
       <jump line="819" column="16" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
       <jump line="831" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
       <jump line="832" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
@@ -228,6 +229,8 @@
       <jump line="87" column="25" filename="$MAVEN_REPOSITORY$/io/dropwizard/dropwizard-core/1.0.2/dropwizard-core-1.0.2-sources.jar!/io/dropwizard/cli/ConfiguredCommand.java" />
       <jump line="137" column="40" filename="C:/ENTWICKLUNG/sandbox/dropwizardstart/pom.xml" />
       <jump line="121" column="4" filename="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final-sources.jar!/org/hibernate/validator/internal/engine/ConfigurationImpl.java" />
+      <jump line="234" column="31" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-example/pom.xml" />
+      <jump line="339" column="23" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-example/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
