@@ -79,8 +79,8 @@
       <file name="/monitoring_dashboard.ectr_statistic_group [monitoring_dashboard@localhost]" timestamp="1548692921253">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" timestamp="1548778607823">
-        <mark key="'" line="129" column="29" />
+      <file name="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" timestamp="1548848310186">
+        <mark key="'" line="126" column="8" />
       </file>
       <file name="/monitoring_dashboard.midway [monitoring_dashboard@localhost]" timestamp="1548679991903">
         <mark key="[" line="0" column="0" />
@@ -171,28 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1471" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
-      <jump line="210" column="21" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
-      <jump line="441" column="19" filename="$USER_HOME$/AppData/Local/Temp/7zOCB7935E0/JKProcessDocumentCopyAsGui.class" />
-      <jump line="101" column="21" filename="$USER_HOME$/AppData/Local/Temp/7zOCB7935E0/JKProcessDocumentCopyAsGui.class" />
-      <jump line="338" column="158" filename="$USER_HOME$/AppData/Local/Temp/7zOCB7935E0/JKProcessDocumentCopyAsGui.class" />
-      <jump line="192" column="44" filename="$USER_HOME$/AppData/Local/Temp/7zOCB7935E0/JKProcessDocumentCopyAsGui.class" />
-      <jump line="193" column="15" filename="$USER_HOME$/AppData/Local/Temp/7zOCB7935E0/JKProcessDocumentCopyAsGui.class" />
-      <jump line="195" column="158" filename="$USER_HOME$/AppData/Local/Temp/7zOCB7935E0/JKProcessDocumentCopyAsGui.class" />
-      <jump line="821" column="20" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
-      <jump line="822" column="20" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
-      <jump line="836" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
-      <jump line="837" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
-      <jump line="929" column="15" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
-      <jump line="1002" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
-      <jump line="1005" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
-      <jump line="1006" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
-      <jump line="1007" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
-      <jump line="1272" column="38" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
-      <jump line="1327" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
-      <jump line="1336" column="33" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
-      <jump line="1347" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
-      <jump line="1348" column="38" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
       <jump line="1250" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
       <jump line="1260" column="33" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
       <jump line="1271" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
@@ -271,6 +249,28 @@
       <jump line="219" column="15" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/junit/DropwizardAppRule.java" />
       <jump line="2860" column="16" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/String.java" />
       <jump line="43" column="28" filename="C:/ENTWICKLUNG/sandbox/simple-service/src/test/java/com/example/MyResourceTest.java" />
+      <jump line="269" column="19" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
+      <jump line="41" column="52" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
+      <jump line="69" column="65" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
+      <jump line="75" column="65" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
+      <jump line="80" column="65" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
+      <jump line="84" column="32" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
+      <jump line="99" column="14" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
+      <jump line="103" column="65" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
+      <jump line="105" column="13" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
+      <jump line="112" column="14" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
+      <jump line="118" column="65" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
+      <jump line="124" column="32" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
+      <jump line="186" column="45" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
+      <jump line="191" column="45" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
+      <jump line="45" column="40" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
+      <jump line="71" column="47" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
+      <jump line="72" column="61" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
+      <jump line="76" column="90" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
+      <jump line="77" column="85" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
+      <jump line="83" column="51" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
+      <jump line="86" column="90" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
+      <jump line="126" column="8" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -280,7 +280,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZXN0U3VwcG9ydFw+</text>
+        <text encoding="base64">XDxjb25maWdPdmVycmlkZXNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxvYWRPcHRpb25PYmplY3Quc2V0TG9hZE9wdGlvbihQbG1Db25zdGFudHMuTE9BRF9PUFRfQVNfU0FWRUQpOwo=</text>
@@ -317,9 +317,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZXN0U3VwcG9ydFw+</last-search>
+      <last-search encoding="base64">XDxjb25maWdPdmVycmlkZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZXN0U3VwcG9ydFw+</last-pattern>
+      <last-pattern encoding="base64">XDxjb25maWdPdmVycmlkZXNcPg==</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -327,8 +327,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsYmxEZXN0SWRcPg==</entry>
-        <entry encoding="base64">XDxkdGNcPg==</entry>
         <entry encoding="base64">XDxyZXRcPg==</entry>
         <entry encoding="base64">XDxoYW5kbGVOdW1iZXJBc3NpZ25tZW50RXh0ZXJuYWxcPg==</entry>
         <entry encoding="base64">XDwoXD4=</entry>
@@ -347,6 +345,8 @@
         <entry encoding="base64">XDxwbG1Eb2NTdHJ1Y3R1cmVcPg==</entry>
         <entry encoding="base64">XDxtX3UzMF90b191NDBcPg==</entry>
         <entry encoding="base64">XDx0ZXN0U3VwcG9ydFw+</entry>
+        <entry encoding="base64">XDxhcHBsaWNhdGlvbkNsYXNzXD4=</entry>
+        <entry encoding="base64">XDxjb25maWdPdmVycmlkZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>4731</entry>
