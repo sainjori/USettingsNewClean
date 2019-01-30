@@ -154,6 +154,9 @@
         <mark key="'" line="137" column="40" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/monitoring/dashboard-api/TRUNK-SNAPSHOT/dashboard-api-TRUNK-20181106.085619-181-sources.jar!/com/dscsag/monitoring/dashboard_api/invoker/ApiClient.java" timestamp="1548679700807" />
+      <file name="C:/ENTWICKLUNG/sandbox/simple-service/src/test/java/com/example/MyResourceTest.java" timestamp="1548843918607">
+        <mark key="'" line="43" column="28" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final-sources.jar!/org/hibernate/validator/internal/engine/ConfigurationImpl.java" timestamp="1548683368380">
         <mark key="'" line="121" column="4" />
       </file>
@@ -167,7 +170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1470" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
       <jump line="1471" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
       <jump line="210" column="21" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
       <jump line="441" column="19" filename="$USER_HOME$/AppData/Local/Temp/7zOCB7935E0/JKProcessDocumentCopyAsGui.class" />
@@ -267,6 +269,7 @@
       <jump line="204" column="15" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/junit/DropwizardAppRule.java" />
       <jump line="219" column="15" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/junit/DropwizardAppRule.java" />
       <jump line="2860" column="16" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/String.java" />
+      <jump line="43" column="28" filename="C:/ENTWICKLUNG/sandbox/simple-service/src/test/java/com/example/MyResourceTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
