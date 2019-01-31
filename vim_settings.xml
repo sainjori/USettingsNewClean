@@ -12,8 +12,8 @@
       <file name="/a.dummy" timestamp="1548262218649">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/junit/DropwizardAppRule.java" timestamp="1548778667035">
-        <mark key="'" line="219" column="15" />
+      <file name="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/junit/DropwizardAppRule.java" timestamp="1548931491408">
+        <mark key="'" line="128" column="38" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/attributes-from-sap.xml" timestamp="1546861337027">
         <mark key="[" line="441" column="12" />
@@ -54,6 +54,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/datacontainer/Doc.java" timestamp="1544708655186">
         <mark key="'" line="28" column="9" />
       </file>
+      <file name="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-example/src/test/java/com/example/helloworld/IntegrationTest.java" timestamp="1548931499128" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.2/sapbase-5.1.13.2-sources.jar!/cadagent/proc/doc/ProcessDocStructureExplode4.java" timestamp="1548241019256">
         <mark key="'" line="207" column="9" />
       </file>
@@ -75,8 +76,8 @@
       <file name="/monitoring_dashboard.ectr_statistic_group [monitoring_dashboard@localhost]" timestamp="1548692921253">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" timestamp="1548848310186">
-        <mark key="'" line="126" column="8" />
+      <file name="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" timestamp="1548931473487">
+        <mark key="'" line="267" column="30" />
       </file>
       <file name="/monitoring_dashboard.midway [monitoring_dashboard@localhost]" timestamp="1548679991903">
         <mark key="[" line="0" column="0" />
@@ -168,11 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1271" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
-      <jump line="839" column="39" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
-      <jump line="1252" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
-      <jump line="1262" column="33" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
-      <jump line="1273" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKPlmProcessDocumentCopyAsGui.java" />
       <jump line="14" column="67" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/customize/config/default.txt" />
       <jump line="275" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
       <jump line="42" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/ReferenceMapping.java" />
@@ -229,7 +225,6 @@
       <jump line="440" column="23" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/invoke/VarHandle.java" />
       <jump line="326" column="28" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-example/pom.xml" />
       <jump line="129" column="29" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
-      <jump line="128" column="27" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/junit/DropwizardAppRule.java" />
       <jump line="132" column="13" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/junit/DropwizardAppRule.java" />
       <jump line="158" column="12" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/junit/DropwizardAppRule.java" />
       <jump line="165" column="12" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/junit/DropwizardAppRule.java" />
@@ -268,6 +263,12 @@
       <jump line="126" column="8" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
       <jump line="239" column="4" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/concurrent/locks/ReentrantLock.java" />
       <jump line="135" column="12" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-auth/src/main/java/io/dropwizard/auth/AuthFilter.java" />
+      <jump line="128" column="38" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/junit/DropwizardAppRule.java" />
+      <jump line="60" column="29" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
+      <jump line="110" column="79" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
+      <jump line="202" column="12" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
+      <jump line="231" column="62" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
+      <jump line="267" column="30" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -277,7 +278,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25maWdPdmVycmlkZXNcPg==</text>
+        <text encoding="base64">XDxhcHBsaWNhdGlvblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxvYWRPcHRpb25PYmplY3Quc2V0TG9hZE9wdGlvbihQbG1Db25zdGFudHMuTE9BRF9PUFRfQVNfU0FWRUQpOwo=</text>
@@ -314,9 +315,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25maWdPdmVycmlkZXNcPg==</last-search>
+      <last-search encoding="base64">XDxhcHBsaWNhdGlvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25maWdPdmVycmlkZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhcHBsaWNhdGlvblw+</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -324,7 +325,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXRcPg==</entry>
         <entry encoding="base64">XDxoYW5kbGVOdW1iZXJBc3NpZ25tZW50RXh0ZXJuYWxcPg==</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry>*</entry>
@@ -344,6 +344,7 @@
         <entry encoding="base64">XDx0ZXN0U3VwcG9ydFw+</entry>
         <entry encoding="base64">XDxhcHBsaWNhdGlvbkNsYXNzXD4=</entry>
         <entry encoding="base64">XDxjb25maWdPdmVycmlkZXNcPg==</entry>
+        <entry encoding="base64">XDxhcHBsaWNhdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>4731</entry>
