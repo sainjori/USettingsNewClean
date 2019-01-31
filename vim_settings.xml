@@ -30,12 +30,6 @@
       <file name="$USER_HOME$/AppData/Local/Temp/7zOCB7935E0/JKProcessDocumentCopyAsGui.class" timestamp="1545241783356">
         <mark key="'" line="195" column="158" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/run-migrations.bat" timestamp="1548841813237">
-        <mark key="[" line="22" column="124" />
-        <mark key="]" line="22" column="124" />
-        <mark key="." line="22" column="124" />
-        <mark key="^" line="22" column="139" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" timestamp="1544708992528">
         <mark key="'" line="567" column="2" />
       </file>
@@ -58,12 +52,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.2/sapbase-5.1.13.2-sources.jar!/cadagent/proc/doc/ProcessDocStructureExplode4.java" timestamp="1548241019256">
         <mark key="'" line="207" column="9" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/pom.xml" timestamp="1548691788885">
-        <mark key="[" line="341" column="0" />
-        <mark key="]" line="341" column="0" />
-        <mark key="^" line="340" column="17" />
-        <mark key="." line="341" column="0" />
-      </file>
+      <file name="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-example/src/main/java/com/example/helloworld/HelloWorldApplication.java" timestamp="1548932498493" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/trunk/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" timestamp="1545309352487">
         <mark key="'" line="953" column="6" />
       </file>
@@ -76,8 +65,8 @@
       <file name="/monitoring_dashboard.ectr_statistic_group [monitoring_dashboard@localhost]" timestamp="1548692921253">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" timestamp="1548931473487">
-        <mark key="'" line="267" column="30" />
+      <file name="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" timestamp="1548931812996">
+        <mark key="'" line="147" column="25" />
       </file>
       <file name="/monitoring_dashboard.midway [monitoring_dashboard@localhost]" timestamp="1548679991903">
         <mark key="[" line="0" column="0" />
@@ -118,6 +107,9 @@
       </file>
       <file name="/monitoring_dashboard.auth_token [monitoring_dashboard@localhost]" timestamp="1548680003455">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java" timestamp="1548932967569">
+        <mark key="'" line="367" column="30" />
       </file>
       <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/invoke/VarHandle.java" timestamp="1548769646536">
         <mark key="'" line="440" column="23" />
@@ -169,8 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="67" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/customize/config/default.txt" />
-      <jump line="275" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmParsePLMXMLProcess.java" />
       <jump line="42" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/ReferenceMapping.java" />
       <jump line="194" column="60" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/CreateAssemblyToolProcess.java" />
       <jump line="517" column="38" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/trunk/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" />
@@ -264,11 +254,13 @@
       <jump line="239" column="4" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/concurrent/locks/ReentrantLock.java" />
       <jump line="135" column="12" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-auth/src/main/java/io/dropwizard/auth/AuthFilter.java" />
       <jump line="128" column="38" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/junit/DropwizardAppRule.java" />
-      <jump line="60" column="29" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
-      <jump line="110" column="79" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
       <jump line="202" column="12" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
       <jump line="231" column="62" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
       <jump line="267" column="30" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
+      <jump line="60" column="29" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
+      <jump line="110" column="79" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
+      <jump line="147" column="25" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
+      <jump line="367" column="30" filename="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
