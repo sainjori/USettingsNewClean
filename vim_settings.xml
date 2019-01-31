@@ -18,7 +18,6 @@
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/attributes-from-sap.xml" timestamp="1546861337027">
         <mark key="[" line="441" column="12" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/rules/TestRule.java" timestamp="1548929608764" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/applications/ugs/customize/config/dtype.xml" timestamp="1545250860022">
         <mark key="[" line="629" column="0" />
         <mark key="]" line="629" column="0" />
@@ -45,14 +44,18 @@
       <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/String.java" timestamp="1548840030110">
         <mark key="'" line="2860" column="16" />
       </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/.gitignore" timestamp="1548952257223">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="10" />
+        <mark key="." line="6" column="10" />
+        <mark key="^" line="6" column="10" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/datacontainer/Doc.java" timestamp="1544708655186">
         <mark key="'" line="28" column="9" />
       </file>
-      <file name="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-example/src/test/java/com/example/helloworld/IntegrationTest.java" timestamp="1548931499128" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.2/sapbase-5.1.13.2-sources.jar!/cadagent/proc/doc/ProcessDocStructureExplode4.java" timestamp="1548241019256">
         <mark key="'" line="207" column="9" />
       </file>
-      <file name="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-example/src/main/java/com/example/helloworld/HelloWorldApplication.java" timestamp="1548932498493" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/trunk/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" timestamp="1545309352487">
         <mark key="'" line="953" column="6" />
       </file>
@@ -114,11 +117,10 @@
       <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/invoke/VarHandle.java" timestamp="1548769646536">
         <mark key="'" line="440" column="23" />
       </file>
-      <file name="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/junit/ResourceTestRule.java" timestamp="1548861955030" />
       <file name="/dummy.sql" timestamp="1548692999176">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548942242979">
+      <file name="/Dummy.txt" timestamp="1548952326363">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/statuploader/statuploader-base/src/main/java/com/dscsag/monitoring/statuploader_base/ectr_platform_api/BaseLogUploader.java" timestamp="1548252901882">
@@ -263,44 +265,56 @@
       <jump line="367" column="30" filename="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtYXQoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>!/basis
+/basis/*
+!/basis/config
+!/basis/aux-files
+!addons/
+!customize
+!applications</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>config</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBsaWNhdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvYWRPcHRpb25PYmplY3Quc2V0TG9hZE9wdGlvbihQbG1Db25zdGFudHMuTE9BRF9PUFRfQVNfU0FWRUQpOwo=</text>
+        <text encoding="base64">IS9iYXNpcy9jb25maWcK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtYXQoKQo=</text>
+      <register name="1" type="4">
+        <text>!/basis
+/basis/*
+!/basis/config
+!/basis/aux-files
+!addons/
+!customize
+!applications</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ISoudHh0CiEqLmJhdAohKi54bWwK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgICAgIDxncm91cElkPmphdmF4LnhtbC5iaW5kPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmpheGItYXBpPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuMy4xPC92ZXJzaW9uPgogICAgICAgICAgICAgICAgICA8L2RlcGVuZGVuY3k+</text>
+      <register name="3" type="2">
+        <text encoding="base64">L2FkZG9ucy9hY20vYmFzaXMvY2xhc3Nlcy9hY21zcmMtMS4xLmphcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+YWN0aXZlbXE8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+amF4Yi1hcGk8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+MjAwNTA0MDc8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">Ki5qYXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LnN2bi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+YWN0aXZlbXE8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+amF4Yi1hcGk8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+MjAwNTA0MDc8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICBmb3JtYXQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgICAgIDxncm91cElkPmNvbS5zdW4ueG1sLmJpbmQ8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+amF4Yi1pbXBsPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuMi4xMTwvdmVyc2lvbj4KICAgICAgICAgICAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
+        <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgICAgIDxncm91cElkPmphdmF4LnhtbC5iaW5kPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmpheGItYXBpPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuMy4xPC92ZXJzaW9uPgogICAgICAgICAgICAgICAgICA8L2RlcGVuZGVuY3k+</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPCEtLSBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L2NvbS5zdW4ueG1sLmJpbmQvamF4Yi1pbXBsIC0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+YWN0aXZlbXE8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+amF4Yi1hcGk8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+MjAwNTA0MDc8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name=":" type="4">
         <text>292</text>
