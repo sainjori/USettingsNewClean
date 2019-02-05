@@ -180,6 +180,9 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/sapbase/java/src/cadagent/proc/fa/ProcessFARoutingOperationGetDetail.java" timestamp="1549023308741">
         <mark key="'" line="164" column="4" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1549382451291">
+        <mark key="'" line="462" column="22" />
+      </file>
       <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/concurrent/locks/ReentrantLock.java" timestamp="1548850810980">
         <mark key="'" line="239" column="4" />
       </file>
@@ -203,15 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="672" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
-      <jump line="673" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
-      <jump line="821" column="58" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
-      <jump line="238" column="38" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
-      <jump line="237" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
-      <jump line="265" column="59" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
-      <jump line="291" column="34" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
-      <jump line="226" column="49" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
-      <jump line="199" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.12.1/sapbase-5.1.12.1-sources.jar!/cadagent/objmod/PlmMatBomItem.java" />
       <jump line="161" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
       <jump line="482" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/tesat/trunk/java/src/tesat/dadi/TesatDadiAfterSessionUpdate.java" />
       <jump line="536" column="15" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/tesat/trunk/java/src/tesat/dadi/TesatDadiAfterSessionUpdate.java" />
@@ -303,6 +297,15 @@
       <jump line="1076" column="28" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/proc/PlmProcessPsActivityCreate.java" />
       <jump line="2607" column="53" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" />
       <jump line="941" column="80" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/proc/PlmProcessPsActivityCreate.java" />
+      <jump line="378" column="49" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
+      <jump line="235" column="28" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
+      <jump line="355" column="29" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
+      <jump line="136" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
+      <jump line="217" column="10" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
+      <jump line="218" column="16" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
+      <jump line="367" column="25" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
+      <jump line="106" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
+      <jump line="462" column="22" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -312,7 +315,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjUHJwXD4=</text>
+        <text encoding="base64">XDxub3RGaWx0ZXJhYmxlUHJvcGVydGllc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICNwbG0ucHMubmV0d29yay5hY3Rpdml0eS5jcmVhdGUucHJvcGVydGllcy5leGNsdWRlID0gUkVTUDtBU1NJR05EX1VTRVIK</text>
@@ -355,9 +358,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjUHJwXD4=</last-search>
+      <last-search encoding="base64">XDxub3RGaWx0ZXJhYmxlUHJvcGVydGllc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjUHJwXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxub3RGaWx0ZXJhYmxlUHJvcGVydGllc1w+</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -365,8 +368,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXREb2N1bWVudE51bWJlckZyb21EYWRpXD4=</entry>
-        <entry encoding="base64">XDxsYmxfaWR4SW5jXD4=</entry>
         <entry encoding="base64">XDx2YXIxNlw+</entry>
         <entry encoding="base64">XDxjYkRvY3VtZW50SURzXD4=</entry>
         <entry encoding="base64">XDxneFw+</entry>
@@ -385,6 +386,8 @@
         <entry encoding="base64">XDxzYXBrZXlXYnNcPg==</entry>
         <entry encoding="base64">XDxzYXBrZXlOZXRcPg==</entry>
         <entry encoding="base64">XDxjUHJwXD4=</entry>
+        <entry encoding="base64">XDxyb3dzXD4=</entry>
+        <entry encoding="base64">XDxub3RGaWx0ZXJhYmxlUHJvcGVydGllc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>4731</entry>
