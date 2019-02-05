@@ -21,7 +21,7 @@
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/attributes-from-sap.xml" timestamp="1546861337027">
         <mark key="[" line="441" column="12" />
       </file>
-      <file name="/monitoring_dashboard.server [monitoring_dashboard@localhost]" timestamp="1549379603200">
+      <file name="/monitoring_dashboard.server [monitoring_dashboard@localhost]" timestamp="1549394357732">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/applications/ugs/customize/config/dtype.xml" timestamp="1545250860022">
@@ -100,12 +100,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/client-overview/client-overview.component.ts" timestamp="1549388958698">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/client-overview/client-overview.component.ts" timestamp="1549394927495">
         <mark key="'" line="83" column="0" />
-        <mark key="[" line="85" column="110" />
-        <mark key="]" line="85" column="122" />
-        <mark key="." line="85" column="122" />
-        <mark key="^" line="85" column="122" />
+        <mark key="[" line="85" column="84" />
+        <mark key="]" line="85" column="84" />
+        <mark key="." line="85" column="84" />
+        <mark key="^" line="85" column="84" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentChangeAttributes.java" timestamp="1545062033077">
         <mark key="'" line="139" column="46" />
@@ -148,7 +148,7 @@
       <file name="/monitoring_dashboard.user [vmgrafana]" timestamp="1549380044834">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1549389160721">
+      <file name="/dummy.sql" timestamp="1549394359651">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1549376962528">
@@ -181,6 +181,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1549382451291">
         <mark key="'" line="462" column="22" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/querying/elasticsearch/ClientDetailsProcess.java" timestamp="1549394163736" />
       <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/concurrent/locks/ReentrantLock.java" timestamp="1548850810980">
         <mark key="'" line="239" column="4" />
       </file>
@@ -212,7 +213,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/readme.txt" timestamp="1545310383448">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/preference [monitoring_dashboard@localhost]" timestamp="1549393860226">
+      <file name="/preference [monitoring_dashboard@localhost]" timestamp="1549394078302">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -320,16 +321,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.userLanguage</text>
+        <text>||</text>
       </register>
       <register name="-" type="4">
-        <text>.userLanguage</text>
+        <text>||</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRlQ2VsbFRlbXBsYXRlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuYXZpZ2F0b3IubGFuZ3VhZ2UgfHwgbmF2aWdhdG9yLmJyb3dzZXJMYW5ndWFnZSB8fCAobmF2aWdhdG9yLmxhbmd1YWdlcyB8fCBbImVuIl0pIFswXTsK</text>
+      <register name="0" type="4">
+        <text>angulalDatePipeParsedValue</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlmKG5hdmlnYXRvci5icm93c2VyTGFuZ3VhZ2UgIT0gdW5kZWZpbmVkKXsKICAgICAgCiAgICB9Cg==</text>
