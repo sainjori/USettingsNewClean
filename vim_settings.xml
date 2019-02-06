@@ -12,6 +12,7 @@
       <file name="/monitoring_dashboard.kibana_dashboard [monitoring_dashboard@localhost]" timestamp="1549377112064">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" timestamp="1549453952476" />
       <file name="/a.dummy" timestamp="1548262218649">
         <mark key="[" line="0" column="0" />
       </file>
@@ -22,6 +23,9 @@
         <mark key="[" line="441" column="12" />
       </file>
       <file name="/monitoring_dashboard.server [monitoring_dashboard@localhost]" timestamp="1549394357732">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/monitoring_dashboard.ectr_statistic_settings [monitoring_dashboard@localhost]" timestamp="1549454333813">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/applications/ugs/customize/config/dtype.xml" timestamp="1545250860022">
@@ -78,6 +82,12 @@
       <file name="$MAVEN_REPOSITORY$/io/dropwizard/dropwizard-core/1.0.2/dropwizard-core-1.0.2-sources.jar!/io/dropwizard/cli/Cli.java" timestamp="1548675158622">
         <mark key="'" line="84" column="24" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/statistic-settings.component.html" timestamp="1549454483996">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="28" column="54" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/CreateAssemblyToolProcess.java" timestamp="1545249086352">
         <mark key="'" line="194" column="60" />
       </file>
@@ -93,6 +103,12 @@
       <file name="/monitoring_dashboard.midway [monitoring_dashboard@localhost]" timestamp="1548679991903">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/statistic-settings.component.ts" timestamp="1549454288762">
+        <mark key="[" line="276" column="32" />
+        <mark key="]" line="277" column="3" />
+        <mark key="^" line="277" column="3" />
+        <mark key="." line="277" column="3" />
+      </file>
       <file name="C:/ENTWICKLUNG/Backup/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/PlmProcessDocumentCopyAsGui.java" timestamp="1545137489904">
         <mark key="'" line="725" column="12" />
       </file>
@@ -101,12 +117,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/client-overview/client-overview.component.ts" timestamp="1549452888517">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/client-overview/client-overview.component.ts" timestamp="1549454296787">
         <mark key="'" line="8" column="38" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="96" column="6" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="86" column="10" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentChangeAttributes.java" timestamp="1545062033077">
         <mark key="'" line="139" column="46" />
@@ -155,11 +171,11 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1549394359651">
+      <file name="/dummy.sql" timestamp="1549454377211">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549452326480">
-        <mark key="[" line="0" column="16" />
+      <file name="/Dummy.txt" timestamp="1549454496741">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
@@ -201,17 +217,20 @@
         <mark key="'" line="137" column="40" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/package.json" timestamp="1549396626017" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/client-overview/client-overview.component.html" timestamp="1549452868209">
-        <mark key="[" line="28" column="19" />
-        <mark key="]" line="28" column="28" />
-        <mark key="." line="28" column="28" />
-        <mark key="^" line="28" column="28" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/client-overview/client-overview.component.html" timestamp="1549454257903">
+        <mark key="[" line="28" column="35" />
+        <mark key="]" line="28" column="35" />
+        <mark key="." line="28" column="35" />
+        <mark key="^" line="28" column="35" />
       </file>
       <file name="/monitoring_dashboard.server [vmgrafana]" timestamp="1549379543033">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/sandbox/simple-service/src/test/java/com/example/MyResourceTest.java" timestamp="1548843918607">
         <mark key="'" line="43" column="28" />
+      </file>
+      <file name="/monitoring_dashboard.ectr_statistic_settings [vmgrafana]" timestamp="1549454336131">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final-sources.jar!/org/hibernate/validator/internal/engine/ConfigurationImpl.java" timestamp="1548683368380">
         <mark key="'" line="121" column="4" />
@@ -332,10 +351,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8IS0te3t2YWx1ZSB8IGRhdGU6J21lZGl1bSd9fS0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRlQ2VsbFRlbXBsYXRlXD4=</text>
@@ -344,28 +363,28 @@
         <text>angulalDatePipeParsedValue</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8IS0te3t2YWx1ZSB8IGRhdGU6J21lZGl1bSd9fS0tPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsb2NhbGlzZUZvckJyb3dzZXJMYW5ndWFnZShkYXRlOiBzdHJpbmcpIHsKICAgIGNvbnN0IGdldEJyb3dzZXJMYW5ndWFnZSA9ICgpID0+IG5hdmlnYXRvci5sYW5ndWFnZXMgJiYgbmF2aWdhdG9yLmxhbmd1YWdlc1swXSB8fCBuYXZpZ2F0b3IubGFuZ3VhZ2UgfHwgbmF2aWdhdG9yWyd1c2VyTGFuZ3VhZ2UnXTsKICAgIHJldHVybiBuZXcgRGF0ZShkYXRlKS50b0xvY2FsZURhdGVTdHJpbmcoZ2V0QnJvd3Nlckxhbmd1YWdlKCksIHsKICAgICAgaG91cjogJ251bWVyaWMnLCBtaW51dGU6ICdudW1lcmljJywgc2Vjb25kOiAnbnVtZXJpYycsCiAgICB9KTsKICB9Cg==</text>
+        <text encoding="base64">ICAgIC8vIHJldHVybiBuZXcgRGF0ZShkYXRlKS50b0xvY2FsZURhdGVTdHJpbmcoZ2V0QnJvd3Nlckxhbmd1YWdlKCksIHsKICAgIC8vICAgaG91cjogJ251bWVyaWMnLCBtaW51dGU6ICdudW1lcmljJywgc2Vjb25kOiAnbnVtZXJpYycsCiAgICAvLyB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IGdldEJyb3dzZXJMYW5ndWFnZSA9ICgpID0+IG5hdmlnYXRvci5sYW5ndWFnZXMgJiYgbmF2aWdhdG9yLmxhbmd1YWdlc1swXSB8fCBuYXZpZ2F0b3IubGFuZ3VhZ2UgfHwgbmF2aWdhdG9yWyd1c2VyTGFuZ3VhZ2UnXTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsb2NhbGlzZURhdGUoYW5ndWxhckRhdGVQaXBlUGFyc2VkVmFsdWUpIHsKICB9Cg==</text>
+        <text encoding="base64">ICBsb2NhbGlzZUZvckJyb3dzZXJMYW5ndWFnZShkYXRlOiBzdHJpbmcpIHsKICAgIGNvbnN0IGdldEJyb3dzZXJMYW5ndWFnZSA9ICgpID0+IG5hdmlnYXRvci5sYW5ndWFnZXMgJiYgbmF2aWdhdG9yLmxhbmd1YWdlc1swXSB8fCBuYXZpZ2F0b3IubGFuZ3VhZ2UgfHwgbmF2aWdhdG9yWyd1c2VyTGFuZ3VhZ2UnXTsKICAgIHJldHVybiBuZXcgRGF0ZShkYXRlKS50b0xvY2FsZURhdGVTdHJpbmcoZ2V0QnJvd3Nlckxhbmd1YWdlKCksIHsKICAgICAgaG91cjogJ251bWVyaWMnLCBtaW51dGU6ICdudW1lcmljJywgc2Vjb25kOiAnbnVtZXJpYycsCiAgICB9KTsKICB9Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGdldEJyb3dzZXJMYW5ndWFnZSA9ICgpID0+IG5hdmlnYXRvci5sYW5ndWFnZXMgJiYgbmF2aWdhdG9yLmxhbmd1YWdlc1swXSB8fCBuYXZpZ2F0b3IubGFuZ3VhZ2UgfHwgbmF2aWdhdG9yWyd1c2VyTGFuZ3VhZ2UnXTsKICAgIHJldHVybiBuZXcgRGF0ZShhbmd1bGFyRGF0ZVBpcGVQYXJzZWRWYWx1ZSkudG9Mb2NhbGVEYXRlU3RyaW5nKGdldEJyb3dzZXJMYW5ndWFnZSgpLCB7CiAgICAgIGhvdXI6ICdudW1lcmljJywgbWludXRlOiAnbnVtZXJpYycsIHNlY29uZDogJ251bWVyaWMnLAogICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IGdldExhbmcgPSAoKSA9PiAgbmF2aWdhdG9yLmxhbmd1YWdlIHx8IHdpbmRvdy5uYXZpZ2F0b3JbJ3VzZXJMYW5ndWFnZSddIHx8ICggbmF2aWdhdG9yLmxhbmd1YWdlcyB8fCBbICJlbiIgXSApIFsgMCBdCg==</text>
+        <text encoding="base64">ICBsb2NhbGlzZURhdGUoYW5ndWxhckRhdGVQaXBlUGFyc2VkVmFsdWUpIHsKICB9Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
