@@ -9,6 +9,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" timestamp="1549457481973">
         <mark key="'" line="64" column="2" />
       </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.2/addons/ProjectSystem/customize/config/default.txt" timestamp="1549546787373">
+        <mark key="[" line="184" column="4" />
+        <mark key="]" line="184" column="4" />
+        <mark key="^" line="184" column="55" />
+        <mark key="." line="184" column="4" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/applications/ugs/customize/config/dtype.xml" timestamp="1545250860022">
         <mark key="[" line="629" column="0" />
         <mark key="]" line="629" column="0" />
@@ -37,6 +43,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.2/sapbase-5.1.13.2-sources.jar!/cadagent/proc/doc/ProcessDocStructureExplode4.java" timestamp="1548241019256">
         <mark key="'" line="207" column="9" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.13.2/addons-5.1.13.2-sources.jar!/cadagent/modules/ps/objmod/PlmPSMilestoneKeys.java" timestamp="1549548671751" />
       <file name="$MAVEN_REPOSITORY$/io/dropwizard/dropwizard-core/1.0.2/dropwizard-core-1.0.2-sources.jar!/io/dropwizard/cli/Cli.java" timestamp="1548675158622">
         <mark key="'" line="84" column="24" />
       </file>
@@ -68,8 +75,8 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/sapbase/java/src/cadagent/objmod/PlmSystemStatus.java" timestamp="1549542238631">
         <mark key="'" line="93" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/otto-fuchs/branches/OF-ECTR-HOTFIX-5.1.13.2/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" timestamp="1549544880845">
-        <mark key="'" line="70" column="50" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/otto-fuchs/branches/OF-ECTR-HOTFIX-5.1.13.2/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" timestamp="1549548964370">
+        <mark key="'" line="291" column="84" />
         <mark key="[" line="644" column="0" />
         <mark key="]" line="644" column="0" />
         <mark key="^" line="644" column="18" />
@@ -78,7 +85,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsNetworkActivityCreate.java" timestamp="1549024643424">
         <mark key="'" line="193" column="6" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.2/customize/config/default.txt" timestamp="1549546321495">
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.2/customize/config/default.txt" timestamp="1549548011623">
         <mark key="'" line="16" column="34" />
         <mark key="[" line="2649" column="40" />
         <mark key="]" line="2652" column="58" />
@@ -100,6 +107,7 @@
       <file name="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/junit/DropwizardAppRule.java" timestamp="1548931491408">
         <mark key="'" line="128" column="38" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/cust/sandvik-ectr-hotfix-5.1.9.2/5.1.9.2-SNAPSHOT/sandvik-ectr-hotfix-5.1.9.2-5.1.9.2-SNAPSHOT.jar!/cadagent/cfc/gfx/GxPreviewPanel.class" timestamp="1549547752789" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/cfc/util/Trace.java" timestamp="1548241093713">
         <mark key="'" line="810" column="21" />
       </file>
@@ -115,11 +123,11 @@
       <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/String.java" timestamp="1548840030110">
         <mark key="'" line="2860" column="16" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/otto-fuchs/trunk/ectr/pom.xml" timestamp="1549546094168">
-        <mark key="[" line="33" column="21" />
-        <mark key="]" line="33" column="28" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/otto-fuchs/trunk/ectr/pom.xml" timestamp="1549547313779">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="43" column="21" />
         <mark key="^" line="33" column="28" />
-        <mark key="." line="33" column="28" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/datacontainer/Doc.java" timestamp="1544708655186">
         <mark key="'" line="28" column="9" />
@@ -136,6 +144,9 @@
         <mark key="]" line="1" column="120" />
         <mark key="^" line="1" column="120" />
         <mark key="." line="1" column="120" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.13.2/addons-5.1.13.2-sources.jar!/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" timestamp="1549548911582">
+        <mark key="'" line="64" column="4" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/PreferenceEndpoint.java" timestamp="1549460277651" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/administration/statistic-settings/statistic-settings.component.html" timestamp="1549454483996">
@@ -189,13 +200,9 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.2/sapbase-5.1.13.2-sources.jar!/cadagent/modules/psm/objmod/SemanticKey.java" timestamp="1549548030721" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" timestamp="1549543892113">
         <mark key="'" line="631" column="75" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1549461166729">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/statuploader/statuploader-base/src/main/java/com/dscsag/monitoring/statuploader_base/ectr_platform_api/BaseLogUploader.java" timestamp="1548252901882">
         <mark key="'" line="273" column="14" />
@@ -234,24 +241,13 @@
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final-sources.jar!/org/hibernate/validator/internal/engine/ConfigurationImpl.java" timestamp="1548683368380">
         <mark key="'" line="121" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1549544751566">
+      <file name="/fragment.java" timestamp="1549548019236">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="15" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/junit/DropwizardAppRule.java" />
-      <jump line="187" column="15" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/junit/DropwizardAppRule.java" />
-      <jump line="191" column="15" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/junit/DropwizardAppRule.java" />
-      <jump line="196" column="15" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/junit/DropwizardAppRule.java" />
-      <jump line="200" column="15" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/junit/DropwizardAppRule.java" />
-      <jump line="204" column="15" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/junit/DropwizardAppRule.java" />
-      <jump line="219" column="15" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/junit/DropwizardAppRule.java" />
-      <jump line="2860" column="16" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/String.java" />
-      <jump line="43" column="28" filename="C:/ENTWICKLUNG/sandbox/simple-service/src/test/java/com/example/MyResourceTest.java" />
-      <jump line="269" column="19" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
-      <jump line="41" column="52" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
       <jump line="69" column="65" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
       <jump line="75" column="65" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
       <jump line="80" column="65" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
@@ -339,48 +335,59 @@
       <jump line="93" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/sapbase/java/src/cadagent/objmod/PlmSystemStatus.java" />
       <jump line="273" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/brobj/BrPSProject.java" />
       <jump line="631" column="75" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" />
-      <jump line="69" column="50" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/otto-fuchs/branches/OF-ECTR-HOTFIX-5.1.13.2/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" />
       <jump line="16" column="34" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.2/customize/config/default.txt" />
+      <jump line="56" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.13.2/addons-5.1.13.2-sources.jar!/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" />
+      <jump line="117" column="35" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/otto-fuchs/branches/OF-ECTR-HOTFIX-5.1.13.2/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" />
+      <jump line="646" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/otto-fuchs/branches/OF-ECTR-HOTFIX-5.1.13.2/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" />
+      <jump line="489" column="46" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/otto-fuchs/branches/OF-ECTR-HOTFIX-5.1.13.2/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" />
+      <jump line="624" column="46" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/otto-fuchs/branches/OF-ECTR-HOTFIX-5.1.13.2/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" />
+      <jump line="645" column="0" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.13.2/addons-5.1.13.2-sources.jar!/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" />
+      <jump line="79" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/otto-fuchs/branches/OF-ECTR-HOTFIX-5.1.13.2/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" />
+      <jump line="611" column="85" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/otto-fuchs/branches/OF-ECTR-HOTFIX-5.1.13.2/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" />
+      <jump line="69" column="48" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/otto-fuchs/branches/OF-ECTR-HOTFIX-5.1.13.2/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" />
+      <jump line="70" column="50" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.13.2/addons-5.1.13.2-sources.jar!/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" />
+      <jump line="64" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.13.2/addons-5.1.13.2-sources.jar!/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" />
+      <jump line="291" column="84" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/otto-fuchs/branches/OF-ECTR-HOTFIX-5.1.13.2/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5.2-SNAPSHOT</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLmRzY3NhZy5jdXN0PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5vdHRvLWZ1Y2hzLWVjdHItaG90Zml4LTUuMS4xMy4yPC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj4xLjAtU05BUFNIT1Q8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text>5.2-SNAPSHOT</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfdXNlckNvbmZpZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLmRzY3NhZzwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+c2FwYmFzZTwvYXJ0aWZhY3RJZD4KCQk8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICNwbG0ucHMubmV0d29yay5hY3Rpdml0eS5jcmVhdGUucHJvcGVydGllcy5leGNsdWRlID0gUkVTUDtBU1NJR05EX1VTRVIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLmRzY3NhZy5jdXN0PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5vdHRvLWZ1Y2hzLWVjdHItaG90Zml4LTUuMS4xMy4yPC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj4xLjAtU05BUFNIT1Q8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQk8IS0tPGRlcGVuZGVuY3k+LS0+CgkJCTwhLS08Z3JvdXBJZD5jb20uZHNjc2FnLmN1c3Q8L2dyb3VwSWQ+LS0+CgkJCTwhLS08YXJ0aWZhY3RJZD5vdHRvLWZ1Y2hzLWVjdHItaG90Zml4LTUuMS4xMy4yPC9hcnRpZmFjdElkPi0tPgoJCQk8IS0tPHZlcnNpb24+MS4wLVNOQVBTSE9UPC92ZXJzaW9uPi0tPgoJCTwhLS08L2RlcGVuZGVuY3k+LS0+Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJPGFydGlmYWN0SWQ+b3R0by1mdWNocy1hZGRvbnMtaG90Zml4LTUuMS4xMy4yPC9hcnRpZmFjdElkPgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">IDxkZXBlbmRlbmNpZXM+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5kc2NzYWcubW9kdWxlczwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+YWRkb25zPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4ke3Byb2plY3QucGFyZW50LnZlcnNpb259PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgIDwvZGVwZW5kZW5jaWVzPg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIkRTQ19BU1NJR05FRF9VU0VSIiwgU3RyaW5nLmNsYXNzLAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmRzY3NhZzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+YmFzZTwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5kc2NzYWc8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNhcGJhc2U8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQk8IS0tPGRlcGVuZGVuY3k+LS0+CgkJCTwhLS08Z3JvdXBJZD5jb20uZHNjc2FnLmN1c3Q8L2dyb3VwSWQ+LS0+CgkJCTwhLS08YXJ0aWZhY3RJZD5vdHRvLWZ1Y2hzLWVjdHItaG90Zml4LTUuMS4xMy4yPC9hcnRpZmFjdElkPi0tPgoJCQk8IS0tPHZlcnNpb24+MS4wLVNOQVBTSE9UPC92ZXJzaW9uPi0tPgoJCTwhLS08L2RlcGVuZGVuY3k+LS0+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJPGFydGlmYWN0SWQ+b3R0by1mdWNocy1hZGRvbnMtaG90Zml4LTUuMS4xMy4yPC9hcnRpZmFjdElkPgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IDxkZXBlbmRlbmNpZXM+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5kc2NzYWcubW9kdWxlczwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+YWRkb25zPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4ke3Byb2plY3QucGFyZW50LnZlcnNpb259PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgIDwvZGVwZW5kZW5jaWVzPg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgIkRTQ19BU1NJR05FRF9VU0VSIiwgU3RyaW5nLmNsYXNzLAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmRzY3NhZzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+YmFzZTwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5kc2NzYWc8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNhcGJhc2U8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8IS0te3t2YWx1ZSB8IGRhdGU6J21lZGl1bSd9fS0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>292</text>
