@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.12.1/sapbase-5.1.12.1-sources.jar!/cadagent/objmod/PlmMatBomItem.java" timestamp="1548163793770">
+        <mark key="'" line="199" column="4" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.2/sapbase-5.1.13.2-sources.jar!/cadagent/objmod/PlmDocument.java" timestamp="1548240942691">
+        <mark key="'" line="189" column="26" />
+      </file>
       <file name="/monitoring_dashboard.kibana_dashboard [monitoring_dashboard@localhost]" timestamp="1549377112064">
         <mark key="[" line="0" column="0" />
       </file>
@@ -11,6 +17,9 @@
       </file>
       <file name="/a.dummy" timestamp="1548262218649">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/junit/DropwizardAppRule.java" timestamp="1548931491408">
+        <mark key="'" line="128" column="38" />
       </file>
       <file name="/monitoring_dashboard.event_log_entry [monitoring_dashboard@localhost]" timestamp="1549460520998">
         <mark key="[" line="0" column="0" />
@@ -24,14 +33,62 @@
       <file name="/monitoring_dashboard.ectr_statistic_settings [monitoring_dashboard@localhost]" timestamp="1549454333813">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/cfc/util/Trace.java" timestamp="1548241093713">
+        <mark key="'" line="810" column="21" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/brobj/BrPSNetworkActivity.java" timestamp="1549024105730">
+        <mark key="'" line="121" column="4" />
+      </file>
+      <file name="$USER_HOME$/AppData/Local/Temp/7zOCB7935E0/JKProcessDocumentCopyAsGui.class" timestamp="1545241783356">
+        <mark key="'" line="195" column="158" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmExportPLMXMLProcess.java" timestamp="1544708992528">
+        <mark key="'" line="567" column="2" />
+      </file>
+      <file name="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-example/pom.xml" timestamp="1548776895129">
+        <mark key="'" line="326" column="28" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" timestamp="1545237084784">
+        <mark key="'" line="946" column="15" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/ReferenceMapping.java" timestamp="1545249082791">
+        <mark key="'" line="42" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/typescript/lib/lib.es5.d.ts" timestamp="1549387360203">
+        <mark key="'" line="757" column="53" />
+      </file>
+      <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/String.java" timestamp="1548840030110">
+        <mark key="'" line="2860" column="16" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/otto-fuchs/trunk/ectr/pom.xml" timestamp="1549542883994">
+        <mark key="[" line="56" column="35" />
+        <mark key="]" line="56" column="41" />
+        <mark key="^" line="56" column="41" />
+        <mark key="." line="56" column="41" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/datacontainer/Doc.java" timestamp="1544708655186">
+        <mark key="'" line="28" column="9" />
+      </file>
       <file name="/monitoring_dashboard.kibana_dashboard [vmgrafana]" timestamp="1549380097283">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/PreferenceDAO.java" timestamp="1549460410963" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.2/sapbase-5.1.13.2-sources.jar!/cadagent/proc/doc/ProcessDocStructureExplode4.java" timestamp="1548241019256">
+        <mark key="'" line="207" column="9" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1549380715391">
         <mark key="[" line="0" column="5" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/testingutils/ElasticsearchInMemDBHolder.java" timestamp="1549444911886" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/trunk/src/main/java/jk/dadi/JKProcessDocumentCopyAsGui.java" timestamp="1545309352487">
+        <mark key="'" line="953" column="6" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/proc/PlmProcessPsActivityCreate.java" timestamp="1549031807004">
+        <mark key="'" line="941" column="80" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/io/dropwizard/dropwizard-core/1.0.2/dropwizard-core-1.0.2-sources.jar!/io/dropwizard/cli/Cli.java" timestamp="1548675158622">
+        <mark key="'" line="84" column="24" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/preference-defaults.properties" timestamp="1549460567288">
         <mark key="[" line="1" column="100" />
         <mark key="]" line="1" column="120" />
@@ -46,8 +103,14 @@
         <mark key="^" line="28" column="54" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/CreateAssemblyToolProcess.java" timestamp="1545249086352">
+        <mark key="'" line="194" column="60" />
+      </file>
       <file name="/monitoring_dashboard.ectr_statistic_group [monitoring_dashboard@localhost]" timestamp="1548692921253">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" timestamp="1548931812996">
+        <mark key="'" line="147" column="25" />
       </file>
       <file name="/monitoring_dashboard.event_log_entry [vmgrafana]" timestamp="1549380098163">
         <mark key="[" line="0" column="0" />
@@ -55,14 +118,41 @@
       <file name="/monitoring_dashboard.midway [monitoring_dashboard@localhost]" timestamp="1548679991903">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/Backup/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/PlmProcessDocumentCopyAsGui.java" timestamp="1545137489904">
+        <mark key="'" line="725" column="12" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentChangeAttributes.java" timestamp="1545062033077">
+        <mark key="'" line="139" column="46" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/io/dropwizard/dropwizard-core/1.0.2/dropwizard-core-1.0.2-sources.jar!/io/dropwizard/cli/ConfiguredCommand.java" timestamp="1548680798626">
+        <mark key="'" line="87" column="25" />
+      </file>
+      <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/invoke/DirectMethodHandle.java" timestamp="1548768971968">
+        <mark key="'" line="307" column="15" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFWorkbook.java" timestamp="1545070601687">
+        <mark key="'" line="295" column="0" />
+      </file>
       <file name="/monitoring_dashboard.preference [monitoring_dashboard@localhost]" timestamp="1549459550926">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/RuntimeException.java" timestamp="1548768320855">
+        <mark key="'" line="85" column="72" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-client/2.27/jersey-client-2.27-sources.jar!/org/glassfish/jersey/client/JerseyInvocation.java" timestamp="1548769436598">
+        <mark key="'" line="183" column="0" />
       </file>
       <file name="/monitoring_dashboard.auth_token [monitoring_dashboard@localhost]" timestamp="1548680003455">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java" timestamp="1548932967569">
+        <mark key="'" line="367" column="30" />
+      </file>
       <file name="/a.sql" timestamp="1549379595829">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/invoke/VarHandle.java" timestamp="1548769646536">
+        <mark key="'" line="440" column="23" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.html" timestamp="1549457100602">
         <mark key="[" line="5" column="86" />
@@ -71,6 +161,9 @@
         <mark key="^" line="5" column="89" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/elasticsearch/ManagedElasticClient.java" timestamp="1549444902565" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/sapbase/java/src/cadagent/objmod/PlmSystemStatus.java" timestamp="1549542238631">
+        <mark key="'" line="93" column="0" />
+      </file>
       <file name="/monitoring_dashboard.user [vmgrafana]" timestamp="1549380044834">
         <mark key="[" line="0" column="0" />
       </file>
@@ -82,16 +175,43 @@
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/statuploader/statuploader-base/src/main/java/com/dscsag/monitoring/statuploader_base/ectr_platform_api/BaseLogUploader.java" timestamp="1548252901882">
+        <mark key="'" line="273" column="14" />
+      </file>
       <file name="/monitoring_dashboard.ectr_calculated_value [monitoring_dashboard@localhost]" timestamp="1548692916751">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsNetworkActivityCreate.java" timestamp="1549024643424">
+        <mark key="'" line="193" column="6" />
+      </file>
       <file name="/monitoring_dashboard.triggered_alert [vmgrafana]" timestamp="1549380044155">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/tesat/trunk/java/src/tesat/proc/order/list/XlsDataReader.java" timestamp="1545316533604">
+        <mark key="'" line="152" column="6" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1544816754102">
+        <mark key="'" line="308" column="6" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/proc/CustomerPlmProcessMaterialSetAll.java" timestamp="1544722946264">
+        <mark key="'" line="436" column="93" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/sapbase/java/src/cadagent/proc/fa/ProcessFARoutingOperationGetDetail.java" timestamp="1549023308741">
+        <mark key="'" line="164" column="4" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1549457789459">
         <mark key="'" line="263" column="18" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/querying/elasticsearch/ClientDetailsProcess.java" timestamp="1549444895100" />
+      <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/concurrent/locks/ReentrantLock.java" timestamp="1548850810980">
+        <mark key="'" line="239" column="4" />
+      </file>
+      <file name="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-auth/src/main/java/io/dropwizard/auth/AuthFilter.java" timestamp="1548857710552">
+        <mark key="'" line="135" column="12" />
+      </file>
+      <file name="C:/ENTWICKLUNG/sandbox/dropwizardstart/pom.xml" timestamp="1548682344543">
+        <mark key="'" line="137" column="40" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/package.json" timestamp="1549396626017" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/client-overview/client-overview.component.html" timestamp="1549454257903">
         <mark key="[" line="28" column="35" />
@@ -102,10 +222,19 @@
       <file name="/monitoring_dashboard.server [vmgrafana]" timestamp="1549379543033">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/sandbox/simple-service/src/test/java/com/example/MyResourceTest.java" timestamp="1548843918607">
+        <mark key="'" line="43" column="28" />
+      </file>
       <file name="/monitoring_dashboard.ectr_statistic_settings [vmgrafana]" timestamp="1549454336131">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/brobj/BrPSProject.java" timestamp="1549542318418">
+        <mark key="'" line="273" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/preferences/ClasspathPreferenceDefaults.java" timestamp="1549460470762" />
+      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final-sources.jar!/org/hibernate/validator/internal/engine/ConfigurationImpl.java" timestamp="1548683368380">
+        <mark key="'" line="121" column="4" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/jkint/trunk/readme.txt" timestamp="1545310383448">
         <mark key="[" line="0" column="0" />
       </file>
@@ -114,9 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="29" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
-      <jump line="132" column="13" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/junit/DropwizardAppRule.java" />
-      <jump line="158" column="12" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/junit/DropwizardAppRule.java" />
       <jump line="165" column="12" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/junit/DropwizardAppRule.java" />
       <jump line="175" column="15" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/junit/DropwizardAppRule.java" />
       <jump line="179" column="15" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/junit/DropwizardAppRule.java" />
@@ -214,13 +340,16 @@
       <jump line="253" column="13" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="254" column="11" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="263" column="18" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
+      <jump line="87" column="32" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/sapbase/java/src/cadagent/objmod/PlmSystemStatus.java" />
+      <jump line="93" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/sapbase/java/src/cadagent/objmod/PlmSystemStatus.java" />
+      <jump line="273" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/brobj/BrPSProject.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfdXNlckNvbmZpZ1w+</text>
