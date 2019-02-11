@@ -9,11 +9,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" timestamp="1549457481973">
         <mark key="'" line="64" column="2" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk/applications/ugs/customize/config/dtype.xml" timestamp="1545250860022">
-        <mark key="[" line="629" column="0" />
-        <mark key="]" line="629" column="0" />
-        <mark key="." line="629" column="0" />
-      </file>
       <file name="$USER_HOME$/AppData/Local/Temp/7zOCB7935E0/JKProcessDocumentCopyAsGui.class" timestamp="1545241783356">
         <mark key="'" line="195" column="158" />
       </file>
@@ -27,6 +22,12 @@
         <mark key="'" line="757" column="53" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" timestamp="1549546339048" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/pom.xml" timestamp="1549889126673">
+        <mark key="[" line="25" column="15" />
+        <mark key="]" line="25" column="22" />
+        <mark key="^" line="25" column="22" />
+        <mark key="." line="25" column="22" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/PreferenceDAO.java" timestamp="1549460410963" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/otto-fuchs/branches/ECTR-HOTFIX-5.1.13.2/pom.xml" timestamp="1549543650054">
         <mark key="[" line="11" column="65" />
@@ -43,22 +44,12 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-api/src/main/java/com/dscsag/monitoring/dashboard_api/PreferenceEndpointApi.java" timestamp="1549459802966" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/ProjectSystem/customize/config/default.txt" timestamp="1549566228715" />
-      <file name="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-example/src/main/java/com/example/helloworld/core/Template.java" timestamp="1548840072973">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/client-overview/client-overview.component.ts" timestamp="1549454296787">
         <mark key="'" line="8" column="38" />
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
         <mark key="^" line="86" column="10" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/jk_group/pom.xml" timestamp="1545137245435">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java" timestamp="1548932967569">
         <mark key="'" line="367" column="30" />
@@ -118,7 +109,7 @@
         <mark key="'" line="128" column="38" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/cust/sandvik-ectr-hotfix-5.1.9.2/5.1.9.2-SNAPSHOT/sandvik-ectr-hotfix-5.1.9.2-5.1.9.2-SNAPSHOT.jar!/cadagent/cfc/gfx/GxPreviewPanel.class" timestamp="1549547752789" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" timestamp="1549886780803">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" timestamp="1549887744600">
         <mark key="'" line="684" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/cfc/util/Trace.java" timestamp="1548241093713">
@@ -197,13 +188,8 @@
         <mark key="^" line="5" column="89" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/elasticsearch/ManagedElasticClient.java" timestamp="1549444902565" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/app.module.ts" timestamp="1549396779418">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.2/sapbase-5.1.13.2-sources.jar!/cadagent/modules/psm/objmod/SemanticKey.java" timestamp="1549548030721" />
-      <file name="/Dummy.txt" timestamp="1549884698625">
+      <file name="/Dummy.txt" timestamp="1549888946763">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
@@ -245,11 +231,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/pom.xml" timestamp="1549545053790" />
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final-sources.jar!/org/hibernate/validator/internal/engine/ConfigurationImpl.java" timestamp="1548683368380">
         <mark key="'" line="121" column="4" />
-      </file>
-      <file name="/fragment.java" timestamp="1549548019236">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
       </file>
     </filemarks>
     <jumps>
@@ -355,11 +336,11 @@
       <jump line="859" column="24" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiL01JTFVNL1NUQVRfTElORV9TWVMiLCAiL01JTFVNL1NUQVRfTElORV9VU0VSIikK</text>
+      <register name="&quot;" type="4">
+        <text>${project.parent.version}</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>${project.parent.version}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWVsZE5hbWVzXD4=</text>
