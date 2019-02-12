@@ -106,7 +106,12 @@
         <mark key="^" line="28" column="54" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/sandbox/OSGiExamples-OBTab-Part5/src/main/java/osgi/gui/ob/tab/MyTab.java" timestamp="1549983711096" />
+      <file name="C:/ENTWICKLUNG/sandbox/OSGiExamples-OBTab-Part5/src/main/java/osgi/gui/ob/tab/MyTab.java" timestamp="1549986608581">
+        <mark key="[" line="32" column="12" />
+        <mark key="]" line="32" column="21" />
+        <mark key="." line="32" column="21" />
+        <mark key="^" line="32" column="21" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/CreateAssemblyToolProcess.java" timestamp="1545249086352">
         <mark key="'" line="194" column="60" />
       </file>
@@ -167,7 +172,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsNetworkActivityCreate.java" timestamp="1549024643424">
         <mark key="'" line="200" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549977392423">
+      <file name="/Dummy.txt" timestamp="1549986867267">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -226,11 +231,11 @@
       <file name="C:/ENTWICKLUNG/sandbox/simple-service/src/test/java/com/example/MyResourceTest.java" timestamp="1548843918607">
         <mark key="'" line="43" column="28" />
       </file>
-      <file name="C:/ENTWICKLUNG/sandbox/OSGiExamples-OBTab-Part5/pom.xml" timestamp="1549971883955">
-        <mark key="[" line="30" column="28" />
-        <mark key="]" line="30" column="29" />
-        <mark key="." line="30" column="29" />
-        <mark key="^" line="30" column="28" />
+      <file name="C:/ENTWICKLUNG/sandbox/OSGiExamples-OBTab-Part5/pom.xml" timestamp="1549987021747">
+        <mark key="[" line="106" column="29" />
+        <mark key="]" line="106" column="33" />
+        <mark key="." line="106" column="33" />
+        <mark key="^" line="106" column="33" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final-sources.jar!/org/hibernate/validator/internal/engine/ConfigurationImpl.java" timestamp="1548683368380">
         <mark key="'" line="121" column="4" />
@@ -340,10 +345,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bla</text>
+        <text>2.3.1</text>
       </register>
       <register name="-" type="4">
-        <text>bla</text>
+        <text>2.3.1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWVsZE5hbWVzXD4=</text>
