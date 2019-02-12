@@ -78,7 +78,6 @@
         <mark key="." line="11" column="74" />
         <mark key="^" line="11" column="74" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/omf/OmfDocNewVersion.java" timestamp="1549972229064" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.2/sapbase-5.1.13.2-sources.jar!/cadagent/proc/doc/ProcessDocStructureExplode4.java" timestamp="1548241019256">
         <mark key="'" line="207" column="9" />
       </file>
@@ -115,6 +114,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/CreateAssemblyToolProcess.java" timestamp="1545249086352">
         <mark key="'" line="194" column="60" />
       </file>
+      <file name="/OSGi-Examples-OBTab-Part5-effective-pom.xml" timestamp="1549988814135" />
       <file name="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" timestamp="1548931812996">
         <mark key="'" line="147" column="25" />
       </file>
@@ -172,13 +172,17 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsNetworkActivityCreate.java" timestamp="1549024643424">
         <mark key="'" line="200" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549986867267">
+      <file name="/Dummy.txt" timestamp="1549991774858">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/statuploader/statuploader-base/src/main/java/com/dscsag/monitoring/statuploader_base/ectr_platform_api/BaseLogUploader.java" timestamp="1548252901882">
         <mark key="'" line="273" column="14" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/felix/maven-bundle-plugin/3.0.1/maven-bundle-plugin-3.0.1.pom" timestamp="1549987919048">
+        <mark key="'" line="242" column="42" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/tesat/trunk/java/src/tesat/proc/order/list/XlsDataReader.java" timestamp="1545316533604">
         <mark key="'" line="152" column="6" />
@@ -203,6 +207,9 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1549457789459">
         <mark key="'" line="263" column="18" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm-api/src/main/java/com/dscsag/plm/spi/interfaces/ECTRService.java" timestamp="1549991312766">
+        <mark key="'" line="72" column="54" />
       </file>
       <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/concurrent/locks/ReentrantLock.java" timestamp="1548850810980">
         <mark key="'" line="239" column="4" />
@@ -231,20 +238,18 @@
       <file name="C:/ENTWICKLUNG/sandbox/simple-service/src/test/java/com/example/MyResourceTest.java" timestamp="1548843918607">
         <mark key="'" line="43" column="28" />
       </file>
-      <file name="C:/ENTWICKLUNG/sandbox/OSGiExamples-OBTab-Part5/pom.xml" timestamp="1549987021747">
-        <mark key="[" line="106" column="29" />
-        <mark key="]" line="106" column="33" />
-        <mark key="." line="106" column="33" />
-        <mark key="^" line="106" column="33" />
+      <file name="/pom.xml" timestamp="1549989478281" />
+      <file name="C:/ENTWICKLUNG/sandbox/OSGiExamples-OBTab-Part5/pom.xml" timestamp="1549990981972">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="68" column="23" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final-sources.jar!/org/hibernate/validator/internal/engine/ConfigurationImpl.java" timestamp="1548683368380">
         <mark key="'" line="121" column="4" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="45" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
-      <jump line="191" column="45" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
-      <jump line="45" column="40" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
       <jump line="71" column="47" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
       <jump line="72" column="61" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
       <jump line="76" column="90" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
@@ -342,46 +347,49 @@
       <jump line="511" column="12" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/proc/logon/ProcessSapLogonWithGui.java" />
       <jump line="57" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/vai/trunk/ectr_plugins/pom.xml" />
       <jump line="57" column="51" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm-api/pom.xml" />
+      <jump line="240" column="35" filename="$MAVEN_REPOSITORY$/org/apache/felix/maven-bundle-plugin/3.0.1/maven-bundle-plugin-3.0.1.pom" />
+      <jump line="242" column="42" filename="$MAVEN_REPOSITORY$/org/apache/felix/maven-bundle-plugin/3.0.1/maven-bundle-plugin-3.0.1.pom" />
+      <jump line="72" column="54" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm-api/src/main/java/com/dscsag/plm/spi/interfaces/ECTRService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2.3.1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>2.3.1</text>
+        <text>outputDirectory</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWVsZE5hbWVzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQk8ZWN0ci5pbnN0YWxsYXRpb24uZGlyZWN0b3J5PkM6XFByb2dyYW0gRmlsZXMgKHg4NilcU0FQXEVDVFI8L2VjdHIuaW5zdGFsbGF0aW9uLmRpcmVjdG9yeT4K</text>
+      <register name="0" type="4">
+        <text>/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiL01JTFVNL1NUQVRfTElORV9TWVMiLCAiL01JTFVNL1NUQVRfTElORV9VU0VSIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGxtLnByb2plY3QuY2F0ZWdvcnkuZmllbGRzLkJBU0lDX0RBVEFfTUFJTiAgICAgICAgICA9IEJBU0lDLS9NSUxVTS9TVEFUX0xJTkVfU1lTO0JBU0lDLS9NSUxVTS9TVEFUX0xJTkVfVVNFUgpwbG0ubmV0d29yay5hY3Rpdml0eS5jYXRlZ29yeS5maWVsZHMuQkFTSUNfREFUQV9NQUlOID0gQkFTSUMtL01JTFVNL1NUQVRfTElORV9TWVM7QkFTSUMtL01JTFVNL1NUQVRfTElORV9VU0VSO0JBU0lDLVBSSUNFCg==</text>
+        <text encoding="base64">CQkJCQkJCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLmRzY3NhZzwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+c2FwLXIzPC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj41LjEuMTMuMjwvdmVyc2lvbj4KCQk8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">CQkJCQk8b3V0cHV0RGlyZWN0b3J5PkM6L0VOVFdJQ0tMVU5HL2VjdHJfaW5zdGFsbGF0aW9ucy9FQ1RSLTUxL2FkZG9ucy9PU0dpLUV4YW1wbGVzL2Jhc2lzL3BsdWdpbnM8L291dHB1dERpcmVjdG9yeT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLmRzY3NhZy5jdXN0PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5vdHRvLWZ1Y2hzLWVjdHItaG90Zml4LTUuMS4xMy4yPC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj4xLjAtU05BUFNIT1Q8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">CQkJCQk8b3V0cHV0RGlyZWN0b3J5PkM6L0VOVFdJQ0tMVU5HL2VjdHJfaW5zdGFsbGF0aW9ucy9FQ1RSLTUxL2FkZG9ucy9PU0dpLUV4YW1wbGVzL2Jhc2lzL3BsdWdpbnM8L291dHB1dERpcmVjdG9yeT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCTwvb3V0cHV0RGlyZWN0b3J5Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQk8IS0tPGRlcGVuZGVuY3k+LS0+CgkJCTwhLS08Z3JvdXBJZD5jb20uZHNjc2FnLmN1c3Q8L2dyb3VwSWQ+LS0+CgkJCTwhLS08YXJ0aWZhY3RJZD5vdHRvLWZ1Y2hzLWVjdHItaG90Zml4LTUuMS4xMy4yPC9hcnRpZmFjdElkPi0tPgoJCQk8IS0tPHZlcnNpb24+MS4wLVNOQVBTSE9UPC92ZXJzaW9uPi0tPgoJCTwhLS08L2RlcGVuZGVuY3k+LS0+Cg==</text>
+        <text encoding="base64">CQkJCTxvdXRwdXREaXJlY3Rvcnk+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJPGFydGlmYWN0SWQ+b3R0by1mdWNocy1hZGRvbnMtaG90Zml4LTUuMS4xMy4yPC9hcnRpZmFjdElkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9uPgoJCQkJCQk8Z29hbHM+CgkJCQkJCQk8Z29hbD4KCgkJCQkJCQk8L2dvYWw+CgkJCQkJCTwvZ29hbHM+CgkJCQkJPC9leGVjdXRpb24+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">CQkJCQkJCQk8Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IDxkZXBlbmRlbmNpZXM+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5kc2NzYWcubW9kdWxlczwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+YWRkb25zPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4ke3Byb2plY3QucGFyZW50LnZlcnNpb259PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgIDwvZGVwZW5kZW5jaWVzPg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCTxidWlsZERpcmVjdG9yeT48L2J1aWxkRGlyZWN0b3J5Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>292</text>
