@@ -18,6 +18,9 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" timestamp="1549457481973">
         <mark key="'" line="64" column="2" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm-api/pom.xml" timestamp="1549969422039">
+        <mark key="'" line="57" column="51" />
+      </file>
       <file name="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/junit/DropwizardAppRule.java" timestamp="1548931491408">
         <mark key="'" line="128" column="38" />
       </file>
@@ -234,7 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="32" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
       <jump line="186" column="45" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
       <jump line="191" column="45" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
       <jump line="45" column="40" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
@@ -334,6 +336,7 @@
       <jump line="859" column="24" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
       <jump line="511" column="12" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/proc/logon/ProcessSapLogonWithGui.java" />
       <jump line="57" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/vai/trunk/ectr_plugins/pom.xml" />
+      <jump line="57" column="51" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm-api/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
