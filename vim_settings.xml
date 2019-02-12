@@ -166,10 +166,10 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsNetworkActivityCreate.java" timestamp="1549024643424">
         <mark key="'" line="200" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549968000074">
+      <file name="/Dummy.txt" timestamp="1549970399179">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/statuploader/statuploader-base/src/main/java/com/dscsag/monitoring/statuploader_base/ectr_platform_api/BaseLogUploader.java" timestamp="1548252901882">
         <mark key="'" line="273" column="14" />
@@ -226,7 +226,8 @@
         <mark key="'" line="43" column="28" />
       </file>
       <file name="C:/ENTWICKLUNG/sandbox/OSGiExamples-OBTab-Part5/src/main/java/osgi/Activator.java" timestamp="1549967329905" />
-      <file name="C:/ENTWICKLUNG/sandbox/OSGiExamples-OBTab-Part5/pom.xml" timestamp="1549967068348">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm-api/target/classes/META-INF/MANIFEST.MF" timestamp="1549970141083" />
+      <file name="C:/ENTWICKLUNG/sandbox/OSGiExamples-OBTab-Part5/pom.xml" timestamp="1549970173272">
         <mark key="[" line="30" column="28" />
         <mark key="]" line="30" column="29" />
         <mark key="." line="30" column="29" />
@@ -340,10 +341,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5.1.13.3</text>
+        <text>bla</text>
       </register>
       <register name="-" type="4">
-        <text>5.1.13.3</text>
+        <text>bla</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWVsZE5hbWVzXD4=</text>
