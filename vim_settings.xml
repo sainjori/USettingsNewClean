@@ -36,6 +36,13 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/cfc/util/Trace.java" timestamp="1548241093713">
         <mark key="'" line="810" column="21" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/carl-zeiss/osgi-tab/src/main/java/osgi/gui/ob/tab/MyTab.java" timestamp="1549996298033">
+        <mark key="'" line="40" column="11" />
+        <mark key="[" line="21" column="24" />
+        <mark key="]" line="21" column="23" />
+        <mark key="^" line="21" column="23" />
+        <mark key="." line="21" column="23" />
+      </file>
       <file name="$USER_HOME$/AppData/Local/Temp/7zOCB7935E0/JKProcessDocumentCopyAsGui.class" timestamp="1545241783356">
         <mark key="'" line="195" column="158" />
       </file>
@@ -57,6 +64,7 @@
       <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/String.java" timestamp="1548840030110">
         <mark key="'" line="2860" column="16" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/javax/swing/JTable.java" timestamp="1549996207436" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/otto-fuchs/trunk/ectr/pom.xml" timestamp="1549551713644">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -66,6 +74,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/datacontainer/Doc.java" timestamp="1544708655186">
         <mark key="'" line="28" column="9" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/carl-zeiss/osgi-tab/src/main/java/osgi/gui/ob/tab/MyTabServiceFactory.java" timestamp="1549996578857" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/pom.xml" timestamp="1549899904440">
         <mark key="[" line="25" column="15" />
         <mark key="]" line="25" column="22" />
@@ -172,7 +181,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsNetworkActivityCreate.java" timestamp="1549024643424">
         <mark key="'" line="200" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549991774858">
+      <file name="/Dummy.txt" timestamp="1549995492987">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -239,20 +248,17 @@
         <mark key="'" line="43" column="28" />
       </file>
       <file name="/pom.xml" timestamp="1549989478281" />
-      <file name="C:/ENTWICKLUNG/sandbox/OSGiExamples-OBTab-Part5/pom.xml" timestamp="1549990981972">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="68" column="23" />
+      <file name="C:/ENTWICKLUNG/sandbox/OSGiExamples-OBTab-Part5/pom.xml" timestamp="1549995426790">
+        <mark key="[" line="67" column="66" />
+        <mark key="]" line="67" column="66" />
+        <mark key="^" line="67" column="66" />
+        <mark key="." line="67" column="66" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final-sources.jar!/org/hibernate/validator/internal/engine/ConfigurationImpl.java" timestamp="1548683368380">
         <mark key="'" line="121" column="4" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="47" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
-      <jump line="72" column="61" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
-      <jump line="76" column="90" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
       <jump line="77" column="85" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
       <jump line="83" column="51" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
       <jump line="86" column="90" filename="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-testing/src/main/java/io/dropwizard/testing/DropwizardTestSupport.java" />
@@ -350,55 +356,58 @@
       <jump line="240" column="35" filename="$MAVEN_REPOSITORY$/org/apache/felix/maven-bundle-plugin/3.0.1/maven-bundle-plugin-3.0.1.pom" />
       <jump line="242" column="42" filename="$MAVEN_REPOSITORY$/org/apache/felix/maven-bundle-plugin/3.0.1/maven-bundle-plugin-3.0.1.pom" />
       <jump line="72" column="54" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm-api/src/main/java/com/dscsag/plm/spi/interfaces/ECTRService.java" />
+      <jump line="14" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/carl-zeiss/osgi-tab/src/main/java/osgi/gui/ob/tab/MyTab.java" />
+      <jump line="19" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/carl-zeiss/osgi-tab/src/main/java/osgi/gui/ob/tab/MyTab.java" />
+      <jump line="38" column="11" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/carl-zeiss/osgi-tab/src/main/java/osgi/gui/ob/tab/MyTab.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>outputDirectory</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaWVsZE5hbWVzXD4=</text>
+        <text encoding="base64">XDxsYWJlbFw+</text>
       </register>
       <register name="0" type="4">
         <text>/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQk8b3V0cHV0RGlyZWN0b3J5PkM6L0VOVFdJQ0tMVU5HL2VjdHJfaW5zdGFsbGF0aW9ucy9FQ1RSLTUxL2FkZG9ucy9PU0dpLUV4YW1wbGVzL2Jhc2lzL3BsdWdpbnM8L291dHB1dERpcmVjdG9yeT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQk8b3V0cHV0RGlyZWN0b3J5PkM6L0VOVFdJQ0tMVU5HL2VjdHJfaW5zdGFsbGF0aW9ucy9FQ1RSLTUxL2FkZG9ucy9PU0dpLUV4YW1wbGVzL2Jhc2lzL3BsdWdpbnM8L291dHB1dERpcmVjdG9yeT4K</text>
+        <text encoding="base64">CQkJCQkJCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCTwvb3V0cHV0RGlyZWN0b3J5Pgo=</text>
+        <text encoding="base64">CQkJCQk8b3V0cHV0RGlyZWN0b3J5PkM6L0VOVFdJQ0tMVU5HL2VjdHJfaW5zdGFsbGF0aW9ucy9FQ1RSLTUxL2FkZG9ucy9PU0dpLUV4YW1wbGVzL2Jhc2lzL3BsdWdpbnM8L291dHB1dERpcmVjdG9yeT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCTxvdXRwdXREaXJlY3Rvcnk+Cg==</text>
+        <text encoding="base64">CQkJCQk8b3V0cHV0RGlyZWN0b3J5PkM6L0VOVFdJQ0tMVU5HL2VjdHJfaW5zdGFsbGF0aW9ucy9FQ1RSLTUxL2FkZG9ucy9PU0dpLUV4YW1wbGVzL2Jhc2lzL3BsdWdpbnM8L291dHB1dERpcmVjdG9yeT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9uPgoJCQkJCQk8Z29hbHM+CgkJCQkJCQk8Z29hbD4KCgkJCQkJCQk8L2dvYWw+CgkJCQkJCTwvZ29hbHM+CgkJCQkJPC9leGVjdXRpb24+Cg==</text>
+        <text encoding="base64">CQkJCTwvb3V0cHV0RGlyZWN0b3J5Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCQk8Cg==</text>
+        <text encoding="base64">CQkJCTxvdXRwdXREaXJlY3Rvcnk+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCTxidWlsZERpcmVjdG9yeT48L2J1aWxkRGlyZWN0b3J5Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9uPgoJCQkJCQk8Z29hbHM+CgkJCQkJCQk8Z29hbD4KCgkJCQkJCQk8L2dvYWw+CgkJCQkJCTwvZ29hbHM+CgkJCQkJPC9leGVjdXRpb24+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>292</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaWVsZE5hbWVzXD4=</last-search>
+      <last-search encoding="base64">XDxsYWJlbFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaWVsZE5hbWVzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsYWJlbFw+</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -406,7 +415,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsaXN0blw+</entry>
         <entry encoding="base64">XDxuZXdTaG9ydFRleHRcPg==</entry>
         <entry encoding="base64">XDx0eXBlQ0JcPg==</entry>
         <entry encoding="base64">XDxib21JdGVtTWF0ZXJpYWxcPg==</entry>
@@ -426,6 +434,7 @@
         <entry encoding="base64">XDxjb2x1bW5EZWZpbml0aW9uc1w+</entry>
         <entry encoding="base64">XDxfdXNlckNvbmZpZ1w+</entry>
         <entry encoding="base64">XDxmaWVsZE5hbWVzXD4=</entry>
+        <entry encoding="base64">XDxsYWJlbFw+</entry>
       </history-search>
       <history-cmd>
         <entry>4731</entry>
