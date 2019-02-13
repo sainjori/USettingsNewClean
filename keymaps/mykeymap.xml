@@ -97,6 +97,10 @@
     <keyboard-shortcut first-keystroke="ctrl o" />
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="QuickJavaDoc" />
   <action id="RecentFiles" />
   <action id="RenameElement">
