@@ -1,0 +1,5 @@
+<templateSet group="Java">
+  <template name="form" value="String.format(&quot;$EXPR_COPY$&quot;)" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR_COPY" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
