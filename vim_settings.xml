@@ -3,8 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1550149151812">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/TabFactory.java" timestamp="1550153293456">
+        <mark key="[" line="11" column="45" />
+        <mark key="]" line="11" column="48" />
+        <mark key="." line="11" column="48" />
+        <mark key="^" line="11" column="48" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/carl-zeiss/osgi-tab/src/main/java/osgi/gui/ob/tab/MyTab.java" timestamp="1550149108168">
         <mark key="[" line="20" column="13" />
@@ -76,9 +79,6 @@
         <mark key="[" line="224" column="0" />
         <mark key="]" line="224" column="0" />
         <mark key="." line="224" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1550140020877">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -184,17 +184,17 @@
       <jump line="554" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/carl-zeiss/osgi-tab/src/main/java/osgi/gui/gfx/Gfx.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CTxhcnRpZmFjdElkPmNhcmx6ZWlzcy1kYWRpPC9hcnRpZmFjdElkPgo=</text>
+      <register name="&quot;" type="4">
+        <text>YBASMAT</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>YBASMAT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbG1PYmplY3RLZXlzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPCEtLTx2ZXJzaW9uPiR7cHJvamVjdC5wYXJlbnQudmVyc2lvbn08L3ZlcnNpb24+LS0+Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBHRU5FUklDX1RZUEUgPSAiWUJBU01BVCI7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CTxhcnRpZmFjdElkPmNhcmx6ZWlzcy1kYWRpPC9hcnRpZmFjdElkPgo=</text>
