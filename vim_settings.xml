@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/TabFactory.java" timestamp="1550155303100">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="18" column="30" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/TabFactory.java" timestamp="1550168686806">
+        <mark key="[" line="27" column="47" />
+        <mark key="]" line="28" column="31" />
+        <mark key="^" line="28" column="31" />
+        <mark key="." line="28" column="31" />
       </file>
       <file name="/a.dummy" timestamp="1550165233213">
         <mark key="[" line="0" column="0" />
@@ -29,13 +29,19 @@
         <mark key="]" line="25" column="34" />
         <mark key="." line="25" column="34" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/AdvDataTabMat.java" timestamp="1550168795296">
+        <mark key="[" line="35" column="39" />
+        <mark key="]" line="35" column="47" />
+        <mark key="^" line="35" column="47" />
+        <mark key="." line="35" column="47" />
+      </file>
       <file name="/AdvDataTab.java" timestamp="1550155948852" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/AdvDataTab.java" timestamp="1550167039280">
-        <mark key="'" line="153" column="2" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-        <mark key="^" line="78" column="3" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/AdvDataTab.java" timestamp="1550168301715">
+        <mark key="'" line="24" column="30" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="75" column="3" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/Activator.java" timestamp="1550156455253">
         <mark key="[" line="16" column="31" />
@@ -45,6 +51,12 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/plugins/environment/rfc/PlmProcessRfcExecutor.java" timestamp="1550165939893">
         <mark key="'" line="172" column="4" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/AdvDataTabSurface.java" timestamp="1550168799391">
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="14" column="67" />
+        <mark key="^" line="14" column="67" />
+        <mark key="." line="14" column="67" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/kongsberg/trunk/ectr_osgi/src/main/java/kongsberg/AclTab.java" timestamp="1550153991636" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/pom.xml" timestamp="1550151997224">
@@ -60,7 +72,7 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550165697858">
+      <file name="/Dummy.txt" timestamp="1550168119004">
         <mark key="c" line="0" column="4" />
         <mark key="v" line="0" column="0" />
         <mark key="j" line="0" column="0" />
@@ -70,12 +82,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1550154837361">
+      <file name="/fragment.java" timestamp="1550168592707">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="273" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/brobj/BrPSProject.java" />
       <jump line="631" column="75" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" />
       <jump line="16" column="34" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.2/customize/config/default.txt" />
       <jump line="56" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.13.2/addons-5.1.13.2-sources.jar!/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" />
@@ -175,80 +186,59 @@
       <jump line="36" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/AdvDataTab.java" />
       <jump line="55" column="11" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/AdvDataTab.java" />
       <jump line="153" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/AdvDataTab.java" />
+      <jump line="24" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/AdvDataTab.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>JPanel</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqUGFuZWxcPg==</text>
+        <text encoding="base64">XDxGTV9OQU1FXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4ZWN1dGVSZXN1bHQuZ2V0RXhwb3J0UGFyYW1ldGVyTmFtZXMoKS5mb3JFYWNoKHBsbUxvZ2dlcjo6dHJhY2UpOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBHRU5FUklDX1RZUEVfTUFURVJJQUwuZXF1YWxzKHR5cGUpPyB0YWJQcm92aWRlck1hdDogQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIExpc3Q8QWR2RGF0YVRhYj4gdGFiUHJvdmlkZXJTdXJmYWNlOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljICBTdHJpbmcgR0VORVJJQ19UWVBFOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgR0VORVJJQ19UWVBFID0gIllCQVNNQVQiOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>private RfcCallBuilder callTesting(PlmObjectKey plmObjectKey, ProgressTracker tracker)
-  {
-    tracker.updateProgress(new ProgressEvent(&quot;Calling FM... &quot;+ FM_NAME));
-
-    RfcCallBuilder callBuilder = new RfcCallBuilder(FM_NAME);
-
-    callBuilder.setInputParameter(&quot;MATERIAL&quot;, plmObjectKey.getKey());
-
-    return callBuilder;
-  }
-
-  private RfcCallBuilder callProd(PlmObjectKey plmObjectKey, ProgressTracker tracker)
-  {
-    tracker.updateProgress(new ProgressEvent(&quot;Calling FM... &quot;+ FM_NAME_PROD));
-
-    RfcCallBuilder callBuilder = new RfcCallBuilder(FM_NAME_PROD);
-
-    callBuilder.setInputParameter(&quot;IV_SUBID&quot;, plmObjectKey.getKey());
-    callBuilder.setInputParameter(&quot;IV_GET_COMPL_STATUS&quot;, &quot;X&quot;);
-    callBuilder.setInputParameter(&quot;IV_GET_DETAILS&quot;, &quot;X&quot;);
-
-    return callBuilder;
-  }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGVsc2UKICAgICAgR0VORVJJQ19UWVBFID0gIk1BUkEiOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIEpQYW5lbCBqUGFuZWwgPSBuZXcgSlBhbmVsKCk7Cg==</text>
+        <text encoding="base64">ICAgIGlmIChBY3RpdmF0b3IuUFJPRCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGpQYW5lbC5hZGQoalRhYmxlKTsK</text>
+        <text encoding="base64">ICBzdGF0aWMgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEpUYWJsZSBqVGFibGUgPSBuZXcgSlRhYmxlKCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kc2NzYWcucGxtLnNwaS5pbnRlcmZhY2VzLnJmYy5SZmNQYXJhbWV0ZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIEpQYW5lbCBqUGFuZWw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>292</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxqUGFuZWxcPg==</last-search>
+      <last-search encoding="base64">XDxGTV9OQU1FXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqUGFuZWxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxGTV9OQU1FXD4=</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -256,7 +246,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMSU5LU1w+</entry>
         <entry encoding="base64">XDxzYXBrZXlXYnNcPg==</entry>
         <entry encoding="base64">XDxzYXBrZXlOZXRcPg==</entry>
         <entry encoding="base64">XDxjUHJwXD4=</entry>
@@ -276,6 +265,7 @@
         <entry encoding="base64">XDx0YWJsZVJlcHJlc2VudGF0aW9uXD4=</entry>
         <entry encoding="base64">XDxyZmNUYWJsZXNcPg==</entry>
         <entry encoding="base64">XDxqUGFuZWxcPg==</entry>
+        <entry encoding="base64">XDxGTV9OQU1FXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>4731</entry>
