@@ -21,7 +21,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" timestamp="1549457481973">
         <mark key="'" line="64" column="2" />
       </file>
-      <file name="/a.dummy" timestamp="1550165233213">
+      <file name="/a.dummy" timestamp="1550262334710">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm-api/pom.xml" timestamp="1549969422039">
@@ -33,10 +33,19 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/base/java/src/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1550055032928">
         <mark key="'" line="198" column="4" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" timestamp="1550259849384">
-        <mark key="[" line="502" column="0" />
-        <mark key="]" line="502" column="0" />
-        <mark key="." line="502" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/AdvDataTab.java" timestamp="1550170304405">
+        <mark key="'" line="24" column="30" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="70" column="22" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" timestamp="1550263099267">
+        <mark key="'" line="345" column="56" />
+        <mark key="[" line="300" column="46" />
+        <mark key="]" line="300" column="45" />
+        <mark key="^" line="300" column="45" />
+        <mark key="." line="300" column="45" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/carl-zeiss/osgi-tab/src/main/java/osgi/gui/ob/tab/MyTab.java" timestamp="1550149108168">
         <mark key="[" line="20" column="13" />
@@ -47,10 +56,11 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/cfc/util/Trace.java" timestamp="1548241093713">
         <mark key="'" line="810" column="21" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/util/CreateDataObject.java" timestamp="1550259765849">
-        <mark key="[" line="4" column="38" />
-        <mark key="]" line="4" column="38" />
-        <mark key="." line="4" column="38" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/util/CreateDataObject.java" timestamp="1550263187577">
+        <mark key="[" line="29" column="89" />
+        <mark key="]" line="29" column="92" />
+        <mark key="." line="29" column="92" />
+        <mark key="^" line="29" column="92" />
       </file>
       <file name="$USER_HOME$/AppData/Local/Temp/7zOCB7935E0/JKProcessDocumentCopyAsGui.class" timestamp="1545241783356">
         <mark key="'" line="195" column="158" />
@@ -114,9 +124,6 @@
       <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/javax/swing/table/TableColumn.java" timestamp="1550060524410">
         <mark key="'" line="258" column="8" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/AdvDataTabSurface.java" timestamp="1550171448376">
-        <mark key="^" line="4" column="44" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/carl-zeiss/osgi-tab/src/main/java/osgi/Activator.java" timestamp="1550149183042">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -130,9 +137,6 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/proc/PlmProcessPsActivityCreate.java" timestamp="1549564828181">
         <mark key="'" line="323" column="19" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/utils/YpsomedVeaHelper.java" timestamp="1550258802692">
-        <mark key="[" line="42" column="5" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/dropwizard/dropwizard-core/1.0.2/dropwizard-core-1.0.2-sources.jar!/io/dropwizard/cli/Cli.java" timestamp="1548675158622">
         <mark key="'" line="84" column="24" />
@@ -158,8 +162,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/idf/util/IDFDocument.java" timestamp="1550255175925">
         <mark key="'" line="353" column="6" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/util/DataObject.java" timestamp="1550259816741">
-        <mark key="[" line="18" column="1" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/util/DataObject.java" timestamp="1550263109298">
+        <mark key="[" line="103" column="13" />
+        <mark key="]" line="105" column="3" />
+        <mark key="." line="105" column="3" />
+        <mark key="^" line="105" column="3" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/CreateAssemblyToolProcess.java" timestamp="1545249086352">
         <mark key="'" line="194" column="60" />
@@ -192,12 +199,12 @@
         <mark key="." line="96" column="36" />
         <mark key="^" line="96" column="36" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" timestamp="1550259564812">
-        <mark key="'" line="298" column="37" />
-        <mark key="[" line="276" column="3" />
-        <mark key="]" line="282" column="3" />
-        <mark key="^" line="282" column="3" />
-        <mark key="." line="282" column="3" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" timestamp="1550261492676">
+        <mark key="'" line="252" column="47" />
+        <mark key="[" line="281" column="33" />
+        <mark key="]" line="281" column="33" />
+        <mark key="^" line="281" column="33" />
+        <mark key="." line="281" column="33" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentChangeAttributes.java" timestamp="1545062033077">
         <mark key="'" line="139" column="46" />
@@ -210,6 +217,12 @@
         <mark key="]" line="8" column="20" />
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/util/UpdateDataObject.java" timestamp="1550262245314">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="4" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="15" column="4" />
       </file>
       <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/invoke/DirectMethodHandle.java" timestamp="1548768971968">
         <mark key="'" line="307" column="15" />
@@ -302,25 +315,11 @@
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final-sources.jar!/org/hibernate/validator/internal/engine/ConfigurationImpl.java" timestamp="1548683368380">
         <mark key="'" line="121" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1550259777145">
+      <file name="/fragment.java" timestamp="1550262368272">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="51" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm-api/pom.xml" />
-      <jump line="240" column="35" filename="$MAVEN_REPOSITORY$/org/apache/felix/maven-bundle-plugin/3.0.1/maven-bundle-plugin-3.0.1.pom" />
-      <jump line="242" column="42" filename="$MAVEN_REPOSITORY$/org/apache/felix/maven-bundle-plugin/3.0.1/maven-bundle-plugin-3.0.1.pom" />
-      <jump line="72" column="54" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm-api/src/main/java/com/dscsag/plm/spi/interfaces/ECTRService.java" />
-      <jump line="14" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/carl-zeiss/osgi-tab/src/main/java/osgi/gui/ob/tab/MyTab.java" />
-      <jump line="19" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/carl-zeiss/osgi-tab/src/main/java/osgi/gui/ob/tab/MyTab.java" />
-      <jump line="38" column="11" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/carl-zeiss/osgi-tab/src/main/java/osgi/gui/ob/tab/MyTab.java" />
-      <jump line="244" column="35" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/gui/browser/components/MatBasicDataPanel.java" />
-      <jump line="111" column="26" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/gui/browser/DefaultTableBrowserComponent.java" />
-      <jump line="485" column="45" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/gui/browser/components/BasicDataWithPreviewPanel.java" />
-      <jump line="132" column="34" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/carl-zeiss/osgi-tab/src/main/java/osgi/gui/gfx/RowColoringGxTable.java" />
-      <jump line="483" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/carl-zeiss/osgi-tab/src/main/java/osgi/gui/gfx/Gfx.java" />
-      <jump line="223" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/carl-zeiss/osgi-tab/src/main/java/osgi/gui/gfx/Gfx.java" />
-      <jump line="91" column="34" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/carl-zeiss/osgi-tab/src/main/java/osgi/gui/gfx/RowColoringGxTable.java" />
       <jump line="381" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/carl-zeiss/osgi-tab/src/main/java/osgi/gui/gfx/Gfx.java" />
       <jump line="80" column="25" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Vector.java" />
       <jump line="160" column="4" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Vector.java" />
@@ -407,58 +406,83 @@
       <jump line="297" column="37" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
       <jump line="426" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
       <jump line="506" column="22" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
+      <jump line="503" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
+      <jump line="368" column="29" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
+      <jump line="604" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
+      <jump line="612" column="39" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
+      <jump line="587" column="18" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
+      <jump line="25" column="22" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/util/DataObject.java" />
+      <jump line="41" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/util/DataObject.java" />
+      <jump line="60" column="11" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/util/DataObject.java" />
+      <jump line="444" column="34" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
+      <jump line="272" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
+      <jump line="422" column="25" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
+      <jump line="253" column="47" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
+      <jump line="276" column="38" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
+      <jump line="360" column="56" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>contObject</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>contObject</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoQ3VycmVudFNlc3Npb25zXD4=</text>
+        <text encoding="base64">XDxoZWFkZXJNYXRlcmlhbFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRhYlByb3ZpZGVyU3VyZmFjZSA9IENvbGxlY3Rpb25zLnNpbmdsZXRvbkxpc3QobmV3IEFkdkRhdGFUYWJTdXJmYWNlKGVjdHJTZXJ2aWNlKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgdm9pZCBzaG93RXJyb3JDaGlsZE1hdEludmFsaWQoRGF0YU9iamVjdCBjb250T2JqZWN0KQogIHsKICB9fQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgIHN1cGVyLnNob3dFcnJvckNoaWxkTWF0SW52YWxpZCgpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IHB1YmxpYyBjbGFzcyBEYXRhT2JqZWN0CiAgewogICAgcHVibGljIFN0cmluZyBpZDsKICAgIHB1YmxpYyBib29sZWFuIGlnbm9yZUVtcHR5Q2hpbGRyZW47CiAgICBTdHJpbmcgbWF0ZXJpYWxObzsKICAgIFN0cmluZyBjYXRlZ29yeTsKICAgIFN0cmluZyBkbXVJdGVtTmFtZTsKICAgIExpc3Q8RGF0YU9iamVjdD4gY29tcG9tZW50c0xpc3Q7CiAgICBwcml2YXRlIFN0cmluZyBtYXRUeXBlOwogICAgcHJpdmF0ZSBQbG1NYXRlcmlhbCBoZWFkZXJNYXRlcmlhbDsKCiAgICBTdHJpbmcgZ2V0TWF0ZXJpYWxOdW1iZXIoKSB0aHJvd3MgRGVmYXVsdExvZ0V4Y2VwdGlvbgogICAgewogICAgICBNYXROb0NvbnZlcnRlckRlZmF1bHQgbWF0Tm9Db252ZXJ0ZXJEZWZhdWx0ID0gbmV3IE1hdE5vQ29udmVydGVyRGVmYXVsdCgpOwogICAgICByZXR1cm4gbWF0Tm9Db252ZXJ0ZXJEZWZhdWx0LmV4dFRvSW50KG1hdGVyaWFsTm8pOwogICAgfQoKICAgIFN0cmluZyBnZXRNYXRlcmlhbFR5cGUoKQogICAgewogICAgICBpZiAobWF0VHlwZSAhPSBudWxsKQogICAgICAgIHJldHVybiBtYXRUeXBlOwoKICAgICAgdHJ5CiAgICAgIHsKICAgICAgICBQbG1NYXRlcmlhbCBwbG1NYXRlcmlhbCA9IHBsbUFjY2Vzcy5tYXRlcmlhbE5ldyhnZXRNYXRlcmlhbE51bWJlcigpKTsKCiAgICAgICAgUGxtTWF0ZXJpYWxDb250YWluZXIgcGxtTWF0ZXJpYWxzID0gbmV3IFBsbU1hdGVyaWFsQ29udGFpbmVyKCk7CiAgICAgICAgcGxtTWF0ZXJpYWxzLmFkZE1hdGVyaWFsKHBsbU1hdGVyaWFsKTsKICAgICAgICBwbG1NYXRlcmlhbHMucmVhZE1haW5EZXRhaWxzKCk7CgogICAgICAgIGhlYWRlck1hdGVyaWFsID0gcGxtTWF0ZXJpYWw7CiAgICAgICAgbWF0VHlwZSA9IHBsbU1hdGVyaWFsLmdldEFkdk1hdFZhbHVlKFBsbU1hdGVyaWFsLk1UQVJUKTsKICAgICAgICByZXR1cm4gbWF0VHlwZTsKICAgICAgfQogICAgICBjYXRjaCAoRGVmYXVsdExvZ0V4Y2VwdGlvbiBlKQogICAgICB7CiAgICAgICAgVHJhY2UucHJpbnRsbigwLCBlKTsKICAgICAgfQogICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBwdWJsaWMgUGxtTWF0ZXJpYWwgZ2V0SGVhZGVyTWF0ZXJpYWwoKQogICAgewogICAgICByZXR1cm4gaGVhZGVyTWF0ZXJpYWw7CiAgICB9CgogICAgcHVibGljIENvbGxlY3Rpb248UGxtTWF0ZXJpYWw+IGdldENoaWxkcmVuZE1hdGVyaWFscygpIHRocm93cyBEZWZhdWx0TG9nRXhjZXB0aW9uCiAgICB7CiAgICAgIExpc3Q8UGxtTWF0ZXJpYWw+IHJlc3VsdCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICBmb3IgKERhdGFPYmplY3QgZGF0YU9iamVjdCA6IGdldENvbXBvZW50c0xpc3QoKSkKICAgICAgICByZXN1bHQuYWRkKHBsbUFjY2Vzcy5tYXRlcmlhbE5ldyhkYXRhT2JqZWN0LmdldE1hdGVyaWFsTnVtYmVyKCkpKTsKCiAgICAgIFBsbU1hdGVyaWFsQ29udGFpbmVyIHBsbU1hdGVyaWFscyA9IG5ldyBQbG1NYXRlcmlhbENvbnRhaW5lcigpOwogICAgICBwbG1NYXRlcmlhbHMuYWRkTWF0ZXJpYWxzKHJlc3VsdCk7CiAgICAgIHRyeQogICAgICB7CiAgICAgICAgcGxtTWF0ZXJpYWxzLnJlYWRNYWluRGV0YWlscygpOwogICAgICB9CiAgICAgIGNhdGNoIChEZWZhdWx0TG9nRXhjZXB0aW9uIGUpCiAgICAgIHsKICAgICAgICBUcmFjZS5wcmludGxuKDAsIGUpOwogICAgICB9CiAgICAgIHJldHVybiByZXN1bHQ7CiAgICB9CgogICAgcHJpdmF0ZSBMaXN0PERhdGFPYmplY3Q+IGdldENvbXBvZW50c0xpc3QoKQogICAgewogICAgICBpZiAoaWdub3JlRW1wdHlDaGlsZHJlbikKICAgICAgICByZXR1cm4gY29tcG9tZW50c0xpc3Quc3RyZWFtKCkuZmlsdGVyKGUgLT4gaGFzQ29udGVudChlLm1hdGVyaWFsTm8pKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwogICAgICByZXR1cm4gY29tcG9tZW50c0xpc3Q7CiAgICB9CiAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIFN0cmluZyBtZXNzYWdlID0gIkRNVSBDb21wb25lbnQgXCIlMVwiIGhhcyBpbnZhbGlkIG1hdGVyaWFsIG51bWJlci5cbiIKICAgICAgICArICJcbiBcbiBDcmVhdGluZyBiaWxsIG9mIG1hdGVyaWFsIHdpbGwgYmUgY2FuY2VsbGVkLiI7Ci8vICAgIFN0cmluZyBkZWZhdWx0VGV4dCA9ICJGaWxlICclMSc6IHZhbHVlICclMicgaXMgbm90IGFsbG93ZWQgZm9yIGNoYXJhY3RlcmlzdGljICclMyciOwovLyAgICAvLyAgICBTdHJpbmcgdGV4dCA9IERpYy5nZXQoInlwc29tZWQuZXJyb3IubWVzc2FnZS5taXNzaW5nLm1hdGVyaWFsLnBhcnQubnVtYmVyIiwgbWVzc2FnZSk7CiAgICBTdHJpbmcgbXNnID0gRGljLmdldCgieXBzb21lZC5lcnJvci5tZXNzYWdlLmNoaWxkLmludmFsaWQubWF0ZXJpYWwubnVtYmVyIiwgbWVzc2FnZSwgY29udE9iamVjdC5kbXVJdGVtTmFtZSk7CiAgICBEaWFsb2dib3ggZGlhbG9nYm94ID0gbmV3IERpYWxvZ2JveChQbG1TZXNzaW9uTWFuYWdlci5nZXRJbnN0KCkuZ2V0T2JqZWN0TWFuYWdlckd1aSgpLCBEaWFsb2dib3guRVJST1IsIG1zZyk7CiAgICBkaWFsb2dib3guc2V0VGl0bGUoIiIpOwogICAgZGlhbG9nYm94LnNldEljb24oRGlhbG9nYm94LklDT05fU1RPUCk7CiAgICBkaWFsb2dib3guZXhlY3V0ZSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgIDxncm91cElkPmNvbS5kc2NzYWc8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnNhcC1yMzwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+NS4xLjExLjA8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5lY2xpcHNlLmpkdC5hbm5vdGF0aW9uLk51bGxhYmxlOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uZHNjc2FnPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5zYXAtcjM8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjUuMS4xMi4xPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="8" type="4">
+        <text>private void showErrorChildMatInvalid(DataObject contObject)
+  {
+    String message = &quot;DMU Component \&quot;%1\&quot; has invalid material number.\n&quot;
+        + &quot;\n \n Creating bill of material will be cancelled.&quot;;
+//    String defaultText = &quot;File '%1': value '%2' is not allowed for characteristic '%3'&quot;;
+//    //    String text = Dic.get(&quot;ypsomed.error.message.missing.material.part.number&quot;, message);
+    String msg = Dic.get(&quot;ypsomed.error.message.child.invalid.material.number&quot;, message, contObject.dmuItemName);
+    Dialogbox dialogbox = new Dialogbox(PlmSessionManager.getInst().getObjectManagerGui(), Dialogbox.ERROR, msg);
+    dialogbox.setTitle(&quot;&quot;);
+    dialogbox.setIcon(Dialogbox.ICON_STOP);
+    dialogbox.execute();
+  }</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>292</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoQ3VycmVudFNlc3Npb25zXD4=</last-search>
+      <last-search encoding="base64">XDxoZWFkZXJNYXRlcmlhbFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoQ3VycmVudFNlc3Npb25zXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxoZWFkZXJNYXRlcmlhbFw+</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -466,7 +490,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzYXBrZXlOZXRcPg==</entry>
         <entry encoding="base64">XDxjUHJwXD4=</entry>
         <entry encoding="base64">XDxyb3dzXD4=</entry>
         <entry encoding="base64">XDxub3RGaWx0ZXJhYmxlUHJvcGVydGllc1w+</entry>
@@ -486,6 +509,7 @@
         <entry encoding="base64">XDxqUGFuZWxcPg==</entry>
         <entry encoding="base64">XDxGTV9OQU1FXD4=</entry>
         <entry encoding="base64">XDxoQ3VycmVudFNlc3Npb25zXD4=</entry>
+        <entry encoding="base64">XDxoZWFkZXJNYXRlcmlhbFw+</entry>
       </history-search>
       <history-cmd>
         <entry>4731</entry>
