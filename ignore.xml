@@ -36,6 +36,17 @@
 *.iml
 out
 gen</template>
+      <template name="kundenProjekt"># Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+target
+.svn</template>
     </userTemplates>
   </component>
 </application>
