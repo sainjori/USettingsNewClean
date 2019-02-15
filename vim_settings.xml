@@ -40,12 +40,12 @@
         <mark key="." line="80" column="0" />
         <mark key="^" line="70" column="22" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" timestamp="1550263099267">
-        <mark key="'" line="345" column="56" />
-        <mark key="[" line="300" column="46" />
-        <mark key="]" line="300" column="45" />
-        <mark key="^" line="300" column="45" />
-        <mark key="." line="300" column="45" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" timestamp="1550264133657">
+        <mark key="'" line="377" column="4" />
+        <mark key="[" line="321" column="0" />
+        <mark key="]" line="321" column="0" />
+        <mark key="^" line="310" column="64" />
+        <mark key="." line="321" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/carl-zeiss/osgi-tab/src/main/java/osgi/gui/ob/tab/MyTab.java" timestamp="1550149108168">
         <mark key="[" line="20" column="13" />
@@ -56,11 +56,10 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/cfc/util/Trace.java" timestamp="1548241093713">
         <mark key="'" line="810" column="21" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/util/CreateDataObject.java" timestamp="1550263187577">
-        <mark key="[" line="29" column="89" />
-        <mark key="]" line="29" column="92" />
-        <mark key="." line="29" column="92" />
-        <mark key="^" line="29" column="92" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/util/CreateDataObject.java" timestamp="1550264105657">
+        <mark key="[" line="42" column="84" />
+        <mark key="]" line="42" column="84" />
+        <mark key="." line="42" column="84" />
       </file>
       <file name="$USER_HOME$/AppData/Local/Temp/7zOCB7935E0/JKProcessDocumentCopyAsGui.class" timestamp="1545241783356">
         <mark key="'" line="195" column="158" />
@@ -162,11 +161,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/idf/util/IDFDocument.java" timestamp="1550255175925">
         <mark key="'" line="353" column="6" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/util/DataObject.java" timestamp="1550263109298">
-        <mark key="[" line="103" column="13" />
-        <mark key="]" line="105" column="3" />
-        <mark key="." line="105" column="3" />
-        <mark key="^" line="105" column="3" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/util/DataObject.java" timestamp="1550264123022">
+        <mark key="[" line="105" column="4" />
+        <mark key="]" line="105" column="4" />
+        <mark key="." line="105" column="4" />
+        <mark key="^" line="115" column="3" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/CreateAssemblyToolProcess.java" timestamp="1545249086352">
         <mark key="'" line="194" column="60" />
@@ -199,8 +198,8 @@
         <mark key="." line="96" column="36" />
         <mark key="^" line="96" column="36" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" timestamp="1550261492676">
-        <mark key="'" line="252" column="47" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" timestamp="1550263556259">
+        <mark key="'" line="202" column="53" />
         <mark key="[" line="281" column="33" />
         <mark key="]" line="281" column="33" />
         <mark key="^" line="281" column="33" />
@@ -320,8 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="381" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/carl-zeiss/osgi-tab/src/main/java/osgi/gui/gfx/Gfx.java" />
-      <jump line="80" column="25" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Vector.java" />
       <jump line="160" column="4" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Vector.java" />
       <jump line="76" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/carl-zeiss/osgi-tab/src/main/java/osgi/gui/ob/tab/MyTab.java" />
       <jump line="75" column="36" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Vector.java" />
@@ -420,13 +417,19 @@
       <jump line="253" column="47" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
       <jump line="276" column="38" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
       <jump line="360" column="56" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
+      <jump line="202" column="53" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
+      <jump line="377" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>contObject</text>
+        <text>String text = Dic.get(&quot;ypsomed.error.message.missing.material.part.number&quot;, message, dmuItemName);
+    Dialogbox dialogbox = new Dialogbox(PlmSessionManager.getInst().getObjectManagerGui(), Dialogbox.ERROR, text);
+    dialogbox.setTitle(&quot;&quot;);
+    dialogbox.setIcon(Dialogbox.ICON_STOP);
+    dialogbox.execute();</text>
       </register>
       <register name="-" type="4">
-        <text>contObject</text>
+        <text>this.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWFkZXJNYXRlcmlhbFw+</text>
@@ -434,46 +437,39 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRhYlByb3ZpZGVyU3VyZmFjZSA9IENvbGxlY3Rpb25zLnNpbmdsZXRvbkxpc3QobmV3IEFkdkRhdGFUYWJTdXJmYWNlKGVjdHJTZXJ2aWNlKSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCBzaG93RXJyb3JDaGlsZE1hdEludmFsaWQoRGF0YU9iamVjdCBjb250T2JqZWN0KQogIHsKICB9fQo=</text>
+      <register name="1" type="4">
+        <text>String text = Dic.get(&quot;ypsomed.error.message.missing.material.part.number&quot;, message, dmuItemName);
+    Dialogbox dialogbox = new Dialogbox(PlmSessionManager.getInst().getObjectManagerGui(), Dialogbox.ERROR, text);
+    dialogbox.setTitle(&quot;&quot;);
+    dialogbox.setIcon(Dialogbox.ICON_STOP);
+    dialogbox.execute();</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN1cGVyLnNob3dFcnJvckNoaWxkTWF0SW52YWxpZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBtZXNzYWdlID0gIkRNVSBDb21wb25lbnQgXCIlMVwiIGhhcyBpbnZhbGlkIG1hdGVyaWFsIG51bWJlci5cbiIKICAgICAgICArICJcbiBcbiBDcmVhdGluZyBiaWxsIG9mIG1hdGVyaWFsIHdpbGwgYmUgY2FuY2VsbGVkLiI7Ci8vICAgIFN0cmluZyBkZWZhdWx0VGV4dCA9ICJGaWxlICclMSc6IHZhbHVlICclMicgaXMgbm90IGFsbG93ZWQgZm9yIGNoYXJhY3RlcmlzdGljICclMyciOwovLyAgICAvLyAgICBTdHJpbmcgdGV4dCA9IERpYy5nZXQoInlwc29tZWQuZXJyb3IubWVzc2FnZS5taXNzaW5nLm1hdGVyaWFsLnBhcnQubnVtYmVyIiwgbWVzc2FnZSk7CiAgICBTdHJpbmcgbXNnID0gRGljLmdldCgieXBzb21lZC5lcnJvci5tZXNzYWdlLmNoaWxkLmludmFsaWQubWF0ZXJpYWwubnVtYmVyIiwgbWVzc2FnZSwgY29udE9iamVjdC5kbXVJdGVtTmFtZSk7CiAgICBEaWFsb2dib3ggZGlhbG9nYm94ID0gbmV3IERpYWxvZ2JveChQbG1TZXNzaW9uTWFuYWdlci5nZXRJbnN0KCkuZ2V0T2JqZWN0TWFuYWdlckd1aSgpLCBEaWFsb2dib3guRVJST1IsIG1zZyk7CiAgICBkaWFsb2dib3guc2V0VGl0bGUoIiIpOwogICAgZGlhbG9nYm94LnNldEljb24oRGlhbG9nYm94LklDT05fU1RPUCk7CiAgICBkaWFsb2dib3guZXhlY3V0ZSgpOwo=</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUgcHVibGljIHZvaWQgc2hvd0Vycm9ySGVhZE1hdCgpCiAgewogIH0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyB0ZXh0ID0gRGljLmdldCgieXBzb21lZC5lcnJvci5tZXNzYWdlLm1pc3NpbmcubWF0ZXJpYWwucGFydC5udW1iZXIiLCBtZXNzYWdlLCBkbXVJdGVtTmFtZSk7CiAgICBEaWFsb2dib3ggZGlhbG9nYm94ID0gbmV3IERpYWxvZ2JveChQbG1TZXNzaW9uTWFuYWdlci5nZXRJbnN0KCkuZ2V0T2JqZWN0TWFuYWdlckd1aSgpLCBEaWFsb2dib3guRVJST1IsIHRleHQpOwogICAgZGlhbG9nYm94LnNldFRpdGxlKCIiKTsKICAgIGRpYWxvZ2JveC5zZXRJY29uKERpYWxvZ2JveC5JQ09OX1NUT1ApOwogICAgZGlhbG9nYm94LmV4ZWN1dGUoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBTdHJpbmcgbWVzc2FnZSA9ICIiOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIFN0cmluZyBtZXNzYWdlID0gIkhlYWQgaXRlbSBcIiUxXCIgZG9lcyBub3QgaGF2ZSB2YWxpZCBtYXRlcmlhbCBudW1iZXIuIgogICAgICAgICsgIlxuIFxuQ3JlYXRpbmcgYmlsbCBvZiBtYXRlcmlhbCBoYXMgYmVlbiBjYW5jZWxsZWQuIjsK</text>
       </register>
-      <register name="8" type="4">
-        <text>private void showErrorChildMatInvalid(DataObject contObject)
-  {
-    String message = &quot;DMU Component \&quot;%1\&quot; has invalid material number.\n&quot;
-        + &quot;\n \n Creating bill of material will be cancelled.&quot;;
-//    String defaultText = &quot;File '%1': value '%2' is not allowed for characteristic '%3'&quot;;
-//    //    String text = Dic.get(&quot;ypsomed.error.message.missing.material.part.number&quot;, message);
-    String msg = Dic.get(&quot;ypsomed.error.message.child.invalid.material.number&quot;, message, contObject.dmuItemName);
-    Dialogbox dialogbox = new Dialogbox(PlmSessionManager.getInst().getObjectManagerGui(), Dialogbox.ERROR, msg);
-    dialogbox.setTitle(&quot;&quot;);
-    dialogbox.setIcon(Dialogbox.ICON_STOP);
-    dialogbox.execute();
-  }</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>292</text>
@@ -583,6 +579,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
