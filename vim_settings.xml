@@ -15,7 +15,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" timestamp="1549457481973">
         <mark key="'" line="64" column="2" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/TabFactory.java" timestamp="1550502496250" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/TabFactory.java" timestamp="1550505451784" />
       <file name="/a.dummy" timestamp="1550262334710">
         <mark key="[" line="0" column="0" />
       </file>
@@ -75,6 +75,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/gui/browser/plugin/PluginPanelTabBuildService.java" timestamp="1550506330716" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/utils/YpsomedVeaHelper.java" timestamp="1550494262761">
         <mark key="'" line="129" column="4" />
         <mark key="[" line="163" column="56" />
@@ -85,11 +86,11 @@
       <file name="$MAVEN_REPOSITORY$/io/dropwizard/dropwizard-core/1.0.2/dropwizard-core-1.0.2-sources.jar!/io/dropwizard/cli/Cli.java" timestamp="1548675158622">
         <mark key="'" line="84" column="24" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/pom.xml" timestamp="1550503240485">
-        <mark key="[" line="5" column="33" />
-        <mark key="]" line="5" column="40" />
-        <mark key="^" line="5" column="40" />
-        <mark key="." line="5" column="40" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/pom.xml" timestamp="1550505629459">
+        <mark key="[" line="34" column="17" />
+        <mark key="]" line="59" column="16" />
+        <mark key="^" line="59" column="16" />
+        <mark key="." line="59" column="16" />
       </file>
       <file name="/Clipboard.txt" timestamp="1550482564885">
         <mark key="[" line="0" column="0" />
@@ -146,6 +147,12 @@
         <mark key="^" line="5" column="41" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/fctr/customize/config/default.txt" timestamp="1550505378224">
+        <mark key="[" line="2676" column="33" />
+        <mark key="]" line="2676" column="69" />
+        <mark key="." line="2676" column="69" />
+        <mark key="^" line="2676" column="69" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsNetworkActivityCreate.java" timestamp="1549024643424">
         <mark key="'" line="200" column="6" />
       </file>
@@ -170,6 +177,7 @@
       <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/concurrent/locks/ReentrantLock.java" timestamp="1548850810980">
         <mark key="'" line="239" column="4" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/gui/browser/plugin/PluginObjectBrowserTabRetriever.java" timestamp="1550506156326" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm-api/5.1.14.1/plm-api-5.1.14.1-sources.jar!/com/dscsag/plm/spi/rfc/builder/RfcParameterHolder.java" timestamp="1550066534424">
         <mark key="'" line="107" column="26" />
       </file>
@@ -262,7 +270,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.13.2/addons-5.1.13.2-sources.jar!/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" timestamp="1549548911582">
         <mark key="'" line="64" column="4" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/Tab.java" timestamp="1550503654903">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/Tab.java" timestamp="1550505384010">
         <mark key="[" line="60" column="59" />
         <mark key="]" line="60" column="61" />
         <mark key="^" line="60" column="61" />
@@ -367,10 +375,11 @@
       <file name="C:/ENTWICKLUNG/sandbox/simple-service/src/test/java/com/example/MyResourceTest.java" timestamp="1548843918607">
         <mark key="'" line="43" column="28" />
       </file>
+      <file name="/pom.xml" timestamp="1550505619930" />
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final-sources.jar!/org/hibernate/validator/internal/engine/ConfigurationImpl.java" timestamp="1548683368380">
         <mark key="'" line="121" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1550493731490">
+      <file name="/fragment.java" timestamp="1550506362126">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -478,10 +487,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>org.dogoodthings.osgi.ob.tab.for.mat.weight</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>org.dogoodthings.osgi.ob.tab.for.mat.weight</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYW5kbGVSZXN1bHRBYm9ydFw+</text>

@@ -88,6 +88,10 @@
       <option name="SHOW_OBJECT_ID" value="false" />
     </Renderer>
   </component>
+  <component name="ThreadsViewSettings">
+    <option name="SHOW_THREAD_GROUPS" value="true" />
+    <option name="SHOW_SOURCE_NAME" value="true" />
+  </component>
   <component name="ViewsSettings">
     <option name="HIDE_NULL_ARRAY_ELEMENTS" value="false" />
   </component>
@@ -102,11 +106,6 @@
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
-        </configuration>
-      </debugger>
-      <debugger id="kotlin_debugger">
-        <configuration>
-          <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
         </configuration>
       </debugger>
     </debuggers>
