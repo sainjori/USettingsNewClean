@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/TopTab.java" timestamp="1550171460540">
-        <mark key="[" line="21" column="13" />
-        <mark key="]" line="21" column="13" />
-        <mark key="^" line="124" column="11" />
-        <mark key="." line="21" column="13" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm-api/5.1.14.1/plm-api-5.1.14.1-sources.jar!/com/dscsag/plm/spi/rfc/builder/RfcParameterHolder.java" timestamp="1550066534424">
         <mark key="'" line="107" column="26" />
       </file>
@@ -33,18 +27,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/base/java/src/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1550055032928">
         <mark key="'" line="198" column="4" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" timestamp="1550486761030">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" timestamp="1550488721030">
         <mark key="'" line="194" column="2" />
-        <mark key="[" line="278" column="9" />
-        <mark key="]" line="278" column="34" />
-        <mark key="^" line="278" column="34" />
-        <mark key="." line="278" column="34" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/carl-zeiss/osgi-tab/src/main/java/osgi/gui/ob/tab/MyTab.java" timestamp="1550149108168">
-        <mark key="[" line="20" column="13" />
-        <mark key="]" line="20" column="13" />
-        <mark key="^" line="47" column="14" />
-        <mark key="." line="20" column="13" />
+        <mark key="[" line="301" column="43" />
+        <mark key="]" line="301" column="54" />
+        <mark key="^" line="301" column="54" />
+        <mark key="." line="301" column="54" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/cfc/util/Trace.java" timestamp="1548241093713">
         <mark key="'" line="810" column="21" />
@@ -76,32 +64,20 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/ReferenceMapping.java" timestamp="1545249082791">
         <mark key="'" line="42" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/.gitignore" timestamp="1550150234629">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="3" />
-        <mark key="^" line="2" column="3" />
-        <mark key="." line="2" column="3" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/typescript/lib/lib.es5.d.ts" timestamp="1549387360203">
         <mark key="'" line="757" column="53" />
       </file>
       <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/String.java" timestamp="1548840030110">
         <mark key="'" line="2860" column="16" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/util/DmuErrorDialogs.java" timestamp="1550486848826">
-        <mark key="[" line="67" column="79" />
-        <mark key="]" line="67" column="85" />
-        <mark key="." line="67" column="85" />
-        <mark key="^" line="67" column="85" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/util/DmuErrorDialogs.java" timestamp="1550487754458">
+        <mark key="[" line="59" column="70" />
+        <mark key="]" line="59" column="76" />
+        <mark key="." line="59" column="76" />
+        <mark key="^" line="59" column="76" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/datacontainer/Doc.java" timestamp="1544708655186">
         <mark key="'" line="28" column="9" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/carl-zeiss/osgi-tab/src/main/java/osgi/gui/ob/tab/MyTabServiceFactory.java" timestamp="1550145766916">
-        <mark key="[" line="11" column="29" />
-        <mark key="]" line="11" column="53" />
-        <mark key="." line="11" column="53" />
-        <mark key="^" line="11" column="53" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/plugins/environment/rfc/PlmProcessRfcExecutor.java" timestamp="1550165939893">
         <mark key="'" line="172" column="4" />
@@ -147,32 +123,20 @@
       <file name="$MAVEN_REPOSITORY$/io/dropwizard/dropwizard-core/1.0.2/dropwizard-core-1.0.2-sources.jar!/io/dropwizard/cli/Cli.java" timestamp="1548675158622">
         <mark key="'" line="84" column="24" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/pom.xml" timestamp="1550172003469">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="^" line="31" column="28" />
-        <mark key="." line="66" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.13.2/addons-5.1.13.2-sources.jar!/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" timestamp="1549548911582">
         <mark key="'" line="64" column="4" />
       </file>
       <file name="/Clipboard.txt" timestamp="1550482564885">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/Tab.java" timestamp="1550171691987">
-        <mark key="[" line="60" column="59" />
-        <mark key="]" line="60" column="61" />
-        <mark key="^" line="60" column="61" />
-        <mark key="." line="60" column="61" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/idf/util/IDFDocument.java" timestamp="1550255175925">
         <mark key="'" line="353" column="6" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/util/DataObject.java" timestamp="1550486257147">
-        <mark key="[" line="102" column="45" />
-        <mark key="]" line="103" column="3" />
-        <mark key="." line="103" column="3" />
-        <mark key="^" line="103" column="3" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/util/DataObject.java" timestamp="1550486947303">
+        <mark key="[" line="98" column="17" />
+        <mark key="]" line="98" column="25" />
+        <mark key="." line="98" column="25" />
+        <mark key="^" line="98" column="25" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/CreateAssemblyToolProcess.java" timestamp="1545249086352">
         <mark key="'" line="194" column="60" />
@@ -205,30 +169,18 @@
       <file name="C:/ENTWICKLUNG/Backup/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/PlmProcessDocumentCopyAsGui.java" timestamp="1545137489904">
         <mark key="'" line="725" column="12" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/carl-zeiss/osgi-tab/src/main/java/osgi/gui/ob/tab/DocumentTabCustom.java" timestamp="1550070144282">
-        <mark key="[" line="96" column="26" />
-        <mark key="]" line="96" column="36" />
-        <mark key="." line="96" column="36" />
-        <mark key="^" line="96" column="36" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" timestamp="1550486780560">
-        <mark key="'" line="228" column="4" />
-        <mark key="[" line="281" column="50" />
-        <mark key="]" line="281" column="55" />
-        <mark key="^" line="281" column="55" />
-        <mark key="." line="281" column="55" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" timestamp="1550488874224">
+        <mark key="'" line="236" column="2" />
+        <mark key="[" line="292" column="38" />
+        <mark key="]" line="292" column="42" />
+        <mark key="^" line="292" column="42" />
+        <mark key="." line="292" column="42" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentChangeAttributes.java" timestamp="1545062033077">
         <mark key="'" line="139" column="46" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/dropwizard/dropwizard-core/1.0.2/dropwizard-core-1.0.2-sources.jar!/io/dropwizard/cli/ConfiguredCommand.java" timestamp="1548680798626">
         <mark key="'" line="87" column="25" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/AdvDataTabDocument.java" timestamp="1550226028466">
-        <mark key="[" line="8" column="10" />
-        <mark key="]" line="8" column="20" />
-        <mark key="^" line="8" column="20" />
-        <mark key="." line="8" column="20" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/util/UpdateDataObject.java" timestamp="1550262245314">
         <mark key="[" line="15" column="4" />
@@ -260,12 +212,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/sapbase/java/src/cadagent/objmod/PlmSystemStatus.java" timestamp="1549542238631">
         <mark key="'" line="93" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/AdvDataTabMat.java" timestamp="1550171831666">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="5" column="41" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/voith/trunk/voith-plugins/src/main/java/voith/Activator.java" timestamp="1550151100652">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
@@ -276,6 +222,9 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/statuploader/statuploader-base/src/main/java/com/dscsag/monitoring/statuploader_base/ectr_platform_api/BaseLogUploader.java" timestamp="1548252901882">
         <mark key="'" line="273" column="14" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1550487825740">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/felix/maven-bundle-plugin/3.0.1/maven-bundle-plugin-3.0.1.pom" timestamp="1549987919048">
         <mark key="'" line="242" column="42" />
@@ -332,8 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="716" column="11" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/base/java/src/cadagent/gui/obr/DefaultBrowseObject.java" />
-      <jump line="723" column="32" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/base/java/src/cadagent/gui/obr/DefaultBrowseObject.java" />
       <jump line="157" column="45" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/base/java/src/cadagent/gui/obr/DefaultBrowseObject.java" />
       <jump line="198" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/base/java/src/cadagent/gui/obr/DefaultBrowseObject.java" />
       <jump line="528" column="51" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/javax/swing/table/TableColumn.java" />
@@ -432,49 +379,63 @@
       <jump line="194" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
       <jump line="283" column="35" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
       <jump line="228" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
+      <jump line="234" column="47" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
+      <jump line="236" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Creating</text>
+        <text>headhc</text>
       </register>
       <register name="-" type="4">
-        <text>Creating</text>
+        <text>headhc</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWFkZXJNYXRlcmlhbFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgaWYgKCFwbG1BY2Nlc3MubWF0ZXJpYWxOZXcoZGF0YU9iamVjdC5nZXRNYXRlcmlhbE51bWJlcigpKS5leGlzdGVuY2VDaGVjaygpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIERtdUVycm9yRGlhbG9ncy5kbXVJdGVtTmFtZSA9IGNvbXBvbmVudE9iai5kbXVJdGVtTmFtZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0gCg==</text>
+        <text encoding="base64">ICAgIERtdUVycm9yRGlhbG9ncy5kbXVJdGVtTmFtZSA9IGhlYWRPYmouZG11SXRlbU5hbWU7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIERtdUVycm9yRGlhbG9ncy5kbXVJdGVtTmFtZSA9IGRhdGFPYmplY3QuZG11SXRlbU5hbWU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNob3dFcnJvckNoaWxkTWF0SW52YWxpZCgpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc2hvd0RpYWxvZ3Muc2hvd0Vycm9ySGVhZE1hdFVwZGF0ZSgpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgaWYgKCFwbG1BY2Nlc3MubWF0ZXJpYWxOZXcoZGF0YU9iamVjdC5nZXRNYXRlcmlhbE51bWJlcigpKS5leGlzdGVuY2VDaGVjaygpKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBtYXRlcmlhbE51bWJlciA9IGdldE1hdGVyaWFsTnVtYmVyKCk7CiAgICByZXR1cm4gcGxtQWNjZXNzLm1hdGVyaWFsTmV3KG1hdGVyaWFsTnVtYmVyKS5leGlzdGVuY2VDaGVjaygpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>PlmMaterialContainer plmMaterials = new PlmMaterialContainer();
+    plmMaterials.addMaterial(plmAccess.materialNew(dataObject.getMaterialNumber()));
+
+    for (DataObject object : dataObject.compomentsList)
+      plmMaterials.addMaterial(plmAccess.materialNew(object.getMaterialNumber()));
+
+    plmMaterials.readMainDetails(false);
+
+    boolean allExist = true;
+    for (PlmMaterial plmMaterial : plmMaterials)
+      allExist = plmMaterial.existsInSap();
+
+    return allExist;</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0gCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNob3dFcnJvckNoaWxkTWF0SW52YWxpZCgpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBtZXNzYWdlOwo=</text>
+        <text encoding="base64">ICAgICAgc2hvd0RpYWxvZ3Muc2hvd0Vycm9ySGVhZE1hdFVwZGF0ZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>292</text>
