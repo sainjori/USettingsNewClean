@@ -33,12 +33,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/base/java/src/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1550055032928">
         <mark key="'" line="198" column="4" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" timestamp="1550485519518">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" timestamp="1550486761030">
         <mark key="'" line="194" column="2" />
-        <mark key="[" line="276" column="48" />
-        <mark key="]" line="277" column="49" />
-        <mark key="^" line="277" column="49" />
-        <mark key="." line="277" column="49" />
+        <mark key="[" line="278" column="9" />
+        <mark key="]" line="278" column="34" />
+        <mark key="^" line="278" column="34" />
+        <mark key="." line="278" column="34" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/carl-zeiss/osgi-tab/src/main/java/osgi/gui/ob/tab/MyTab.java" timestamp="1550149108168">
         <mark key="[" line="20" column="13" />
@@ -87,6 +87,12 @@
       </file>
       <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/String.java" timestamp="1548840030110">
         <mark key="'" line="2860" column="16" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/util/DmuErrorDialogs.java" timestamp="1550486848826">
+        <mark key="[" line="67" column="79" />
+        <mark key="]" line="67" column="85" />
+        <mark key="." line="67" column="85" />
+        <mark key="^" line="67" column="85" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/datacontainer/Doc.java" timestamp="1544708655186">
         <mark key="'" line="28" column="9" />
@@ -162,11 +168,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/idf/util/IDFDocument.java" timestamp="1550255175925">
         <mark key="'" line="353" column="6" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/util/DataObject.java" timestamp="1550485651878">
-        <mark key="[" line="26" column="40" />
-        <mark key="]" line="27" column="1" />
-        <mark key="." line="27" column="1" />
-        <mark key="^" line="27" column="1" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/util/DataObject.java" timestamp="1550486257147">
+        <mark key="[" line="102" column="45" />
+        <mark key="]" line="103" column="3" />
+        <mark key="." line="103" column="3" />
+        <mark key="^" line="103" column="3" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/renk/renk-customization/ectr-teamcenter-integration/src/main/java/com/dscsag/modules/customer/fatcdataimport/component/CreateAssemblyToolProcess.java" timestamp="1545249086352">
         <mark key="'" line="194" column="60" />
@@ -205,12 +211,12 @@
         <mark key="." line="96" column="36" />
         <mark key="^" line="96" column="36" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" timestamp="1550485883661">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" timestamp="1550486780560">
         <mark key="'" line="228" column="4" />
-        <mark key="[" line="271" column="18" />
-        <mark key="]" line="271" column="42" />
-        <mark key="^" line="271" column="42" />
-        <mark key="." line="271" column="42" />
+        <mark key="[" line="281" column="50" />
+        <mark key="]" line="281" column="55" />
+        <mark key="^" line="281" column="55" />
+        <mark key="." line="281" column="55" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentChangeAttributes.java" timestamp="1545062033077">
         <mark key="'" line="139" column="46" />
@@ -321,7 +327,7 @@
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final-sources.jar!/org/hibernate/validator/internal/engine/ConfigurationImpl.java" timestamp="1548683368380">
         <mark key="'" line="121" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1550262368272">
+      <file name="/fragment.java" timestamp="1550486432557">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -429,65 +435,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>showErrorHeadMat</text>
+        <text>Creating</text>
       </register>
       <register name="-" type="4">
-        <text>showErrorHeadMat</text>
+        <text>Creating</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWFkZXJNYXRlcmlhbFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5mbGF0TWFwKHRoaXM6OmNoZWNrRXhpc3RzKQo=</text>
+        <text encoding="base64">Ly8gICAgaWYgKCFwbG1BY2Nlc3MubWF0ZXJpYWxOZXcoZGF0YU9iamVjdC5nZXRNYXRlcmlhbE51bWJlcigpKS5leGlzdGVuY2VDaGVjaygpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0gCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBtZXNzYWdlOwo=</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
-      <register name="3" type="4">
-        <text>private void show(String text)
-  {
-    Dialogbox dialogbox = new Dialogbox(PlmSessionManager.getInst().getObjectManagerGui(), Dialogbox.ERROR, text);
-    dialogbox.setTitle(&quot;&quot;);
-    dialogbox.setIcon(Dialogbox.ICON_STOP);
-    dialogbox.execute();
-  }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNob3dFcnJvckNoaWxkTWF0SW52YWxpZCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2hvd0RpYWxvZ3Muc2hvd0Vycm9ySGVhZE1hdFVwZGF0ZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgQ3JlYXRlRGF0YU9iamVjdCBjcmVhdGVEYXRhT2JqZWN0ID0gbmV3IENyZWF0ZURhdGFPYmplY3QoKTsK</text>
+        <text encoding="base64">Ly8gICAgaWYgKCFwbG1BY2Nlc3MubWF0ZXJpYWxOZXcoZGF0YU9iamVjdC5nZXRNYXRlcmlhbE51bWJlcigpKS5leGlzdGVuY2VDaGVjaygpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaGVhZE9iai5zaG93RXJyb3JIZWFkTWF0KCk7Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBtYXRlcmlhbE51bWJlciA9IGdldE1hdGVyaWFsTnVtYmVyKCk7CiAgICByZXR1cm4gcGxtQWNjZXNzLm1hdGVyaWFsTmV3KG1hdGVyaWFsTnVtYmVyKS5leGlzdGVuY2VDaGVjaygpOwo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>public void showErrorHeadMat()
-  {
-
-  }
-
-  public void showErrorChildMatInvalid()
-  {
-
-  }
-
-  public boolean showErrorChildContinue()
-  {
-    return false;
-  }</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhlYWRPYmouc2V0Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBtZXNzYWdlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>292</text>
