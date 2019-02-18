@@ -9,11 +9,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" timestamp="1549457481973">
         <mark key="'" line="64" column="2" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/TabFactory.java" timestamp="1550509787106">
-        <mark key="[" line="12" column="55" />
-        <mark key="]" line="12" column="58" />
-        <mark key="." line="12" column="58" />
-        <mark key="^" line="12" column="58" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/TabFactory.java" timestamp="1550512303973">
+        <mark key="[" line="9" column="35" />
+        <mark key="]" line="9" column="38" />
+        <mark key="." line="9" column="38" />
+        <mark key="^" line="9" column="38" />
       </file>
       <file name="/a.dummy" timestamp="1550262334710">
         <mark key="[" line="0" column="0" />
@@ -260,6 +260,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm-api/src/main/java/com/dscsag/plm/spi/interfaces/ECTRService.java" timestamp="1549991312766">
         <mark key="'" line="72" column="54" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2.jar!/META-INF/services/plm.gui.browser.util.tabs.services.TabBuildService" timestamp="1550512196972" />
       <file name="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-auth/src/main/java/io/dropwizard/auth/AuthFilter.java" timestamp="1548857710552">
         <mark key="'" line="135" column="12" />
       </file>
@@ -384,10 +385,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>PluginObjectBrowserTabService</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>PluginObjectBrowserTabService</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiYXNlRGVmYXVsdFZpc2libGl0eVw+</text>
