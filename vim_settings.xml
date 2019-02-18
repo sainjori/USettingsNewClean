@@ -15,7 +15,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" timestamp="1549457481973">
         <mark key="'" line="64" column="2" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/TabFactory.java" timestamp="1550505451784" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/TabFactory.java" timestamp="1550507541701">
+        <mark key="[" line="12" column="55" />
+        <mark key="]" line="12" column="58" />
+        <mark key="." line="12" column="58" />
+        <mark key="^" line="12" column="58" />
+      </file>
       <file name="/a.dummy" timestamp="1550262334710">
         <mark key="[" line="0" column="0" />
       </file>
@@ -270,7 +275,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.13.2/addons-5.1.13.2-sources.jar!/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" timestamp="1549548911582">
         <mark key="'" line="64" column="4" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/Tab.java" timestamp="1550505384010">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/Tab.java" timestamp="1550507816629">
         <mark key="[" line="60" column="59" />
         <mark key="]" line="60" column="61" />
         <mark key="^" line="60" column="61" />
@@ -487,16 +492,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>org.dogoodthings.osgi.ob.tab.for.mat.weight</text>
+        <text>YBASMAT</text>
       </register>
       <register name="-" type="4">
-        <text>org.dogoodthings.osgi.ob.tab.for.mat.weight</text>
+        <text>YBASMAT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYW5kbGVSZXN1bHRBYm9ydFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8YXJ0aWZhY3RJZD5jYXJsemVpc3MtcGx1Z2luczwvYXJ0aWZhY3RJZD4K</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgR0VORVJJQ19UWVBFX01BVEVSSUFMID0gIllCQVNNQVQiOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICA8YXJ0aWZhY3RJZD5jYXJsemVpc3MtcGx1Z2luczwvYXJ0aWZhY3RJZD4K</text>
