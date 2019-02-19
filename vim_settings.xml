@@ -18,11 +18,11 @@
       <file name="/a.dummy" timestamp="1550576414678">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/AdvDataTabMatTest.java" timestamp="1550576793781">
-        <mark key="[" line="33" column="36" />
-        <mark key="]" line="33" column="56" />
-        <mark key="^" line="33" column="56" />
-        <mark key="." line="33" column="56" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/AdvDataTabMatTest.java" timestamp="1550582377652">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="58" column="13" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/AppData/Local/Temp/7zOCB7935E0/JKProcessDocumentCopyAsGui.class" timestamp="1545241783356">
         <mark key="'" line="195" column="158" />
@@ -77,7 +77,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/sapbase/java/src/cadagent/objmod/PlmSystemStatus.java" timestamp="1549542238631">
         <mark key="'" line="93" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/AdvDataTabMat.java" timestamp="1550576745029" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/AdvDataTabMat.java" timestamp="1550582370564">
+        <mark key="[" line="26" column="37" />
+        <mark key="]" line="26" column="66" />
+        <mark key="^" line="26" column="66" />
+        <mark key="." line="26" column="66" />
+      </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/fctr/customize/config/default.txt" timestamp="1550575733671">
         <mark key="[" line="2677" column="0" />
         <mark key="]" line="2677" column="0" />
@@ -253,7 +258,7 @@
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final-sources.jar!/org/hibernate/validator/internal/engine/ConfigurationImpl.java" timestamp="1548683368380">
         <mark key="'" line="121" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1550576201465">
+      <file name="/fragment.java" timestamp="1550581894571">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="29" />
@@ -363,11 +368,11 @@
       <jump line="100" column="38" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/gui/browser/plugin/PluginProcessor.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>subDetails</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgalBhbmVsLmQK</text>
       </register>
       <register name="-" type="4">
-        <text>subDetails</text>
+        <text>800</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiYXNlRGVmYXVsdFZpc2libGl0eVw+</text>
@@ -376,34 +381,34 @@
         <text encoding="base64">ICAgIEFkdkRhdGFUYWJNYXRUZXN0IG8gPSBuZXcgQWR2RGF0YVRhYk1hdFRlc3QoZWN0clNlcnZpY2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFJmY1BhcmFtZXRlciBzdWJEZXRhaWxzID0gZXhlY3V0ZVJlc3VsdC5nZXRFeHBvcnRQYXJhbWV0ZXIoIkVTX1NVQl9ERVRBSUxTIik7Cg==</text>
+        <text encoding="base64">ICAgICAgalBhbmVsLmQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBleGVjdXRlUmVzdWx0LmdldEV4cG9ydFBhcmFtZXRlcigiTUFURVJJQUxfR0VORVJBTF9EQVRBIikuZ2V0U3RydWN0dXJlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgbGF5b3V0LmFkZExheW91dENvbXBvbmVudCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgago=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBiYXBpX21hdGVyaWFsX2dldF9kZXRhaWwgPSAiQkFQSV9NQVRFUklBTF9HRVRfREVUQUlMIjsK</text>
+        <text encoding="base64">ICAgIFJmY1BhcmFtZXRlciBzdWJEZXRhaWxzID0gZXhlY3V0ZVJlc3VsdC5nZXRFeHBvcnRQYXJhbWV0ZXIoIkVTX1NVQl9ERVRBSUxTIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEJBUElfTUFURVJJQUxfR0VUX0RFVEFJTAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBleGVjdXRlUmVzdWx0LmdldEV4cG9ydFBhcmFtZXRlcigiTUFURVJJQUxfR0VORVJBTF9EQVRBIikuZ2V0U3RydWN0dXJlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjYWxsQnVpbGRlcjsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRyYWNrZXIudXBkYXRlUHJvZ3Jlc3MobmV3IFByb2dyZXNzRXZlbnQoIkNhbGxpbmcgRk0uLi4gIisgRk1fTkFNRSkpOwoKICAgIFJmY0NhbGxCdWlsZGVyIGNhbGxCdWlsZGVyID0gbmV3IFJmY0NhbGxCdWlsZGVyKEZNX05BTUUpOwoKICAgIGNhbGxCdWlsZGVyLnNldElucHV0UGFyYW1ldGVyKCJJVl9TVUJJRCIsIHBsbU9iamVjdEtleS5nZXRLZXkoKSk7CiAgICBjYWxsQnVpbGRlci5zZXRJbnB1dFBhcmFtZXRlcigiSVZfR0VUX0NPTVBMX1NUQVRVUyIsICJYIik7CiAgICBjYWxsQnVpbGRlci5zZXRJbnB1dFBhcmFtZXRlcigiSVZfR0VUX0RFVEFJTFMiLCAiWCIpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIFN0cmluZyBiYXBpX21hdGVyaWFsX2dldF9kZXRhaWwgPSAiQkFQSV9NQVRFUklBTF9HRVRfREVUQUlMIjsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEJBUElfTUFURVJJQUxfR0VUX0RFVEFJTAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgRk1fTkFNRSA9IDsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBjYWxsQnVpbGRlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>292</text>
