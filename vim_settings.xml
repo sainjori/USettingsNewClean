@@ -108,6 +108,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/gui/errordialog/gui/DialogContent.java" timestamp="1550138436876">
         <mark key="'" line="66" column="11" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gfx/GxTable.java" timestamp="1550672684589" />
       <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/com/sun/org/apache/xml/internal/security/keys/storage/StorageResolver.java" timestamp="1550052958039">
         <mark key="'" line="140" column="29" />
       </file>
@@ -186,8 +187,8 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gfx/ObrTableDisplay.java" timestamp="1550669302876">
-        <mark key="'" line="87" column="20" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gfx/ObrTableDisplay.java" timestamp="1550672635474">
+        <mark key="'" line="300" column="4" />
         <mark key="[" line="140" column="0" />
         <mark key="]" line="140" column="0" />
         <mark key="." line="140" column="0" />
@@ -198,7 +199,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/base/java/src/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1550055032928">
         <mark key="'" line="198" column="4" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/util/TableFactory.java" timestamp="1550671790463">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/util/TableFactory.java" timestamp="1550672692018">
         <mark key="'" line="53" column="0" />
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
@@ -421,6 +422,7 @@
         <mark key="'" line="72" column="54" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2.jar!/META-INF/services/plm.gui.browser.util.tabs.services.TabBuildService" timestamp="1550512196972" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1550672590662" />
       <file name="C:/ENTWICKLUNG/sandbox/dropwizard/dropwizard-auth/src/main/java/io/dropwizard/auth/AuthFilter.java" timestamp="1548857710552">
         <mark key="'" line="135" column="12" />
       </file>
@@ -451,7 +453,7 @@
         <mark key="." line="126" column="56" />
         <mark key="^" line="121" column="68" />
       </file>
-      <file name="/fragment.java" timestamp="1550671364500">
+      <file name="/fragment.java" timestamp="1550672612151">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="29" />
@@ -460,7 +462,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gfx/RowColoringGxTable.java" timestamp="1550604913235" />
     </filemarks>
     <jumps>
-      <jump line="267" column="38" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
       <jump line="387" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateMaterialBomSingle.java" />
       <jump line="424" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
       <jump line="83" column="14" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/utils/YpsomedVeaHelper.java" />
@@ -560,10 +561,62 @@
       <jump line="195" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gfx/ObrChildrenDisplay.java" />
       <jump line="87" column="20" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gfx/ObrTableDisplay.java" />
       <jump line="201" column="47" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gfx/ObrChildrenDisplay.java" />
+      <jump line="351" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gfx/ObrTableDisplay.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>import cadagent.cfc.dic.Dic;
+import cadagent.cfc.env.Environment;
+import cadagent.cfc.gfx.Gfx;
+import cadagent.cfc.gfx.GxCheckBox;
+import cadagent.cfc.gfx.GxComboBox;
+import cadagent.cfc.gfx.GxFilterComponent;
+import cadagent.cfc.gfx.GxKeyValue;
+import cadagent.cfc.gfx.GxLabel;
+import cadagent.cfc.gfx.GxMenu;
+import cadagent.cfc.gfx.GxPanel;
+import cadagent.cfc.gfx.GxPopupMenu;
+import cadagent.cfc.gfx.GxScrollPane;
+import cadagent.cfc.gfx.GxTable;
+import cadagent.cfc.gfx.GxTextField;
+import cadagent.cfc.pref.Preferences;
+import cadagent.cfc.util.DateReformat;
+import cadagent.cfc.util.NumberUtils;
+import cadagent.cfc.util.Reformat;
+import cadagent.cfc.util.StringTool;
+import cadagent.cfc.util.SwingUtilitiesWrapper;
+import cadagent.cfc.util.Trace;
+import cadagent.gui.obr.CopyPropertyValueListener;
+import cadagent.gui.obr.DefaultBrowseObject;
+import cadagent.gui.obr.ObjectManagerGui;
+import cadagent.gui.obr.ObrAdjFilterGui;
+import cadagent.gui.obr.ObrAdjustment;
+import cadagent.gui.obr.ObrAdjustmentConstraints;
+import cadagent.gui.obr.ObrFormat;
+import cadagent.gui.obr.ObrFunctionManager;
+import cadagent.gui.obr.ObrModelInterface;
+import cadagent.gui.obr.ObrObject;
+import cadagent.gui.obr.ObrProperty;
+import cadagent.gui.obr.ObrSelectionChangedListener;
+import cadagent.gui.obr.ObrSelectionEvent;
+import cadagent.gui.obr.ObrSelectionListener;
+import cadagent.gui.obr.ObrTableLayoutManager;
+import cadagent.gui.obr.ObrTableModel;
+import cadagent.gui.obr.ObrTableRowSorter;
+import cadagent.gui.obr.PastePropertyValueListener;
+import cadagent.gui.obr.descriptor.ObrPropertyDescriptor;
+import cadagent.gui.obr.descriptor.ObrPropertyUrlAction;
+import cadagent.gui.obr.descriptor.ObrProperyInputVerifier;
+import cadagent.gui.obr.descriptor.widgets.ObrInputVerifier;
+import cadagent.gui.obr.descriptor.widgets.UrlMouseAdapter;
+import cadagent.gui.obr.dnd.ObrDnDTransferContainer;
+import cadagent.gui.obr.fnc.ObrFunction;
+import cadagent.gui.obr.fnc.ObrFunctionEvent;
+import cadagent.gui.obr.fnc.ObrFunctionListener;
+import cadagent.gui.obr.replace.ReplacePropertyValueListener;
+import cadagent.gui.obr.tree.ObrExtTreeNode;
+import cadagent.gui.obr.tree.ObrTreeNode;
+import cadagent.gui.obr.tree.ObrTreeSelection;</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -574,35 +627,86 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRhdGFDb2x1bW5OYW1lcy5zZXRUYWJsZURhdGEocmVzdWx0KTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>import cadagent.cfc.dic.Dic;
+import cadagent.cfc.env.Environment;
+import cadagent.cfc.gfx.Gfx;
+import cadagent.cfc.gfx.GxCheckBox;
+import cadagent.cfc.gfx.GxComboBox;
+import cadagent.cfc.gfx.GxFilterComponent;
+import cadagent.cfc.gfx.GxKeyValue;
+import cadagent.cfc.gfx.GxLabel;
+import cadagent.cfc.gfx.GxMenu;
+import cadagent.cfc.gfx.GxPanel;
+import cadagent.cfc.gfx.GxPopupMenu;
+import cadagent.cfc.gfx.GxScrollPane;
+import cadagent.cfc.gfx.GxTable;
+import cadagent.cfc.gfx.GxTextField;
+import cadagent.cfc.pref.Preferences;
+import cadagent.cfc.util.DateReformat;
+import cadagent.cfc.util.NumberUtils;
+import cadagent.cfc.util.Reformat;
+import cadagent.cfc.util.StringTool;
+import cadagent.cfc.util.SwingUtilitiesWrapper;
+import cadagent.cfc.util.Trace;
+import cadagent.gui.obr.CopyPropertyValueListener;
+import cadagent.gui.obr.DefaultBrowseObject;
+import cadagent.gui.obr.ObjectManagerGui;
+import cadagent.gui.obr.ObrAdjFilterGui;
+import cadagent.gui.obr.ObrAdjustment;
+import cadagent.gui.obr.ObrAdjustmentConstraints;
+import cadagent.gui.obr.ObrFormat;
+import cadagent.gui.obr.ObrFunctionManager;
+import cadagent.gui.obr.ObrModelInterface;
+import cadagent.gui.obr.ObrObject;
+import cadagent.gui.obr.ObrProperty;
+import cadagent.gui.obr.ObrSelectionChangedListener;
+import cadagent.gui.obr.ObrSelectionEvent;
+import cadagent.gui.obr.ObrSelectionListener;
+import cadagent.gui.obr.ObrTableLayoutManager;
+import cadagent.gui.obr.ObrTableModel;
+import cadagent.gui.obr.ObrTableRowSorter;
+import cadagent.gui.obr.PastePropertyValueListener;
+import cadagent.gui.obr.descriptor.ObrPropertyDescriptor;
+import cadagent.gui.obr.descriptor.ObrPropertyUrlAction;
+import cadagent.gui.obr.descriptor.ObrProperyInputVerifier;
+import cadagent.gui.obr.descriptor.widgets.ObrInputVerifier;
+import cadagent.gui.obr.descriptor.widgets.UrlMouseAdapter;
+import cadagent.gui.obr.dnd.ObrDnDTransferContainer;
+import cadagent.gui.obr.fnc.ObrFunction;
+import cadagent.gui.obr.fnc.ObrFunctionEvent;
+import cadagent.gui.obr.fnc.ObrFunctionListener;
+import cadagent.gui.obr.replace.ReplacePropertyValueListener;
+import cadagent.gui.obr.tree.ObrExtTreeNode;
+import cadagent.gui.obr.tree.ObrTreeNode;
+import cadagent.gui.obr.tree.ObrTreeSelection;</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">cHJpdmF0ZSBWZWN0b3I8U3RyaW5nPiBnZXRDb2x1bW5zKFZlY3RvcjxNYXA8U3RyaW5nLCBTdHJpbmc+PiBkYXRhKQogIHsKICAgIHJldHVybiBuZXcgVmVjdG9yPD4oZGF0YS5nZXQoMCkua2V5U2V0KCkpOwogIH0=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHRhYmxlSGVhZGVyLgo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRhYmxlSGVhZGVyLgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Z2V0Q29sdW1uTmFtZXMoZXhlY3V0ZVJlc3VsdCkpOwo=</text>
-      </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="4">
+        <text encoding="base64">Z2V0Q29sdW1uTmFtZXMoZXhlY3V0ZVJlc3VsdCkpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCBzaG93VGFibGUoVmVjdG9yPE1hcDxTdHJpbmcsIFN0cmluZz4+IGRhdGEpCiAgewogICAgZ3hQYW5lbC5yZW1vdmVBbGwoKTsKICAgIERlZmF1bHRUYWJsZU1vZGVsIGRlZmF1bHRUYWJsZU1vZGVsID0gbmV3IERlZmF1bHRUYWJsZU1vZGVsKGRhdGEsIGdldENvbHVtbnMoZGF0YSkpCiAgICB7CiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgYm9vbGVhbiBpc0NlbGxFZGl0YWJsZShpbnQgcm93LCBpbnQgY29sdW1uKQogICAgICB7CiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICB9CiAgICB9OwoKICAgIEpUYWJsZSBqVGFibGUgPSBuZXcgSlRhYmxlKGRlZmF1bHRUYWJsZU1vZGVsKTsKICAgIGd4UGFuZWwuYWRkKGpUYWJsZSk7CiAgICBneFBhbmVsLnVwZGF0ZVVJKCk7CiAgICBmb2xkYWJsZUd4UGFuZWwudXBkYXRlVUkoKTsKCiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>292</text>
