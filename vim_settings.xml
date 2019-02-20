@@ -175,11 +175,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/base/java/src/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1550055032928">
         <mark key="'" line="198" column="4" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/util/TableFactory.java" timestamp="1550608945375">
-        <mark key="[" line="34" column="53" />
-        <mark key="]" line="34" column="60" />
-        <mark key="." line="34" column="60" />
-        <mark key="^" line="34" column="60" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/util/TableFactory.java" timestamp="1550658046719">
+        <mark key="[" line="33" column="6" />
+        <mark key="]" line="33" column="12" />
+        <mark key="." line="33" column="12" />
+        <mark key="^" line="33" column="12" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/cfc/util/Trace.java" timestamp="1548241093713">
         <mark key="'" line="810" column="21" />
@@ -475,10 +475,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>foldableGxPanel</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>foldableGxPanel</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxodExDRGlzcGxheXNcPg==</text>
