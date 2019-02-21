@@ -257,11 +257,10 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.1/plm-5.1.12.1-sources.jar!/plm/sess/PlmSessionManager.java" timestamp="1550242247877">
         <mark key="'" line="351" column="10" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/ob/tab/TabMatTest.java" timestamp="1550759828213">
-        <mark key="[" line="32" column="12" />
-        <mark key="]" line="32" column="15" />
-        <mark key="." line="32" column="15" />
-        <mark key="^" line="32" column="15" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/ob/tab/TabMatTest.java" timestamp="1550761739320">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/ob/tab/EHSMaterialDataTab.java" timestamp="1550755073503">
         <mark key="[" line="9" column="13" />
@@ -358,8 +357,11 @@
         <mark key="^" line="13" column="24" />
         <mark key="." line="13" column="6" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/ob/tab/TabFactory.java" timestamp="1550759590089">
-        <mark key="^" line="24" column="3" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/ob/tab/TabFactory.java" timestamp="1550761487094">
+        <mark key="[" line="26" column="17" />
+        <mark key="]" line="27" column="29" />
+        <mark key="." line="27" column="29" />
+        <mark key="^" line="27" column="29" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/carl-zeiss/osgi-tab/src/main/java/osgi/gui/ob/tab/MyTab.java" timestamp="1550149108168">
         <mark key="[" line="20" column="13" />
@@ -714,44 +716,44 @@
       <jump line="84" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/ob/tab/TabMat.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>MARA</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZlZi4K</text>
       </register>
       <register name="-" type="4">
-        <text>MARA</text>
+        <text>getTabsFor</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxWRVJUSUNBTF9TQ1JPTExCQVJfQVNfTkVFREVEXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlclNlcnZpY2UudHJhY2UoIlRvIHNldCB0aXRsZSBmb3IgdGFiIHVzaW5nIGRpY3Rpb25hcnkgS2V5OiAiICsgcyk7Cg==</text>
+        <text encoding="base64">ICAgIEZ1bmN0aW9uPFN0cmluZywgTGlzdDxQbHVnaW5PYmplY3RCcm93c2VyVGFiPD8+Pj4gZmYgPSAocykgLT4gKExpc3Q8UGx1Z2luT2JqZWN0QnJvd3NlclRhYjw/Pj4pIG5ldyBPYmplY3QoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZlZi4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHR5cGVUb1RhYnMuY2xlYXIoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFRhYkVIU01hdGVyaWFsRGF0YSBUYWJFSFNNYXRlcmlhbERhdGEgPSBuZXcgVGFiRUhTTWF0ZXJpYWxEYXRhKGVjdHJTZXJ2aWNlKTsKICAgIHR5cGVUb1RhYnMucHV0KFRhYkVIU01hdGVyaWFsRGF0YS5nZXRPYmplY3RUeXBlKCksIENvbGxlY3Rpb25zLnNpbmdsZXRvbkxpc3QoVGFiRUhTTWF0ZXJpYWxEYXRhKSk7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIE1hcDxTdHJpbmcsIExpc3Q8UGx1Z2luT2JqZWN0QnJvd3NlclRhYjw/Pj4+IHR5cGVUb1RhYnM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFRhYlN1cmZhY2UgdGFiU3VyZmFjZSA9IG5ldyBUYWJTdXJmYWNlKGVjdHJTZXJ2aWNlKTsKICAgIHR5cGVUb1RhYnMucHV0KHRhYlN1cmZhY2UuZ2V0T2JqZWN0VHlwZSgpLCBDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KHRhYlN1cmZhY2UpKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMudHlwZVRvVGFicyA9IHR5cGVUb1RhYnM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyB0eXBlOwo=</text>
+        <text encoding="base64">ICAgICAgc3lvdXQgCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMudHlwZSA9IHR5cGU7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ewogICAgICByZXR1cm4gKExpc3Q8UGx1Z2luT2JqZWN0QnJvd3NlclRhYjw/Pg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgT2JqZWN0IGdldERpY0NvbHVtbk5hbWUoU3RyaW5nIHMsIFN0cmluZyBjb2x1bW5OYW1lKQogIHsKICAgIGxvZ2dlclNlcnZpY2UudHJhY2UoIlRvIHNldCB0aXRsZSBmb3IgdGFiIHVzaW5nIGRpY3Rpb25hcnkgS2V5OiAiICsgcyk7CiAgfQo=</text>
+        <text encoding="base64">ICAgIEZ1bmN0aW9uPFN0cmluZywgTGlzdDxQbHVnaW5PYmplY3RCcm93c2VyVGFiPD8+Pj4gZmY7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIE9iamVjdCBnZXRUYWJzRm9yKE9iamVjdCBvKQogIHsKICB9Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
