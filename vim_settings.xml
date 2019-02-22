@@ -58,6 +58,12 @@
         <mark key="^" line="17" column="30" />
         <mark key="." line="17" column="24" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/util/PreferenceFinder.java" timestamp="1550851385347">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="21" />
+        <mark key="." line="19" column="21" />
+        <mark key="^" line="19" column="21" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/gui/browser/plugin/PluginPanelTabBuildService.java" timestamp="1550760111491" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/gui/browser/util/tabs/services/DirBrowsePanelTabBuildService.java" timestamp="1550773022686" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gfx/GxTable.java" timestamp="1550674296850" />
@@ -102,6 +108,12 @@
         <mark key="^" line="35" column="41" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/gui/browser/plugin/PluginObjectBrowserTabRetriever.java" timestamp="1550575808734" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/ob/tab/mat/TabMaterial2.java" timestamp="1550850395528">
+        <mark key="[" line="18" column="24" />
+        <mark key="]" line="18" column="24" />
+        <mark key="^" line="20" column="82" />
+        <mark key="." line="18" column="24" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/gui/browser/BrowsePanelStack.java" timestamp="1550508087030" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1550773120007" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/ob/tab/TabMat2.java" timestamp="1550754763963">
@@ -203,7 +215,7 @@
         <mark key="^" line="11" column="55" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550846877994">
+      <file name="/Dummy.txt" timestamp="1550850836141">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/gui/browser/RowColoringGxTable.java" timestamp="1550604927548" />
@@ -221,7 +233,7 @@
         <mark key="^" line="11" column="10" />
         <mark key="." line="11" column="10" />
       </file>
-      <file name="/fragment.java" timestamp="1550837603468">
+      <file name="/fragment.java" timestamp="1550850331238">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="29" />
@@ -259,11 +271,11 @@
         <mark key="^" line="13" column="24" />
         <mark key="." line="13" column="6" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/ob/tab/TabFactory.java" timestamp="1550846902834">
-        <mark key="[" line="29" column="2" />
-        <mark key="]" line="29" column="2" />
-        <mark key="." line="29" column="2" />
-        <mark key="^" line="57" column="112" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/ob/tab/TabFactory.java" timestamp="1550850453178">
+        <mark key="[" line="48" column="70" />
+        <mark key="]" line="48" column="80" />
+        <mark key="." line="48" column="80" />
+        <mark key="^" line="48" column="80" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/carl-zeiss/osgi-tab/src/main/java/osgi/gui/ob/tab/MyTab.java" timestamp="1550149108168">
         <mark key="[" line="20" column="13" />
@@ -275,6 +287,12 @@
         <mark key="[" line="14" column="51" />
         <mark key="]" line="14" column="51" />
         <mark key="." line="14" column="51" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/ob/tab/mat/TabMatComplAssignment.java" timestamp="1550851097608">
+        <mark key="[" line="29" column="4" />
+        <mark key="]" line="29" column="19" />
+        <mark key="^" line="29" column="19" />
+        <mark key="." line="29" column="19" />
       </file>
       <file name="/Clipboard.txt" timestamp="1550482564885">
         <mark key="[" line="0" column="0" />
@@ -543,11 +561,11 @@
       <jump line="2683" column="79" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/fctr/customize/config/default.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>TableFactory</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>TableFactory</text>
+        <text>RfcFindFMAndExport</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxWRVJUSUNBTF9TQ1JPTExCQVJfQVNfTkVFREVEXD4=</text>
@@ -555,35 +573,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICBwcml2YXRlIGZpbmFsIFN0cmluZyBPQkpFQ1RfVFlQRSA9ICJZQkFTTUFUIjsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAvLyAgICAvL1lCQVNNQVQKICAgIC8vICAgIFRhYkdlbmVyaWNNYXQgdGFiR2VuZXJpY01hdCA9IG5ldyBUYWJHZW5lcmljTWF0KGVjdHJTZXJ2aWNlKTsKICAgIC8vICAgIHR5cGVUb1RhYnMucHV0KHRhYkdlbmVyaWNNYXQuZ2V0T2JqZWN0VHlwZSgpLCBDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KHRhYkdlbmVyaWNNYXQpKTsKICAgIC8vCiAgICAvLyAgICAvL1lCQVNTVVJGQUNFCiAgICAvLyAgICBUYWJHZW5lcmljU3VyZmFjZSB0YWJTdXJmYWNlID0gbmV3IFRhYkdlbmVyaWNTdXJmYWNlKGVjdHJTZXJ2aWNlKTsKICAgIC8vICAgIHR5cGVUb1RhYnMucHV0KHRhYlN1cmZhY2UuZ2V0T2JqZWN0VHlwZSgpLCBDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KHRhYlN1cmZhY2UpKTsKICAgIC8vCiAgICAvLyAgICAvL01BUkEKICAgIC8vICAgIFRhYk1hdGVyaWFsIHRhYk1hdGVyaWFsID0gbmV3IFRhYk1hdGVyaWFsKGVjdHJTZXJ2aWNlKTsKICAgIC8vICAgIHR5cGVUb1RhYnMucHV0KHRhYk1hdGVyaWFsLmdldE9iamVjdFR5cGUoKSwgQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdCh0YWJNYXRlcmlhbCkpOwogICAgLy8KICAgIC8vICAgIC8vRFJBVwogICAgLy8gICAgVGFiRG9jVHlwZUZ1bSB0YWJEb2NUeXBlRnVtID0gbmV3IFRhYkRvY1R5cGVGdW0oZWN0clNlcnZpY2UpOwogICAgLy8gICAgdHlwZVRvVGFicy5wdXQodGFiRG9jVHlwZUZ1bS5nZXRPYmplY3RUeXBlKCksIENvbGxlY3Rpb25zLnNpbmdsZXRvbkxpc3QodGFiRG9jVHlwZUZ1bSkpOw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gIHByaXZhdGUgZmluYWwgU3RyaW5nIE9CSkVDVF9UWVBFID0gIllCQVNNQVQiOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBzdHJpbmc7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>private String getExportPrefName()
+  {
+    return uniqueIdentifier + &quot;.export.param.name&quot;;
+  }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y2FybHplaXNzLm9zZ2kuZXMuc3ViLmRldGFpbHMudGFiLnRpdGxlLk1BUkEuTUFURVJJQUxfR0VORVJBTF9EQVRBCmNhcmx6ZWlzcy5vc2dpLmVzLnN1Yi5kZXRhaWxzLnRhYi50aXRsZS5NQVJBLk1BVEVSSUFMX0dFTkVSQUxfREFUQQpjYXJsemVpc3Mub3NnaS5lcy5zdWIuZGV0YWlscy50YWIudGl0bGUuTUFSQS5NQVRFUklBTF9HRU5FUkFMX0RBVEEK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAvLyAgICAvL1lCQVNNQVQKICAgIC8vICAgIFRhYkdlbmVyaWNNYXQgdGFiR2VuZXJpY01hdCA9IG5ldyBUYWJHZW5lcmljTWF0KGVjdHJTZXJ2aWNlKTsKICAgIC8vICAgIHR5cGVUb1RhYnMucHV0KHRhYkdlbmVyaWNNYXQuZ2V0T2JqZWN0VHlwZSgpLCBDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KHRhYkdlbmVyaWNNYXQpKTsKICAgIC8vCiAgICAvLyAgICAvL1lCQVNTVVJGQUNFCiAgICAvLyAgICBUYWJHZW5lcmljU3VyZmFjZSB0YWJTdXJmYWNlID0gbmV3IFRhYkdlbmVyaWNTdXJmYWNlKGVjdHJTZXJ2aWNlKTsKICAgIC8vICAgIHR5cGVUb1RhYnMucHV0KHRhYlN1cmZhY2UuZ2V0T2JqZWN0VHlwZSgpLCBDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KHRhYlN1cmZhY2UpKTsKICAgIC8vCiAgICAvLyAgICAvL01BUkEKICAgIC8vICAgIFRhYk1hdGVyaWFsIHRhYk1hdGVyaWFsID0gbmV3IFRhYk1hdGVyaWFsKGVjdHJTZXJ2aWNlKTsKICAgIC8vICAgIHR5cGVUb1RhYnMucHV0KHRhYk1hdGVyaWFsLmdldE9iamVjdFR5cGUoKSwgQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdCh0YWJNYXRlcmlhbCkpOwogICAgLy8KICAgIC8vICAgIC8vRFJBVwogICAgLy8gICAgVGFiRG9jVHlwZUZ1bSB0YWJEb2NUeXBlRnVtID0gbmV3IFRhYkRvY1R5cGVGdW0oZWN0clNlcnZpY2UpOwogICAgLy8gICAgdHlwZVRvVGFicy5wdXQodGFiRG9jVHlwZUZ1bS5nZXRPYmplY3RUeXBlKCksIENvbGxlY3Rpb25zLnNpbmdsZXRvbkxpc3QodGFiRG9jVHlwZUZ1bSkpOw==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlclNlcnZpY2UudHJhY2UoIlRvIHNldCBmb2xkYWJsZSB0aXRsZSBmb3IgdGFiIHVzaW5nIGRpY3Rpb25hcnkgS2V5OiAiICsgcyk7Cg==</text>
+        <text encoding="base64">Ly8gIHByaXZhdGUgZmluYWwgU3RyaW5nIE9CSkVDVF9UWVBFID0gIllCQVNNQVQiOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgZ2V0RGlzcGxheUNvbXBvbmVudCgpLnJlbW92ZUFsbCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdldERpc3BsYXlDb21wb25lbnQoKS5yZW1vdmVBbGwoKTsK</text>
+        <text encoding="base64">Y2FybHplaXNzLm9zZ2kuZXMuc3ViLmRldGFpbHMudGFiLnRpdGxlLk1BUkEuTUFURVJJQUxfR0VORVJBTF9EQVRBCmNhcmx6ZWlzcy5vc2dpLmVzLnN1Yi5kZXRhaWxzLnRhYi50aXRsZS5NQVJBLk1BVEVSSUFMX0dFTkVSQUxfREFUQQpjYXJsemVpc3Mub3NnaS5lcy5zdWIuZGV0YWlscy50YWIudGl0bGUuTUFSQS5NQVRFUklBTF9HRU5FUkFMX0RBVEEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGpQYW5lbENvbnRhaW5lci5yZQo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlclNlcnZpY2UudHJhY2UoIlRvIHNldCBmb2xkYWJsZSB0aXRsZSBmb3IgdGFiIHVzaW5nIGRpY3Rpb25hcnkgS2V5OiAiICsgcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgQXJyYXlMaXN0PFBsdWdpbk9iamVjdEJyb3dzZXJUYWI8Pz4+KCkuYWRkKHRhYkdlbmVyaWNNYXQpOwo=</text>
+        <text encoding="base64">Ly8gICAgZ2V0RGlzcGxheUNvbXBvbmVudCgpLnJlbW92ZUFsbCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>226</text>
