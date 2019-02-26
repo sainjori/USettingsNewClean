@@ -9,6 +9,9 @@
         <mark key="^" line="124" column="11" />
         <mark key="." line="21" column="13" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/duerr/trunk/duerr_osgi/src/main/java/duerr/spi/doc/DocumentClassificationFieldExtensionService.java" timestamp="1551206386749">
+        <mark key="'" line="166" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/TabFactory.java" timestamp="1550576509684">
         <mark key="[" line="21" column="58" />
         <mark key="]" line="22" column="3" />
@@ -173,6 +176,9 @@
         <mark key="]" line="60" column="40" />
         <mark key="^" line="60" column="40" />
         <mark key="." line="60" column="40" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/duerr/trunk/duerr_osgi/src/main/java/duerr/spi/utlis/SpiUtils.java" timestamp="1551206018724">
+        <mark key="'" line="59" column="37" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/util/ShowDialogs.java" timestamp="1550486008526">
         <mark key="[" line="23" column="77" />
@@ -679,13 +685,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/gui/browser/util/BrowsePanelController.java" />
-      <jump line="74" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/gui/browser/util/BrowsePanelController.java" />
-      <jump line="139" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/gui/browser/AbstractBrowsePanel.java" />
-      <jump line="127" column="31" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/gui/browser/AbstractBrowsePanel.java" />
-      <jump line="100" column="38" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/gui/browser/plugin/PluginProcessor.java" />
-      <jump line="84" column="48" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/AdvDataTabMat.java" />
-      <jump line="41" column="84" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/AdvDataTabMatTest.java" />
       <jump line="22" column="18" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/AdvDataTabMat.java" />
       <jump line="33" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/AdvDataTabMatTest.java" />
       <jump line="44" column="11" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/AdvDataTabMat.java" />
@@ -779,6 +778,13 @@
       <jump line="2634" column="0" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/fctr/customize/config/default.txt" />
       <jump line="2683" column="79" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/fctr/customize/config/default.txt" />
       <jump line="37" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/bhs/src/main/java/bhs/proc/BhsMaterialHandler.java" />
+      <jump line="172" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/duerr/trunk/duerr_osgi/src/main/java/duerr/spi/utlis/SpiUtils.java" />
+      <jump line="176" column="14" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/duerr/trunk/duerr_osgi/src/main/java/duerr/spi/utlis/SpiUtils.java" />
+      <jump line="177" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/duerr/trunk/duerr_osgi/src/main/java/duerr/spi/utlis/SpiUtils.java" />
+      <jump line="180" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/duerr/trunk/duerr_osgi/src/main/java/duerr/spi/utlis/SpiUtils.java" />
+      <jump line="182" column="21" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/duerr/trunk/duerr_osgi/src/main/java/duerr/spi/utlis/SpiUtils.java" />
+      <jump line="59" column="37" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/duerr/trunk/duerr_osgi/src/main/java/duerr/spi/utlis/SpiUtils.java" />
+      <jump line="166" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/duerr/trunk/duerr_osgi/src/main/java/duerr/spi/doc/DocumentClassificationFieldExtensionService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -788,7 +794,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCaHNNYXRlcmlhbEZpZWxkc01hbmFnZXJcPg==</text>
+        <text encoding="base64">XDxwcmVmZXJlbmNlc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QEF1dG9TZXJ2aWNlIChQbG1PYmplY3RDcmVhdGVTZXJ2aWNlLmNsYXNzKQo=</text>
@@ -828,9 +834,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCaHNNYXRlcmlhbEZpZWxkc01hbmFnZXJcPg==</last-search>
+      <last-search encoding="base64">XDxwcmVmZXJlbmNlc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCaHNNYXRlcmlhbEZpZWxkc01hbmFnZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwcmVmZXJlbmNlc1w+</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -838,7 +844,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmdW5jdGlvbk5hbWVcPg==</entry>
         <entry encoding="base64">XDx0YWJsZVJlcHJlc2VudGF0aW9uXD4=</entry>
         <entry encoding="base64">XDxyZmNUYWJsZXNcPg==</entry>
         <entry encoding="base64">XDxqUGFuZWxcPg==</entry>
@@ -858,6 +863,7 @@
         <entry encoding="base64">XDxodEFsbE9ick9iamVjdHNcPg==</entry>
         <entry encoding="base64">XDxWRVJUSUNBTF9TQ1JPTExCQVJfQVNfTkVFREVEXD4=</entry>
         <entry encoding="base64">XDxCaHNNYXRlcmlhbEZpZWxkc01hbmFnZXJcPg==</entry>
+        <entry encoding="base64">XDxwcmVmZXJlbmNlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>4731</entry>
