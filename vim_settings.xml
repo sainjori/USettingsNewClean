@@ -42,6 +42,9 @@
         <mark key="." line="30" column="81" />
         <mark key="^" line="30" column="81" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/otto-fuchs/trunk/osgi/src/main/java/of/osgi/gui/obr/OsgiTableDisplay.java" timestamp="1551270637442">
+        <mark key="'" line="244" column="4" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/gui/conversionservices/qualitymanagement/PlmQualityNotificationCreateService.java" timestamp="1551116795175">
         <mark key="[" line="46" column="3" />
         <mark key="]" line="47" column="42" />
@@ -699,15 +702,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="11" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/AdvDataTabMat.java" />
-      <jump line="22" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/util/RfcDataService.java" />
-      <jump line="19" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/util/RfcDataService.java" />
-      <jump line="2577" column="40" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" />
-      <jump line="22" column="13" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/ob/tab/AdvDataTabMat.java" />
-      <jump line="42" column="5" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/util/AdvDataTabMatTest.java" />
-      <jump line="78" column="32" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/gui/obr/omf/LayoutManagerFunction.java" />
-      <jump line="488" column="7" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/gui/obr/omf/OmfEditCurrentLayout.java" />
-      <jump line="546" column="26" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/gui/obr/omf/OmfEditCurrentLayout.java" />
       <jump line="542" column="68" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/gui/obr/omf/OmfEditCurrentLayout.java" />
       <jump line="579" column="68" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/gui/obr/omf/OmfEditCurrentLayout.java" />
       <jump line="606" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/gui/obr/omf/OmfEditCurrentLayout.java" />
@@ -799,6 +793,15 @@
       <jump line="166" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/duerr/trunk/duerr_osgi/src/main/java/duerr/spi/doc/DocumentClassificationFieldExtensionService.java" />
       <jump line="148" column="11" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/awt/GridLayout.java" />
       <jump line="84" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/ob/tab/TabGenericMat.java" />
+      <jump line="312" column="28" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/otto-fuchs/trunk/osgi/src/main/java/of/osgi/gui/obr/OsgiTableDisplay.java" />
+      <jump line="124" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/otto-fuchs/trunk/osgi/src/main/java/of/osgi/gui/obr/OsgiTableDisplay.java" />
+      <jump line="126" column="23" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/otto-fuchs/trunk/osgi/src/main/java/of/osgi/gui/obr/OsgiTableDisplay.java" />
+      <jump line="128" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/otto-fuchs/trunk/osgi/src/main/java/of/osgi/gui/obr/OsgiTableDisplay.java" />
+      <jump line="176" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/otto-fuchs/trunk/osgi/src/main/java/of/osgi/gui/obr/OsgiTableDisplay.java" />
+      <jump line="177" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/otto-fuchs/trunk/osgi/src/main/java/of/osgi/gui/obr/OsgiTableDisplay.java" />
+      <jump line="242" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/otto-fuchs/trunk/osgi/src/main/java/of/osgi/gui/obr/OsgiTableDisplay.java" />
+      <jump line="243" column="23" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/otto-fuchs/trunk/osgi/src/main/java/of/osgi/gui/obr/OsgiTableDisplay.java" />
+      <jump line="244" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/otto-fuchs/trunk/osgi/src/main/java/of/osgi/gui/obr/OsgiTableDisplay.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -808,7 +811,7 @@
         <text>view</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmVmZXJlbmNlc1w+</text>
+        <text encoding="base64">XDxzb3J0ZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICBkZWZhdWx0VGFibGVNb2RlbCA9IG5ldyBEZWZhdWx0VGFibGVNb2RlbCh0YWJsZURhdGEsIGdldENvbHVtbnMoKSkK</text>
@@ -848,9 +851,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmVmZXJlbmNlc1w+</last-search>
+      <last-search encoding="base64">XDxzb3J0ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmVmZXJlbmNlc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxzb3J0ZXJcPg==</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -858,7 +861,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0YWJsZVJlcHJlc2VudGF0aW9uXD4=</entry>
         <entry encoding="base64">XDxyZmNUYWJsZXNcPg==</entry>
         <entry encoding="base64">XDxqUGFuZWxcPg==</entry>
         <entry encoding="base64">XDxGTV9OQU1FXD4=</entry>
@@ -878,6 +880,7 @@
         <entry encoding="base64">XDxWRVJUSUNBTF9TQ1JPTExCQVJfQVNfTkVFREVEXD4=</entry>
         <entry encoding="base64">XDxCaHNNYXRlcmlhbEZpZWxkc01hbmFnZXJcPg==</entry>
         <entry encoding="base64">XDxwcmVmZXJlbmNlc1w+</entry>
+        <entry encoding="base64">XDxzb3J0ZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>4731</entry>
