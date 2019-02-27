@@ -382,11 +382,11 @@
         <mark key="^" line="42" column="34" />
         <mark key="." line="42" column="34" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/util/TableFactory.java" timestamp="1551269141927">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-        <mark key="^" line="79" column="74" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/util/TableFactory.java" timestamp="1551274089333">
+        <mark key="[" line="79" column="77" />
+        <mark key="]" line="80" column="16" />
+        <mark key="." line="80" column="16" />
+        <mark key="^" line="80" column="16" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/conversionservices/PsNetworkHeaderBrowsePanelService.java" timestamp="1551207084866">
         <mark key="[" line="48" column="3" />
@@ -429,6 +429,9 @@
         <mark key="]" line="53" column="47" />
         <mark key="^" line="53" column="47" />
         <mark key="." line="53" column="47" />
+      </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/javax/swing/JTable.java" timestamp="1551274144518">
+        <mark key="'" line="1954" column="50" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/Activator.java" timestamp="1551263617471">
         <mark key="[" line="31" column="16" />
@@ -696,11 +699,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="542" column="68" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/gui/obr/omf/OmfEditCurrentLayout.java" />
-      <jump line="579" column="68" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/gui/obr/omf/OmfEditCurrentLayout.java" />
-      <jump line="606" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/gui/obr/omf/OmfEditCurrentLayout.java" />
-      <jump line="95" column="9" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gfx/FoldableGxPanel.java" />
-      <jump line="516" column="36" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gfx/FoldableGxPanel.java" />
       <jump line="200" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gfx/FoldableGxPanel2.java" />
       <jump line="290" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gfx/FoldableGxPanel2.java" />
       <jump line="193" column="29" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gfx/FoldableGxPanel.java" />
@@ -796,6 +794,11 @@
       <jump line="242" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/otto-fuchs/trunk/osgi/src/main/java/of/osgi/gui/obr/OsgiTableDisplay.java" />
       <jump line="243" column="23" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/otto-fuchs/trunk/osgi/src/main/java/of/osgi/gui/obr/OsgiTableDisplay.java" />
       <jump line="244" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/otto-fuchs/trunk/osgi/src/main/java/of/osgi/gui/obr/OsgiTableDisplay.java" />
+      <jump line="285" column="32" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/javax/swing/JTable.java" />
+      <jump line="331" column="13" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/javax/swing/JTable.java" />
+      <jump line="629" column="63" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/javax/swing/JTable.java" />
+      <jump line="1238" column="49" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/javax/swing/JTable.java" />
+      <jump line="1954" column="50" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/javax/swing/JTable.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -805,7 +808,7 @@
         <text>view</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzb3J0ZXJcPg==</text>
+        <text encoding="base64">XDxjb2x1bW5Nb2RlbFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICBkZWZhdWx0VGFibGVNb2RlbCA9IG5ldyBEZWZhdWx0VGFibGVNb2RlbCh0YWJsZURhdGEsIGdldENvbHVtbnMoKSkK</text>
@@ -845,9 +848,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzb3J0ZXJcPg==</last-search>
+      <last-search encoding="base64">XDxjb2x1bW5Nb2RlbFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzb3J0ZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjb2x1bW5Nb2RlbFw+</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -855,7 +858,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZmNUYWJsZXNcPg==</entry>
         <entry encoding="base64">XDxqUGFuZWxcPg==</entry>
         <entry encoding="base64">XDxGTV9OQU1FXD4=</entry>
         <entry encoding="base64">XDxoQ3VycmVudFNlc3Npb25zXD4=</entry>
@@ -875,6 +877,7 @@
         <entry encoding="base64">XDxCaHNNYXRlcmlhbEZpZWxkc01hbmFnZXJcPg==</entry>
         <entry encoding="base64">XDxwcmVmZXJlbmNlc1w+</entry>
         <entry encoding="base64">XDxzb3J0ZXJcPg==</entry>
+        <entry encoding="base64">XDxjb2x1bW5Nb2RlbFw+</entry>
       </history-search>
       <history-cmd>
         <entry>4731</entry>
