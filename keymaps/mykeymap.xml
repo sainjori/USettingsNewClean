@@ -65,6 +65,10 @@
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+    <mouse-shortcut keystroke="control alt button1" />
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="GotoNextError">
@@ -83,6 +87,10 @@
   <action id="InsertLiveTemplate" />
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="shift alt l" />
+  </action>
+  <action id="Jdbc.OpenEditor.DDL">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="shift ctrl back_space" />
