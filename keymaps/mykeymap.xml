@@ -128,7 +128,7 @@
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
     <keyboard-shortcut first-keystroke="alt r" />
-    <mouse-shortcut keystroke="alt button143" />
+    <keyboard-shortcut first-keystroke="alt windows" second-keystroke="f1" />
   </action>
   <action id="RevealIn">
     <mouse-shortcut keystroke="alt button2" />
@@ -146,20 +146,21 @@
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="ctrl alt f7" />
     <keyboard-shortcut first-keystroke="alt u" />
+    <mouse-shortcut keystroke="alt button143" />
   </action>
   <action id="SmartStepInto" />
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f7" />
-    <keyboard-shortcut first-keystroke="alt d" />
+    <keyboard-shortcut first-keystroke="alt windows" second-keystroke="f2" />
   </action>
   <action id="StepOut">
     <keyboard-shortcut first-keystroke="shift f8" />
     <keyboard-shortcut first-keystroke="alt f" />
+    <keyboard-shortcut first-keystroke="alt windows" second-keystroke="f3" />
   </action>
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="f8" />
-    <keyboard-shortcut first-keystroke="alt a" />
-    <mouse-shortcut keystroke="alt button142" />
+    <keyboard-shortcut first-keystroke="alt windows" second-keystroke="f4" />
   </action>
   <action id="StructuralSearchPlugin.StructuralSearchAction">
     <keyboard-shortcut first-keystroke="f3" />
