@@ -98,11 +98,11 @@
       <file name="/Dummy.txt" timestamp="1551820851437">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/ob/tab/doc/TabDocTypeFum.java" timestamp="1551799790145">
-        <mark key="[" line="51" column="53" />
-        <mark key="]" line="51" column="53" />
-        <mark key="." line="51" column="53" />
-        <mark key="^" line="51" column="56" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/ob/tab/doc/TabDocTypeFum.java" timestamp="1551880096468">
+        <mark key="[" line="75" column="2" />
+        <mark key="]" line="75" column="2" />
+        <mark key="." line="75" column="2" />
+        <mark key="^" line="75" column="10" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/util/RfcDataService.java" timestamp="1551815623102">
         <mark key="'" line="76" column="35" />
@@ -223,10 +223,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>public st</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>public st</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXRlZ29yaWVzXD4=</text>
