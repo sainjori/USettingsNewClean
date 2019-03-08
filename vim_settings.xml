@@ -26,12 +26,12 @@
         <mark key="^" line="76" column="39" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/awt/GridLayout.java" timestamp="1551782752666" />
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" timestamp="1552064319073">
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" timestamp="1552065739845">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="2750" column="107" />
-        <mark key="]" line="2750" column="106" />
-        <mark key="^" line="2750" column="106" />
-        <mark key="." line="2750" column="106" />
+        <mark key="[" line="2750" column="108" />
+        <mark key="]" line="2750" column="117" />
+        <mark key="^" line="2750" column="117" />
+        <mark key="." line="2750" column="117" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/awt/GridBagConstraints.java" timestamp="1551785908274" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/util/PreferenceFinder.java" timestamp="1552064508759">
@@ -112,14 +112,13 @@
         <mark key="^" line="63" column="502" />
         <mark key="." line="63" column="502" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/util/DictionaryService.java" timestamp="1552056693598">
-        <mark key="'" line="43" column="12" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="36" column="49" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/util/DictionaryService.java" timestamp="1552066061908">
+        <mark key="'" line="50" column="12" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552062782535">
+      <file name="/Dummy.txt" timestamp="1552065819334">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="60" />
         <mark key="." line="0" column="60" />
@@ -239,11 +238,11 @@
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>columnName</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>columnName</text>
+        <text>Object</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXJsemVpc3NcPg==</text>
@@ -252,34 +251,34 @@
         <text encoding="base64">Y2FybHplaXNzLm9zZ2kubWF0ZXJpYWwubWFzdGVyLmNvbXBsaWFuY2UuYXNzaWdubWVudC50YWIuZm9sZGFibGUuY2F0ZWdvcmllcyA9IFJFQUNIIFNWSEM7Q2hpbmEgUm9IUztFVSBSb0hTCmNhcmx6ZWlzcy5vc2dpLm1hdGVyaWFsLm1hc3Rlci5jb21wbGlhbmNlLmFzc2lnbm1lbnQudGFiLmZvbGRhYmxlLlJFQUNIIFNWSEMuYXR0cmlidXRlcyA9IENIS19SRVNVTFQ7Q0hLX1JFU1VMVF9ERVNDUjtNU0dJRF9URVhUCmNhcmx6ZWlzcy5vc2dpLm1hdGVyaWFsLm1hc3Rlci5jb21wbGlhbmNlLmFzc2lnbm1lbnQudGFiLmZvbGRhYmxlLkNoaW5hIFJvSFMuYXR0cmlidXRlcyA9IENNUExfU1RBVFVTX0RFU0NSO0VDVFJfU1RBVFVTO01TR0lEX1RFWFQKY2FybHplaXNzLm9zZ2kubWF0ZXJpYWwubWFzdGVyLmNvbXBsaWFuY2UuYXNzaWdubWVudC50YWIuZm9sZGFibGUuRVUgUm9IUy5hdHRyaWJ1dGVzID0gTVNHSURfVEVYVDtNU0dOT19URVhUCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJvdy5hZGQoc2hvd0NvbHVtbk5hbWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICghcmVzdWx0LmVxdWFscyhkZWZhdWx0VmFsdWUpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEhhc2hNYXA8U3RyaW5nLCBWZWN0b3I8T2JqZWN0Pj4gY2F0ZWdvcnlUb0F0dHJpYnV0ZU1hcCA9IHByZWZlcmVuY2VGaW5kZXIuZ2V0Q2F0ZWdvcnlUb0F0dHJpYnV0ZU1hcCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEhhc2hNYXA8U3RyaW5nLCBWZWN0b3I8T2JqZWN0Pj4gZm9sZGFibGVzID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1ha2VGb2xkYWJsZXNNYXAoY2F0ZWdvcnlUb0F0dHJpYnV0ZU1hcCwgdGFibGUsIGZvbGRhYmxlcyk7Cgo=</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2FjaGUgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIDxVPiBIYXNoTWFwPFN0cmluZywgU3RyaW5nPiBhc0ZvbGRhYmxlcyhEYXRhQ29sdW1uTmFtZXMgZGF0YUNvbHVtbk5hbWVzKQogIHsKICAgIEhhc2hNYXA8U3RyaW5nLCBTdHJpbmc+IG5hbWVGb2xkYWJsZURhdGFNYXAgPSBuZXcgSGFzaE1hcDw+KCk7CgogICAgVmVjdG9yPE9iamVjdD4gZGF0YSA9IGRhdGFDb2x1bW5OYW1lcy5nZXREYXRhKCk7CgogICAgcmV0dXJuIG5hbWVGb2xkYWJsZURhdGFNYXA7CiAgfQo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBzID0gZGljdGlvbmFyeS5nZXQoa2V5LCBkZWZhdWx0VmFsdWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEl0ZXJhYmxlPFN0cmluZz4gZmllbGROYW1lcyA9IHRhYmxlLmdldEZpZWxkTmFtZXMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIHJvdy5hZGQoc2hvd0NvbHVtbk5hbWUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>help key-notation</text>
