@@ -63,12 +63,7 @@
     <keyboard-shortcut first-keystroke="alt #10000d6" />
   </action>
   <action id="GotoDeclaration">
-    <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="control button1" />
-  </action>
-  <action id="GotoImplementation">
-    <keyboard-shortcut first-keystroke="ctrl alt b" />
-    <mouse-shortcut keystroke="control alt button1" />
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="Groovy.Shell.Execute" />
