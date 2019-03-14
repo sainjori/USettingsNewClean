@@ -165,12 +165,6 @@
         <mark key="^" line="62" column="30" />
         <mark key="." line="62" column="30" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/ob/tab/mat/TabMatComplAssignment.java" timestamp="1552576431299">
-        <mark key="[" line="90" column="54" />
-        <mark key="]" line="90" column="76" />
-        <mark key="." line="90" column="76" />
-        <mark key="^" line="90" column="76" />
-      </file>
       <file name="/Clipboard.txt" timestamp="1551718037420">
         <mark key="[" line="0" column="0" />
       </file>
@@ -429,12 +423,12 @@
         <mark key="^" line="20" column="31" />
         <mark key="." line="20" column="31" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/util/TableFactory.java" timestamp="1552570536913">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/util/TableFactory.java" timestamp="1552580601953">
         <mark key="'" line="42" column="17" />
-        <mark key="[" line="195" column="0" />
-        <mark key="]" line="195" column="0" />
-        <mark key="." line="195" column="0" />
-        <mark key="^" line="200" column="33" />
+        <mark key="[" line="211" column="32" />
+        <mark key="]" line="212" column="28" />
+        <mark key="." line="212" column="28" />
+        <mark key="^" line="212" column="28" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/conversionservices/PsNetworkHeaderBrowsePanelService.java" timestamp="1551207084866">
         <mark key="[" line="48" column="3" />
@@ -656,7 +650,7 @@
         <mark key="." line="26" column="10" />
         <mark key="^" line="26" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552576896259">
+      <file name="/Dummy.txt" timestamp="1552580702127">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/OmfCustGenMatWhereUsedMaterial.java" timestamp="1552327039785">
@@ -759,7 +753,7 @@
         <mark key="^" line="6" column="12" />
         <mark key="." line="6" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1552569215901">
+      <file name="/fragment.java" timestamp="1552578505340">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
@@ -875,47 +869,47 @@
       <jump line="148" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gfx/FoldableGxPanel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>loggerService</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>loggerService</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aXRsZVBhbmVsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGRpc3BsYXlDb21wb25lbnQgIT0gbnVsbCAmJiBqTGFiZWwgIT0gbnVsbCkK</text>
+        <text encoding="base64">ICAgIHNjcm9sbFBhbmVGb2xkYWJsZXMucmV2YWxpZGF0ZSgpOwogICAgc2Nyb2xsUGFuZUZvbGRhYmxlcy5yZXBhaW50KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGxheUNvbXBvbmVudC5yZW1vdmUobG9hZGluZ0xhYmVsKTsKICAgICAgZGlzcGxheUNvbXBvbmVudC5yZXZhbGlkYXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgYnJlYWsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNjcm9sbFBhbmVGb2xkYWJsZXMucmVwYWludCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGxheUNvbXBvbmVudC5yZW1vdmUoakxhYmVsKTsKICAgICAgZGlzcGxheUNvbXBvbmVudC5yZXZhbGlkYXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgIHNjcm9sbFBhbmVGb2xkYWJsZXMucmV2YWxpZGF0ZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxpbmNsdWRlPnBsdWdpbi5wcm9wZXJ0aWVzPC9pbmNsdWRlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxpbmNsdWRlPnBsdWdpbi54bWw8L2luY2x1ZGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2dnZXJTZXJ2aWNlLnRyYWNlKCJDb21wbGlhbmNlIGRhdGEgbm90IGZvdW5kLiAtLS0tLT4gc2hvdyBtZXNzYWdlIik7CiAgICAgIG1pc3NpbmdEYXRhSW50ZXJmYWNlLnNob3coZ2V0RGlzcGxheUNvbXBvbmVudCgpLCBkaWN0aW9uYXJ5U2VydmljZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFRlc3RSZmNSZXN1bHRDb21wbGljYW5jZSB0ZXN0UmZjUmVzdWx0Q29tcGxpY2FuY2UgPSBuZXcgVGVzdFJmY1Jlc3VsdENvbXBsaWNhbmNlKCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGNvbnN0cmFpbnRzLndlaWdodHggPSAxMDAwOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2dnZXJTZXJ2aWNlLnRyYWNlKFN0cmluZy5mb3JtYXQoImF0dGlidXRlICVzLCB0cmFuc2xhdGVkICVzLCB2YWx1ZSAlcyIsIGF0dHJpLCB0cmFuc2xhdGVkLCB2YWx1ZSkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGNvbnN0cmFpbnRzLmlwYWR5ID0gLTEwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help key-notation</text>
