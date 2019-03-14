@@ -165,6 +165,12 @@
         <mark key="^" line="62" column="30" />
         <mark key="." line="62" column="30" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/ob/tab/mat/TabMatComplAssignment.java" timestamp="1552582386778">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="106" column="16" />
+      </file>
       <file name="/Clipboard.txt" timestamp="1551718037420">
         <mark key="[" line="0" column="0" />
       </file>
@@ -185,6 +191,12 @@
         <mark key="]" line="23" column="83" />
         <mark key="." line="23" column="83" />
         <mark key="^" line="23" column="83" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/ob/tab/generic/TabGenericMat.java" timestamp="1552582596083">
+        <mark key="[" line="68" column="36" />
+        <mark key="]" line="69" column="32" />
+        <mark key="^" line="69" column="32" />
+        <mark key="." line="69" column="32" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/gui/conversionservices/qualitymanagement/PlmInspectionLotCreateService.java" timestamp="1551116772689">
         <mark key="[" line="46" column="3" />
@@ -423,12 +435,12 @@
         <mark key="^" line="20" column="31" />
         <mark key="." line="20" column="31" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/util/TableFactory.java" timestamp="1552580601953">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/util/TableFactory.java" timestamp="1552581673219">
         <mark key="'" line="42" column="17" />
-        <mark key="[" line="211" column="32" />
-        <mark key="]" line="212" column="28" />
-        <mark key="." line="212" column="28" />
-        <mark key="^" line="212" column="28" />
+        <mark key="[" line="178" column="73" />
+        <mark key="]" line="178" column="72" />
+        <mark key="." line="178" column="72" />
+        <mark key="^" line="178" column="72" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/conversionservices/PsNetworkHeaderBrowsePanelService.java" timestamp="1551207084866">
         <mark key="[" line="48" column="3" />
@@ -870,10 +882,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgIGVsc2UKICAgIHsKICAgICAgUmZjVGFibGUgcmZjVGFibGUgPSB0YWJsZS5nZXQoKTsKICAgICAgaWYgKHJmY1RhYmxlLmdldFJvd0NvdW50KCkgPT0gMCkKICAgICAgewogICAgICAgIExvZ2dlclNlcnZpY2UudHJhY2UoIkNvbXBsaWFuY2UgZGF0YSBub3QgZm91bmQuIC0tLS0tPiBzaG93IG1lc3NhZ2UiKTsKICAgICAgICBtaXNzaW5nRGF0YUludGVyZmFjZS5zaG93KGdldERpc3BsYXlDb21wb25lbnQoKSwgZGljdGlvbmFyeVNlcnZpY2UpOwogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aXRsZVBhbmVsXD4=</text>
@@ -882,34 +894,34 @@
         <text encoding="base64">ICAgIHNjcm9sbFBhbmVGb2xkYWJsZXMucmV2YWxpZGF0ZSgpOwogICAgc2Nyb2xsUGFuZUZvbGRhYmxlcy5yZXBhaW50KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgIGVsc2UKICAgIHsKICAgICAgUmZjVGFibGUgcmZjVGFibGUgPSB0YWJsZS5nZXQoKTsKICAgICAgaWYgKHJmY1RhYmxlLmdldFJvd0NvdW50KCkgPT0gMCkKICAgICAgewogICAgICAgIExvZ2dlclNlcnZpY2UudHJhY2UoIkNvbXBsaWFuY2UgZGF0YSBub3QgZm91bmQuIC0tLS0tPiBzaG93IG1lc3NhZ2UiKTsKICAgICAgICBtaXNzaW5nRGF0YUludGVyZmFjZS5zaG93KGdldERpc3BsYXlDb21wb25lbnQoKSwgZGljdGlvbmFyeVNlcnZpY2UpOwogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYnJlYWsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNjcm9sbFBhbmVGb2xkYWJsZXMucmVwYWludCgpOwo=</text>
+        <text encoding="base64">ICAgIGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNjcm9sbFBhbmVGb2xkYWJsZXMucmV2YWxpZGF0ZSgpOwo=</text>
+        <text encoding="base64">ICAgIGdldAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICh0YWJsZS5nZXRSb3dDb3VudCgpID09IDApCiAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXJTZXJ2aWNlLnRyYWNlKCJDb21wbGlhbmNlIGRhdGEgbm90IGZvdW5kLiAtLS0tLT4gc2hvdyBtZXNzYWdlIik7CiAgICAgIG1pc3NpbmdEYXRhSW50ZXJmYWNlLnNob3coZ2V0RGlzcGxheUNvbXBvbmVudCgpLCBkaWN0aW9uYXJ5U2VydmljZSk7Cg==</text>
+        <text encoding="base64">ICAgIGlmIChmb2xkYWJsZXMgPT0gbnVsbCB8fCBmb2xkYWJsZXMuaXNFbXB0eSgpKQogICAgICByZXR1cm47Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXJTZXJ2aWNlLnRyYWNlKFN0cmluZy5mb3JtYXQoImF0dGlidXRlICVzLCB0cmFuc2xhdGVkICVzLCB2YWx1ZSAlcyIsIGF0dHJpLCB0cmFuc2xhdGVkLCB2YWx1ZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgYnJlYWsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNjcm9sbFBhbmVGb2xkYWJsZXMucmVwYWludCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>help key-notation</text>
