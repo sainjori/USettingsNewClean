@@ -21,11 +21,11 @@
         <mark key="^" line="49" column="46" />
         <mark key="." line="49" column="46" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/OmfCustGenMatWhereUsedDocuments.java" timestamp="1552328204451">
-        <mark key="[" line="24" column="11" />
-        <mark key="]" line="24" column="10" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/OmfCustGenMatWhereUsedDocuments.java" timestamp="1552919111671">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
         <mark key="^" line="24" column="10" />
-        <mark key="." line="24" column="10" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gui/ob/tab/TabFactory.java" timestamp="1550576509684">
         <mark key="[" line="21" column="58" />
@@ -38,9 +38,6 @@
         <mark key="]" line="38" column="31" />
         <mark key="^" line="38" column="31" />
         <mark key="." line="38" column="31" />
-      </file>
-      <file name="/a.dummy" timestamp="1552647668966">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/util/ActiveListSendTest.java" timestamp="1552325730835">
         <mark key="[" line="16" column="36" />
@@ -109,13 +106,6 @@
         <mark key="^" line="4" column="6" />
         <mark key="." line="4" column="6" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" timestamp="1552650840803">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="2769" column="103" />
-        <mark key="]" line="2769" column="103" />
-        <mark key="^" line="2759" column="102" />
-        <mark key="." line="2769" column="103" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/util/ZeissDictionary.java" timestamp="1550592123279">
         <mark key="[" line="8" column="9" />
         <mark key="]" line="8" column="9" />
@@ -152,11 +142,11 @@
         <mark key="^" line="48" column="46" />
         <mark key="." line="48" column="46" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/OmfCustGenMatWhereUsedMaterialMasters.java" timestamp="1552328367728">
-        <mark key="[" line="62" column="23" />
-        <mark key="]" line="62" column="30" />
-        <mark key="^" line="62" column="30" />
-        <mark key="." line="62" column="30" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/OmfCustGenMatWhereUsedMaterialMasters.java" timestamp="1552919116222">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="59" column="30" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/ob/tab/mat/TabMatComplAssignment.java" timestamp="1552907064399" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/ob/tab/AdvDataTabSurface.java" timestamp="1550593163998">
@@ -224,6 +214,12 @@
         <mark key="]" line="8" column="20" />
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/util/ZeissTracer.java" timestamp="1552919058199">
+        <mark key="[" line="19" column="13" />
+        <mark key="]" line="19" column="7" />
+        <mark key="^" line="19" column="7" />
+        <mark key="." line="19" column="7" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/util/UpdateDataObject.java" timestamp="1550262245314">
         <mark key="[" line="15" column="4" />
@@ -365,10 +361,11 @@
         <mark key="^" line="24" column="56" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/OmfCustSurfaceWhereUsedDocuments.java" timestamp="1552328260293">
-        <mark key="]" line="29" column="44" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/OmfCustSurfaceWhereUsedDocuments.java" timestamp="1552919120097">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
         <mark key="^" line="29" column="44" />
-        <mark key="." line="29" column="44" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/sess/ctx/PlmBomRuleEditorContextInit.java" timestamp="1551117576898">
         <mark key="[" line="55" column="3" />
@@ -492,11 +489,11 @@
         <mark key="." line="11" column="53" />
         <mark key="^" line="11" column="53" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/OmfCustSurfaceWhereUsedMaterialMasters.java" timestamp="1552328475931">
-        <mark key="[" line="59" column="27" />
-        <mark key="]" line="59" column="29" />
-        <mark key="." line="59" column="29" />
-        <mark key="^" line="59" column="29" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/OmfCustSurfaceWhereUsedMaterialMasters.java" timestamp="1552919147012">
+        <mark key="[" line="52" column="6" />
+        <mark key="]" line="52" column="21" />
+        <mark key="." line="52" column="21" />
+        <mark key="^" line="52" column="21" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/ob/tab/mat/TabEHSMaterialData.java" timestamp="1550834002160">
         <mark key="[" line="17" column="31" />
@@ -600,11 +597,11 @@
         <mark key="." line="9" column="11" />
         <mark key="^" line="9" column="11" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/proc/GetWhereUserProcessMat.java" timestamp="1552327530287">
-        <mark key="[" line="20" column="48" />
-        <mark key="]" line="20" column="48" />
-        <mark key="." line="20" column="48" />
-        <mark key="^" line="20" column="40" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/proc/GetWhereUserProcessMat.java" timestamp="1552918941585">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="50" column="71" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="22" column="40" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ruleeditor/ctx/bom/omf/BomRuleEditorOmFunctions.java" timestamp="1551176589327">
         <mark key="[" line="39" column="0" />
@@ -642,7 +639,7 @@
         <mark key="." line="26" column="10" />
         <mark key="^" line="26" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552665436985">
+      <file name="/Dummy.txt" timestamp="1552919259815">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -652,6 +649,12 @@
         <mark key="]" line="29" column="42" />
         <mark key="^" line="29" column="42" />
         <mark key="." line="29" column="42" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/proc/GetWhereUserProcessDir.java" timestamp="1552918609588">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="45" column="71" />
+        <mark key="^" line="41" column="5" />
+        <mark key="." line="41" column="5" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/conversionservices/PsProjectBrowsePanelService.java" timestamp="1551207197700">
         <mark key="[" line="48" column="3" />
@@ -754,7 +757,7 @@
         <mark key="^" line="6" column="12" />
         <mark key="." line="6" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1552664600534">
+      <file name="/fragment.java" timestamp="1552918481232">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
@@ -870,47 +873,61 @@
       <jump line="49" column="33" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/ob/tab/generic/TabGenericMat.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ZeiswsTracer</text>
       </register>
       <register name="-" type="4">
-        <text>rfcStructureINdex</text>
+        <text>ZeiswsTracer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXNzaW5nRGF0YUludGVyZmFjZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJmY1N0cnVjdHVyZS5nZXRGaWVsZFZhbHVlKCJNU0dJRF9MVEVYVCIpOwo=</text>
+        <text encoding="base64">ICAgIGVsc2UKICAgICAgWmVpc3NUcmFjZXIuc2hvd0FwaUluZm8odGhpcy5nZXRDbGFzcygpLmdldFR5cGVOYW1lKCksIGFwaXBhcmFtKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>private void trace(ObrFunctionEvent event)
+  {
+    Trace.printHeader1(0, &quot;Where used ...selected object...&quot;);
+    ObrTreeSelection obrTreeSelection = event.getObrTreeSelection();
+    ObrObject firstObrObject = OmfUtils.getFirstObrObject(event);
+    Trace.print(&quot;carlzeiss&quot;, 0, firstObrObject.getObjectType());
+    Trace.print(&quot;carlzeiss&quot;, 0, firstObrObject.getObjectKey());
+  }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBtc2dpZF9sdGV4dCA9IHJmY1N0cnVjdHVyZS5nZXRGaWVsZFZhbHVlKCJNU0dJRF9MVEVYVCIpOwogICAgU3RyaW5nIG1zZ25vX2x0ZXh0ID0gcmZjU3RydWN0dXJlLmdldEZpZWxkVmFsdWUoIk1TR05PX0xURVhUIik7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>private void trace(ObrFunctionEvent event)
+  {
+    Trace.printHeader1(0, &quot;Where used ...selected object...&quot;);
+    ObrTreeSelection obrTreeSelection = event.getObrTreeSelection();
+    ObrObject firstObrObject = OmfUtils.getFirstObrObject(event);
+    Trace.print(&quot;carlzeiss&quot;, 0, firstObrObject.getObjectType());
+    Trace.print(&quot;carlzeiss&quot;, 0, firstObrObject.getObjectKey());
+  }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgIGNvbXBsaWNhbmNlRm9sZGFibGUuc2V0TG9uZ01lc3NhZ2UocmZjU3RydWN0dXJlLmdldEZpZWxkVmFsdWUobG9uZ19tZXNzYWdlKSk7Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29tcGxpY2FuY2VGb2xkYWJsZS5zZXRMb25nTWVzc2FnZShyZmNTdHJ1Y3R1cmUuZ2V0RmllbGRWYWx1ZShsb25nX21lc3NhZ2UpKTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">IHByaXZhdGUgdm9pZCB0cmFjZShPYnJGdW5jdGlvbkV2ZW50IGV2ZW50KQogIHsKICAgIFRyYWNlLnByaW50SGVhZGVyMSgwLCAiV2hlcmUgdXNlZCAuLi5zZWxlY3RlZCBvYmplY3QuLi4iKTsKICAgIE9iclRyZWVTZWxlY3Rpb24gb2JyVHJlZVNlbGVjdGlvbiA9IGV2ZW50LmdldE9iclRyZWVTZWxlY3Rpb24oKTsKICAgIE9ick9iamVjdCBmaXJzdE9ick9iamVjdCA9IE9tZlV0aWxzLmdldEZpcnN0T2JyT2JqZWN0KGV2ZW50KTsKICAgIFRyYWNlLnByaW50KCJjYXJsemVpc3MiLCAwLCBmaXJzdE9ick9iamVjdC5nZXRPYmplY3RUeXBlKCkpOwogICAgVHJhY2UucHJpbnQoImNhcmx6ZWlzcyIsIDAsIGZpcnN0T2JyT2JqZWN0LmdldE9iamVjdEtleSgpKTsKICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRpY3Rpb25hcnlTZXJ2aWNlLgo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHZvaWQgdHJhY2UoT2JyRnVuY3Rpb25FdmVudCBldmVudCkKICB7CiAgICBUcmFjZS5wcmludEhlYWRlcjEoMCwgIldoZXJlIHVzZWQgLi4uc2VsZWN0ZWQgb2JqZWN0Li4uIik7CiAgICBPYnJUcmVlU2VsZWN0aW9uIG9iclRyZWVTZWxlY3Rpb24gPSBldmVudC5nZXRPYnJUcmVlU2VsZWN0aW9uKCk7CiAgICBPYnJPYmplY3QgZmlyc3RPYnJPYmplY3QgPSBPbWZVdGlscy5nZXRGaXJzdE9ick9iamVjdChldmVudCk7CiAgICBUcmFjZS5wcmludCgiY2FybHplaXNzIiwgMCwgZmlyc3RPYnJPYmplY3QuZ2V0T2JqZWN0VHlwZSgpKTsKICAgIFRyYWNlLnByaW50KCJjYXJsemVpc3MiLCAwLCBmaXJzdE9ick9iamVjdC5nZXRPYmplY3RLZXkoKSk7CiAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1pc3NpbmdEYXRhSW50ZXJmYWNlLnNldFRleHQoZ2V0UmV0dXJuTWVzc2VhZ2UoZXhlY3V0ZVJlc3VsdCkpOwogICAgICAgICAgbWlzc2luZ0RhdGFJbnRlcmZhY2Uuc2hvdyhnZXREaXNwbGF5Q29tcG9uZW50KCksIGRpY3Rpb25hcnlTZXJ2aWNlKTsK</text>
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
       <register name=":" type="4">
         <text>help key-notation</text>
