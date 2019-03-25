@@ -264,11 +264,11 @@
         <mark key="." line="62" column="75" />
         <mark key="^" line="62" column="75" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/OmfCustGenMatSearchSemiMat.java" timestamp="1553177513282">
-        <mark key="[" line="15" column="32" />
-        <mark key="]" line="15" column="41" />
-        <mark key="^" line="15" column="41" />
-        <mark key="." line="15" column="41" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/OmfCustGenMatSearchSemiMat.java" timestamp="1553533142737">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="16" column="41" />
+        <mark key="^" line="16" column="41" />
+        <mark key="." line="16" column="41" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/conversionservices/PsNetworkActivityBrowsePanelService.java" timestamp="1551207079769">
         <mark key="[" line="48" column="3" />
@@ -365,6 +365,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="42" column="5" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/fef.java" timestamp="1553533136936">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+        <mark key="^" line="13" column="3" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/OmfCustWhereUsedGenericSurface.java" timestamp="1552326712338">
         <mark key="[" line="29" column="44" />
@@ -881,7 +887,11 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>TypeChecker typeCheck = new CommonUtil(event, OBJECT_TYPE);
+    if (typeCheck.isCorrectType())
+    {
+
+    }</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -892,8 +902,12 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgU3RyaW5nIHBvc1R5cGVCeU1hdCA9IFByZWZlcmVuY2VzLnN0cmluZ1ZhbHVlKCJwbG0uYm9tLnBvc2l0aW9uLnVzZVBvc1R5cGVGb3JNYXRUeXBlLiIgKyB0eXBlKTsKICAgICAgaWYgKHBvc1R5cGVCeU1hdCAhPSBudWxsKQogICAgICAgIHJldHVybiBwb3NUeXBlQnlNYXQ7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIFBsbURvY3VtZW50IHZkc0RvY3VtZW50O2RkCg==</text>
+      <register name="1" type="4">
+        <text>TypeChecker typeCheck = new CommonUtil(event, OBJECT_TYPE);
+    if (typeCheck.isCorrectType())
+    {
+
+    }</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -902,25 +916,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIERhdGFPYmplY3QudmRzRG9jdW1lbnQgPSBnZXREb2N1bWVudEZyb21QYXJ0KHhtbERhdGEpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNhcmx6ZWlzcy5jb21tb24uVHlwZUNoZWNrZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNhcmx6ZWlzcy5jb21tb24uQ29tbW9uVXRpbDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUGxtRG9jdW1lbnQgZG9jdW1lbnQ7Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIFBsbURvY3VtZW50IHZkc0RvY3VtZW50O2RkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBDdXN0b21lclByb2Nlc3NDcmVhdGVNYXRCb20oKQogICAgewogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5kb2N1bWVudCA9IGRvY3VtZW50Owo=</text>
+        <text encoding="base64">ICAgIERhdGFPYmplY3QudmRzRG9jdW1lbnQgPSBnZXREb2N1bWVudEZyb21QYXJ0KHhtbERhdGEpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFBsbURvY3VtZW50IGRvY3VtZW50Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUGxtRG9jdW1lbnQgZG9jdW1lbnQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help key-notation</text>
