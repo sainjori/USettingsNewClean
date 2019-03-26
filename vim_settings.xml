@@ -21,11 +21,11 @@
         <mark key="." line="146" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/gui/obr/fnc/ObrFunctionEvent.java" timestamp="1553534410911" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/OmfCustGenMatSearchSemiMat.java" timestamp="1553602923977">
-        <mark key="[" line="98" column="38" />
-        <mark key="]" line="98" column="38" />
-        <mark key="." line="98" column="38" />
-        <mark key="^" line="98" column="33" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/OmfCustGenMatSearchSemiMat.java" timestamp="1553604528523">
+        <mark key="[" line="112" column="62" />
+        <mark key="]" line="112" column="68" />
+        <mark key="." line="112" column="68" />
+        <mark key="^" line="112" column="68" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/fef.java" timestamp="1553533136936">
         <mark key="[" line="12" column="4" />
@@ -50,7 +50,7 @@
         <mark key="." line="15" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/proc/GetWhereUserProcessMat.java" timestamp="1553602046721" />
-      <file name="/Dummy.txt" timestamp="1553602336952">
+      <file name="/Dummy.txt" timestamp="1553604137132">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -58,9 +58,17 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/proc/GetWhereUserProcessDir.java" timestamp="1553601398575" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.2/sapbase-5.1.13.2-sources.jar!/cadagent/proc/doc/PopDocNewVersion.java" timestamp="1553601751378" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.2/sapbase-5.1.13.2-sources.jar!/cadagent/proc/doc/PopDocCreate.java" timestamp="1553601658753" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/menu.guidef" timestamp="1553604122252">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
+        <mark key="^" line="104" column="73" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/omf/OmfClhSearch.java" timestamp="1553534291645" />
-      <file name="/fragment.java" timestamp="1553601049512">
+      <file name="/fragment.java" timestamp="1553604335442">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/proc/PlmProcessGetClassificationStructure.java" timestamp="1553602215407">
         <mark key="[" line="37" column="0" />
@@ -172,47 +180,47 @@
       <jump line="74" column="29" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ATOS</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHN0cmluZ3MudG9BcnJheSgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>ATOS</text>
+        <text>Object</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb2N1bWVudFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG9iamVjdE9iamVjdEhhc2hNYXAucHV0KCJDTEFTMSIsICJBVE9TIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gZm5jLmN1c3Quc3VyZmFjZS53aGVyZS51c2VkLmRvY3VtZW50cwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">TGlzdDxNYXA8U3RyaW5nLCA/Pj4gb2JqZWN0cyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgSGFzaE1hcDxPYmplY3QsIE9iamVjdD4gb2JqZWN0T2JqZWN0SGFzaE1hcCA9IG5ldyBIYXNoTWFwPD4oKTsKICAgIAogICAgcmV0dXJuIG9iamVjdE9iamVjdEhhc2hNYXA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHN0cmluZ3MudG9BcnJheSgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gZm5jLmN1c3Quc3VyZmFjZS53aGVyZS51c2VkLmRvY3VtZW50cwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gZm5jLmN1c3Quc3VyZmFjZS53aGVyZS51c2VkLm1hdGVyaWFsLm1hc3RlcnMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4ZWN1dGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBoZWFkZXJSb3cK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyBjb2x1bW5OYW1lIDogaGVhZGVyUm93KQogICAgICAgIHsKICAgICAgICAgIG9iamVjdE9iamVjdEhhc2hNYXAucHV0KGNvbHVtbk5hbWUsdmFsdWUpCgogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIERDS2V5T2JqZWN0PFN0cmluZz4gID0gbmV3IERDS2V5T2JqZWN0PD4oIklWX0dFVF9DTEFTU19ERVRBSUxTIik7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGZvciAoU3RyaW5nIGNvbHVtbiA6IGhlYWRlclJvdykKICAgIHsKICAgICAgCiAgICB9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIERDS2V5T2JqZWN0PFN0cmluZz4gU1VCU19JRF9LRVkgPSBuZXcgRENLZXlPYmplY3Q8PihJVl9TVUJJRCk7Cg==</text>
+        <text encoding="base64">ICAgICAgc3RyaW5ncy5mb3IK</text>
       </register>
       <register name=":" type="4">
         <text>help key-notation</text>
