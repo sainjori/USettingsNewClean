@@ -44,14 +44,14 @@
         <mark key="]" line="146" column="0" />
         <mark key="." line="146" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" timestamp="1553692795886">
-        <mark key="'" line="104" column="17" />
-        <mark key="[" line="265" column="74" />
-        <mark key="]" line="265" column="82" />
-        <mark key="." line="265" column="82" />
-        <mark key="^" line="265" column="82" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" timestamp="1553698916955">
+        <mark key="'" line="169" column="34" />
+        <mark key="[" line="325" column="91" />
+        <mark key="]" line="326" column="46" />
+        <mark key="." line="326" column="46" />
+        <mark key="^" line="326" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553687875420">
+      <file name="/Dummy.txt" timestamp="1553698327045">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -71,7 +71,7 @@
         <mark key="." line="102" column="0" />
         <mark key="^" line="104" column="73" />
       </file>
-      <file name="/fragment.java" timestamp="1553689895352">
+      <file name="/fragment.java" timestamp="1553698824105">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -87,8 +87,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2712" column="48" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" />
-      <jump line="2743" column="0" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" />
       <jump line="2744" column="0" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" />
       <jump line="2745" column="0" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" />
       <jump line="2746" column="0" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" />
@@ -187,58 +185,60 @@
       <jump line="162" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
       <jump line="118" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
       <jump line="104" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
+      <jump line="121" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
+      <jump line="169" column="34" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JiYgIXJvdy5nZXQoIkNMSU4yIikuZXF1YWxzKHBhcmVudENsaW4pKQ==</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYgIXJvdy5nZXQoIkNMSU4yIikuZXF1YWxzKHBhcmVudENsaW4pKQ==</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cmVlXD4=</text>
+        <text encoding="base64">XDxDT01NQU5EX0NBTkNFTFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocm93LmdldCgiQ0xJTjEiKS5lcXVhbHMoY2hpbGRDbGluKSAmJiAhcm93LmdldCgiQ0xJTjIiKS5lcXVhbHMocGFyZW50Q2xpbikpCg==</text>
+        <text encoding="base64">ICAgICAgaW50IHNlbGVjdGlvbkNvdW50ID0gZ2V0VHJlZSgpLmdldFNlbGVjdGlvbk1vZGVsKCkuZ2V0U2VsZWN0aW9uQ291bnQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRUcmVlKCkuZ2V0c2VsZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRlc3RPYmplY3RzLmFkZChjbGFzMSk7Cg==</text>
+        <text encoding="base64">ICAgIGlmCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLyoK</text>
+        <text encoding="base64">ICAgIGV4cGFuZEFsbE5vZGVzKHRyZWUsIDAsIHRyZWUuZ2V0Um93Q291bnQoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFBsbUFjY2VzcyBwbG1BY2Nlc3MgPSBuZXcgUGxtQWNjZXNzKCk7CiAgICBBcnJheUxpc3Q8UGxtQ2xhc3M+IGNsYXNzZXMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgIGZvciAoTWFwPFN0cmluZywgPz4gc3RyaW5nTWFwIDogdHJlZVN0cnVjdHVyZSkKICAgIHsKICAgICAgY2xhc3Nlcy5hZGQocGxtQWNjZXNzLmNsYXNzTmV3KChTdHJpbmcpIHN0cmluZ01hcC5nZXQoIkNMQVMxIiksICIwMDEiKSk7CiAgICB9CiAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgIGV4cGFuZEFsbE5vZGVzKHRyZWUsIDAsIHRyZWUuZ2V0Um93Q291bnQoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRUcmVlKCkuZXhwYW5kUGF0aChuZXcgVHJlZVBhdGgobmV3Q2hpbGQuZ2V0UGF0aCgpKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vICAgIEhhc2hNYXA8U3RyaW5nLCBTdHJpbmc+IG9iamVjdE9iamVjdEhhc2hNYXAgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAvLyAgICBvYmplY3RPYmplY3RIYXNoTWFwLnB1dCgiU1RVRkUiLCAiMCIpOwogICAgLy8gICAgb2JqZWN0T2JqZWN0SGFzaE1hcC5wdXQoIk0iLCAiIik7CiAgICAvLyAgICBvYmplY3RPYmplY3RIYXNoTWFwLnB1dCgiVSIsICJYIik7CiAgICAvLyAgICBvYmplY3RPYmplY3RIYXNoTWFwLnB1dCgiRSIsICJYIik7CiAgICAvLyAgICBvYmplY3RPYmplY3RIYXNoTWFwLnB1dCgiTSIsICIiKTsKICAgIC8vICAgIG9iamVjdE9iamVjdEhhc2hNYXAucHV0KCJDTEFTMSIsICJBVE9TIik7CiAgICAvLyAgICBvYmplY3RPYmplY3RIYXNoTWFwLnB1dCgiQ0xJTjEiLCAiIik7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRlc3RPYmplY3RzLmFkZChjbGFzMSk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgLyoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgIFBsbUFjY2VzcyBwbG1BY2Nlc3MgPSBuZXcgUGxtQWNjZXNzKCk7CiAgICBBcnJheUxpc3Q8UGxtQ2xhc3M+IGNsYXNzZXMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgIGZvciAoTWFwPFN0cmluZywgPz4gc3RyaW5nTWFwIDogdHJlZVN0cnVjdHVyZSkKICAgIHsKICAgICAgY2xhc3Nlcy5hZGQocGxtQWNjZXNzLmNsYXNzTmV3KChTdHJpbmcpIHN0cmluZ01hcC5nZXQoIkNMQVMxIiksICIwMDEiKSk7CiAgICB9CiAgICAgICAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>help key-notation</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cmVlXD4=</last-search>
+      <last-search encoding="base64">XDxDT01NQU5EX0NBTkNFTFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cmVlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxDT01NQU5EX0NBTkNFTFw+</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -246,7 +246,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx9XD4=</entry>
         <entry encoding="base64">XDxSb3dUcmFuc2Zvcm1lclw+</entry>
         <entry encoding="base64">XDxvYmplY3RPYmplY3RIYXNoTWFwXD4=</entry>
         <entry encoding="base64">XDxneFBhbmVsXD4=</entry>
@@ -266,6 +265,7 @@
         <entry encoding="base64">XDxjbGFzc0xpc3RcPg==</entry>
         <entry encoding="base64">XDxDT01NQU5EX09LXD4=</entry>
         <entry encoding="base64">XDx0cmVlXD4=</entry>
+        <entry encoding="base64">XDxDT01NQU5EX0NBTkNFTFw+</entry>
       </history-search>
       <history-cmd>
         <entry>4731</entry>
