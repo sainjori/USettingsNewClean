@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1553864101191">
+      <file name="/a.dummy" timestamp="1553876979152">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/proc/fefe.java" timestamp="1553859292269">
@@ -40,13 +40,20 @@
         <mark key="." line="250" column="0" />
         <mark key="^" line="237" column="62" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" timestamp="1553877600053">
+        <mark key="'" line="111" column="23" />
+        <mark key="[" line="492" column="0" />
+        <mark key="]" line="492" column="0" />
+        <mark key="^" line="242" column="32" />
+        <mark key="." line="492" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/basis/dictionary/en/ectr.txt" timestamp="1553862503670" />
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" timestamp="1553707893232">
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" timestamp="1553876295497">
         <mark key="'" line="2674" column="0" />
-        <mark key="[" line="2674" column="40" />
-        <mark key="]" line="2675" column="31" />
-        <mark key="^" line="2675" column="31" />
-        <mark key="." line="2675" column="31" />
+        <mark key="[" line="2676" column="44" />
+        <mark key="]" line="2677" column="51" />
+        <mark key="^" line="2677" column="51" />
+        <mark key="." line="2677" column="51" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/OmfAddGenSurfaceGenMatToFolder.java" timestamp="1553859210899">
         <mark key="[" line="5" column="29" />
@@ -95,12 +102,12 @@
         <mark key="]" line="5" column="33" />
         <mark key="." line="5" column="33" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/OmfCustGenMatSearchSemiMat.java" timestamp="1553862020359">
-        <mark key="'" line="281" column="45" />
-        <mark key="[" line="148" column="33" />
-        <mark key="]" line="148" column="45" />
-        <mark key="." line="148" column="45" />
-        <mark key="^" line="148" column="45" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/OmfCustGenMatSearchSemiMat.java" timestamp="1553877291553">
+        <mark key="'" line="311" column="45" />
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
+        <mark key="^" line="123" column="3" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" timestamp="1553874149171">
         <mark key="'" line="285" column="4" />
@@ -113,7 +120,7 @@
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/fctr/customize/config/default.txt" timestamp="1553707853881">
         <mark key="'" line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553865648356">
+      <file name="/Dummy.txt" timestamp="1553877622804">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -142,12 +149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="9" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/ob/tab/generic/TabGenericMat.java" />
-      <jump line="68" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm-api/5.1.13.2/plm-api-5.1.13.2-sources.jar!/com/dscsag/plm/spi/interfaces/gui/ob/PluginObjectBrowserTab.java" />
-      <jump line="59" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/ob/tab/mat/TabMatComplAssignment.java" />
-      <jump line="301" column="22" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/ob/tab/generic/TabGenericMat.java" />
-      <jump line="105" column="12" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/ob/tab/generic/TabGenericMat.java" />
-      <jump line="279" column="53" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/ob/tab/generic/TabGenericMat.java" />
       <jump line="347" column="15" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/ob/tab/generic/TabGenericMat.java" />
       <jump line="155" column="24" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/ob/tab/generic/TabGenericMat.java" />
       <jump line="136" column="3" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/util/TableFactory.java" />
@@ -242,19 +243,25 @@
       <jump line="124" column="26" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
       <jump line="213" column="26" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
       <jump line="285" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
+      <jump line="203" column="41" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
+      <jump line="214" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
+      <jump line="241" column="25" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
+      <jump line="106" column="22" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
+      <jump line="109" column="67" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
+      <jump line="112" column="23" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ArrayList</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxub1VwZGF0ZVw+</text>
+        <text encoding="base64">XDxjbGFzc0hlbHBlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEd1aVV0aWxzLnNldFN0YXR1c0xpbmVJbmZvVGV4dChEaWMuZ2V0KCJjYXJsemVpc3Muc3RhcnQuc2VhcmNoLiIgKyB0eXBlLCAiU3VjaGUgd2lyZCBnZXN0YXJ0ZXQuLi4iKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbigiY2FybHplaXNzIiwgMCwgIkNsYXNzaGVscGVyOiBnZXQgY2hpbGRyZW4gbmFtZSIgKyBuYW1lKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -263,37 +270,37 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIERDS2V5T2JqZWN0PExpc3Q8UGxtTWF0ZXJpYWw+PiBSRVNVTFRfTUFURVJJQUwgPSBuZXcgRENLZXlPYmplY3Q8PigiT1VUX01BVEVSSUFMIik7Cg==</text>
+        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEd1aVV0aWxzLnNldFN0YXR1c0xpbmVJbmZvVGV4dChEaWMuZ2V0KCJjYXJsemVpc3Muc3RhcnQuc2VhcmNoLiIgKyB0eXBlLCAiU3VjaGUgd2lyZCBnZXN0YXJ0ZXQuLi4iKSk7Cg==</text>
+        <text encoding="base64">ICAgIE9iclRyZWVTZWxlY3Rpb24gdHJlZVNlbGVjdGlvbiA9IGV2ZW50LmdldE9iclRyZWVTZWxlY3Rpb24oKTsKICAgIGlmICh0cmVlU2VsZWN0aW9uLmdldE9ick9iamVjdENvdW50KCkgPT0gMCkKICAgIHsKICAgICAgR3VpVXRpbHMuc2V0U3RhdHVzTGluZVdhcm5pbmdUZXh0KERpYy5nZXQoInBsbS5vbWYuMDEwMCIsICJOb3RoaW5nIHNlbGVjdGVkLiIpKTsKICAgICAgcmV0dXJuIHRydWU7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIE9wdGlvbmFsLm9mKHBsbU9iamVjdHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc2VzID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5ldyBQbG1Eb2N1bWVudENvbnRhaW5lcigpCg==</text>
+        <text encoding="base64">ICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PENsYXNzQnJPYmplY3Q+IGNsYXNzQnJPYmplY3RzID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help key-notation</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxub1VwZGF0ZVw+</last-search>
+      <last-search encoding="base64">XDxjbGFzc0hlbHBlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxub1VwZGF0ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxjbGFzc0hlbHBlclw+</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -301,7 +308,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxib29sZWFuXD4=</entry>
         <entry encoding="base64">XDxkYXRhQ29udGFpbmVyQmFja1w+</entry>
         <entry encoding="base64">XDxjYXJsemVpc3NcPg==</entry>
         <entry encoding="base64">XDx0aXRsZUxhYmVsXD4=</entry>
@@ -321,6 +327,7 @@
         <entry encoding="base64">XDxjbGFzc0xpc3RcPg==</entry>
         <entry encoding="base64">XDxJTl9DSElMRFJFTl9BRERcPg==</entry>
         <entry encoding="base64">XDxub1VwZGF0ZVw+</entry>
+        <entry encoding="base64">XDxjbGFzc0hlbHBlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>4731</entry>
