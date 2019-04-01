@@ -39,12 +39,12 @@
         <mark key="^" line="90" column="17" />
         <mark key="." line="90" column="17" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/OmfCustGenMatSearchSemiMat.java" timestamp="1554133494579">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/OmfCustGenMatSearchSemiMat.java" timestamp="1554135745375">
         <mark key="'" line="243" column="15" />
-        <mark key="[" line="233" column="49" />
-        <mark key="]" line="233" column="48" />
-        <mark key="." line="233" column="48" />
-        <mark key="^" line="233" column="48" />
+        <mark key="[" line="254" column="41" />
+        <mark key="]" line="254" column="41" />
+        <mark key="." line="254" column="41" />
+        <mark key="^" line="254" column="41" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/vfff.java" timestamp="1553858433532">
         <mark key="[" line="5" column="13" />
@@ -70,7 +70,7 @@
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/fctr/customize/config/default.txt" timestamp="1553707853881">
         <mark key="'" line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554133585880">
+      <file name="/Dummy.txt" timestamp="1554135895855">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -225,11 +225,11 @@
       <jump line="243" column="15" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/OmfCustGenMatSearchSemiMat.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKCJjYXJsemVpc3MiLCAwLCAiZmlyc3R0cnVlNiIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGlsZENsYXNzTmFtZVw+</text>
