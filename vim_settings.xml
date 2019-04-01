@@ -39,13 +39,6 @@
         <mark key="^" line="90" column="17" />
         <mark key="." line="90" column="17" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/OmfCustGenMatSearchSemiMat.java" timestamp="1554128473440">
-        <mark key="'" line="360" column="34" />
-        <mark key="[" line="416" column="0" />
-        <mark key="]" line="416" column="31" />
-        <mark key="." line="416" column="0" />
-        <mark key="^" line="414" column="29" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/vfff.java" timestamp="1553858433532">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="13" />
@@ -70,8 +63,8 @@
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/fctr/customize/config/default.txt" timestamp="1553707853881">
         <mark key="'" line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554127813543">
-        <mark key="[" line="0" column="10" />
+      <file name="/Dummy.txt" timestamp="1554131124054">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
@@ -123,9 +116,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="11" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gfx/FoldableGxPanel.java" />
-      <jump line="146" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gfx/FoldableGxPanel.java" />
-      <jump line="147" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gfx/FoldableGxPanel.java" />
       <jump line="148" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/gfx/FoldableGxPanel.java" />
       <jump line="46" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/util/TableFactory.java" />
       <jump line="55" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/util/TableFactory.java" />
@@ -223,58 +213,61 @@
       <jump line="176" column="40" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/OmfCustGenMatSearchSemiMat.java" />
       <jump line="207" column="34" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/OmfCustGenMatSearchSemiMat.java" />
       <jump line="23" column="56" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/proc/PlmProcessGetClassificationStructure.java" />
+      <jump line="416" column="11" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/OmfCustGenMatSearchSemiMat.java" />
+      <jump line="239" column="33" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/OmfCustGenMatSearchSemiMat.java" />
+      <jump line="249" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/OmfCustGenMatSearchSemiMat.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG9iamVjdE91dHB1dCAhPSBudWxsKQo=</text>
+      <register name="&quot;" type="4">
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text>Change name for standard Class</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDTEFTU19TVFVDVFVSRVw+</text>
+        <text encoding="base64">XDx0cmVlU3RydWN0dXJlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBHdWlVdGlscy5zZXRTdGF0dXNMaW5lSW5mb1RleHQoCiAgICAgICAgICAgIERpYy5nZXQoImNhcmx6ZWlzcy5zZWFyY2guaXMuY2FuY2VsbGVkLm1lc3NhZ2UiLCAiRXMgd3VyZGUga2VpbiBXZXJrc3RvZmYgZ2VmdW5kZW4uIERpZSBTdWNoZSB3dXJkZSBhYmdlYnJvY2hlbi4iKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKHN0dWZlMSBpbnN0YW5jZW9mIFN0cmluZykKICAgICAgewogICAgICAgIFRyYWNlLnByaW50bG4oImNhcmx6ZWlzcyIsIDAsICJmaXJzdHRydWU0Iik7CiAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG9iamVjdE91dHB1dCAhPSBudWxsKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgR3VpVXRpbHMuc2V0U3RhdHVzTGluZUVycm9yVGV4dChEaWMuZ2V0KCJjYXJsemVpc3MuZXJyb3IubWVzc2FnZS5ub3QuZm91bmQuc3VyZmFjZSIsICJDb3VsZCBub3QgZmluZCBvYmplY3RzIG9mIHR5cGUgc3VyZmFjZSIpKTsK</text>
+        <text encoding="base64">ICAgICAgc3R1ZmUyID0gKFN0cmluZykgc3RyaW5nTWFwLmdldCgic3R1ZmUiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgR3VpVXRpbHMuc2V0U3RhdHVzTGluZUVycm9yVGV4dChEaWMuZ2V0KCJjYXJsemVpc3MuZXJyb3IubWVzc2FnZS5ub3QuZm91bmQubWF0IiwgIkNvdWxkIG5vdCBmaW5kIG9iamVjdHMgb2YgdHlwZSBCYXNtYXQiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgc3R1ZmUuaXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgaWYgKHN0dWZlID09IG51bGwpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNob3dEZWJ1ZyhzdHJpbmdNYXApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgCiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgc3RyaW5nTWFwLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhLmFkZE9iamVjdChDQU5DRUxMRUQsIHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIFRyYWNlLnByaW50bG4oImNhcmx6ZWlzcyIsIDAsICJTdHVmZToiICsgc3R1ZmUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>help key-notation</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDTEFTU19TVFVDVFVSRVw+</last-search>
+      <last-search encoding="base64">XDx0cmVlU3RydWN0dXJlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDTEFTU19TVFVDVFVSRVw+</last-pattern>
+      <last-pattern encoding="base64">XDx0cmVlU3RydWN0dXJlXD4=</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -300,8 +293,8 @@
         <entry encoding="base64">XDxjbGFzc0hlbHBlclw+</entry>
         <entry encoding="base64">XDxudWxsXD4=</entry>
         <entry encoding="base64">XDxDQU5DRUxMRURcPg==</entry>
-        <entry encoding="base64">XDx0cmVlU3RydWN0dXJlXD4=</entry>
         <entry encoding="base64">XDxDTEFTU19TVFVDVFVSRVw+</entry>
+        <entry encoding="base64">XDx0cmVlU3RydWN0dXJlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>4731</entry>
