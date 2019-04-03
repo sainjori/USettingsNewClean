@@ -44,12 +44,12 @@
       <file name="/ClassSelectionDialog.java" timestamp="1554220962637">
         <mark key="[" line="219" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/OmfCustGenMatSearchSemiMat.java" timestamp="1554224336523">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/OmfCustGenMatSearchSemiMat.java" timestamp="1554293199762">
         <mark key="'" line="383" column="19" />
-        <mark key="[" line="390" column="61" />
-        <mark key="]" line="390" column="67" />
-        <mark key="^" line="390" column="67" />
-        <mark key="." line="390" column="67" />
+        <mark key="[" line="114" column="38" />
+        <mark key="]" line="114" column="38" />
+        <mark key="^" line="114" column="39" />
+        <mark key="." line="114" column="38" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/vfff.java" timestamp="1553858433532">
         <mark key="[" line="5" column="13" />
@@ -90,6 +90,12 @@
         <mark key="^" line="65" column="18" />
       </file>
       <file name="/OmfCustGenMatSearchSemiMat.java" timestamp="1554221047728" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/util/ActiveListSend.java" timestamp="1554293467237">
+        <mark key="[" line="79" column="15" />
+        <mark key="]" line="79" column="17" />
+        <mark key="." line="79" column="17" />
+        <mark key="^" line="79" column="17" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/gui/genericsearch/GenericSearchMask.java" timestamp="1554218336754">
         <mark key="'" line="1079" column="0" />
       </file>
@@ -242,10 +248,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>set up buttongroups</text>
+        <text>print</text>
       </register>
       <register name="-" type="4">
-        <text>set up buttongroups</text>
+        <text>print</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxlY3RlZFw+</text>
