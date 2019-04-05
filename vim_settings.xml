@@ -15,8 +15,8 @@
         <mark key="^" line="2789" column="31" />
         <mark key="." line="2789" column="31" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" timestamp="1554478904274">
-        <mark key="'" line="1568" column="28" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" timestamp="1554480620329">
+        <mark key="'" line="1514" column="4" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/PrefFilenameResolver.java" timestamp="1554478820910" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/resources/META-INF/services/plm.gui.conversionservices.PlmObjectCreateByURLService" timestamp="1554461749643">
@@ -30,6 +30,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/addons/extensions/template-customize/config/menu_macros.txt" timestamp="1554476188068" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/sess/PlmSessionManager.java" timestamp="1554480152870" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/search/PsNetworkActivitySearchMaskDefinition.java" timestamp="1554462400549">
         <mark key="]" line="33" column="55" />
         <mark key="^" line="33" column="55" />
@@ -41,20 +42,21 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/omf/OmfSapUserParameterMaintain.java" timestamp="1554464116116" />
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/customize/config/default.txt" timestamp="1554479359001">
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/customize/config/default.txt" timestamp="1554480899103">
         <mark key="'" line="68" column="31" />
-        <mark key="[" line="2653" column="55" />
-        <mark key="]" line="2653" column="54" />
-        <mark key="^" line="2653" column="54" />
-        <mark key="." line="2653" column="54" />
+        <mark key="[" line="2652" column="0" />
+        <mark key="]" line="2652" column="3" />
+        <mark key="^" line="2652" column="3" />
+        <mark key="." line="2652" column="3" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/PrefFileLoader.java" timestamp="1554479316288" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/util/StringTool.java" timestamp="1554478887236" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/PrefFileLoader.java" timestamp="1554480984212" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/util/StringTool.java" timestamp="1554480589410" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/resources/META-INF/services/plm.gui.genericsearch.manager.SearchMaskDefinitionService" timestamp="1554462427812">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/PrefValueResolver.java" timestamp="1554480524532" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/gui/SapUserParameterTableDialog.java" timestamp="1554477029577">
         <mark key="'" line="381" column="32" />
         <mark key="[" line="458" column="55" />
@@ -92,10 +94,10 @@
         <mark key="^" line="32" column="65" />
         <mark key="." line="32" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554468111629">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="58" />
-        <mark key="." line="0" column="58" />
+      <file name="/Dummy.txt" timestamp="1554481316060">
+        <mark key="[" line="0" column="43" />
+        <mark key="]" line="0" column="43" />
+        <mark key="." line="0" column="43" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/proc/services/RMRootcontainerService.java" timestamp="1554462651204">
         <mark key="]" line="35" column="40" />
@@ -115,7 +117,7 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1554479336664">
+      <file name="/fragment.java" timestamp="1554480951151">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -127,30 +129,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="13" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/gui/ClassSelectionDialog.java" />
-      <jump line="520" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/fefe.java" />
-      <jump line="86" column="23" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
-      <jump line="124" column="9" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialogCustum.java" />
-      <jump line="181" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialogCustum.java" />
-      <jump line="196" column="47" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialogCustum.java" />
-      <jump line="223" column="24" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialogCustum.java" />
-      <jump line="422" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialogCustum.java" />
-      <jump line="467" column="32" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialogCustum.java" />
-      <jump line="523" column="28" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialogCustum.java" />
-      <jump line="536" column="28" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialogCustum.java" />
-      <jump line="230" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialogCustum.java" />
-      <jump line="232" column="26" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialogCustum.java" />
-      <jump line="345" column="29" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialogCustum.java" />
-      <jump line="413" column="42" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialogCustum.java" />
-      <jump line="143" column="9" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
-      <jump line="162" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
-      <jump line="118" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
-      <jump line="104" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
-      <jump line="121" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
-      <jump line="169" column="34" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
-      <jump line="443" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
-      <jump line="2509" column="38" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.11.0/customize/config/default.txt" />
-      <jump line="120" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
       <jump line="170" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
       <jump line="328" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
       <jump line="159" column="11" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
@@ -227,58 +205,82 @@
       <jump line="112" column="45" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-52/addons/fctr/customize/config/default.txt" />
       <jump line="68" column="31" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-52/customize/config/default.txt" />
       <jump line="97" column="20" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-52/addons/fctr/customize/config/default.txt" />
+      <jump line="83" column="41" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
+      <jump line="115" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
+      <jump line="243" column="28" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
+      <jump line="283" column="25" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
+      <jump line="293" column="19" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
+      <jump line="308" column="27" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
+      <jump line="323" column="45" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
+      <jump line="338" column="11" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
+      <jump line="371" column="35" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
+      <jump line="375" column="10" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
+      <jump line="414" column="37" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
+      <jump line="418" column="12" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
+      <jump line="453" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
+      <jump line="465" column="11" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
+      <jump line="487" column="23" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
+      <jump line="493" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
+      <jump line="525" column="10" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
+      <jump line="526" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
+      <jump line="552" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
+      <jump line="750" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
+      <jump line="777" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
+      <jump line="843" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
+      <jump line="1371" column="28" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
+      <jump line="1514" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>; F</text>
+        <text encoding="base64">ZGVsZXRlIHByZWYg</text>
       </register>
       <register name="-" type="4">
-        <text>; F</text>
+        <text encoding="base64">ZGVsZXRlIHByZWYg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDVVNUT01fVVNFUl9QQVJBTUVURVJfUFJFRklYXD4=</text>
+        <text encoding="base64">XDxwcmVmT2JqZWN0c1RhYmxlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGxtLnVzZXJwYXJhbWV0ZXIubGlzdCA9IEE7QjtDCg==</text>
+        <text encoding="base64">ICAgIHBsbS5zbWFydC5mb2xkZXIuZHR5cGUgPSBTTUZMCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQoJcGxtLmRvYy5jaGVja291dC5wYXJhbGxlbENoZWNrb3V0PXRydWUK</text>
+        <text encoding="base64">cGxtLnVzZXJwYXJhbWV0ZXIubGlzdCA9IEEK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGFyYW1ldGVyID0gUHJlZmVyZW5jZXMuc3RyaW5nVmFsdWUocHJlZmtleSk7Cg==</text>
+        <text encoding="base64">cGxtLnVzZXJwYXJhbWV0ZXIubGlzdCA9IEE7QjtDCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcHJlZmtleSA9IHVzZXJQYXJhbWV0ZXIuZ2V0S2V5KCk7Cg==</text>
+        <text encoding="base64">CQoJcGxtLmRvYy5jaGVja291dC5wYXJhbGxlbENoZWNrb3V0PXRydWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgTGlzdDxQcmVmT2JqZWN0PiB1c2VyUGFyYW1ldGVyUHJlZmVyZW5jZXMgPSBQcmVmZXJlbmNlcy5nZXRQcmVmT2JqZWN0c0JlZ2lubmluZ1dpdGgoQ1VTVE9NX1VTRVJfUEFSQU1FVEVSX1BSRUZJWCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGFyYW1ldGVyID0gUHJlZmVyZW5jZXMuc3RyaW5nVmFsdWUocHJlZmtleSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBDVVNUT01fVVNFUl9QQVJBTUVURVJfUFJFRklYID0gInBsbS51c2VycGFyYW1ldGVyLiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcHJlZmtleSA9IHVzZXJQYXJhbWV0ZXIuZ2V0S2V5KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QEF1dG9TZXJ2aWNlIChQbG1Qc1Byb2plY3RUb09ickNvbnZlcnRlclNlcnZpY2UuY2xhc3MpCg==</text>
+        <text encoding="base64">ICAgICAgTGlzdDxQcmVmT2JqZWN0PiB1c2VyUGFyYW1ldGVyUHJlZmVyZW5jZXMgPSBQcmVmZXJlbmNlcy5nZXRQcmVmT2JqZWN0c0JlZ2lubmluZ1dpdGgoQ1VTVE9NX1VTRVJfUEFSQU1FVEVSX1BSRUZJWCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGxtLnByb2Muc2VydmljZXMuRmlsZVN5c3RlbUNvbnRhaW5lclNlcnZpY2UK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBDVVNUT01fVVNFUl9QQVJBTUVURVJfUFJFRklYID0gInBsbS51c2VycGFyYW1ldGVyLiI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGxtLnByb2Muc2VydmljZXMuUk1Sb290Y29udGFpbmVyU2VydmljZQo=</text>
+        <text encoding="base64">QEF1dG9TZXJ2aWNlIChQbG1Qc1Byb2plY3RUb09ickNvbnZlcnRlclNlcnZpY2UuY2xhc3MpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGxtLnByb2MuZG9jLmNsb25lLnNlcnZpY2UuQ2xvbmVTY2hlZHVsZVNlcnZpY2UK</text>
+        <text encoding="base64">cGxtLnByb2Muc2VydmljZXMuRmlsZVN5c3RlbUNvbnRhaW5lclNlcnZpY2UK</text>
       </register>
       <register name=":" type="4">
         <text>help key-notation</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDVVNUT01fVVNFUl9QQVJBTUVURVJfUFJFRklYXD4=</last-search>
+      <last-search encoding="base64">XDxwcmVmT2JqZWN0c1RhYmxlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDVVNUT01fVVNFUl9QQVJBTUVURVJfUFJFRklYXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwcmVmT2JqZWN0c1RhYmxlXD4=</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -286,7 +288,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbGFzc0xpc3RcPg==</entry>
         <entry encoding="base64">XDxJTl9DSElMRFJFTl9BRERcPg==</entry>
         <entry encoding="base64">XDxub1VwZGF0ZVw+</entry>
         <entry encoding="base64">XDxjbGFzc0hlbHBlclw+</entry>
@@ -306,6 +307,7 @@
         <entry encoding="base64">XDxjYW5jZWxsZWRcPg==</entry>
         <entry encoding="base64">XDxSTUJyb3dzZVVybFNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxDVVNUT01fVVNFUl9QQVJBTUVURVJfUFJFRklYXD4=</entry>
+        <entry encoding="base64">XDxwcmVmT2JqZWN0c1RhYmxlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>4731</entry>
