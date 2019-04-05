@@ -8,16 +8,17 @@
         <mark key="^" line="33" column="47" />
         <mark key="." line="33" column="47" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/addons/fctr/customize/config/default.txt" timestamp="1554477966425">
-        <mark key="'" line="112" column="45" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/addons/fctr/customize/config/default.txt" timestamp="1554479353224">
+        <mark key="'" line="97" column="20" />
         <mark key="[" line="2789" column="30" />
         <mark key="]" line="2789" column="31" />
         <mark key="^" line="2789" column="31" />
         <mark key="." line="2789" column="31" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" timestamp="1554478119268">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" timestamp="1554478904274">
         <mark key="'" line="1568" column="28" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/PrefFilenameResolver.java" timestamp="1554478820910" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/resources/META-INF/services/plm.gui.conversionservices.PlmObjectCreateByURLService" timestamp="1554461749643">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -40,14 +41,15 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/omf/OmfSapUserParameterMaintain.java" timestamp="1554464116116" />
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/customize/config/default.txt" timestamp="1554477247966">
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/customize/config/default.txt" timestamp="1554479359001">
         <mark key="'" line="68" column="31" />
         <mark key="[" line="2653" column="55" />
         <mark key="]" line="2653" column="54" />
         <mark key="^" line="2653" column="54" />
         <mark key="." line="2653" column="54" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/PrefFileLoader.java" timestamp="1554478657793" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/PrefFileLoader.java" timestamp="1554479316288" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/util/StringTool.java" timestamp="1554478887236" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/resources/META-INF/services/plm.gui.genericsearch.manager.SearchMaskDefinitionService" timestamp="1554462427812">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -113,7 +115,7 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1554478588073">
+      <file name="/fragment.java" timestamp="1554479336664">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -125,7 +127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="205" column="24" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/gui/ClassSelectionDialog.java" />
       <jump line="160" column="13" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/gui/ClassSelectionDialog.java" />
       <jump line="520" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/fefe.java" />
       <jump line="86" column="23" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
@@ -225,6 +226,7 @@
       <jump line="1568" column="28" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
       <jump line="112" column="45" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-52/addons/fctr/customize/config/default.txt" />
       <jump line="68" column="31" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-52/customize/config/default.txt" />
+      <jump line="97" column="20" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-52/addons/fctr/customize/config/default.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
