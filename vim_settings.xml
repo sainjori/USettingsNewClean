@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/search/PsProjectSearchMaskDefinition.java" timestamp="1554462414079">
-        <mark key="]" line="33" column="47" />
-        <mark key="^" line="33" column="47" />
-        <mark key="." line="33" column="47" />
-      </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/addons/fctr/customize/config/default.txt" timestamp="1554479353224">
         <mark key="'" line="97" column="20" />
         <mark key="[" line="2789" column="30" />
@@ -18,7 +13,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" timestamp="1554480620329">
         <mark key="'" line="1514" column="4" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/PrefFilenameResolver.java" timestamp="1554478820910" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/resources/META-INF/services/plm.gui.conversionservices.PlmObjectCreateByURLService" timestamp="1554461749643">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -29,19 +23,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/addons/extensions/template-customize/config/menu_macros.txt" timestamp="1554476188068" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/sess/PlmSessionManager.java" timestamp="1554480152870" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/search/PsNetworkActivitySearchMaskDefinition.java" timestamp="1554462400549">
-        <mark key="]" line="33" column="55" />
-        <mark key="^" line="33" column="55" />
-        <mark key="." line="33" column="55" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/resources/META-INF/services/plm.gui.conversionservices.PlmToObrConverterService" timestamp="1554462138892">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/omf/OmfSapUserParameterMaintain.java" timestamp="1554464116116" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/customize/config/default.txt" timestamp="1554480899103">
         <mark key="'" line="68" column="31" />
         <mark key="[" line="2652" column="0" />
@@ -49,14 +35,17 @@
         <mark key="^" line="2652" column="3" />
         <mark key="." line="2652" column="3" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/PrefFileLoader.java" timestamp="1554480984212" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/util/StringTool.java" timestamp="1554480589410" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/resources/META-INF/services/plm.gui.genericsearch.manager.SearchMaskDefinitionService" timestamp="1554462427812">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/PrefValueResolver.java" timestamp="1554480524532" />
+      <file name="/Dummy.txt" timestamp="1554732554581">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="43" />
+        <mark key="." line="0" column="43" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenAdvanceSteelTest.java" timestamp="1554732165716" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/gui/SapUserParameterTableDialog.java" timestamp="1554477029577">
         <mark key="'" line="381" column="32" />
         <mark key="[" line="458" column="55" />
@@ -69,42 +58,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/search/PsWbsSearchMaskDefinition.java" timestamp="1554462425058">
-        <mark key="]" line="33" column="43" />
-        <mark key="^" line="33" column="43" />
-        <mark key="." line="33" column="43" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/proc/services/FileSystemContainerService.java" timestamp="1554462662635">
-        <mark key="]" line="36" column="44" />
-        <mark key="^" line="36" column="44" />
-        <mark key="." line="36" column="44" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/proc/doc/clone/service/CloneScheduleService.java" timestamp="1554462526742">
-        <mark key="]" line="33" column="38" />
-        <mark key="^" line="33" column="38" />
-        <mark key="." line="33" column="38" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/conversionservices/PlmPSNetworkHeaderCreateByURLService.java" timestamp="1554461743227">
-        <mark key="]" line="33" column="54" />
-        <mark key="^" line="33" column="54" />
-        <mark key="." line="33" column="54" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/conversionservices/PlmPSProgressTrackingEventToObrConverterService.java" timestamp="1554462124153">
-        <mark key="]" line="32" column="65" />
-        <mark key="^" line="32" column="65" />
-        <mark key="." line="32" column="65" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1554481316060">
-        <mark key="[" line="0" column="43" />
-        <mark key="]" line="0" column="43" />
-        <mark key="." line="0" column="43" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/proc/services/RMRootcontainerService.java" timestamp="1554462651204">
-        <mark key="]" line="35" column="40" />
-        <mark key="^" line="35" column="40" />
-        <mark key="." line="35" column="40" />
-      </file>
-      <file name="/PlmConnectProcessCreateService.java" timestamp="1554461056988" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/gui/conversionservices/rm/RMBrowseUrlService.java" timestamp="1554461103515">
         <mark key="'" line="48" column="3" />
         <mark key="[" line="48" column="3" />
@@ -117,6 +70,7 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/test/java/wirtgen/proc/iplan/InspectionPlanDataTest.java" timestamp="1554732318035" />
       <file name="/fragment.java" timestamp="1554480951151">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
