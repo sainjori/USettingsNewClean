@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1554732554581">
+      <file name="/Dummy.txt" timestamp="1554734654789">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
         <mark key="." line="0" column="43" />
@@ -15,9 +15,22 @@
         <mark key="^" line="2789" column="31" />
         <mark key="." line="2789" column="31" />
       </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.2/customize/config/menu.guidef" timestamp="1554735624183">
+        <mark key="[" line="105" column="73" />
+        <mark key="]" line="105" column="75" />
+        <mark key="^" line="105" column="75" />
+        <mark key="." line="105" column="75" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" timestamp="1554480620329">
         <mark key="'" line="1514" column="4" />
       </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.2/customize/config/default.txt" timestamp="1554735172987">
+        <mark key="[" line="2649" column="40" />
+        <mark key="]" line="2651" column="29" />
+        <mark key="^" line="2651" column="29" />
+        <mark key="." line="2651" column="29" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenAdvanceSteelTest.java" timestamp="1554735277577" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/gui/SapUserParameterTableDialog.java" timestamp="1554477029577">
         <mark key="'" line="381" column="32" />
         <mark key="[" line="458" column="55" />
@@ -70,6 +83,7 @@
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/PlmProcessWirtgenDocumentHandler.java" timestamp="1554734408961" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/resources/META-INF/services/plm.gui.genericsearch.manager.SearchMaskDefinitionService" timestamp="1554462427812">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -185,16 +199,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZGVsZXRlIHByZWYg</text>
+        <text>MAT</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGVsZXRlIHByZWYg</text>
+        <text>MAT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmVmT2JqZWN0c1RhYmxlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBsbS5zbWFydC5mb2xkZXIuZHR5cGUgPSBTTUZMCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gZm5jLndpcnRnZW4uYWR2YW5jZS5zdGVlbC50ZXN0KE1BVCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cGxtLnVzZXJwYXJhbWV0ZXIubGlzdCA9IEEK</text>
