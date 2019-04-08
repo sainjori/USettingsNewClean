@@ -47,11 +47,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554745555593">
+      <file name="/Dummy.txt" timestamp="1554749720584">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="43" />
-        <mark key="." line="0" column="43" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/proc/doc/search/PlmProcessDocumentSearch3.java" timestamp="1554748403082" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.2/customize/config/menu.guidef" timestamp="1554735624183">
         <mark key="[" line="105" column="73" />
         <mark key="]" line="105" column="75" />
@@ -65,7 +66,7 @@
         <mark key="." line="2651" column="29" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenAdvanceSteelTest.java" timestamp="1554747174592" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1554744413951" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1554748649950" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/resources/META-INF/services/plm.gui.conversionservices.BrowseUrlService" timestamp="1554461131043">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -78,19 +79,22 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-tests.jar!/testutil/BaseSetup.class" timestamp="1554732937661" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/cfc/pref/Preferences.java" timestamp="1554743592529" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/PlmProcessWirtgenBomHandler.java" timestamp="1554747492836">
-        <mark key="'" line="140" column="6" />
-        <mark key="[" line="199" column="54" />
-        <mark key="]" line="199" column="55" />
-        <mark key="." line="199" column="55" />
-        <mark key="^" line="199" column="55" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/PlmProcessWirtgenBomHandler.java" timestamp="1554749264659">
+        <mark key="'" line="477" column="0" />
+        <mark key="[" line="563" column="13" />
+        <mark key="]" line="563" column="19" />
+        <mark key="^" line="563" column="19" />
+        <mark key="." line="563" column="19" />
       </file>
       <file name="/fragment.java" timestamp="1554743628573">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/proc/cad/PlmProcessCadComponentAttributesMaintain.java" timestamp="1554745167461" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/proc/cad/PlmProcessCadComponentAttributesMaintain.java" timestamp="1554748512810">
+        <mark key="[" line="272" column="0" />
+        <mark key="]" line="272" column="25" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/resources/META-INF/services/plm.proc.doc.clone.service.CloneActionService" timestamp="1554462528804">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -98,8 +102,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/fctr/customize/config/default.txt" />
-      <jump line="4" column="53" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" />
       <jump line="2659" column="0" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" />
       <jump line="2674" column="0" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" />
       <jump line="769" column="29" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
@@ -198,49 +200,51 @@
       <jump line="210" column="65" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenAdvanceSteelTest.java" />
       <jump line="966" column="26" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.3/base-5.1.13.3-sources.jar!/cadagent/gui/obr/ObrChildrenDisplay.java" />
       <jump line="140" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/PlmProcessWirtgenBomHandler.java" />
+      <jump line="257" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/PlmProcessWirtgenBomHandler.java" />
+      <jump line="477" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/PlmProcessWirtgenBomHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRhYmxlLmdldAo=</text>
+      <register name="&quot;" type="4">
+        <text>dynamicalPack(600, 400, 1000, 700);</text>
       </register>
       <register name="-" type="4">
-        <text>00</text>
+        <text>dynamicalPack(600, 400, 1000, 700);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmVmT2JqZWN0c1RhYmxlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gZm5jLndpcnRnZW4uYWR2YW5jZS5zdGVlbC50ZXN0KE1BVCkK</text>
+        <text encoding="base64">ICAgICAgYWRqdXN0RGlhbG9nU2l6ZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRhYmxlLmdldAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRhYmxlLnJlc2lkCg==</text>
+        <text encoding="base64">ICAgIGRpYWxvZy5keW5hbWljYWxQYWNrKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXkuc2V0TG9jYXRpb24oKTsK</text>
+        <text encoding="base64">ICAgIHRhYmxlLmdldAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXkuZHluYW1pY2FsUGFjayg5MDAsIDUwMCwgMTAwMCwgNjAwKTsK</text>
+        <text encoding="base64">ICAgIHRhYmxlLnJlc2lkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRpc3BsYXkuc2V0TG9jYXRpb24oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGd1aS4K</text>
+        <text encoding="base64">ICAgIGRpc3BsYXkuZHluYW1pY2FsUGFjayg5MDAsIDUwMCwgMTAwMCwgNjAwKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRpYWxvZy51cGRhdGVEaXNwbGF5KCk7Cg==</text>
+        <text encoding="base64">ICAgIGd1aS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRpYWxvZy5keW5hbWljYWxQYWNrKDYwMCwgNTAwLCA3MDAsIDUwMCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help key-notation</text>
