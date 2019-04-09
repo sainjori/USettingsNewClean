@@ -18,11 +18,11 @@
         <mark key="." line="319" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.1/base-5.1.13.1-sources.jar!/cadagent/cfc/pref/Preferences.java" timestamp="1554826635613" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/WirtgenDialogSize.java" timestamp="1554830275166">
-        <mark key="[" line="48" column="52" />
-        <mark key="]" line="49" column="36" />
-        <mark key="^" line="49" column="36" />
-        <mark key="." line="49" column="36" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/WirtgenDialogSize.java" timestamp="1554833189699">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="65" column="33" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/resources/META-INF/services/plm.gui.conversionservices.PlmObjectCreateByURLService" timestamp="1554461749643">
         <mark key="[" line="0" column="0" />
@@ -71,7 +71,7 @@
         <mark key="^" line="105" column="75" />
         <mark key="." line="105" column="75" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenAdvanceSteelTest.java" timestamp="1554830429641">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenAdvanceSteelTest.java" timestamp="1554832261756">
         <mark key="'" line="162" column="2" />
         <mark key="[" line="214" column="39" />
         <mark key="]" line="214" column="39" />
@@ -91,7 +91,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-tests.jar!/testutil/BaseSetup.class" timestamp="1554732937661" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/cfc/pref/Preferences.java" timestamp="1554743592529" />
-      <file name="/fragment.java" timestamp="1554829738603">
+      <file name="/fragment.java" timestamp="1554830466743">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -210,10 +210,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGludCBoZWlnaHQgPSBQcmVmZXJlbmNlcy5pbnRWYWx1ZShnZXRIZWlnaHRLZXkoKSk7CiAgICBpbnQgd2lkdGggPSBQcmVmZXJlbmNlcy5pbnRWYWx1ZShnZXRXaWR0aEtleSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>getKeyWidth</text>
+        <text>savedDimension</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmVmT2JqZWN0c1RhYmxlXD4=</text>
@@ -222,34 +222,34 @@
         <text encoding="base64">ICAgIGludCBoZWlnaHQgPSBQcmVmZXJlbmNlcy5pbnRWYWx1ZShnZXRIZWlnaHRLZXkoKSk7CiAgICBpbnQgd2lkdGggPSBQcmVmZXJlbmNlcy5pbnRWYWx1ZShnZXRXaWR0aEtleSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIChwbmxGb2xkZXJTZWxlY3RFeGlzdHMpCiAgICAgIGhlaWdodCArPSBQcmVmZXJlbmNlcy5pbnRWYWx1ZSgicGxtLmRvY3VtZW50LmNyZWF0ZS5ndWkuRm9sZGVyLlNlbGVjdC5IZWlnaHQiLCAyMDApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgcmVzaXplRG9jdW1lbnRDbGFzc2lmaWNhdGlvbkNvbXBvbmVudHMoKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQW5kcml0elByb2Nlc3NEb2N1bWVudENyZWF0ZUd1aS50aGlzLnBubF9mb2xkZXJfc2VsZWN0X2V4aXRzKQogICAgICAgIHsKICAgICAgICAgIGludCBkaXZpZGVyTG9jID0gUHJlZmVyZW5jZXMuaW50VmFsdWUoInBsbS5kb2N1bWVudC5jcmVhdGUuZ3VpLkZvbGRlci5TZWxlY3QuSGVpZ2h0IiwgMjAwKTsKCiAgICAgICAgICBQcmVmZXJlbmNlcy5zZXRHdWlWYWx1ZSgicGxtLmRvY3VtZW50LmNyZWF0ZS5ndWkuaGVpZ2h0IiwgSW50ZWdlci50b1N0cmluZygoaGVpZ2h0IC0gZGl2aWRlckxvYykpKTsKICAgICAgICAgIFByZWZlcmVuY2VzLnNldEd1aVZhbHVlKCJwbG0uZG9jdW1lbnQuY3JlYXRlLmd1aS53aWR0aCIsIEludGVnZXIudG9TdHJpbmcod2lkdGgpKTsKICAgICAgICB9CiAgICAgICAgZWxzZQogICAgICAgIHsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRpYWxvZy5zZXRTaXplKG5ld1NpemUpOwogICAgZGlhbG9nLnNldFByZWZlcnJlZFNpemUobmV3U2l6ZSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRpYWxvZy5wYWNrKCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmIChwbmxGb2xkZXJTZWxlY3RFeGlzdHMpCiAgICAgIGhlaWdodCArPSBQcmVmZXJlbmNlcy5pbnRWYWx1ZSgicGxtLmRvY3VtZW50LmNyZWF0ZS5ndWkuRm9sZGVyLlNlbGVjdC5IZWlnaHQiLCAyMDApOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFkZAo=</text>
+        <text encoding="base64">CiAgICAgICAgcmVzaXplRG9jdW1lbnRDbGFzc2lmaWNhdGlvbkNvbXBvbmVudHMoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNldAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoQW5kcml0elByb2Nlc3NEb2N1bWVudENyZWF0ZUd1aS50aGlzLnBubF9mb2xkZXJfc2VsZWN0X2V4aXRzKQogICAgICAgIHsKICAgICAgICAgIGludCBkaXZpZGVyTG9jID0gUHJlZmVyZW5jZXMuaW50VmFsdWUoInBsbS5kb2N1bWVudC5jcmVhdGUuZ3VpLkZvbGRlci5TZWxlY3QuSGVpZ2h0IiwgMjAwKTsKCiAgICAgICAgICBQcmVmZXJlbmNlcy5zZXRHdWlWYWx1ZSgicGxtLmRvY3VtZW50LmNyZWF0ZS5ndWkuaGVpZ2h0IiwgSW50ZWdlci50b1N0cmluZygoaGVpZ2h0IC0gZGl2aWRlckxvYykpKTsKICAgICAgICAgIFByZWZlcmVuY2VzLnNldEd1aVZhbHVlKCJwbG0uZG9jdW1lbnQuY3JlYXRlLmd1aS53aWR0aCIsIEludGVnZXIudG9TdHJpbmcod2lkdGgpKTsKICAgICAgICB9CiAgICAgICAgZWxzZQogICAgICAgIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRpYWxvZy5keW5hbWljYWxQYWNrKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help key-notation</text>
