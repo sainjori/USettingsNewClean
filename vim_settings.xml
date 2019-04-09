@@ -18,11 +18,11 @@
         <mark key="." line="319" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.1/base-5.1.13.1-sources.jar!/cadagent/cfc/pref/Preferences.java" timestamp="1554826635613" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/WirtgenDialogSize.java" timestamp="1554833189699">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="^" line="65" column="33" />
-        <mark key="." line="62" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/WirtgenDialogSize.java" timestamp="1554834486238">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="51" column="39" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/resources/META-INF/services/plm.gui.conversionservices.PlmObjectCreateByURLService" timestamp="1554461749643">
         <mark key="[" line="0" column="0" />
@@ -78,7 +78,10 @@
         <mark key="." line="214" column="39" />
         <mark key="^" line="214" column="39" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1554828919811" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/cfc/gfx/GxDialog.java" timestamp="1554834277294">
+        <mark key="'" line="92" column="40" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1554834301067" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/resources/META-INF/services/plm.gui.conversionservices.BrowseUrlService" timestamp="1554461131043">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -107,8 +110,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="769" column="29" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
-      <jump line="563" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
       <jump line="128" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
       <jump line="187" column="34" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
       <jump line="156" column="9" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
@@ -207,19 +208,21 @@
       <jump line="477" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/PlmProcessWirtgenBomHandler.java" />
       <jump line="226" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenAdvanceSteelTest.java" />
       <jump line="162" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenAdvanceSteelTest.java" />
+      <jump line="90" column="23" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/cfc/gfx/GxDialog.java" />
+      <jump line="92" column="40" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/cfc/gfx/GxDialog.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>savedDimension</text>
+        <text>width</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmVmT2JqZWN0c1RhYmxlXD4=</text>
+        <text encoding="base64">XDxpZGVudGlmaWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGludCBoZWlnaHQgPSBQcmVmZXJlbmNlcy5pbnRWYWx1ZShnZXRIZWlnaHRLZXkoKSk7CiAgICBpbnQgd2lkdGggPSBQcmVmZXJlbmNlcy5pbnRWYWx1ZShnZXRXaWR0aEtleSgpKTsK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGRpYWxvZy5nZXRUaXRsZSgpICsgIi53aWR0aCI7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -228,37 +231,37 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRpYWxvZy5zZXRTaXplKG5ld1NpemUpOwogICAgZGlhbG9nLnNldFByZWZlcnJlZFNpemUobmV3U2l6ZSk7Cg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRpYWxvZy5wYWNrKCk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChwbmxGb2xkZXJTZWxlY3RFeGlzdHMpCiAgICAgIGhlaWdodCArPSBQcmVmZXJlbmNlcy5pbnRWYWx1ZSgicGxtLmRvY3VtZW50LmNyZWF0ZS5ndWkuRm9sZGVyLlNlbGVjdC5IZWlnaHQiLCAyMDApOwo=</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgcmVzaXplRG9jdW1lbnRDbGFzc2lmaWNhdGlvbkNvbXBvbmVudHMoKTsK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGRpYWxvZy5nZXRUaXRsZSgpICsgIi53aWR0aCI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBkaWFsb2cuZ2V0VGl0bGUoKSArICIuaGVpZ2h0IjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQW5kcml0elByb2Nlc3NEb2N1bWVudENyZWF0ZUd1aS50aGlzLnBubF9mb2xkZXJfc2VsZWN0X2V4aXRzKQogICAgICAgIHsKICAgICAgICAgIGludCBkaXZpZGVyTG9jID0gUHJlZmVyZW5jZXMuaW50VmFsdWUoInBsbS5kb2N1bWVudC5jcmVhdGUuZ3VpLkZvbGRlci5TZWxlY3QuSGVpZ2h0IiwgMjAwKTsKCiAgICAgICAgICBQcmVmZXJlbmNlcy5zZXRHdWlWYWx1ZSgicGxtLmRvY3VtZW50LmNyZWF0ZS5ndWkuaGVpZ2h0IiwgSW50ZWdlci50b1N0cmluZygoaGVpZ2h0IC0gZGl2aWRlckxvYykpKTsKICAgICAgICAgIFByZWZlcmVuY2VzLnNldEd1aVZhbHVlKCJwbG0uZG9jdW1lbnQuY3JlYXRlLmd1aS53aWR0aCIsIEludGVnZXIudG9TdHJpbmcod2lkdGgpKTsKICAgICAgICB9CiAgICAgICAgZWxzZQogICAgICAgIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsc2UKICAgIHsKICAgICBkaWFsb2cuZ2V0SWRlbnRpZmllcigpCiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help key-notation</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmVmT2JqZWN0c1RhYmxlXD4=</last-search>
+      <last-search encoding="base64">XDxpZGVudGlmaWVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmVmT2JqZWN0c1RhYmxlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpZGVudGlmaWVyXD4=</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -266,7 +269,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJTl9DSElMRFJFTl9BRERcPg==</entry>
         <entry encoding="base64">XDxub1VwZGF0ZVw+</entry>
         <entry encoding="base64">XDxjbGFzc0hlbHBlclw+</entry>
         <entry encoding="base64">XDxudWxsXD4=</entry>
@@ -286,6 +288,7 @@
         <entry encoding="base64">XDxSTUJyb3dzZVVybFNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxDVVNUT01fVVNFUl9QQVJBTUVURVJfUFJFRklYXD4=</entry>
         <entry encoding="base64">XDxwcmVmT2JqZWN0c1RhYmxlXD4=</entry>
+        <entry encoding="base64">XDxpZGVudGlmaWVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>4731</entry>
