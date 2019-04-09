@@ -11,18 +11,19 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" timestamp="1554480620329">
         <mark key="'" line="1514" column="4" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/PlmProcessWirtgenMaterialHandler.java" timestamp="1554745860332">
-        <mark key="[" line="319" column="0" />
-        <mark key="]" line="319" column="0" />
-        <mark key="^" line="317" column="3" />
-        <mark key="." line="319" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/PlmProcessWirtgenMaterialHandler.java" timestamp="1554836534171">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="321" column="64" />
+        <mark key="]" line="321" column="70" />
+        <mark key="." line="321" column="70" />
+        <mark key="^" line="321" column="70" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.1/base-5.1.13.1-sources.jar!/cadagent/cfc/pref/Preferences.java" timestamp="1554826635613" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/WirtgenDialogSize.java" timestamp="1554834486238">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="51" column="39" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/WirtgenDialogSize.java" timestamp="1554835429161">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="17" column="33" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/resources/META-INF/services/plm.gui.conversionservices.PlmObjectCreateByURLService" timestamp="1554461749643">
         <mark key="[" line="0" column="0" />
@@ -37,6 +38,10 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/andritz_hydro/trunk/src/main/java/vatech/proc/doc/create/AndritzProcessDocumentCreateGui.java" timestamp="1554830316114" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/CreateMaterials.java" timestamp="1554837027337">
+        <mark key="'" line="268" column="22" />
+        <mark key="^" line="424" column="45" />
+      </file>
       <file name="/PlmProcessWirtgenDocumentHandler.java" timestamp="1554750400759" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/resources/META-INF/services/plm.gui.conversionservices.PlmToObrConverterService" timestamp="1554462138892">
         <mark key="[" line="0" column="0" />
@@ -47,7 +52,13 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.3/base-5.1.13.3-sources.jar!/cadagent/gui/obr/ObrChildrenDisplay.java" timestamp="1554746893895">
         <mark key="'" line="966" column="26" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/PlmProcessWirtgenDocumentHandler.java" timestamp="1554829344834" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/PlmProcessWirtgenDocumentHandler.java" timestamp="1554836435541">
+        <mark key="'" line="235" column="39" />
+        <mark key="[" line="333" column="0" />
+        <mark key="]" line="333" column="0" />
+        <mark key="^" line="333" column="17" />
+        <mark key="." line="333" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/resources/META-INF/services/plm.gui.genericsearch.manager.SearchMaskDefinitionService" timestamp="1554462427812">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -59,7 +70,7 @@
         <mark key="." line="9" column="30" />
         <mark key="^" line="9" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554749720584">
+      <file name="/Dummy.txt" timestamp="1554836926054">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -71,13 +82,7 @@
         <mark key="^" line="105" column="75" />
         <mark key="." line="105" column="75" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenAdvanceSteelTest.java" timestamp="1554832261756">
-        <mark key="'" line="162" column="2" />
-        <mark key="[" line="214" column="39" />
-        <mark key="]" line="214" column="39" />
-        <mark key="." line="214" column="39" />
-        <mark key="^" line="214" column="39" />
-      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenAdvanceSteelTest.java" timestamp="1554836444145" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/cfc/gfx/GxDialog.java" timestamp="1554834277294">
         <mark key="'" line="92" column="40" />
       </file>
@@ -94,7 +99,13 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-tests.jar!/testutil/BaseSetup.class" timestamp="1554732937661" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/cfc/pref/Preferences.java" timestamp="1554743592529" />
-      <file name="/fragment.java" timestamp="1554830466743">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/PlmProcessWirtgenBomHandler.java" timestamp="1554836907612">
+        <mark key="[" line="263" column="13" />
+        <mark key="]" line="263" column="19" />
+        <mark key="^" line="263" column="19" />
+        <mark key="." line="263" column="19" />
+      </file>
+      <file name="/fragment.java" timestamp="1554835346381">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -110,13 +121,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
-      <jump line="187" column="34" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
-      <jump line="156" column="9" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
-      <jump line="135" column="37" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/OmfCustGenMatSearchSemiMat.java" />
-      <jump line="281" column="45" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/OmfCustGenMatSearchSemiMat.java" />
-      <jump line="259" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
-      <jump line="70" column="136" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.2/sapbase-5.1.13.2-sources.jar!/cadagent/proc/fld/ProcessFolderAssignChildren.java" />
       <jump line="119" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
       <jump line="124" column="26" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
       <jump line="213" column="26" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
@@ -210,13 +214,20 @@
       <jump line="162" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenAdvanceSteelTest.java" />
       <jump line="90" column="23" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/cfc/gfx/GxDialog.java" />
       <jump line="92" column="40" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/cfc/gfx/GxDialog.java" />
+      <jump line="134" column="3" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/PlmProcessWirtgenDocumentHandler.java" />
+      <jump line="941" column="3" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/PlmProcessWirtgenDocumentHandler.java" />
+      <jump line="171" column="26" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/CreateMaterials.java" />
+      <jump line="410" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/CreateMaterials.java" />
+      <jump line="235" column="39" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/PlmProcessWirtgenDocumentHandler.java" />
+      <jump line="89" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/PlmProcessWirtgenMaterialHandler.java" />
+      <jump line="268" column="22" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/CreateMaterials.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>dynamicalPack(600, 500, 700, 500);</text>
       </register>
       <register name="-" type="4">
-        <text>width</text>
+        <text>dynamicalPack(600, 500, 700, 500);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZGVudGlmaWVyXD4=</text>
@@ -225,34 +236,34 @@
         <text encoding="base64">ICAgICAgcmV0dXJuIGRpYWxvZy5nZXRUaXRsZSgpICsgIi53aWR0aCI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0gCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBzZXRTaXplKFRhYmxlU2VsZWN0aW9uRGlhbG9nPFVuY2hhbmdlYWJsZURvY3VtZW50PiBkaWFsb2cpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBwcml2YXRlIHZvaWQgc2V0U2l6ZShHeERpYWxvZyBkaWFsb2cpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgZGlhbG9nLmR5bmFtaWNhbFBhY2soNjAwLCA1MDAsIDcwMCwgNTAwKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGRpYWxvZy5nZXRUaXRsZSgpICsgIi53aWR0aCI7Cg==</text>
+        <text encoding="base64">ICAgIGRpc3BsYXkuZHluYW1pY2FsUGFjayg5MDAsIDUwMCwgMTAwMCwgNjAwKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkaWFsb2cuZ2V0VGl0bGUoKSArICIuaGVpZ2h0IjsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRpc3BsYXkuZHluYW1pY2FsUGFjayg5MDAsIDUwMCwgMTAwMCwgNjAwKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVsc2UKICAgIHsKICAgICBkaWFsb2cuZ2V0SWRlbnRpZmllcigpCiAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHdpcnRnZW4ucHJvYy5hZHZzdGVlbC5vYmplY3RzLlVuY2hhbmdlYWJsZURvY3VtZW50Owo=</text>
       </register>
       <register name=":" type="4">
         <text>help key-notation</text>
