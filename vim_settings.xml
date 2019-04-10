@@ -4,6 +4,13 @@
     <globalmarks />
     <filemarks>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/test/java/wirtgen/proc/advsteel/xml/AdvSteelXmlExtractorTest.java" timestamp="1554736100058" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/addons/fctr/customize/config/default.txt" timestamp="1554899136656">
+        <mark key="'" line="97" column="20" />
+        <mark key="[" line="2791" column="28" />
+        <mark key="]" line="2791" column="27" />
+        <mark key="." line="2791" column="27" />
+        <mark key="^" line="2791" column="27" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/AdvSteelProgressGui.java" timestamp="1554745357829" />
       <file name="/a.dummy" timestamp="1554830195358">
         <mark key="[" line="0" column="0" />
@@ -42,11 +49,24 @@
         <mark key="'" line="268" column="22" />
         <mark key="^" line="424" column="45" />
       </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/customize/dictionary/de/customer.txt" timestamp="1554899434823">
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="20" column="32" />
+        <mark key="^" line="20" column="32" />
+        <mark key="." line="20" column="32" />
+      </file>
       <file name="/PlmProcessWirtgenDocumentHandler.java" timestamp="1554750400759" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/resources/META-INF/services/plm.gui.conversionservices.PlmToObrConverterService" timestamp="1554462138892">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/customize/config/default.txt" timestamp="1554899227632">
+        <mark key="'" line="68" column="31" />
+        <mark key="[" line="2653" column="0" />
+        <mark key="]" line="2653" column="0" />
+        <mark key="^" line="2653" column="0" />
+        <mark key="." line="2653" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/fctr/5.1.13.2/fctr-5.1.13.2-sources.jar!/plm/modules/fa/proc/PlmFAPlannedOrderProcessSearch.java" timestamp="1554743436280" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.3/base-5.1.13.3-sources.jar!/cadagent/gui/obr/ObrChildrenDisplay.java" timestamp="1554746893895">
@@ -70,12 +90,19 @@
         <mark key="." line="9" column="30" />
         <mark key="^" line="9" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554889489897">
+      <file name="/Dummy.txt" timestamp="1554898573279">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/proc/doc/search/PlmProcessDocumentSearch3.java" timestamp="1554748403082" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/basis/config/system-default.txt" timestamp="1554899179769">
+        <mark key="'" line="80" column="20" />
+        <mark key="[" line="673" column="72" />
+        <mark key="]" line="674" column="35" />
+        <mark key="^" line="674" column="35" />
+        <mark key="." line="674" column="35" />
+      </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.2/customize/config/menu.guidef" timestamp="1554735624183">
         <mark key="[" line="105" column="73" />
         <mark key="]" line="105" column="75" />
@@ -86,11 +113,21 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/cfc/gfx/GxDialog.java" timestamp="1554834277294">
         <mark key="'" line="92" column="40" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/gui/SapUserParameterTableDialog.java" timestamp="1554899112441">
+        <mark key="'" line="86" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1554834301067" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/resources/META-INF/services/plm.gui.conversionservices.BrowseUrlService" timestamp="1554461131043">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/gui/conversionservices/rm/RMBrowseUrlService.java" timestamp="1554461103515">
+        <mark key="'" line="48" column="3" />
+        <mark key="[" line="48" column="3" />
+        <mark key="]" line="48" column="21" />
+        <mark key="^" line="49" column="31" />
+        <mark key="." line="48" column="3" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/conversionservices/PlmPsProjectToObrConverterService.java" timestamp="1554463201116">
         <mark key="[" line="32" column="0" />
@@ -110,10 +147,6 @@
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/proc/cad/PlmProcessCadComponentAttributesMaintain.java" timestamp="1554748512810">
-        <mark key="[" line="272" column="0" />
-        <mark key="]" line="272" column="25" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/resources/META-INF/services/plm.proc.doc.clone.service.CloneActionService" timestamp="1554462528804">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -121,9 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
-      <jump line="124" column="26" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
-      <jump line="213" column="26" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
       <jump line="285" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
       <jump line="203" column="41" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
       <jump line="214" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
@@ -221,13 +251,16 @@
       <jump line="235" column="39" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/PlmProcessWirtgenDocumentHandler.java" />
       <jump line="89" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/PlmProcessWirtgenMaterialHandler.java" />
       <jump line="268" column="22" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/CreateMaterials.java" />
+      <jump line="376" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/gui/SapUserParameterTableDialog.java" />
+      <jump line="86" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/gui/SapUserParameterTableDialog.java" />
+      <jump line="80" column="20" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-52/basis/config/system-default.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PEJlc2NocmVpYnVuZyBhdXMgRGljdGlvbmFyeT4=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">PEJlc2NocmVpYnVuZyBhdXMgRGljdGlvbmFyeT4=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZGVudGlmaWVyXD4=</text>
@@ -236,34 +269,34 @@
         <text encoding="base64">ICAgICAgcmV0dXJuIGRpYWxvZy5nZXRUaXRsZSgpICsgIi53aWR0aCI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGxtLnVzZXJwYXJhbWV0ZXIubGlzdCA9IEBwbG0udXNlcnBhcmFtZXRlci5saXN0QDsgQzsgRAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cGxtLnVzZXJwYXJhbWV0ZXIubGlzdCA9IEE7Qgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFRyYWNlLnByaW50bG4oMCwiRGlhbG9nKCIgKyBkaWFsb2cuZ2V0VGl0bGUoKSArICIpIiArICJTZXQgY3VzdG9tIHNpemUiKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0gCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIFRyYWNlLnByaW50bG4oMCwiRGlhbG9nKCIgKyBkaWFsb2cuZ2V0VGl0bGUoKSArICIpIiArICJTZXQgY3VzdG9tIHNpemUiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBzZXRTaXplKFRhYmxlU2VsZWN0aW9uRGlhbG9nPFVuY2hhbmdlYWJsZURvY3VtZW50PiBkaWFsb2cpCg==</text>
+        <text encoding="base64">ICAgIH0gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZvaWQgc2V0U2l6ZShHeERpYWxvZyBkaWFsb2cpCg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGlhbG9nLmR5bmFtaWNhbFBhY2soNjAwLCA1MDAsIDcwMCwgNTAwKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBzZXRTaXplKFRhYmxlU2VsZWN0aW9uRGlhbG9nPFVuY2hhbmdlYWJsZURvY3VtZW50PiBkaWFsb2cpCg==</text>
       </register>
       <register name=":" type="4">
         <text>help key-notation</text>
