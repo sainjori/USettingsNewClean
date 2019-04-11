@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1554898573279">
+      <file name="/Dummy.txt" timestamp="1554989920381">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -44,7 +44,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/gui/SapUserParameterTableDialog.java" timestamp="1554899112441">
         <mark key="'" line="86" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert/java/src/cadagent/sap/ConversionObserver.java" timestamp="1554978795920" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/5.1.5.0/pom.xml" timestamp="1554990315122">
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="28" />
+        <mark key="." line="21" column="28" />
+        <mark key="^" line="21" column="28" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/CreateMaterials.java" timestamp="1554889824471">
         <mark key="'" line="268" column="22" />
         <mark key="^" line="424" column="45" />
@@ -196,10 +201,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PEJlc2NocmVpYnVuZyBhdXMgRGljdGlvbmFyeT4=</text>
+        <text>TRUNK-SNAPSHOT</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PEJlc2NocmVpYnVuZyBhdXMgRGljdGlvbmFyeT4=</text>
+        <text>TRUNK-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZGVudGlmaWVyXD4=</text>
