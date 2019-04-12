@@ -3,20 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/extensions/basis/dictionary/de/addon.txt" timestamp="1555072666727" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/cfc/log/LogStack.java" timestamp="1554997318364" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/exc/DocumentLockException.java" timestamp="1554991800567" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/sap/ConversionObserver.java" timestamp="1554998478145" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/utils/BusyTracker.java" timestamp="1554991789940" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1-SNAPSHOT/base-5.1-20190411.130436-274-sources.jar!/cadagent/cfc/util/ZIPHandler.java" timestamp="1554993518078" />
       <file name="/Dummy.txt" timestamp="1555068373178">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/cfc/log/Log.java" timestamp="1554992420350" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/utils/MonitoringLogUtils.java" timestamp="1554993425066" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/sap/ProcessGetAp.java" timestamp="1555000196931" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/sap/ProcessGetAp.java" timestamp="1555086920178" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" timestamp="1555068476309">
         <mark key="'" line="2687" column="0" />
         <mark key="[" line="2687" column="0" />
@@ -24,10 +16,7 @@
         <mark key="^" line="2708" column="50" />
         <mark key="." line="2708" column="50" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/cfc/log/LogKey.java" timestamp="1554991830690" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/sap/ConversionServer.java" timestamp="1554998204923" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionSchedule.java" timestamp="1555072686839" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/sap/ConversionLogger.java" timestamp="1554993307686" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/basis/dictionary/de/ectr.txt" timestamp="1555086969685" />
     </filemarks>
     <jumps>
       <jump line="214" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
