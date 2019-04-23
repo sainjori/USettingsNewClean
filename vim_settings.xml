@@ -20,8 +20,23 @@
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxc.java" timestamp="1556029630428">
+        <mark key="[" line="79" column="32" />
+        <mark key="]" line="79" column="33" />
+        <mark key="." line="79" column="33" />
+        <mark key="^" line="79" column="33" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxd.java" timestamp="1556020764295">
         <mark key="'" line="183" column="104" />
+      </file>
+      <file name="/fragment.java" timestamp="1556028501462">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxm.java" timestamp="1556029457444">
+        <mark key="[" line="75" column="124" />
+        <mark key="]" line="75" column="122" />
+        <mark key="." line="75" column="122" />
+        <mark key="^" line="75" column="122" />
       </file>
     </filemarks>
     <jumps>
@@ -127,11 +142,11 @@
       <jump line="183" column="104" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxd.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>NXMM;PFAM</text>
       </register>
       <register name="-" type="4">
-        <text>TRUNK-SNAPSHOT</text>
+        <text>NXMM;PFAM</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb2NOeGRcPg==</text>
