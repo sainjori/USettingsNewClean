@@ -20,14 +20,11 @@
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxd.java" timestamp="1556020001950">
-        <mark key="'" line="396" column="2" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxd.java" timestamp="1556020764295">
+        <mark key="'" line="183" column="104" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="241" column="25" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
-      <jump line="106" column="22" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
-      <jump line="109" column="67" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
       <jump line="112" column="23" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
       <jump line="1500" column="65" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/menu.guidef" />
       <jump line="52" column="38" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/OmfCustGenMatWhereUsedDocuments.java" />
@@ -125,6 +122,9 @@
       <jump line="2670" column="38" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" />
       <jump line="2687" column="0" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" />
       <jump line="396" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxd.java" />
+      <jump line="71" column="22" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxd.java" />
+      <jump line="147" column="26" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxd.java" />
+      <jump line="183" column="104" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxd.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -134,7 +134,7 @@
         <text>TRUNK-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpZGVudGlmaWVyXD4=</text>
+        <text encoding="base64">XDxkb2NOeGRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgcmV0dXJuIGRpYWxvZy5nZXRUaXRsZSgpICsgIi53aWR0aCI7Cg==</text>
@@ -174,9 +174,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpZGVudGlmaWVyXD4=</last-search>
+      <last-search encoding="base64">XDxkb2NOeGRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpZGVudGlmaWVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkb2NOeGRcPg==</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -184,7 +184,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxub1VwZGF0ZVw+</entry>
         <entry encoding="base64">XDxjbGFzc0hlbHBlclw+</entry>
         <entry encoding="base64">XDxudWxsXD4=</entry>
         <entry encoding="base64">XDxDQU5DRUxMRURcPg==</entry>
@@ -204,6 +203,7 @@
         <entry encoding="base64">XDxDVVNUT01fVVNFUl9QQVJBTUVURVJfUFJFRklYXD4=</entry>
         <entry encoding="base64">XDxwcmVmT2JqZWN0c1RhYmxlXD4=</entry>
         <entry encoding="base64">XDxpZGVudGlmaWVyXD4=</entry>
+        <entry encoding="base64">XDxkb2NOeGRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>310</entry>
