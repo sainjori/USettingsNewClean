@@ -26,21 +26,21 @@
         <mark key="." line="67" column="66" />
         <mark key="^" line="67" column="66" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxd.java" timestamp="1556020764295">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxd.java" timestamp="1556036146511">
         <mark key="'" line="183" column="104" />
       </file>
-      <file name="/fragment.java" timestamp="1556028501462">
+      <file name="/fragment.java" timestamp="1556035822091">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxm.java" timestamp="1556032685406">
-        <mark key="[" line="75" column="124" />
-        <mark key="]" line="75" column="122" />
-        <mark key="." line="75" column="122" />
-        <mark key="^" line="75" column="122" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxm.java" timestamp="1556036410169">
+        <mark key="'" line="155" column="42" />
+        <mark key="[" line="320" column="111" />
+        <mark key="]" line="320" column="113" />
+        <mark key="." line="320" column="113" />
+        <mark key="^" line="320" column="113" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="23" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ClassSelectionDialog.java" />
       <jump line="1500" column="65" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/menu.guidef" />
       <jump line="52" column="38" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/omf/OmfCustGenMatWhereUsedDocuments.java" />
       <jump line="31" column="74" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/proc/PlmProcessSearchGenSurfaceGenMat.java" />
@@ -140,13 +140,14 @@
       <jump line="71" column="22" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxd.java" />
       <jump line="147" column="26" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxd.java" />
       <jump line="183" column="104" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxd.java" />
+      <jump line="155" column="42" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxm.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>NXMM;PFAM</text>
+        <text>NXC</text>
       </register>
       <register name="-" type="4">
-        <text>NXMM;PFAM</text>
+        <text>NXC</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb2NOeGRcPg==</text>
