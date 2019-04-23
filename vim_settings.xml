@@ -8,6 +8,7 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.8.1/convert-5.1.8.1-sources.jar!/cadagent/sap/ProcessStartConversion.java" timestamp="1556038657440" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" timestamp="1555068476309">
         <mark key="'" line="2687" column="0" />
         <mark key="[" line="2687" column="0" />
@@ -20,23 +21,23 @@
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxc.java" timestamp="1556034539918">
-        <mark key="[" line="67" column="67" />
-        <mark key="]" line="67" column="66" />
-        <mark key="." line="67" column="66" />
-        <mark key="^" line="67" column="66" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxc.java" timestamp="1556038326297">
+        <mark key="[" line="93" column="67" />
+        <mark key="]" line="93" column="66" />
+        <mark key="." line="93" column="66" />
+        <mark key="^" line="93" column="66" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxd.java" timestamp="1556036146511">
         <mark key="'" line="183" column="104" />
       </file>
-      <file name="/fragment.java" timestamp="1556035822091">
+      <file name="/fragment.java" timestamp="1556038040991">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxm.java" timestamp="1556036410169">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxm.java" timestamp="1556038303902">
         <mark key="'" line="155" column="42" />
-        <mark key="[" line="320" column="111" />
-        <mark key="]" line="320" column="113" />
-        <mark key="." line="320" column="113" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
         <mark key="^" line="320" column="113" />
       </file>
     </filemarks>
@@ -143,8 +144,8 @@
       <jump line="155" column="42" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxm.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>NXC</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>NXC</text>
@@ -156,34 +157,36 @@
         <text encoding="base64">ICAgICAgcmV0dXJuIGRpYWxvZy5nZXRUaXRsZSgpICsgIi53aWR0aCI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3bndlCg==</text>
+      <register name="2" type="4">
+        <text>DadiConvCopyToOtherNxc dadiConvCopyToOtherNxc = new DadiConvCopyToOtherNxc();
+      dadiConvCopyToOtherNxc.setData(getData());
+      dadiConvCopyToOtherNxc.execute();</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZlZmVrYWZpZWZlZmxlYQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGxtLnVzZXJwYXJhbWV0ZXIubGlzdCA9IEBwbG0udXNlcnBhcmFtZXRlci5saXN0QDsgQzsgRAo=</text>
+        <text encoding="base64">ICAgICAgICB3bndlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGxtLnVzZXJwYXJhbWV0ZXIubGlzdCA9IEE7Qgo=</text>
+        <text encoding="base64">ICAgIGZlZmVrYWZpZWZlZmxlYQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGxtLnVzZXJwYXJhbWV0ZXIubGlzdCA9IEBwbG0udXNlcnBhcmFtZXRlci5saXN0QDsgQzsgRAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cGxtLnVzZXJwYXJhbWV0ZXIubGlzdCA9IEE7Qgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFRyYWNlLnByaW50bG4oMCwiRGlhbG9nKCIgKyBkaWFsb2cuZ2V0VGl0bGUoKSArICIpIiArICJTZXQgY3VzdG9tIHNpemUiKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>658</text>
