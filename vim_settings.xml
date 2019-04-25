@@ -3,17 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1556181330653">
+      <file name="/Dummy.txt" timestamp="1556188028938">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" timestamp="1555068476309">
-        <mark key="'" line="2687" column="0" />
-        <mark key="[" line="2687" column="0" />
-        <mark key="]" line="2708" column="50" />
-        <mark key="^" line="2708" column="50" />
-        <mark key="." line="2708" column="50" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.8.1/plm-5.1.8.1-sources.jar!/plm/brobj/BrMasterModelContainer.java" timestamp="1556186871239" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/utils/ConvUtils.java" timestamp="1556187326451">
+        <mark key="'" line="220" column="23" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/WirtgenDialogSize.java" timestamp="1556181900046">
         <mark key="[" line="55" column="3" />
@@ -21,7 +18,7 @@
         <mark key="^" line="56" column="35" />
         <mark key="." line="56" column="35" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxd.java" timestamp="1556185905006">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxd.java" timestamp="1556186674616">
         <mark key="'" line="183" column="104" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_osgi/pom.xml" timestamp="1556041059483">
@@ -38,12 +35,11 @@
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxc.java" timestamp="1556185718616">
-        <mark key="'" line="137" column="32" />
-        <mark key="[" line="141" column="78" />
-        <mark key="]" line="141" column="83" />
-        <mark key="." line="141" column="83" />
-        <mark key="^" line="141" column="83" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxc.java" timestamp="1556187955676">
+        <mark key="[" line="104" column="92" />
+        <mark key="]" line="104" column="101" />
+        <mark key="." line="104" column="101" />
+        <mark key="^" line="104" column="101" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/pom.xml" timestamp="1556041044499">
         <mark key="[" line="12" column="25" />
@@ -60,7 +56,7 @@
       <file name="/fragment.java" timestamp="1556038040991">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxm.java" timestamp="1556183476078">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxm.java" timestamp="1556187379846">
         <mark key="'" line="141" column="101" />
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
@@ -69,12 +65,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="342" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ZeissClassSelectionDialog.java" />
-      <jump line="410" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ZeissClassSelectionDialog.java" />
-      <jump line="104" column="33" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ZeissClassSelectionDialog.java" />
-      <jump line="101" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ZeissClassSelectionDialog.java" />
-      <jump line="136" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ZeissClassSelectionDialog.java" />
-      <jump line="153" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ZeissClassSelectionDialog.java" />
       <jump line="165" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ZeissClassSelectionDialog.java" />
       <jump line="166" column="19" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ZeissClassSelectionDialog.java" />
       <jump line="168" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/gfx/ZeissClassSelectionDialog.java" />
@@ -169,60 +159,66 @@
       <jump line="783" column="60" filename="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.8.1/convert-5.1.8.1-sources.jar!/cadagent/sap/ProcessStartConversion.java" />
       <jump line="1173" column="39" filename="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.8.1/convert-5.1.8.1-sources.jar!/cadagent/sap/ProcessStartConversion.java" />
       <jump line="137" column="32" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxc.java" />
+      <jump line="196" column="70" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/utils/ConvUtils.java" />
+      <jump line="212" column="23" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/utils/ConvUtils.java" />
+      <jump line="220" column="23" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/utils/ConvUtils.java" />
+      <jump line="192" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxc.java" />
+      <jump line="191" column="24" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxc.java" />
+      <jump line="80" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxc.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IENoZWNrIGlmIERvY3VtZW50IGlzIGFmZmVjdGVkIGZvciB0aGlzIERBREk=</text>
+        <text>fefef</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IENoZWNrIGlmIERvY3VtZW50IGlzIGFmZmVjdGVkIGZvciB0aGlzIERBREk=</text>
+        <text>fefef</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwbG1Eb2NcPg==</text>
+        <text encoding="base64">XDx2X3BhcmVudHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFRyYWNlLnByaW50bG4oQ29udlV0aWxzLlRSQUNFX1BSRUZJWCwgVHJhY2UuREVCVUcsICIgQ2hlY2sgaWYgRG9jdW1lbnQgaXMgYWZmZWN0ZWQgZm9yIHRoaXMgREFESSIpOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIFBsbURvY3VtZW50IGNvbnZEb2M7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGlmIChtYXN0ZXIgPT0gbnUpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGlmIChtYXN0ZXIgPT0gbnUpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwZGMucmVhZE1haW5EZXRhaWxzKCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="5" type="4">
         <text>DadiConvCopyToOtherNxc dadiConvCopyToOtherNxc = new DadiConvCopyToOtherNxc();
       dadiConvCopyToOtherNxc.setData(getData());
       dadiConvCopyToOtherNxc.execute();</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3bndlCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGZlZmVrYWZpZWZlZmxlYQo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">cGxtLnVzZXJwYXJhbWV0ZXIubGlzdCA9IEBwbG0udXNlcnBhcmFtZXRlci5saXN0QDsgQzsgRAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGxtLnVzZXJwYXJhbWV0ZXIubGlzdCA9IEE7Qgo=</text>
+        <text encoding="base64">ICAgICAgICB3bndlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZlZmVrYWZpZWZlZmxlYQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cGxtLnVzZXJwYXJhbWV0ZXIubGlzdCA9IEBwbG0udXNlcnBhcmFtZXRlci5saXN0QDsgQzsgRAo=</text>
       </register>
       <register name=":" type="4">
         <text>658</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwbG1Eb2NcPg==</last-search>
+      <last-search encoding="base64">XDx2X3BhcmVudHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwbG1Eb2NcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx2X3BhcmVudHNcPg==</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -230,8 +226,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDTEFTU19TVFVDVFVSRVw+</entry>
-        <entry encoding="base64">XDx0cmVlU3RydWN0dXJlXD4=</entry>
         <entry encoding="base64">XDxjaGlsZENsYXNzTmFtZVw+</entry>
         <entry encoding="base64">XDxjbGFzc0lucHV0VGV4dGZpZWxkXD4=</entry>
         <entry encoding="base64">XDxzZWxlY3RlZFw+</entry>
@@ -250,6 +244,8 @@
         <entry encoding="base64">XDxjb252RG9jXD4=</entry>
         <entry encoding="base64">XDxvdGhlckRvY1w+</entry>
         <entry encoding="base64">XDxwbG1Eb2NcPg==</entry>
+        <entry encoding="base64">XDxtYXN0ZXJcPg==</entry>
+        <entry encoding="base64">XDx2X3BhcmVudHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>310</entry>
