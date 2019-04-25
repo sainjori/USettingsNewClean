@@ -66,6 +66,10 @@
     <mouse-shortcut keystroke="control button1" />
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
   <action id="Groovy.Shell.Execute" />
   <action id="GuiDesigner.QuickJavadoc" />
   <action id="HippieCompletion">
