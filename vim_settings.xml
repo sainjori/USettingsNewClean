@@ -51,6 +51,9 @@
         <mark key="." line="90" column="0" />
         <mark key="^" line="320" column="113" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1-SNAPSHOT/base-5.1-20190411.130436-274-sources.jar!/cadagent/cfc/util/ZIPHandler.java" timestamp="1556551449767">
+        <mark key="'" line="335" column="2" />
+      </file>
       <file name="/Dummy.txt" timestamp="1556195905135">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
@@ -120,7 +123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1568" column="28" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
       <jump line="112" column="45" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-52/addons/fctr/customize/config/default.txt" />
       <jump line="68" column="31" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-52/customize/config/default.txt" />
       <jump line="97" column="20" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-52/addons/fctr/customize/config/default.txt" />
@@ -220,6 +222,7 @@
       <jump line="222" column="8" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/cfc/log/Log.java" />
       <jump line="223" column="6" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/cfc/log/Log.java" />
       <jump line="225" column="0" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/sap/ConversionObserver.java" />
+      <jump line="335" column="2" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1-SNAPSHOT/base-5.1-20190411.130436-274-sources.jar!/cadagent/cfc/util/ZIPHandler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
