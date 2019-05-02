@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/FileServer/Failure.java" timestamp="1556809215819" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1-SNAPSHOT/plm-5.1-SNAPSHOT-sources.jar!/plm/fs/handler/move/MoveDirMoveUpUnzip.java" timestamp="1556801645580" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/PlmProcessWirtgenMaterialHandler.java" timestamp="1556192737353">
         <mark key="[" line="322" column="71" />
@@ -22,7 +23,7 @@
         <mark key="^" line="57" column="44" />
         <mark key="." line="57" column="44" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/sap/ConversionObserver.java" timestamp="1556208976141">
+      <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/sap/ConversionObserver.java" timestamp="1556806365576">
         <mark key="'" line="225" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxc.java" timestamp="1556187955676">
@@ -30,6 +31,11 @@
         <mark key="]" line="104" column="101" />
         <mark key="." line="104" column="101" />
         <mark key="^" line="104" column="101" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1-SNAPSHOT/plm-5.1-SNAPSHOT-sources.jar!/plm/fs/FileManagerImpl.java" timestamp="1556808557898">
+        <mark key="'" line="484" column="4" />
+        <mark key="[" line="598" column="0" />
+        <mark key="]" line="601" column="5" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/PlmProcessWirtgenDocumentHandler.java" timestamp="1556192811688">
         <mark key="'" line="945" column="7" />
@@ -47,11 +53,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1-SNAPSHOT/base-5.1-20190411.130436-274-sources.jar!/cadagent/cfc/util/ZIPHandler.java" timestamp="1556551449767">
         <mark key="'" line="335" column="2" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1556195905135">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.8.1/plm-5.1.8.1-sources.jar!/plm/brobj/BrMasterModelContainer.java" timestamp="1556186871239" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/gui/browser/FoldableGxPanel.java" timestamp="1556203972062" />
@@ -71,6 +72,7 @@
         <mark key="." line="2693" column="26" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/utils/MonitoringLogUtils.java" timestamp="1556207823870" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1-SNAPSHOT/plm-5.1-SNAPSHOT-sources.jar!/plm/fs/handler/create/CreateUserCopiesHandler.java" timestamp="1556807251471" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxd.java" timestamp="1556186674616">
         <mark key="'" line="183" column="104" />
       </file>
@@ -80,23 +82,20 @@
         <mark key="^" line="38" column="77" />
         <mark key="." line="38" column="77" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/fs/FileManagerImpl.java" timestamp="1556808817350" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionScheduleCid.java" timestamp="1556203589745" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.8.1/convert-5.1.8.1-sources.jar!/cadagent/sap/ProcessStartConversion.java" timestamp="1556184200678">
         <mark key="'" line="1173" column="39" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/sap/ConversionServer.java" timestamp="1556195629241" />
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/srv/utils/checks/CheckHandler.java" timestamp="1556207913638" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionSchedule.java" timestamp="1556203836484">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/pom.xml" timestamp="1556041044499">
         <mark key="[" line="12" column="25" />
         <mark key="]" line="12" column="24" />
         <mark key="^" line="12" column="24" />
         <mark key="." line="12" column="24" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/sap/ProcessStartConversion.java" timestamp="1556806337952" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1-SNAPSHOT/base-5.1-20190411.130436-274-sources.jar!/cadagent/cfc/util/FileCopy.java" timestamp="1556205829518">
         <mark key="'" line="79" column="21" />
       </file>
@@ -116,10 +115,10 @@
         <mark key="^" line="255" column="41" />
         <mark key="." line="255" column="41" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/Log.java" timestamp="1556624723216" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/utils/DirtyFlagChecker.java" timestamp="1556806385457" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/Log.java" timestamp="1556809552791" />
     </filemarks>
     <jumps>
-      <jump line="112" column="45" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-52/addons/fctr/customize/config/default.txt" />
       <jump line="68" column="31" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-52/customize/config/default.txt" />
       <jump line="97" column="20" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-52/addons/fctr/customize/config/default.txt" />
       <jump line="83" column="41" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
@@ -219,10 +218,11 @@
       <jump line="579" column="6" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/cfc/log/Log.java" />
       <jump line="585" column="21" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/cfc/log/Log.java" />
       <jump line="95" column="67" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/cfc/log/Log.java" />
+      <jump line="484" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1-SNAPSHOT/plm-5.1-SNAPSHOT-sources.jar!/plm/fs/FileManagerImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>C</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNhdGNoIChJT0V4Y2VwdGlvbiBlKQogICAgewogICAgICB0aHJvdyBuZXcgcGxtLkZpbGVTZXJ2ZXIuRmFpbHVyZShlKTsKICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>C</text>
@@ -234,36 +234,36 @@
         <text encoding="base64">ICBwcml2YXRlIFBsbURvY3VtZW50IGNvbnZEb2M7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVsc2UK</text>
+        <text encoding="base64">ICAgIGNhdGNoIChJT0V4Y2VwdGlvbiBlKQogICAgewogICAgICB0aHJvdyBuZXcgcGxtLkZpbGVTZXJ2ZXIuRmFpbHVyZShlKTsKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChtYXN0ZXIgPT0gbnUpCg==</text>
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIGlmIChtYXN0ZXIgPT0gbnUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwZGMucmVhZE1haW5EZXRhaWxzKCk7Cg==</text>
+        <text encoding="base64">ICAgIGlmIChtYXN0ZXIgPT0gbnUpCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwZGMucmVhZE1haW5EZXRhaWxzKCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>DadiConvCopyToOtherNxc dadiConvCopyToOtherNxc = new DadiConvCopyToOtherNxc();
       dadiConvCopyToOtherNxc.setData(getData());
       dadiConvCopyToOtherNxc.execute();</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3bndlCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZlZmVrYWZpZWZlZmxlYQo=</text>
+        <text encoding="base64">ICAgICAgICB3bndlCg==</text>
       </register>
       <register name=":" type="4">
         <text>1169</text>
