@@ -74,6 +74,9 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/utils/MonitoringLogUtils.java" timestamp="1556207823870" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1-SNAPSHOT/plm-5.1-SNAPSHOT-sources.jar!/plm/fs/handler/create/CreateUserCopiesHandler.java" timestamp="1556807251471" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/cfc/util/Trace.java" timestamp="1556810707506">
+        <mark key="'" line="389" column="25" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxd.java" timestamp="1556186674616">
         <mark key="'" line="183" column="104" />
       </file>
@@ -120,7 +123,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/Log.java" timestamp="1556809552791" />
     </filemarks>
     <jumps>
-      <jump line="68" column="31" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-52/customize/config/default.txt" />
       <jump line="97" column="20" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-52/addons/fctr/customize/config/default.txt" />
       <jump line="83" column="41" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
       <jump line="115" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
@@ -220,6 +222,7 @@
       <jump line="585" column="21" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/cfc/log/Log.java" />
       <jump line="95" column="67" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/cfc/log/Log.java" />
       <jump line="484" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1-SNAPSHOT/plm-5.1-SNAPSHOT-sources.jar!/plm/fs/FileManagerImpl.java" />
+      <jump line="389" column="25" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/cfc/util/Trace.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -229,7 +232,7 @@
         <text>C</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlcnJvclN0YWNrXD4=</text>
+        <text encoding="base64">XDxsb2dUcmFjZUhhbmRsZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcml2YXRlIFBsbURvY3VtZW50IGNvbnZEb2M7Cg==</text>
@@ -271,9 +274,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlcnJvclN0YWNrXD4=</last-search>
+      <last-search encoding="base64">XDxsb2dUcmFjZUhhbmRsZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlcnJvclN0YWNrXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dUcmFjZUhhbmRsZXJcPg==</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -281,7 +284,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhdXN3YWhsX2luX2tsYXNzZW5zdHJ1a3R1clw+</entry>
         <entry encoding="base64">XDxkaXJla3RlaW5nYWJlXD4=</entry>
         <entry encoding="base64">XDxDT01NQU5EX09LXD4=</entry>
         <entry encoding="base64">XDxjb21ib1NlbGVjdFRyZWVcPg==</entry>
@@ -301,6 +303,7 @@
         <entry encoding="base64">XDx1c2VyRGlhbG9nU2l6ZVByZWYxXD4=</entry>
         <entry encoding="base64">XDwyXD4=</entry>
         <entry encoding="base64">XDxlcnJvclN0YWNrXD4=</entry>
+        <entry encoding="base64">XDxsb2dUcmFjZUhhbmRsZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>310</entry>
