@@ -38,10 +38,11 @@
         <mark key="'" line="183" column="104" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/fs/FileManagerImpl.java" timestamp="1556808817350" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/sap/ConversionObserver.java" timestamp="1556815118472" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/sap/ConversionObserver.java" timestamp="1556883219050" />
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/sap/ProcessStartConversion.java" timestamp="1556806337952" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_osgi/src/main/java/carlzeiss/ob/tab/mat/TabMatComplAssignment.java" timestamp="1556799771576" />
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/sap/ConversionLogger.java" timestamp="1556543576715" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.7.1/sapbase-5.1.7.1.jar!/cadagent/sap/conn/jco/tm/Transaction.class" timestamp="1556882089776" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/PlmProcessWirtgenBomHandler.java" timestamp="1556192864415">
         <mark key="'" line="255" column="18" />
         <mark key="[" line="255" column="18" />
@@ -54,31 +55,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/Log.java" timestamp="1556809552791" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/FileServer/Failure.java" timestamp="1556809215819" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1-SNAPSHOT/plm-5.1-SNAPSHOT-sources.jar!/plm/fs/handler/move/MoveDirMoveUpUnzip.java" timestamp="1556801645580" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/PlmProcessWirtgenMaterialHandler.java" timestamp="1556192737353">
-        <mark key="[" line="322" column="71" />
-        <mark key="]" line="322" column="91" />
-        <mark key="^" line="322" column="91" />
-        <mark key="." line="322" column="91" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/dadi/initial.java" timestamp="1556882733573">
+        <mark key="'" line="134" column="31" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/srv/utils/checks/CheckFreeSpaceDirectory.java" timestamp="1556208154626">
-        <mark key="[" line="58" column="4" />
-        <mark key="]" line="58" column="8" />
-        <mark key="^" line="58" column="8" />
-        <mark key="." line="58" column="8" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" timestamp="1556883930976">
+        <mark key="'" line="48" column="50" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/WirtgenDialogSize.java" timestamp="1556192637235">
-        <mark key="[" line="57" column="44" />
-        <mark key="]" line="57" column="44" />
-        <mark key="^" line="57" column="44" />
-        <mark key="." line="57" column="44" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxc.java" timestamp="1556187955676">
-        <mark key="[" line="104" column="92" />
-        <mark key="]" line="104" column="101" />
-        <mark key="." line="104" column="101" />
-        <mark key="^" line="104" column="101" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" timestamp="1556809722570" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxm.java" timestamp="1556187379846">
         <mark key="'" line="141" column="101" />
         <mark key="[" line="90" column="0" />
@@ -95,56 +77,18 @@
         <mark key="'" line="220" column="23" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/sap/ProcessGetAp.java" timestamp="1556202869435" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_osgi/pom.xml" timestamp="1556041059483">
-        <mark key="[" line="38" column="77" />
-        <mark key="]" line="38" column="77" />
-        <mark key="^" line="38" column="77" />
-        <mark key="." line="38" column="77" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionScheduleCid.java" timestamp="1556203589745" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.8.1/convert-5.1.8.1-sources.jar!/cadagent/sap/ProcessStartConversion.java" timestamp="1556184200678">
         <mark key="'" line="1173" column="39" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/sap/ConversionServer.java" timestamp="1556195629241" />
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/srv/utils/checks/CheckHandler.java" timestamp="1556207913638" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/ectr_dadi/pom.xml" timestamp="1556041044499">
-        <mark key="[" line="12" column="25" />
-        <mark key="]" line="12" column="24" />
-        <mark key="^" line="12" column="24" />
-        <mark key="." line="12" column="24" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1-SNAPSHOT/base-5.1-20190411.130436-274-sources.jar!/cadagent/cfc/util/FileCopy.java" timestamp="1556205829518">
         <mark key="'" line="79" column="21" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deere-hitachi/trunk/pom.xml" timestamp="1556041097752">
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="8" column="18" />
-        <mark key="^" line="8" column="18" />
-        <mark key="." line="8" column="18" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/srv/utils/checks/SrvDiskSpaceChecker.java" timestamp="1556202747919" />
     </filemarks>
     <jumps>
-      <jump line="97" column="20" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-52/addons/fctr/customize/config/default.txt" />
-      <jump line="83" column="41" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
-      <jump line="115" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
-      <jump line="243" column="28" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
-      <jump line="283" column="25" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
-      <jump line="293" column="19" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
-      <jump line="308" column="27" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
-      <jump line="323" column="45" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
-      <jump line="338" column="11" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
-      <jump line="371" column="35" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
-      <jump line="375" column="10" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
-      <jump line="414" column="37" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
-      <jump line="418" column="12" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
-      <jump line="453" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
-      <jump line="465" column="11" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
-      <jump line="487" column="23" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
-      <jump line="493" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
-      <jump line="525" column="10" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
-      <jump line="526" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
-      <jump line="552" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
       <jump line="750" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
       <jump line="777" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
       <jump line="843" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
@@ -225,6 +169,26 @@
       <jump line="95" column="67" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/cfc/log/Log.java" />
       <jump line="484" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1-SNAPSHOT/plm-5.1-SNAPSHOT-sources.jar!/plm/fs/FileManagerImpl.java" />
       <jump line="389" column="25" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/cfc/util/Trace.java" />
+      <jump line="134" column="31" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/dadi/initial.java" />
+      <jump line="83" column="4" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
+      <jump line="98" column="4" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
+      <jump line="126" column="11" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
+      <jump line="140" column="23" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
+      <jump line="155" column="23" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
+      <jump line="164" column="9" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
+      <jump line="166" column="16" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
+      <jump line="167" column="22" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
+      <jump line="168" column="6" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
+      <jump line="182" column="4" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
+      <jump line="190" column="12" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
+      <jump line="223" column="11" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
+      <jump line="241" column="20" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
+      <jump line="244" column="16" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
+      <jump line="247" column="24" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
+      <jump line="334" column="9" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
+      <jump line="336" column="16" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
+      <jump line="339" column="34" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
+      <jump line="48" column="50" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -234,7 +198,7 @@
         <text>C</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dUcmFjZUhhbmRsZXJcPg==</text>
+        <text encoding="base64">XDxlcnJvclN0YWNrXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcml2YXRlIFBsbURvY3VtZW50IGNvbnZEb2M7Cg==</text>
@@ -276,9 +240,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dUcmFjZUhhbmRsZXJcPg==</last-search>
+      <last-search encoding="base64">XDxlcnJvclN0YWNrXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dUcmFjZUhhbmRsZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxlcnJvclN0YWNrXD4=</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -304,8 +268,8 @@
         <entry encoding="base64">XDx2X3BhcmVudHNcPg==</entry>
         <entry encoding="base64">XDx1c2VyRGlhbG9nU2l6ZVByZWYxXD4=</entry>
         <entry encoding="base64">XDwyXD4=</entry>
-        <entry encoding="base64">XDxlcnJvclN0YWNrXD4=</entry>
         <entry encoding="base64">XDxsb2dUcmFjZUhhbmRsZXJcPg==</entry>
+        <entry encoding="base64">XDxlcnJvclN0YWNrXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>310</entry>
