@@ -3,38 +3,30 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.12.1/customize/config/default.txt" timestamp="1557146452584">
+        <mark key="[" line="2585" column="0" />
+        <mark key="]" line="2585" column="0" />
+        <mark key="." line="2585" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/dadi/initial.java" timestamp="1556882733573">
         <mark key="'" line="134" column="31" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/sap/ConversionObserver.java" timestamp="1556806365576">
         <mark key="'" line="225" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1557146059939" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1-SNAPSHOT/plm-5.1-SNAPSHOT-sources.jar!/plm/fs/FileManagerImpl.java" timestamp="1556808557898">
         <mark key="'" line="484" column="4" />
         <mark key="[" line="598" column="0" />
         <mark key="]" line="601" column="5" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/PlmProcessWirtgenDocumentHandler.java" timestamp="1556192811688">
-        <mark key="'" line="945" column="7" />
-        <mark key="[" line="940" column="100" />
-        <mark key="]" line="940" column="99" />
-        <mark key="^" line="940" column="99" />
-        <mark key="." line="940" column="99" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" timestamp="1556883930976">
         <mark key="'" line="48" column="50" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxm.java" timestamp="1556187379846">
-        <mark key="'" line="141" column="101" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
-        <mark key="^" line="320" column="113" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1-SNAPSHOT/base-5.1-20190411.130436-274-sources.jar!/cadagent/cfc/util/ZIPHandler.java" timestamp="1556551449767">
         <mark key="'" line="335" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557137723879">
+      <file name="/Dummy.txt" timestamp="1557146502977">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/cfc/log/Log.java" timestamp="1556801116334">
@@ -43,35 +35,29 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/utils/ConvUtils.java" timestamp="1556187326451">
         <mark key="'" line="220" column="23" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" timestamp="1556559512041">
-        <mark key="'" line="2687" column="0" />
-        <mark key="[" line="2693" column="25" />
-        <mark key="]" line="2693" column="26" />
-        <mark key="^" line="2693" column="26" />
-        <mark key="." line="2693" column="26" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.12.1/sapbase-5.1.12.1-sources.jar!/cadagent/dtype/DTypeContainer.java" timestamp="1557146067359" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/cfc/util/Trace.java" timestamp="1556810707506">
         <mark key="'" line="389" column="25" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxd.java" timestamp="1556186674616">
         <mark key="'" line="183" column="104" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" timestamp="1557146647704" />
+      <file name="/attributes-from-sap.xml" timestamp="1557146838202" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.8.1/convert-5.1.8.1-sources.jar!/cadagent/sap/ProcessStartConversion.java" timestamp="1556184200678">
         <mark key="'" line="1173" column="39" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1-SNAPSHOT/base-5.1-20190411.130436-274-sources.jar!/cadagent/cfc/util/FileCopy.java" timestamp="1556205829518">
         <mark key="'" line="79" column="21" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/PlmProcessWirtgenBomHandler.java" timestamp="1556192864415">
-        <mark key="'" line="255" column="18" />
-        <mark key="[" line="255" column="18" />
-        <mark key="]" line="255" column="41" />
-        <mark key="^" line="255" column="41" />
-        <mark key="." line="255" column="41" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.12.1/basis/config/system-default.txt" timestamp="1557146394473">
+        <mark key="'" line="5" column="55" />
+      </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.12.1/customize/config/attributes-from-sap.xml" timestamp="1557146850006">
+        <mark key="[" line="395" column="12" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="777" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
       <jump line="843" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
       <jump line="1371" column="28" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
       <jump line="1514" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/pref/Preferences.java" />
@@ -171,10 +157,11 @@
       <jump line="339" column="34" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
       <jump line="48" column="50" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
       <jump line="186" column="32" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="5" column="55" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.12.1/basis/config/system-default.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNhdGNoIChJT0V4Y2VwdGlvbiBlKQogICAgewogICAgICB0aHJvdyBuZXcgcGxtLkZpbGVTZXJ2ZXIuRmFpbHVyZShlKTsKICAgIH0K</text>
+        <text encoding="base64">eXBzb21lZC52ZWEucmVuYW1lci5nZXQuZGV0YWlscy5kb2MgPSB0cnVlCg==</text>
       </register>
       <register name="-" type="4">
         <text>C</text>
@@ -186,39 +173,39 @@
         <text encoding="base64">ICBwcml2YXRlIFBsbURvY3VtZW50IGNvbnZEb2M7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNhdGNoIChJT0V4Y2VwdGlvbiBlKQogICAgewogICAgICB0aHJvdyBuZXcgcGxtLkZpbGVTZXJ2ZXIuRmFpbHVyZShlKTsKICAgIH0K</text>
+        <text encoding="base64">eXBzb21lZC52ZWEucmVuYW1lci5nZXQuZGV0YWlscy5kb2MgPSB0cnVlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVsc2UK</text>
+        <text encoding="base64">ICAgIGNhdGNoIChJT0V4Y2VwdGlvbiBlKQogICAgewogICAgICB0aHJvdyBuZXcgcGxtLkZpbGVTZXJ2ZXIuRmFpbHVyZShlKTsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChtYXN0ZXIgPT0gbnUpCg==</text>
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIGlmIChtYXN0ZXIgPT0gbnUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwZGMucmVhZE1haW5EZXRhaWxzKCk7Cg==</text>
+        <text encoding="base64">ICAgIGlmIChtYXN0ZXIgPT0gbnUpCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwZGMucmVhZE1haW5EZXRhaWxzKCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>DadiConvCopyToOtherNxc dadiConvCopyToOtherNxc = new DadiConvCopyToOtherNxc();
       dadiConvCopyToOtherNxc.setData(getData());
       dadiConvCopyToOtherNxc.execute();</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3bndlCg==</text>
-      </register>
       <register name=":" type="4">
-        <text>1169</text>
+        <text>331</text>
       </register>
     </registers>
     <search>
@@ -254,7 +241,6 @@
         <entry encoding="base64">XDxlcnJvclN0YWNrXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>310</entry>
         <entry>191</entry>
         <entry>460</entry>
         <entry>execute</entry>
@@ -274,6 +260,7 @@
         <entry>help key-notation</entry>
         <entry>658</entry>
         <entry>1169</entry>
+        <entry>331</entry>
       </history-cmd>
       <history-expr />
       <history-input />
