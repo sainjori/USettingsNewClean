@@ -16,12 +16,12 @@
         <mark key="[" line="382" column="0" />
         <mark key="]" line="383" column="85" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1557222134127">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1557224753683">
         <mark key="'" line="1330" column="6" />
-        <mark key="[" line="1062" column="0" />
-        <mark key="]" line="1062" column="0" />
-        <mark key="." line="1062" column="0" />
-        <mark key="^" line="1062" column="22" />
+        <mark key="[" line="1071" column="33" />
+        <mark key="]" line="1071" column="33" />
+        <mark key="." line="1071" column="33" />
+        <mark key="^" line="1071" column="33" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/cfc/log/Log.java" timestamp="1556801116334">
         <mark key="'" line="95" column="67" />
@@ -185,17 +185,17 @@
       <jump line="1330" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNldFZpc2libGUoKTsKICAgICAgICAgIHBycC4K</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxneFR4dF92YWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc2VsZWN0aW9uLmFkZChrZXlWYWwyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGtleSA9IHN0cmluZ09iclRhYmxlRGlzcGxheUVudHJ5LmdldEtleSgpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIHNldFZpc2libGUoKTsKICAgICAgICAgIHBycC4K</text>
