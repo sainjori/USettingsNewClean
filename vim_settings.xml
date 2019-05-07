@@ -6,9 +6,11 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" timestamp="1557233734328">
         <mark key="'" line="230" column="6" />
       </file>
-      <file name="/a.dummy" timestamp="1557236391772">
+      <file name="/a.dummy" timestamp="1557241882246">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.12.1/addons-5.1.12.1-sources.jar!/plm/gui/SapUserParameterTableDialog.java" timestamp="1557241045144" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.12.1/sapbase-5.1.12.1-sources.jar!/cadagent/plm/MatNoConverter.java" timestamp="1557243380326" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.1/plm-5.1.12.1-sources.jar!/plm/omf/OmfClhSearchObjects.java" timestamp="1557152768693" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.1/plm-5.1.12.1-sources.jar!/plm/gui/classhierarchy/TableSearchF4CellEditor.java" timestamp="1557153169429" />
       <file name="C:/Program Files/Java/jdk1.8.0_162/src.zip!/javax/swing/JComboBox.java" timestamp="1557234134710">
@@ -26,12 +28,12 @@
         <mark key="[" line="382" column="0" />
         <mark key="]" line="383" column="85" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1557239579812">
-        <mark key="'" line="943" column="31" />
-        <mark key="[" line="1144" column="0" />
-        <mark key="]" line="1144" column="0" />
-        <mark key="." line="1144" column="0" />
-        <mark key="^" line="1138" column="14" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1557244996636">
+        <mark key="'" line="677" column="46" />
+        <mark key="[" line="1107" column="80" />
+        <mark key="]" line="1108" column="33" />
+        <mark key="." line="1108" column="33" />
+        <mark key="^" line="1108" column="33" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_162/src.zip!/javax/swing/plaf/basic/BasicComboBoxUI.java" timestamp="1557233944231" />
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/cfc/log/Log.java" timestamp="1556801116334">
@@ -57,6 +59,7 @@
         <mark key="'" line="2048" column="6" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.12.1/addons-5.1.12.1-sources.jar!/plm/modules/ps/proc/PlmProcessPsActivityCreate.java" timestamp="1557158899021" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.12.1/addons-5.1.12.1-sources.jar!/cadagent/modules/variantconfiguration/VariantConfigurationUtils.java" timestamp="1557243407889" />
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/dadi/initial.java" timestamp="1556882733573">
         <mark key="'" line="134" column="31" />
       </file>
@@ -77,6 +80,9 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/utils/ConvUtils.java" timestamp="1556187326451">
         <mark key="'" line="220" column="23" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1557241248648">
+        <mark key="'" line="915" column="11" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.1/plm-5.1.12.1-sources.jar!/plm/gui/classhierarchy/DefaultObrClassHierarchySearchCellEditor.java" timestamp="1557153512125" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" timestamp="1557146647704" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.12.1/addons-5.1.12.1-sources.jar!/plm/brobj/BrBomRuleset.java" timestamp="1557163508590" />
@@ -90,31 +96,14 @@
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.12.1/customize/config/attributes-from-sap.xml" timestamp="1557146850006">
         <mark key="[" line="395" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1557164715056">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.java" timestamp="1557243825287">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.1/plm-5.1.12.1-sources.jar!/plm/proc/mat/MaterialSearchService.java" timestamp="1557159804023" />
     </filemarks>
     <jumps>
-      <jump line="389" column="25" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/cfc/util/Trace.java" />
-      <jump line="134" column="31" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/dadi/initial.java" />
-      <jump line="83" column="4" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
-      <jump line="98" column="4" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
-      <jump line="126" column="11" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
-      <jump line="140" column="23" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
-      <jump line="155" column="23" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
-      <jump line="164" column="9" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
-      <jump line="166" column="16" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
-      <jump line="167" column="22" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
-      <jump line="168" column="6" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
-      <jump line="182" column="4" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
-      <jump line="190" column="12" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
-      <jump line="223" column="11" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
-      <jump line="241" column="20" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
-      <jump line="244" column="16" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
-      <jump line="247" column="24" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
-      <jump line="334" column="9" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
-      <jump line="336" column="16" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
       <jump line="339" column="34" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
       <jump line="48" column="50" filename="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" />
       <jump line="186" column="32" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
@@ -196,58 +185,77 @@
       <jump line="509" column="19" filename="C:/Program Files/Java/jdk1.8.0_162/src.zip!/javax/swing/JComboBox.java" />
       <jump line="515" column="15" filename="C:/Program Files/Java/jdk1.8.0_162/src.zip!/javax/swing/JComboBox.java" />
       <jump line="938" column="31" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="638" column="46" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="498" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="499" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="874" column="19" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="946" column="19" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="1286" column="15" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="1288" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="142" column="19" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="281" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="282" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="283" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="284" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="295" column="35" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="332" column="22" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="422" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="901" column="36" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="906" column="40" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="910" column="16" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="915" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>OPTION_SELECT_EXISTING_MATERIAL</text>
       </register>
       <register name="-" type="4">
-        <text>oUser</text>
+        <text>OPTION_SELECT_EXISTING_MATERIAL</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxPUFRJT05fU0VMRUNUX0VYSVNUSU5HX01BVEVSSUFMXD4=</text>
+        <text encoding="base64">XDxhY3Rpb25Db21tYW5kXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGtleSA9IHN0cmluZ09iclRhYmxlRGlzcGxheUVudHJ5LmdldEtleSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKChHeEtleVZhbHVlKSBuZXdWYWx1ZSkuZ2V0S2V5KCkuZXF1YWxzKE9QVElPTl9TRUxFQ1RfRVhJU1RJTkdfTUFURVJJQUwpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBva0J1dHRvbi5zZXRFbmFibGVkKHRydWUpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgIHJldHVybiBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcnAuc2V0U2VsZWN0aW9uKHNlbGVjdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmICghdXNlci5pc0VtcHR5KCkpCiAgICAgICAgICB7CiAgICAgICAgICAgIFBsbVVzZXIgcGxtVXNlciA9IFBsbVVzZXIuZ2V0VXNlcih1c2VyKTsKICAgICAgICAgICAgaWYgKHBsbVVzZXIgPT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgIC8vIHVzZXIgZXhpc3RpZXJ0IG5pY2h0CiAgICAgICAgICAgIH0KICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIG9rCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBlZGl0b3Iuc2V0VmFsaWQoZmFsc2UpOwogICAgICAgICAgICAgIHJldHVybiBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICBvawo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN0cmluZyB1c2VyID0gb1VzZXIudG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3QgcGxtTWF0ID0gdmFsdWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>331</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxPUFRJT05fU0VMRUNUX0VYSVNUSU5HX01BVEVSSUFMXD4=</last-search>
+      <last-search encoding="base64">XDxhY3Rpb25Db21tYW5kXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxPUFRJT05fU0VMRUNUX0VYSVNUSU5HX01BVEVSSUFMXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhY3Rpb25Db21tYW5kXD4=</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -255,8 +263,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDVVNUT01fVVNFUl9QQVJBTUVURVJfUFJFRklYXD4=</entry>
-        <entry encoding="base64">XDxwcmVmT2JqZWN0c1RhYmxlXD4=</entry>
         <entry encoding="base64">XDxpZGVudGlmaWVyXD4=</entry>
         <entry encoding="base64">XDxkb2NOeGRcPg==</entry>
         <entry encoding="base64">XDxjb252RG9jXD4=</entry>
@@ -275,6 +281,8 @@
         <entry encoding="base64">XDxwcm9wZXJ0eVNlbGVjdGlvblw+</entry>
         <entry encoding="base64">XDxlZGl0b3JcPg==</entry>
         <entry encoding="base64">XDxPUFRJT05fU0VMRUNUX0VYSVNUSU5HX01BVEVSSUFMXD4=</entry>
+        <entry encoding="base64">XDxidE9LXD4=</entry>
+        <entry encoding="base64">XDxhY3Rpb25Db21tYW5kXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>191</entry>
