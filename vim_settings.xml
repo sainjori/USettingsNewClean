@@ -25,12 +25,12 @@
         <mark key="'" line="225" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.1/plm-5.1.12.1-sources.jar!/plm/proc/PlmProcessUserSearch.java" timestamp="1557160062500" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1557323768857">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1557326534085">
         <mark key="'" line="951" column="32" />
-        <mark key="[" line="1176" column="45" />
-        <mark key="]" line="1177" column="30" />
-        <mark key="." line="1177" column="30" />
-        <mark key="^" line="1177" column="30" />
+        <mark key="[" line="1272" column="27" />
+        <mark key="]" line="1273" column="40" />
+        <mark key="." line="1273" column="40" />
+        <mark key="^" line="1273" column="40" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_162/src.zip!/javax/swing/plaf/basic/BasicComboBoxUI.java" timestamp="1557233944231" />
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/cfc/log/Log.java" timestamp="1556801116334">
@@ -75,8 +75,10 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1-SNAPSHOT/base-5.1-20190411.130436-274-sources.jar!/cadagent/cfc/util/ZIPHandler.java" timestamp="1556551449767">
         <mark key="'" line="335" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557323898922">
+      <file name="/Dummy.txt" timestamp="1557325942035">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsNetworkActivityCreate.java" timestamp="1557155313566" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/utils/ConvUtils.java" timestamp="1556187326451">
@@ -210,10 +212,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc2V0QmVmb3JlU3RhdGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBlZGl0b3Iuc3RvCg==</text>
       </register>
       <register name="-" type="4">
-        <text>gxKeyValue.toString();</text>
+        <text>ffe</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNRVRFUklBTF9OVU1CRVJcPg==</text>
@@ -222,38 +224,35 @@
         <text encoding="base64">ICAgICAgICBPYnJQcm9wZXJ0eSBvYnJQcm9wZXJ0eSA9IHRoaXMuZ2V0T2JyUHJvcGVydHkoTUVURVJJQUxfTlVNQkVSKTsKICAgICAgICBvYnJQcm9wZXJ0eS5zZXRUYWJsZUNlbGxFZGl0b3IobmV3IFVzZXJUYWJsZUNlbGxFZGl0b3IoKEd4S2V5VmFsdWUpIG5ld1ZhbHVlLCB0aGlzKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc2V0QmVmb3JlU3RhdGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBlZGl0b3Iuc3RvCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text>private void resetBeforeState()
-      {
-        @Nullable ObrProperty obrProperty = this.customAssignBrowseObject.getObrProperty(PRP_STATUS);
-        obrProperty.
-      }</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuY3VzdG9tQXNzaWduQnJvd3NlT2JqZWN0Lgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="4">
+        <text>if (customAssignBrowseObject == this)
+          continue;</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGlmIChpc0Ryb3Bkb3duU2VsZWN0RXhpc3RpbmcoKSkKLy8gICAgICAgICAgb2tCdXR0b24uc2V0RW5hYmxlZChmYWxzZSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGNoZWNrSWZNYXRFeGlzdHMoKEd4S2V5VmFsdWUpIG5ld1ZhbHVlKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiAiKiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgdGFibGUucmVwYWludCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuc3RvcENlbGxFZGl0aW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdW1tYXJpemluZ0RvdWJsZSguKQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IE9ickNoaWxkcmVuRGlzcGxheTxDdXN0b21Bc3NpZ25Ccm93c2VPYmplY3Q+IG9ickNoaWxkcmVuRGlzcGxheSA9IHRhYmxlLmdldE9ickNoaWxkcmVuRGlzcGxheSgpOwogICAgICAgIGZvciAoTWFwLkVudHJ5PFN0cmluZywgT2JyVGFibGVEaXNwbGF5PiBzdHJpbmdPYnJUYWJsZURpc3BsYXlFbnRyeSA6IG9ickNoaWxkcmVuRGlzcGxheS5nZXRPYnJUYWJsZURpc3BsYXlzKCkuZW50cnlTZXQoKSkKICAgICAgICB7CiAgICAgICAgICBPYnJUYWJsZURpc3BsYXkgdGFibGVEaXNwbGF5ID0gc3RyaW5nT2JyVGFibGVEaXNwbGF5RW50cnkuZ2V0VmFsdWUoKTsKICAgICAgICAgIHRhYmxlRGlzcGxheS5zZXRDb2x1bW5TZWxlY3Rpb25BbGxvd2VkKHRydWUpOwovLyAgICAgICAgICB0YWJsZURpc3BsYXkuZ2V0Q2VsbEVkaXRvcigpLnN0b3BDZWxsRWRpdGluZygpOyAvLyBzdG9yZSB1c2VyIGlucHV0CiAgICAgICAgICBpbnQgcm93ID0gdGFibGVEaXNwbGF5LmdldFNlbGVjdGVkUm93KCk7CiAgICAgICAgICBpbnQgY29sID0gdGFibGVEaXNwbGF5LmdldFNlbGVjdGVkQ29sdW1uKCk7Ci8vICAgICAgICAgIFN0cmluZyB2YWwgPSBTdHJpbmcudmFsdWVPZih0YWJsZURpc3BsYXkuZ2V0VmFsdWVBdChyb3csIGNvbCkpLnRvTG93ZXJDYXNlKCk7CgogICAgICAgICAgdGFibGVEaXNwbGF5LmNoYW5nZVNlbGVjdGlvbigwLCAyLCB0cnVlLCB0cnVlKTsKICAgICAgICAgIHRhYmxlRGlzcGxheS5lZGl0Q2VsbEF0KDAsIDIpOwogICAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>331</text>
