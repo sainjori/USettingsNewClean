@@ -25,12 +25,12 @@
         <mark key="'" line="225" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.1/plm-5.1.12.1-sources.jar!/plm/proc/PlmProcessUserSearch.java" timestamp="1557160062500" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1557342562923">
-        <mark key="'" line="989" column="32" />
-        <mark key="[" line="1209" column="32" />
-        <mark key="]" line="1209" column="35" />
-        <mark key="." line="1209" column="35" />
-        <mark key="^" line="1209" column="35" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1557401126876">
+        <mark key="'" line="1715" column="0" />
+        <mark key="[" line="1475" column="58" />
+        <mark key="]" line="1475" column="66" />
+        <mark key="." line="1475" column="66" />
+        <mark key="^" line="1475" column="66" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_162/src.zip!/javax/swing/plaf/basic/BasicComboBoxUI.java" timestamp="1557233944231" />
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/cfc/log/Log.java" timestamp="1556801116334">
@@ -110,8 +110,6 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.1/plm-5.1.12.1-sources.jar!/plm/proc/mat/MaterialSearchService.java" timestamp="1557159804023" />
     </filemarks>
     <jumps>
-      <jump line="240" column="40" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" />
-      <jump line="219" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" />
       <jump line="2251" column="31" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/ObrTableDisplay.java" />
       <jump line="2273" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/ObrTableDisplay.java" />
       <jump line="2301" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/ObrTableDisplay.java" />
@@ -210,49 +208,65 @@
       <jump line="205" column="31" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/ObrTableDisplay.java" />
       <jump line="2499" column="43" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/ObrTableDisplay.java" />
       <jump line="3579" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/ObrTableDisplay.java" />
+      <jump line="1260" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="1715" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>customAssignBrowseObject</text>
+        <text>pl</text>
       </register>
       <register name="-" type="4">
-        <text>customAssignBrowseObject</text>
+        <text>pl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHRlcm5MaXN0ZW5lckZvckNlbGxDaGFuZ2VzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcHJvcGVydHkgPSBhZGRPYnJQcm9wZXJ0eShuZXcgT2JyUHJvcGVydHkoUFJQX1NUQVRVUywgRGljLmdldCgiU1lTVEVNLlQuU1RBVFVTIiwgIlN0YXR1cyIpLCBjcmVhdGVOZXdNYXRPcHRpb24sIHRydWUsIHRydWUpKTsK</text>
+        <text encoding="base64">ICAgICAgICBPYnJQcm9wZXJ0eSBzdGF0dXMgPSBjdXN0b21Bc3NpZ25Ccm93c2VPYmplY3QuZ2V0T2JyUHJvcGVydHkoUFJQX1NUQVRVUyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2b3JoYW5kZW5lc19tYXRlcmlhbF96dW9yZG5lbgo=</text>
+        <text encoding="base64">ICAgICAgICBzZXRQbG1NYXRlcmlhbFRvTmV3TnVtYmVyKHBsbU1hdE5ldyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBQbG1NYXRlcmlhbCBvbGRQbG1NYXQgPSBjdXN0b21Bc3NpZ25Ccm93c2VPYmplY3QuYnVja2V0T2JqZWN0LmdldFBsbU1hdGVyaWFsKCk7CiAgICAgICAgb2xkUGxtTWF0LnNldE51bWJlcigiKiIpOwogICAgICAgIG9sZFBsbU1hdC5zZXRFeHROdW1iZXIoIioiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCkK</text>
+      <register name="4" type="4">
+        <text>private void setPlmMaterialToNewNumber(PlmMaterial plmMatNew)
+      {
+        if (customAssignBrowseObject.bucketObject.getPlmMaterial() != null)
+        {
+          PlmMaterial oldPlmMat = customAssignBrowseObject.bucketObject.getPlmMaterial();
+          oldPlmMat.setNumber(plmMatNew.getNumber());
+          try
+          {
+            oldPlmMat.setExtNumber(MatNoConverter.int2ext(plmMatNew.getNumber()));
+          }
+          catch (DefaultLogException e)
+          {
+          }
+        }
+      }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc3RhdHVzLnNldFZhbHVlKGN1c3RvbUFzc2lnbkJyb3dzZU9iamVjdC5jcmVhdGVOZXdNYXRPcHRpb24pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3Rpb24uYWRkKGNyZWF0ZU5ld01hdE9wdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHN0YXR1cy5zZXRWYWx1ZShjdXN0b21Bc3NpZ25Ccm93c2VPYmplY3QuY3JlYXRlTmV3TWF0T3B0aW9uKTsK</text>
       </register>
       <register name=":" type="4">
         <text>331</text>
