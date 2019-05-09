@@ -15,9 +15,6 @@
       <file name="C:/Program Files/Java/jdk1.8.0_162/src.zip!/javax/swing/JComboBox.java" timestamp="1557234134710">
         <mark key="'" line="515" column="15" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/CreateMaterials.java" timestamp="1557409902495">
-        <mark key="'" line="153" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/PlmProcessProdOrdCreateMulti.java" timestamp="1557148876669">
         <mark key="'" line="479" column="31" />
       </file>
@@ -33,18 +30,11 @@
         <mark key="." line="1212" column="46" />
         <mark key="^" line="1212" column="46" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/PlmProcessWirtgenDocumentHandler.java" timestamp="1557410404219">
-        <mark key="'" line="938" column="2" />
-        <mark key="[" line="106" column="84" />
-        <mark key="]" line="114" column="2" />
-        <mark key="^" line="114" column="2" />
-        <mark key="." line="114" column="2" />
-      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_162/src.zip!/javax/swing/plaf/basic/BasicComboBoxUI.java" timestamp="1557233944231" />
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/cfc/log/Log.java" timestamp="1556801116334">
         <mark key="'" line="95" column="67" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenAdvanceSteelTest.java" timestamp="1557411201181">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenAdvanceSteelTest.java" timestamp="1557412254343">
         <mark key="'" line="233" column="4" />
         <mark key="[" line="86" column="109" />
         <mark key="]" line="162" column="32" />
@@ -76,10 +66,11 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.12.1/addons-5.1.12.1-sources.jar!/plm/modules/ps/proc/PlmProcessPsActivityCreate.java" timestamp="1557158899021" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.12.1/addons-5.1.12.1-sources.jar!/cadagent/modules/variantconfiguration/VariantConfigurationUtils.java" timestamp="1557243407889" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/WirtgenDialogSize.java" timestamp="1557411241970">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/WirtgenDialogSize.java" timestamp="1557412820076">
+        <mark key="[" line="18" column="9" />
+        <mark key="]" line="18" column="16" />
+        <mark key="." line="18" column="16" />
+        <mark key="^" line="18" column="16" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.1/plm-5.1.12.1-sources.jar!/plm/brobj/BrClassHierarchy.java" timestamp="1557317644219" />
       <file name="C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/awt/Component.java" timestamp="1557331950895" />
@@ -95,6 +86,11 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1-SNAPSHOT/base-5.1-20190411.130436-274-sources.jar!/cadagent/cfc/util/ZIPHandler.java" timestamp="1556551449767">
         <mark key="'" line="335" column="2" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1557412845284">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsNetworkActivityCreate.java" timestamp="1557155313566" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/utils/ConvUtils.java" timestamp="1556187326451">
@@ -225,11 +221,11 @@
       <jump line="938" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/PlmProcessWirtgenDocumentHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBQcmVmZXJlbmNlcy5zZXRVc2VyVmFsdWUoKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CnVzZXIgY3VzdG9tIGtleQ==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>userDialogSizePref1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbG1NYXRlcmlhbFw+</text>
@@ -237,35 +233,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBPYnJQcm9wZXJ0eSBzdGF0dXMgPSBjdXN0b21Bc3NpZ25Ccm93c2VPYmplY3QuZ2V0T2JyUHJvcGVydHkoUFJQX1NUQVRVUyk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBQcmVmZXJlbmNlcy5zZXRVc2VyVmFsdWUoKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CnVzZXIgY3VzdG9tIGtleQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZvaWQgc2V0U2l6ZShUYWJsZVNlbGVjdGlvbkRpYWxvZzxVbmNoYW5nZWFibGVEb2N1bWVudD4gZGlhbG9nLCBTdHJpbmcgdXNlckRpYWxvZ1NpemVQcmVmMikKICB7CiAgICBXaXJ0Z2VuRGlhbG9nU2l6ZSB3aXJ0Z2VuRGlhbG9nU2l6ZSA9IG5ldyBXaXJ0Z2VuRGlhbG9nU2l6ZShkaWFsb2csIHVzZXJEaWFsb2dTaXplUHJlZjIpOwogICAgaWYgKCF3aXJ0Z2VuRGlhbG9nU2l6ZS5oYXNVc2VyVmFsdWUoKSkKICAgICAgZGlhbG9nLmR5bmFtaWNhbFBhY2soNjAwLCA1MDAsIDcwMCwgNTAwKTsKICAgIGVsc2UKICAgICAgd2lydGdlbkRpYWxvZ1NpemUuc2V0Q3VzdG9tU2l6ZSgpOwogIH07Cg==</text>
+        <text encoding="base64">ICAgIGlmIChoYXNDb250ZW50KGRpYWxvZy5nZXRUaXRsZSgpKSkKICAgICAgcmV0dXJuIGRpYWxvZy5nZXRUaXRsZSgpICsgIi5oZWlnaHQiOwogICAgZWxzZSBpZiAoaGFzQ29udGVudChkaWFsb2cuZ2V0TmFtZSgpKSkKICAgICAgcmV0dXJuIGRpYWxvZy5nZXROYW1lKCkgKyAiLmhlaWdodCI7CiAgICBlbHNlCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIFVTRVJfRElBTE9HX1NJWkVfUFJFRjIgPSAid2lydGdlbi5kaWFsb2cudXNlci5zaXplLjIiOwogIHByaXZhdGUgdm9pZCBzZXRTaXplKFRhYmxlU2VsZWN0aW9uRGlhbG9nPFVuY2hhbmdlYWJsZURvY3VtZW50PiBkaWFsb2csIFN0cmluZyB1c2VyRGlhbG9nU2l6ZVByZWYyKQogIHsKICAgIFdpcnRnZW5EaWFsb2dTaXplIHdpcnRnZW5EaWFsb2dTaXplID0gbmV3IFdpcnRnZW5EaWFsb2dTaXplKGRpYWxvZywgdXNlckRpYWxvZ1NpemVQcmVmMik7CiAgICBpZiAoIXdpcnRnZW5EaWFsb2dTaXplLmhhc1VzZXJWYWx1ZSgpKQogICAgICBkaWFsb2cuZHluYW1pY2FsUGFjayg2MDAsIDUwMCwgNzAwLCA1MDApOwogICAgZWxzZQogICAgICB3aXJ0Z2VuRGlhbG9nU2l6ZS5zZXRDdXN0b21TaXplKCk7CiAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmIChoYXNDb250ZW50KGRpYWxvZy5nZXRUaXRsZSgpKSkKICAgICAgcmV0dXJuIGRpYWxvZy5nZXRUaXRsZSgpICsgIi53aWR0aCI7CiAgICBlbHNlIGlmIChoYXNDb250ZW50KGRpYWxvZy5nZXROYW1lKCkpKQogICAgICByZXR1cm4gZGlhbG9nLmdldE5hbWUoKSArICIud2lkdGgiOwogICAgZWxzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgVVNFUl9ESUFMT0dfU0laRV9QUkVGMiA9ICJ3aXJ0Z2VuLmRpYWxvZy51c2VyLnNpemUuMiI7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBPYnJQcm9wZXJ0eSBvYnJQcm9wZXJ0eSA9IHRoaXMuZ2V0T2JyUHJvcGVydHkoTUVURVJJQUxfTlVNQkVSKTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIGlmIChoYXNDb250ZW50KGRpYWxvZy5nZXRUaXRsZSgpKSkKICAgICAgcmV0dXJuIGRpYWxvZy5nZXRUaXRsZSgpICsgIi5oZWlnaHQiOwogICAgZWxzZSBpZiAoaGFzQ29udGVudChkaWFsb2cuZ2V0TmFtZSgpKSkKICAgICAgcmV0dXJuIGRpYWxvZy5nZXROYW1lKCkgKyAiLmhlaWdodCI7CiAgICBlbHNl</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyVGFibGVDZWxsRWRpdG9yIGVkaXRvciA9IG5ldyBVc2VyVGFibGVDZWxsRWRpdG9yKG9iclByb3BlcnR5LmdldFZhbHVlKCksIHRoaXMpOwo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIGlmIChoYXNDb250ZW50KGRpYWxvZy5nZXRUaXRsZSgpKSkKICAgICAgcmV0dXJuIGRpYWxvZy5nZXRUaXRsZSgpICsgIi53aWR0aCI7CiAgICBlbHNlIGlmIChoYXNDb250ZW50KGRpYWxvZy5nZXROYW1lKCkpKQogICAgICByZXR1cm4gZGlhbG9nLmdldE5hbWUoKSArICIud2lkdGgiOwogICAgZWxzZQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZWRpdG9yID09IG51bGwgfHwgIiIuZXF1YWxzKGVkaXRvci5nZXRWYWx1ZSgpKSkKICAgICAgICAgIHJldHVybiBzdXBlci5zdG9wQ2VsbEVkaXRpbmcoKTsK</text>
+        <text encoding="base64">ICAgICAgICBQcmVmZXJlbmNlcy5zZXRVc2VyVmFsdWUoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRQbG1NYXRlcmlhbFRvTmV3TnVtYmVyKHBsbU1hdE5ldyk7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHZvaWQgc2V0U2l6ZShUYWJsZVNlbGVjdGlvbkRpYWxvZzxVbmNoYW5nZWFibGVEb2N1bWVudD4gZGlhbG9nLCBTdHJpbmcgdXNlckRpYWxvZ1NpemVQcmVmMikKICB7CiAgICBXaXJ0Z2VuRGlhbG9nU2l6ZSB3aXJ0Z2VuRGlhbG9nU2l6ZSA9IG5ldyBXaXJ0Z2VuRGlhbG9nU2l6ZShkaWFsb2csIHVzZXJEaWFsb2dTaXplUHJlZjIpOwogICAgaWYgKCF3aXJ0Z2VuRGlhbG9nU2l6ZS5oYXNVc2VyVmFsdWUoKSkKICAgICAgZGlhbG9nLmR5bmFtaWNhbFBhY2soNjAwLCA1MDAsIDcwMCwgNTAwKTsKICAgIGVsc2UKICAgICAgd2lydGdlbkRpYWxvZ1NpemUuc2V0Q3VzdG9tU2l6ZSgpOwogIH07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>331</text>
