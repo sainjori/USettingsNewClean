@@ -80,6 +80,13 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.1/plm-5.1.12.1-sources.jar!/plm/gui/browser/components/widgets/ClassificationTableCellEditor.java" timestamp="1557165936336">
         <mark key="'" line="223" column="11" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxc.java" timestamp="1557415456709">
+        <mark key="'" line="53" column="42" />
+        <mark key="[" line="70" column="11" />
+        <mark key="]" line="70" column="10" />
+        <mark key="." line="70" column="10" />
+        <mark key="^" line="70" column="10" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.1/plm-5.1.12.1-sources.jar!/plm/omf/OmfMatAdd.java" timestamp="1557238263685" />
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/cfc/log/LogStack.java" timestamp="1556883930976">
         <mark key="'" line="48" column="50" />
@@ -87,10 +94,10 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1-SNAPSHOT/base-5.1-20190411.130436-274-sources.jar!/cadagent/cfc/util/ZIPHandler.java" timestamp="1556551449767">
         <mark key="'" line="335" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557412845284">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="/Dummy.txt" timestamp="1557415639784">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsNetworkActivityCreate.java" timestamp="1557155313566" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/utils/ConvUtils.java" timestamp="1556187326451">
@@ -119,9 +126,6 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.1/plm-5.1.12.1-sources.jar!/plm/proc/mat/MaterialSearchService.java" timestamp="1557159804023" />
     </filemarks>
     <jumps>
-      <jump line="226" column="24" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" />
-      <jump line="230" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" />
-      <jump line="780" column="12" filename="C:/Program Files/Java/jdk1.8.0_162/src.zip!/javax/swing/JComboBox.java" />
       <jump line="1309" column="23" filename="C:/Program Files/Java/jdk1.8.0_162/src.zip!/javax/swing/JComboBox.java" />
       <jump line="1310" column="48" filename="C:/Program Files/Java/jdk1.8.0_162/src.zip!/javax/swing/JComboBox.java" />
       <jump line="1311" column="19" filename="C:/Program Files/Java/jdk1.8.0_162/src.zip!/javax/swing/JComboBox.java" />
@@ -219,16 +223,19 @@
       <jump line="153" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/CreateMaterials.java" />
       <jump line="202" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenAdvanceSteelTest.java" />
       <jump line="938" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/PlmProcessWirtgenDocumentHandler.java" />
+      <jump line="193" column="24" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxc.java" />
+      <jump line="194" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxc.java" />
+      <jump line="53" column="42" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxc.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CnVzZXIgY3VzdG9tIGtleQ==</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>userDialogSizePref1</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwbG1NYXRlcmlhbFw+</text>
+        <text encoding="base64">XDxDSEVDS0lOX0VYVFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBPYnJQcm9wZXJ0eSBzdGF0dXMgPSBjdXN0b21Bc3NpZ25Ccm93c2VPYmplY3QuZ2V0T2JyUHJvcGVydHkoUFJQX1NUQVRVUyk7Cg==</text>
@@ -268,9 +275,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwbG1NYXRlcmlhbFw+</last-search>
+      <last-search encoding="base64">XDxDSEVDS0lOX0VYVFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwbG1NYXRlcmlhbFw+</last-pattern>
+      <last-pattern encoding="base64">XDxDSEVDS0lOX0VYVFw+</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -278,8 +285,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwyXD4=</entry>
-        <entry encoding="base64">XDxsb2dUcmFjZUhhbmRsZXJcPg==</entry>
         <entry encoding="base64">XDxlcnJvclN0YWNrXD4=</entry>
         <entry encoding="base64">XDxPUkRFUlRZUEVcPg==</entry>
         <entry encoding="base64">XDxpc1RhYmxlVXBkYXRlTmVlZGVkXD4=</entry>
@@ -298,6 +303,8 @@
         <entry encoding="base64">XDxNRVRFUklBTF9OVU1CRVJcPg==</entry>
         <entry encoding="base64">XDxleHRlcm5MaXN0ZW5lckZvckNlbGxDaGFuZ2VzXD4=</entry>
         <entry encoding="base64">XDxwbG1NYXRlcmlhbFw+</entry>
+        <entry encoding="base64">XDx2X3BhcmVudHNcPg==</entry>
+        <entry encoding="base64">XDxDSEVDS0lOX0VYVFw+</entry>
       </history-search>
       <history-cmd>
         <entry>191</entry>
