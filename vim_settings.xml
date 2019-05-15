@@ -7,6 +7,12 @@
         <mark key="'" line="230" column="6" />
       </file>
       <file name="/OmfWirtgenAdvanceSteelTest.java" timestamp="1557410322593" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/InspectionReportProvider.java" timestamp="1557946638084">
+        <mark key="'" line="63" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1557946735015">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.12.1/addons-5.1.12.1-sources.jar!/plm/gui/SapUserParameterTableDialog.java" timestamp="1557241045144" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.12.1/sapbase-5.1.12.1-sources.jar!/cadagent/plm/MatNoConverter.java" timestamp="1557243380326" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/sess/ApplPart.java" timestamp="1557925216906">
@@ -62,6 +68,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxd.java" timestamp="1556186674616">
         <mark key="'" line="183" column="104" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/ConvProcessUpdateInspectionReportBitzer.java" timestamp="1557946590023">
+        <mark key="[" line="88" column="11" />
+        <mark key="]" line="88" column="13" />
+        <mark key="^" line="88" column="13" />
+        <mark key="." line="88" column="13" />
+      </file>
       <file name="/attributes-from-sap.xml" timestamp="1557146838202" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/fs/FileManagerImpl.java" timestamp="1557823026522" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.12.1/sapbase-5.1.12.1-sources.jar!/cadagent/objmod/PlmMaterial.java" timestamp="1557256477679">
@@ -90,7 +102,15 @@
         <mark key="." line="18" column="16" />
         <mark key="^" line="18" column="16" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/ConvProcessUpdateInspectionPlan.java" timestamp="1557835155861" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/ConvProcessUpdateInspectionPlan.java" timestamp="1557946529203">
+        <mark key="'" line="158" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/ConvProcessUpdateInspectionReport.java" timestamp="1557946878888">
+        <mark key="[" line="826" column="19" />
+        <mark key="]" line="826" column="18" />
+        <mark key="^" line="826" column="18" />
+        <mark key="." line="826" column="18" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.1/plm-5.1.12.1-sources.jar!/plm/brobj/BrClassHierarchy.java" timestamp="1557317644219" />
       <file name="C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/awt/Component.java" timestamp="1557331950895" />
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_5.1.7.1/java/src/cadagent/dadi/initial.java" timestamp="1556882733573">
@@ -142,8 +162,17 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1-SNAPSHOT/base-5.1-20190411.130436-274-sources.jar!/cadagent/cfc/util/FileCopy.java" timestamp="1556205829518">
         <mark key="'" line="79" column="21" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/InspectionReportProvider.java" timestamp="1557946680301">
+        <mark key="[" line="44" column="68" />
+        <mark key="]" line="44" column="74" />
+        <mark key="." line="44" column="74" />
+        <mark key="^" line="44" column="74" />
+      </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.12.1/basis/dictionary/en/ectr.txt" timestamp="1557317873096" />
-      <file name="/fragment.java" timestamp="1557754838017">
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.12.1/customize/config/attributes-from-sap.xml" timestamp="1557146850006">
+        <mark key="[" line="395" column="12" />
+      </file>
+      <file name="/fragment.java" timestamp="1557946624660">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="56" />
         <mark key="." line="0" column="56" />
@@ -151,8 +180,6 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.1/plm-5.1.12.1-sources.jar!/plm/proc/mat/MaterialSearchService.java" timestamp="1557159804023" />
     </filemarks>
     <jumps>
-      <jump line="1163" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
-      <jump line="1256" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="1270" column="12" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="1276" column="12" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="1283" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
@@ -251,13 +278,15 @@
       <jump line="319" column="31" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/ConvProcessUpdateInspectionReport.java" />
       <jump line="267" column="27" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/ConvProcessUpdateInspectionReport.java" />
       <jump line="439" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/ConvProcessUpdateInspectionReport.java" />
+      <jump line="158" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/ConvProcessUpdateInspectionPlan.java" />
+      <jump line="63" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/InspectionReportProvider.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>bitzer</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>bitzer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdXRGaWxlc1w+</text>
@@ -266,34 +295,34 @@
         <text encoding="base64">ICAgICAgICBjdXN0b21Bc3NpZ25Ccm93c2VPYmplY3QuYnVja2V0T2JqZWN0LnNldE1hdGVyaWFsKHBsbU1hdE5ldyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRvYgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBidWNrZXRPYmplY3QuCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIFN0cmluZyBMT0NfRklMRU5BTUUgPSBQcmVmZXJlbmNlcy5zdHJpbmdWYWx1ZSgiYml0emVyLmluc3BlY3Rpb25SZXBvcnQubG9jRmlsZW5hbWUiLCAiTG9jay54bWwiKTsKICBwcml2YXRlIGZpbmFsIFN0cmluZyBMT0NfV1NfQVBQTCA9IFByZWZlcmVuY2VzLnN0cmluZ1ZhbHVlKCJiaXR6ZXIuaW5zcGVjdGlvblJlcG9ydC5sb2NXc0FwcGwiLCAiTE9DIik7CiAgcHJpdmF0ZSBmaW5hbCBTdHJpbmcgUkVWQ09NUF9TVUZGSVggPSBQcmVmZXJlbmNlcy5zdHJpbmdWYWx1ZSgiYml0emVyLmluc3BlY3Rpb25SZXBvcnQucmV2Y29tcFN1ZmZpeCIsICItUkVWQ09NUCIpOwogIHByaXZhdGUgZmluYWwgU3RyaW5nIFJFVkNPTVBfV1NfQVBQTCA9IFByZWZlcmVuY2VzLnN0cmluZ1ZhbHVlKCJiaXR6ZXIuaW5zcGVjdGlvblJlcG9ydC5yZXZjb21wV3NBcHBsIiwgIlJDUCIpOwogIHByaXZhdGUgZmluYWwgU3RyaW5nIFBERl9XU19BUFBMID0gUHJlZmVyZW5jZXMuc3RyaW5nVmFsdWUoImJpdHplci5pbnNwZWN0aW9uUmVwb3J0LnBkZldzQXBwbCIsICJQREZfV1NfQVBQTCIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYnVja2V0TGlzdAo=</text>
+        <text encoding="base64">ICAgICAgICBzZXRvYgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBidWNrT2JqZWNrdCA9IGN1c3RvbUFzc2lnbkJyb3dzZU9iamVjdC5nZXRCdWNrZXRPYmplY3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICBidWNrZXRPYmplY3QuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYnVja2V0TGlzdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjdXN0b21Bc3NpZ25Ccm93c2VPYmplY3QuYnVja2V0T2JqZWN0LmlzRnJvbVNlbGVjdGVkU2FwKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBidWNrT2JqZWNrdCA9IGN1c3RvbUFzc2lnbkJyb3dzZU9iamVjdC5nZXRCdWNrZXRPYmplY3QoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAodGhpcy5pc0Ryb3Bkb3duU2VsZWN0RXhpc3RpbmcoKSkKLy8gICAgICAgICAgICB7Ci8vICAgICAgICAgICAgICBva0J1dHRvbi5zZXRFbmFibGVkKGZhbHNlKTsKLy8gICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBsbU1hdGVyaWFsLnNldEV4aXN0c0luU2FwKGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgICBjdXN0b21Bc3NpZ25Ccm93c2VPYmplY3QuYnVja2V0T2JqZWN0LmlzRnJvbVNlbGVjdGVkU2FwKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcGxtTWF0ZXJpYWwuc2V0RXhpc3RzSW5TYXAoZmFsc2UpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAodGhpcy5pc0Ryb3Bkb3duU2VsZWN0RXhpc3RpbmcoKSkKLy8gICAgICAgICAgICB7Ci8vICAgICAgICAgICAgICBva0J1dHRvbi5zZXRFbmFibGVkKGZhbHNlKTsKLy8gICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>331</text>
