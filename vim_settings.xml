@@ -50,8 +50,8 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/cfc/util/Trace.java" timestamp="1556810707506">
         <mark key="'" line="389" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/ConvProcessUpdateInspectionReport.java" timestamp="1557918285486">
-        <mark key="'" line="820" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/ConvProcessUpdateInspectionReport.java" timestamp="1557919195340">
+        <mark key="'" line="646" column="86" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxd.java" timestamp="1556186674616">
         <mark key="'" line="183" column="104" />
@@ -68,7 +68,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.1/plm-5.1.12.1-sources.jar!/plm/gui/classhierarchy/CharacteristicView.java" timestamp="1557152710827">
         <mark key="'" line="668" column="6" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1557916143507">
+      <file name="/Clipboard.txt" timestamp="1557919112857">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/omf/OmfParaSolidFromWorkItemListObjectSaveAs.java" timestamp="1557317362720" />
@@ -142,10 +142,6 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.1/plm-5.1.12.1-sources.jar!/plm/proc/mat/MaterialSearchService.java" timestamp="1557159804023" />
     </filemarks>
     <jumps>
-      <jump line="1689" column="33" filename="C:/Program Files/Java/jdk1.8.0_162/src.zip!/javax/swing/JComboBox.java" />
-      <jump line="1812" column="26" filename="C:/Program Files/Java/jdk1.8.0_162/src.zip!/javax/swing/JComboBox.java" />
-      <jump line="2048" column="35" filename="C:/Program Files/Java/jdk1.8.0_162/src.zip!/javax/swing/JComboBox.java" />
-      <jump line="2071" column="21" filename="C:/Program Files/Java/jdk1.8.0_162/src.zip!/javax/swing/JComboBox.java" />
       <jump line="2072" column="45" filename="C:/Program Files/Java/jdk1.8.0_162/src.zip!/javax/swing/JComboBox.java" />
       <jump line="2085" column="25" filename="C:/Program Files/Java/jdk1.8.0_162/src.zip!/javax/swing/JComboBox.java" />
       <jump line="111" column="35" filename="C:/Program Files/Java/jdk1.8.0_162/src.zip!/javax/swing/JComboBox.java" />
@@ -242,6 +238,10 @@
       <jump line="877" column="72" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/ConvProcessUpdateInspectionReport.java" />
       <jump line="831" column="18" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/ConvProcessUpdateInspectionReport.java" />
       <jump line="820" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/ConvProcessUpdateInspectionReport.java" />
+      <jump line="640" column="55" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/ConvProcessUpdateInspectionReport.java" />
+      <jump line="178" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/ConvProcessUpdateInspectionReport.java" />
+      <jump line="194" column="22" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/ConvProcessUpdateInspectionReport.java" />
+      <jump line="646" column="86" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/ConvProcessUpdateInspectionReport.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
