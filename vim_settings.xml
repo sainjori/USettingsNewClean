@@ -64,12 +64,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/sap/ConversionObserver.java" timestamp="1556806365576">
         <mark key="'" line="225" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1558098107799">
-        <mark key="'" line="187" column="4" />
-        <mark key="[" line="182" column="83" />
-        <mark key="]" line="182" column="101" />
-        <mark key="." line="182" column="101" />
-        <mark key="^" line="182" column="101" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1558100163113">
+        <mark key="'" line="251" column="0" />
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="196" column="0" />
+        <mark key="^" line="196" column="34" />
+        <mark key="." line="196" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxc.java" timestamp="1557415456709">
         <mark key="'" line="53" column="42" />
@@ -164,11 +164,10 @@
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.12.1/basis/config/system-default.txt" timestamp="1557146394473">
         <mark key="'" line="5" column="55" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/utils/YpsomedVeaHelper.java" timestamp="1558092762752">
-        <mark key="[" line="223" column="2" />
-        <mark key="]" line="223" column="7" />
-        <mark key="." line="223" column="7" />
-        <mark key="^" line="223" column="7" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/utils/YpsomedVeaHelper.java" timestamp="1558099975439">
+        <mark key="[" line="225" column="0" />
+        <mark key="]" line="225" column="0" />
+        <mark key="." line="225" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.1/plm-5.1.12.1-sources.jar!/plm/gui/classhierarchy/CharacteristicView.java" timestamp="1557152710827">
         <mark key="'" line="668" column="6" />
@@ -190,9 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="956" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
-      <jump line="958" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
-      <jump line="959" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="960" column="27" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="1026" column="20" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="153" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/CreateMaterials.java" />
@@ -290,16 +286,19 @@
       <jump line="108" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.1/plm-5.1.12.1-sources.jar!/plm/attrib/MappingContext.java" />
       <jump line="181" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="253" column="47" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentChangeAttributes.java" />
+      <jump line="203" column="26" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="190" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="252" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>DMU_ITEM_NAME</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>DMU_ITEM_NAME</text>
+        <text>xmlDocument</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc0Zyb21TYXBcPg==</text>
+        <text encoding="base64">XDxwYWNrYWdlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjdXN0b21Bc3NpZ25Ccm93c2VPYmplY3QuYnVja2V0T2JqZWN0LnNldE1hdGVyaWFsKHBsbU1hdE5ldyk7Cg==</text>
@@ -311,37 +310,37 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEVsZW1lbnQgYXR0cmlidXRlc1htbE5vZGUxID0gYXR0cmlidXRlc1htbE5vZGU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEVsZW1lbnQgYXR0cmlidXRlc1htbE5vZGUxMSA9IGF0dHJpYnV0ZXNYbWxOb2RlMTsK</text>
+        <text encoding="base64">ICAgIERvY3VtZW50IHhtbERvY3VtZW50ID0gZ2V0WG1sRG9jdW1lbnQobWV0YUluZkZpbGUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEVsZW1lbnQgYXR0cmlidXRlc1htbE5vZGUxID0gYXR0cmlidXRlc1htbE5vZGU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdmVhX21hdF9hc3NpZ25tZW50Lgo=</text>
+        <text encoding="base64">ICBwcml2YXRlIEZpbGUgZ2V0TWV0YUluZkZpbGUoWG1sRGF0YSB4bWxEYXRhKQogIHsKICAgIExpc3Q8TWFwPFN0cmluZywgU3RyaW5nPj4gb3B0aW9ucyA9IHhtbERhdGEuZ2V0T3B0aW9ucygpOwogICAgU3RyaW5nIGZpbGVuYW1lID0gRmlsZVV0aWxzLmdldEZpbGVuYW1lKHhtbERhdGEuZ2V0Rmlyc3RQYXJ0RmlsZW5hbWUoKSk7CiAgICBmb3IgKE1hcDxTdHJpbmcsIFN0cmluZz4gb3B0aW9uIDogb3B0aW9ucykKICAgIHsKICAgICAgaWYgKG9wdGlvbi5nZXQoIk5BTUUiKSAhPSBudWxsICYmIChvcHRpb24uZ2V0KCJOQU1FIikuZXF1YWxzSWdub3JlQ2FzZSgiTWV0YWluZkRpcmVjdG9yeSIpKSkKICAgICAgewogICAgICAgIFN0cmluZyB2YWx1ZSA9IG9wdGlvbi5nZXQoIlZBTFVFIik7CiAgICAgICAgaWYgKHZhbHVlICE9IG51bGwpCiAgICAgICAgewogICAgICAgICAgcmV0dXJuIG5ldyBGaWxlKHZhbHVlLCBGaWxlVXRpbHMucmVwbGFjZUV4dGVuc2lvbihmaWxlbmFtZSwgInhtbCIpLmdldE5hbWUoKSk7CiAgICAgICAgfQogICAgICB9CiAgICB9CiAgICByZXR1cm4gbnVsbDsKICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEVsZW1lbnQgYXR0cmlidXRlc1htbE5vZGUgPSBnZXRBdHRyaWJ1dGVzWG1sTm9kZShtZXRhSW5mRmlsZSwgYnVja2V0T2JqZWN0LmdldElkKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJcbkN1cnJlbnQgRWxlbWVudCA6IiArIG5Ob2RlLmdldE5vZGVOYW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgIGlmIChwYXRoID09IG51bGwpCiAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgRWxlbWVudCBhdHRyaWJ1dGVzWG1sTm9kZSA9IGdldEF0dHJpYnV0ZXNYbWxOb2RlKG1ldGFJbmZGaWxlLCBidWNrZXRPYmplY3QuZ2V0SWQoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmICh4bWxEb2N1bWVudCA9PSBudWxsKQo=</text>
+        <text encoding="base64">ICAgICAgT3B0aW9uYWw8UGF0aD4gbWV0YUluZkZpbGUgPSBZcHNvbWVkVmVhSGVscGVyLmdldE1ldGFJbmZGaWxlKHhtbERhdGEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>331</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc0Zyb21TYXBcPg==</last-search>
+      <last-search encoding="base64">XDxwYWNrYWdlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc0Zyb21TYXBcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwYWNrYWdlXD4=</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -349,9 +348,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm9wZXJ0eVNlbGVjdGlvblw+</entry>
-        <entry encoding="base64">XDxlZGl0b3JcPg==</entry>
-        <entry encoding="base64">XDxPUFRJT05fU0VMRUNUX0VYSVNUSU5HX01BVEVSSUFMXD4=</entry>
         <entry encoding="base64">XDxidE9LXD4=</entry>
         <entry encoding="base64">XDxhY3Rpb25Db21tYW5kXD4=</entry>
         <entry encoding="base64">XDxneEtleVZhbHVlXD4=</entry>
@@ -369,6 +365,9 @@
         <entry encoding="base64">XDxvd25BdHRyaWJ1dGVzXD4=</entry>
         <entry encoding="base64">XDxvdXRGaWxlc1w+</entry>
         <entry encoding="base64">XDxpc0Zyb21TYXBcPg==</entry>
+        <entry encoding="base64">XDx7XD4=</entry>
+        <entry>{</entry>
+        <entry encoding="base64">XDxwYWNrYWdlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>191</entry>
