@@ -43,7 +43,8 @@
         <mark key="^" line="826" column="18" />
         <mark key="." line="826" column="18" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.1/plm-5.1.12.1-sources.jar!/plm/attrib/MaterialAttributeMapperFromSap.java" timestamp="1558089236289">
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.1/plm-5.1.12.1-sources.jar!/plm/attrib/MaterialAttributeMapperFromSap.java" timestamp="1558105081005">
+        <mark key="'" line="156" column="21" />
         <mark key="[" line="161" column="85" />
         <mark key="]" line="161" column="51" />
         <mark key="^" line="161" column="51" />
@@ -64,8 +65,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/sap/ConversionObserver.java" timestamp="1556806365576">
         <mark key="'" line="225" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1558102863692">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1558106426512">
         <mark key="'" line="199" column="47" />
+        <mark key="[" line="213" column="0" />
+        <mark key="]" line="213" column="0" />
+        <mark key="." line="213" column="0" />
+        <mark key="^" line="209" column="39" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxc.java" timestamp="1557415456709">
         <mark key="'" line="53" column="42" />
@@ -96,12 +101,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/util/MaterialAttributeMapperToSap.java" timestamp="1558102949450">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="119" column="43" />
-        <mark key="]" line="119" column="55" />
-        <mark key="." line="119" column="55" />
-        <mark key="^" line="119" column="55" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/util/MaterialAttributeMapperToSap.java" timestamp="1558106049799">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/cfc/log/Log.java" timestamp="1556801116334">
         <mark key="'" line="95" column="67" />
@@ -179,14 +183,13 @@
         <mark key="^" line="440" column="11" />
         <mark key="." line="440" column="11" />
       </file>
-      <file name="/fragment.java" timestamp="1557946624660">
+      <file name="/fragment.java" timestamp="1558106022470">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="56" />
         <mark key="." line="0" column="56" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/CreateMaterials.java" />
       <jump line="202" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenAdvanceSteelTest.java" />
       <jump line="938" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/advsteel/PlmProcessWirtgenDocumentHandler.java" />
       <jump line="193" column="24" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxc.java" />
@@ -286,13 +289,14 @@
       <jump line="252" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="218" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="199" column="47" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="156" column="21" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.1/plm-5.1.12.1-sources.jar!/plm/attrib/MaterialAttributeMapperFromSap.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIERvY3VtZW50IG1ldGFJbmZGaWxlWG1sID0gZ2V0WG1sRG9jdW1lbnQoWXBzb21lZFZlYUhlbHBlci5nZXRNZXRhSW5mRmlsZSh4bWxEYXRhKS5vckVsc2UobnVsbCkpOwo=</text>
+        <text encoding="base64">ICAgICAgYXR0cmlidXRlT3BlcmF0aW9uLmdlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.toPath()</text>
+        <text>getName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYWNrYWdlXD4=</text>
@@ -301,7 +305,7 @@
         <text encoding="base64">ICAgICAgICBjdXN0b21Bc3NpZ25Ccm93c2VPYmplY3QuYnVja2V0T2JqZWN0LnNldE1hdGVyaWFsKHBsbU1hdE5ldyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIERvY3VtZW50IG1ldGFJbmZGaWxlWG1sID0gZ2V0WG1sRG9jdW1lbnQoWXBzb21lZFZlYUhlbHBlci5nZXRNZXRhSW5mRmlsZSh4bWxEYXRhKS5vckVsc2UobnVsbCkpOwo=</text>
+        <text encoding="base64">ICAgICAgYXR0cmlidXRlT3BlcmF0aW9uLmdlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -310,25 +314,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgRWxlbWVudCBhdHRyaWJ1dGVzWG1sTm9kZSA9IGdldEF0dHJpYnV0ZXNYbWxOb2RlKG1ldGFJbmZGaWxlWG1sLCBidWNrZXRPYmplY3QuZ2V0SWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwbG1NYXRlcmlhbC5zZXRBZHZNYXRGaWVsZCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocGxtTWF0ZXJpYWwuZ2V0QWR2TWF0VmFsdWUoKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIERvY3VtZW50IHhtbERvY3VtZW50ID0gZ2V0WG1sRG9jdW1lbnQobWV0YUluZkZpbGUpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgcGxtTWF0ZXJpYWwuc2V0QWR2TWF0RmllbGQoKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIEZpbGUgZ2V0TWV0YUluZkZpbGUoWG1sRGF0YSB4bWxEYXRhKQogIHsKICAgIExpc3Q8TWFwPFN0cmluZywgU3RyaW5nPj4gb3B0aW9ucyA9IHhtbERhdGEuZ2V0T3B0aW9ucygpOwogICAgU3RyaW5nIGZpbGVuYW1lID0gRmlsZVV0aWxzLmdldEZpbGVuYW1lKHhtbERhdGEuZ2V0Rmlyc3RQYXJ0RmlsZW5hbWUoKSk7CiAgICBmb3IgKE1hcDxTdHJpbmcsIFN0cmluZz4gb3B0aW9uIDogb3B0aW9ucykKICAgIHsKICAgICAgaWYgKG9wdGlvbi5nZXQoIk5BTUUiKSAhPSBudWxsICYmIChvcHRpb24uZ2V0KCJOQU1FIikuZXF1YWxzSWdub3JlQ2FzZSgiTWV0YWluZkRpcmVjdG9yeSIpKSkKICAgICAgewogICAgICAgIFN0cmluZyB2YWx1ZSA9IG9wdGlvbi5nZXQoIlZBTFVFIik7CiAgICAgICAgaWYgKHZhbHVlICE9IG51bGwpCiAgICAgICAgewogICAgICAgICAgcmV0dXJuIG5ldyBGaWxlKHZhbHVlLCBGaWxlVXRpbHMucmVwbGFjZUV4dGVuc2lvbihmaWxlbmFtZSwgInhtbCIpLmdldE5hbWUoKSk7CiAgICAgICAgfQogICAgICB9CiAgICB9CiAgICByZXR1cm4gbnVsbDsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgYXR0cmlidXRlT3BlcmF0aW9uLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEVsZW1lbnQgYXR0cmlidXRlc1htbE5vZGUgPSBnZXRBdHRyaWJ1dGVzWG1sTm9kZShtZXRhSW5mRmlsZSwgYnVja2V0T2JqZWN0LmdldElkKCkpOwo=</text>
+        <text encoding="base64">ICAgIERvY3VtZW50IG1ldGFJbmZGaWxlWG1sID0gZ2V0WG1sRG9jdW1lbnQoWXBzb21lZFZlYUhlbHBlci5nZXRNZXRhSW5mRmlsZSh4bWxEYXRhKS5vckVsc2UobnVsbCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>331</text>
