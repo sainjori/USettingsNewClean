@@ -137,11 +137,11 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/omf/OmfDocEplanPdfCreate.java" timestamp="1557923808980">
         <mark key="'" line="820" column="12" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.12.1/customize/config/attributes-to-sap.xml" timestamp="1558022022116">
-        <mark key="[" line="58" column="43" />
-        <mark key="]" line="58" column="43" />
-        <mark key="^" line="58" column="58" />
-        <mark key="." line="58" column="43" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.12.1/customize/config/attributes-to-sap.xml" timestamp="1558097292292">
+        <mark key="[" line="58" column="28" />
+        <mark key="]" line="58" column="37" />
+        <mark key="^" line="58" column="37" />
+        <mark key="." line="58" column="37" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.8.1/convert-5.1.8.1-sources.jar!/cadagent/sap/ProcessStartConversion.java" timestamp="1556184200678">
         <mark key="'" line="1173" column="39" />
@@ -290,10 +290,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>params</text>
+        <text>DMU_ITEM_NAME</text>
       </register>
       <register name="-" type="4">
-        <text>params</text>
+        <text>DMU_ITEM_NAME</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0Zyb21TYXBcPg==</text>
