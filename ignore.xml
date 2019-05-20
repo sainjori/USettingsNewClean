@@ -49,6 +49,25 @@ out
 gen
 target
 .svn</template>
+      <template name="ectr_installation"># Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!*.txt
+!*.bat
+!*.xml
+!*.guidef
+!template.latex
+# etc...
+
+# ...even if they are in subdirectories
+!*/
+
+# if the files to be tracked are in subdirectories
+!*/a/b/file1.txt
+!*/a/b/c/*
+!/basis/sys/win/bin/dsc_CopyTemplates.bat</template>
     </userTemplates>
   </component>
 </application>
