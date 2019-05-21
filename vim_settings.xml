@@ -132,11 +132,11 @@
         <mark key="^" line="70" column="10" />
       </file>
       <file name="/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1558101892901" />
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.1/customize/config/default.txt" timestamp="1558460068460">
-        <mark key="[" line="2647" column="47" />
-        <mark key="]" line="2648" column="49" />
-        <mark key="^" line="2648" column="49" />
-        <mark key="." line="2648" column="49" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.1/customize/config/default.txt" timestamp="1558467459735">
+        <mark key="[" line="2642" column="27" />
+        <mark key="]" line="2642" column="26" />
+        <mark key="^" line="2642" column="26" />
+        <mark key="." line="2642" column="26" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/sess/ApplPart.java" timestamp="1557833895727">
         <mark key="'" line="628" column="8" />
@@ -186,7 +186,7 @@
         <mark key="^" line="450" column="58" />
         <mark key="." line="450" column="58" />
       </file>
-      <file name="/fragment.java" timestamp="1558461737422">
+      <file name="/fragment.java" timestamp="1558467049199">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="56" />
         <mark key="." line="0" column="56" />
@@ -303,46 +303,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Z2IubmMuYXNzZW1ibHkuZHR5cGUgPSBDUFJUCg==</text>
       </register>
       <register name="-" type="4">
-        <text>DMU Materializer: Wahlweise Materialerzeugung oder Materialzuordnung erlauben</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoaWRkZW5Eb2N1bWVudFNhcGtleXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc2hvcnRUZXh0LnNldFZhbHVlKG5hbWVPYnJQcm9wLmdldFZhbHVlKCkpOwo=</text>
+        <text encoding="base64">I2diLm5jLmFzc2VtYmx5LmR0eXBlID0gQ1BSVAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Z2IubmMuYXNzZW1ibHkuZHR5cGUgPSBDUFJUCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgT2JyUHJvcGVydHkgcHJvcGVydHk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>331</text>
