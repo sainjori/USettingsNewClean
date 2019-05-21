@@ -3,55 +3,57 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenAdvanceSteelTest.java" timestamp="1557412254343">
-        <mark key="'" line="233" column="4" />
-        <mark key="[" line="86" column="109" />
-        <mark key="]" line="162" column="32" />
-        <mark key="^" line="162" column="32" />
-        <mark key="." line="162" column="32" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.13.1/addons-5.1.13.1-sources.jar!/plm/omf/OmfDocClone.java" timestamp="1558451431853" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/clone/gfx/DocCloneActionListener.java" timestamp="1558452343489" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentCloneStart.java" timestamp="1558451409496" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/brobj/BrClonePosition.java" timestamp="1558450695812" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentClone2.java" timestamp="1558451568182" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/ConvProcessUpdateInspectionReportBitzer.java" timestamp="1557946590023">
+        <mark key="[" line="88" column="11" />
+        <mark key="]" line="88" column="13" />
+        <mark key="^" line="88" column="13" />
+        <mark key="." line="88" column="13" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/clone/service/GbCloneScheduleService.java" timestamp="1558453515958" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.1/basis/dictionary/de/ectr.txt" timestamp="1558451554395" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.13.1/addons-5.1.13.1-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentCloneSchedule.java" timestamp="1558450884291" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.1/plm-5.1.12.1-sources.jar!/plm/attrib/AttributeSection.java" timestamp="1558090018758" />
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/ProjectSystem/customize/config/default.txt" timestamp="1558367795840">
-        <mark key="'" line="194" column="46" />
-        <mark key="[" line="314" column="83" />
-        <mark key="]" line="316" column="47" />
-        <mark key="^" line="316" column="47" />
-        <mark key="." line="316" column="47" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/WirtgenDialogSize.java" timestamp="1557412820076">
+        <mark key="[" line="18" column="9" />
+        <mark key="]" line="18" column="16" />
+        <mark key="." line="18" column="16" />
+        <mark key="^" line="18" column="16" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/ConvProcessUpdateInspectionReport.java" timestamp="1557948126341">
-        <mark key="'" line="859" column="14" />
-        <mark key="[" line="826" column="19" />
-        <mark key="]" line="826" column="18" />
-        <mark key="^" line="826" column="18" />
-        <mark key="." line="826" column="18" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.1/plm-5.1.12.1-sources.jar!/plm/attrib/MaterialAttributeMapperFromSap.java" timestamp="1558105081005">
-        <mark key="'" line="156" column="21" />
-        <mark key="[" line="161" column="85" />
-        <mark key="]" line="161" column="51" />
-        <mark key="^" line="161" column="51" />
-        <mark key="." line="161" column="51" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxc.java" timestamp="1557415456709">
-        <mark key="'" line="53" column="42" />
-        <mark key="[" line="70" column="11" />
-        <mark key="]" line="70" column="10" />
-        <mark key="." line="70" column="10" />
-        <mark key="^" line="70" column="10" />
-      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneExtended.java" timestamp="1558452831566" />
       <file name="/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1558101892901" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/omf/OmfDocCloneExtended.java" timestamp="1558446447002" />
-      <file name="/Dummy.txt" timestamp="1558450153836">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.1/customize/config/default.txt" timestamp="1558453530636">
+        <mark key="[" line="2646" column="40" />
+        <mark key="]" line="2647" column="46" />
+        <mark key="^" line="2647" column="46" />
+        <mark key="." line="2647" column="46" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/omf/OmfDocCloneExtended.java" timestamp="1558453618302" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/clone/helper/CloneDadiHelper.java" timestamp="1558452894053" />
       <file name="/plm_initialize.bat" timestamp="1558111344128" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.9.3/customize/config/default.txt" timestamp="1558445934111">
         <mark key="'" line="15" column="31" />
         <mark key="[" line="2507" column="34" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1558372371965" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/InspectionReportProvider.java" timestamp="1557946680301">
+        <mark key="[" line="44" column="68" />
+        <mark key="]" line="44" column="74" />
+        <mark key="." line="44" column="74" />
+        <mark key="^" line="44" column="74" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/omf/OmfDocCloneOption.java" timestamp="1558451501883" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentClone.java" timestamp="1558452763489" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.12.1/customize/config/attributes-from-sap.xml" timestamp="1558347911968">
+        <mark key="[" line="440" column="12" />
+        <mark key="]" line="450" column="58" />
+        <mark key="^" line="450" column="58" />
+        <mark key="." line="450" column="58" />
+      </file>
       <file name="/fragment.java" timestamp="1558446446982">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="56" />
