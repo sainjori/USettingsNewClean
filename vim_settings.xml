@@ -53,16 +53,16 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/ConvProcessUpdateInspectionReport.java" timestamp="1557945058680">
         <mark key="'" line="439" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/ConvProcessUpdateInspectionReportBitzer.java" timestamp="1557946590023">
-        <mark key="[" line="88" column="11" />
-        <mark key="]" line="88" column="13" />
-        <mark key="^" line="88" column="13" />
-        <mark key="." line="88" column="13" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiConvCopyToOtherNxd.java" timestamp="1556186674616">
         <mark key="'" line="183" column="104" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/clone/service/GbCloneScheduleService.java" timestamp="1558453515958" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.12.1/customize/config/attributes-to-sap.xml" timestamp="1558124103467">
+        <mark key="[" line="58" column="38" />
+        <mark key="]" line="58" column="37" />
+        <mark key="^" line="58" column="37" />
+        <mark key="." line="58" column="37" />
+      </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.1/basis/dictionary/de/ectr.txt" timestamp="1558451554395" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.12.1/sapbase-5.1.12.1-sources.jar!/cadagent/objmod/PlmMaterial.java" timestamp="1558124707989">
         <mark key="'" line="1824" column="33" />
@@ -70,6 +70,12 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.13.1/addons-5.1.13.1-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentCloneSchedule.java" timestamp="1558460052635" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.12.1/basis/config/system-default.txt" timestamp="1557146394473">
         <mark key="'" line="5" column="55" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/utils/YpsomedVeaHelper.java" timestamp="1558114557652">
+        <mark key="[" line="64" column="46" />
+        <mark key="]" line="64" column="54" />
+        <mark key="." line="64" column="54" />
+        <mark key="^" line="64" column="54" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.1/plm-5.1.12.1-sources.jar!/plm/gui/classhierarchy/CharacteristicView.java" timestamp="1557152710827">
         <mark key="'" line="668" column="6" />
@@ -88,11 +94,11 @@
         <mark key="^" line="316" column="47" />
         <mark key="." line="316" column="47" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/WirtgenDialogSize.java" timestamp="1557412820076">
-        <mark key="[" line="18" column="9" />
-        <mark key="]" line="18" column="16" />
-        <mark key="." line="18" column="16" />
-        <mark key="^" line="18" column="16" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.12.1/customize/config/plm_initialize.bat" timestamp="1558111966560">
+        <mark key="[" line="239" column="41" />
+        <mark key="]" line="239" column="40" />
+        <mark key="^" line="239" column="40" />
+        <mark key="." line="239" column="40" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentChangeAttributes.java" timestamp="1558097909550">
         <mark key="'" line="253" column="47" />
@@ -132,8 +138,8 @@
         <mark key="^" line="70" column="10" />
       </file>
       <file name="/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1558101892901" />
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.1/customize/config/default.txt" timestamp="1558467459735">
-        <mark key="[" line="2642" column="27" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.1/customize/config/default.txt" timestamp="1558469916966">
+        <mark key="[" line="2642" column="23" />
         <mark key="]" line="2642" column="26" />
         <mark key="^" line="2642" column="26" />
         <mark key="." line="2642" column="26" />
@@ -165,12 +171,8 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.8.1/convert-5.1.8.1-sources.jar!/cadagent/sap/ProcessStartConversion.java" timestamp="1556184200678">
         <mark key="'" line="1173" column="39" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1558455258092" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/InspectionReportProvider.java" timestamp="1557946680301">
-        <mark key="[" line="44" column="68" />
-        <mark key="]" line="44" column="74" />
-        <mark key="." line="44" column="74" />
-        <mark key="^" line="44" column="74" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1558469038431">
+        <mark key="'" line="1115" column="41" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1-SNAPSHOT/base-5.1-20190411.130436-274-sources.jar!/cadagent/cfc/util/FileCopy.java" timestamp="1556205829518">
         <mark key="'" line="79" column="21" />
@@ -179,12 +181,6 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentClone.java" timestamp="1558452763489" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/brobj/BrDocPosition.java" timestamp="1558458995155">
         <mark key="'" line="151" column="22" />
-      </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.12.1/customize/config/attributes-from-sap.xml" timestamp="1558347911968">
-        <mark key="[" line="440" column="12" />
-        <mark key="]" line="450" column="58" />
-        <mark key="^" line="450" column="58" />
-        <mark key="." line="450" column="58" />
       </file>
       <file name="/fragment.java" timestamp="1558467049199">
         <mark key="[" line="0" column="0" />
@@ -200,7 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="494" column="45" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/sess/ApplPart.java" />
       <jump line="489" column="39" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/sess/ApplPart.java" />
       <jump line="473" column="18" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/sess/ApplPart.java" />
       <jump line="410" column="24" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/sess/ApplPart.java" />
@@ -300,13 +295,14 @@
       <jump line="961" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/brobj/BrDocPosition.java" />
       <jump line="151" column="22" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/brobj/BrDocPosition.java" />
       <jump line="21" column="46" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.1/customize/config/dtype.xml" />
+      <jump line="1115" column="41" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Z2IubmMuYXNzZW1ibHkuZHR5cGUgPSBDUFJUCg==</text>
+      <register name="&quot;" type="4">
+        <text>PINT</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>PINT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoaWRkZW5Eb2N1bWVudFNhcGtleXNcPg==</text>
