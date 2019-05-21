@@ -4,7 +4,9 @@
     <globalmarks />
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.13.1/addons-5.1.13.1-sources.jar!/plm/omf/OmfDocClone.java" timestamp="1558451431853" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/clone/gfx/DocCloneActionListener.java" timestamp="1558452343489" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/clone/gfx/DocCloneActionListener.java" timestamp="1558455347383">
+        <mark key="'" line="240" column="87" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentCloneStart.java" timestamp="1558451409496" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/brobj/BrClonePosition.java" timestamp="1558450695812" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentClone2.java" timestamp="1558451568182" />
@@ -16,6 +18,9 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/clone/service/GbCloneScheduleService.java" timestamp="1558453515958" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.1/basis/dictionary/de/ectr.txt" timestamp="1558451554395" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.12.1/sapbase-5.1.12.1-sources.jar!/cadagent/objmod/PlmMaterial.java" timestamp="1558124707989">
+        <mark key="'" line="1824" column="33" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.13.1/addons-5.1.13.1-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentCloneSchedule.java" timestamp="1558450884291" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.1/plm-5.1.12.1-sources.jar!/plm/attrib/AttributeSection.java" timestamp="1558090018758" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/WirtgenDialogSize.java" timestamp="1557412820076">
@@ -35,11 +40,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/omf/OmfDocCloneExtended.java" timestamp="1558453618302" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/clone/helper/CloneDadiHelper.java" timestamp="1558452894053" />
       <file name="/plm_initialize.bat" timestamp="1558111344128" />
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.9.3/customize/config/default.txt" timestamp="1558445934111">
-        <mark key="'" line="15" column="31" />
-        <mark key="[" line="2507" column="34" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1558372371965" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1558455258092" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/InspectionReportProvider.java" timestamp="1557946680301">
         <mark key="[" line="44" column="68" />
         <mark key="]" line="44" column="74" />
@@ -61,11 +62,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="22" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/ConvProcessUpdateInspectionReport.java" />
-      <jump line="646" column="86" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/ConvProcessUpdateInspectionReport.java" />
-      <jump line="196" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/ConvProcessUpdateInspectionReport.java" />
-      <jump line="633" column="37" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/ConvProcessUpdateInspectionReport.java" />
-      <jump line="820" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/omf/OmfDocEplanPdfCreate.java" />
       <jump line="219" column="26" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/sess/ApplPart.java" />
       <jump line="239" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/sess/ApplPart.java" />
       <jump line="750" column="73" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/sess/ApplPart.java" />
@@ -161,6 +157,11 @@
       <jump line="543" column="26" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" />
       <jump line="194" column="46" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/ProjectSystem/customize/config/default.txt" />
       <jump line="15" column="31" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.9.3/customize/config/default.txt" />
+      <jump line="107" column="29" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/clone/gfx/DocCloneActionListener.java" />
+      <jump line="111" column="83" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/clone/gfx/DocCloneActionListener.java" />
+      <jump line="114" column="24" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/clone/gfx/DocCloneActionListener.java" />
+      <jump line="231" column="88" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/clone/gfx/DocCloneActionListener.java" />
+      <jump line="240" column="87" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/clone/gfx/DocCloneActionListener.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -170,7 +171,7 @@
         <text>DMU Materializer: Wahlweise Materialerzeugung oder Materialzuordnung erlauben</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZXdTaG9ydFRleHRcPg==</text>
+        <text encoding="base64">XDxjbG9uZVNlcnZpY2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgc2hvcnRUZXh0LnNldFZhbHVlKG5hbWVPYnJQcm9wLmdldFZhbHVlKCkpOwo=</text>
@@ -210,9 +211,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZXdTaG9ydFRleHRcPg==</last-search>
+      <last-search encoding="base64">XDxjbG9uZVNlcnZpY2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZXdTaG9ydFRleHRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjbG9uZVNlcnZpY2VcPg==</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -220,7 +221,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtU2hvcnRUZXh0XD4=</entry>
         <entry encoding="base64">XDx0YWJsZVw+</entry>
         <entry encoding="base64">XDxhZGRPYnJPYmplY3RcPg==</entry>
         <entry encoding="base64">XDxva0J1dHRvblw+</entry>
@@ -240,6 +240,7 @@
         <entry encoding="base64">XDxhdHRyaWJ1dGVzRnJvbUFwcGxcPg==</entry>
         <entry encoding="base64">XDxBVFRSSUJVVEVTRUNUSU9OTkFNRVw+</entry>
         <entry encoding="base64">XDxuZXdTaG9ydFRleHRcPg==</entry>
+        <entry encoding="base64">XDxjbG9uZVNlcnZpY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>191</entry>
