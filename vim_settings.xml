@@ -35,13 +35,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/sap/ConversionObserver.java" timestamp="1556806365576">
         <mark key="'" line="225" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/util/fewwf.java" timestamp="1558089356227">
-        <mark key="'" line="157" column="6" />
-        <mark key="[" line="64" column="38" />
-        <mark key="]" line="64" column="37" />
-        <mark key="^" line="64" column="37" />
-        <mark key="." line="64" column="37" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentCloneStart.java" timestamp="1558525548681" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/brobj/BrClonePosition.java" timestamp="1558450695812" />
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/cfc/log/Log.java" timestamp="1556801116334">
@@ -167,11 +160,6 @@
         <mark key="'" line="335" column="2" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/omf/OmfDocCloneExtended.java" timestamp="1558548110824" />
-      <file name="/Dummy.txt" timestamp="1558546883446">
-        <mark key="[" line="4" column="103" />
-        <mark key="]" line="4" column="103" />
-        <mark key="." line="4" column="103" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/clone/helper/CloneDadiHelper.java" timestamp="1558452894053" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/utils/ConvUtils.java" timestamp="1556187326451">
         <mark key="'" line="220" column="23" />
@@ -185,13 +173,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.8.1/convert-5.1.8.1-sources.jar!/cadagent/sap/ProcessStartConversion.java" timestamp="1556184200678">
         <mark key="'" line="1173" column="39" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1558548034295">
-        <mark key="'" line="536" column="43" />
-        <mark key="[" line="190" column="0" />
-        <mark key="]" line="190" column="0" />
-        <mark key="^" line="191" column="47" />
-        <mark key="." line="190" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1-SNAPSHOT/base-5.1-20190411.130436-274-sources.jar!/cadagent/cfc/util/FileCopy.java" timestamp="1556205829518">
         <mark key="'" line="79" column="21" />
@@ -318,7 +299,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJhY2VYbWxGaWxlKHhtbEZpbGUpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>debug_log_file_name</text>
@@ -330,34 +311,34 @@
         <text encoding="base64">ICAgIG5ld0RvYyA9IHBsbUFjY2Vzcy5kb2N1bWVudE5ldyhBU1NJR05NRU5UX01BU1RFUiwgbmV3VHlwZSwgc3RhcnRQYXJ0Tm9uTWFzdGVyLCAiMDAiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJhY2VYbWxGaWxlKHhtbEZpbGUpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRyeQo=</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHRyeQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgRmlsZVV0aWxzLndyaXRlU3RyaW5nVG9GaWxlKGNvbnRlbnQsIGYpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIGNvbnRlbnQgPSBGaWxlVXRpbHMucmVhZFN0cmluZ0Zyb21GaWxlKHhtbEZpbGUpOwo=</text>
+        <text encoding="base64">ICAgICAgRmlsZVV0aWxzLndyaXRlU3RyaW5nVG9GaWxlKGNvbnRlbnQsIGYpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIGNvbnRlbnQgPSBGaWxlVXRpbHMucmVhZFN0cmluZ0Zyb21GaWxlKHhtbEZpbGUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgIHsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCB3cml0ZVN0cmluZ1RvRmlsZShTdHJpbmcgY29udGVudCwgRmlsZSBmKSB0aHJvd3MgSU9FeGNlcHRpb24KICAgIHsKICAgICAgdHJ5IChGaWxlV3JpdGVyIGZ3ID0gbmV3IEZpbGVXcml0ZXIoZikpCiAgICAgIHsKICAgICAgICBmdy53cml0ZShjb250ZW50KTsKICAgICAgfQogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIHJlYWRTdHJpbmdGcm9tRmlsZShGaWxlIGYpIHRocm93cyBJT0V4Y2VwdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFRyYWNlLnByaW50bG4oMCx4bWxGaWxlKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCB3cml0ZVN0cmluZ1RvRmlsZShTdHJpbmcgY29udGVudCwgRmlsZSBmKSB0aHJvd3MgSU9FeGNlcHRpb24KICAgIHsKICAgICAgdHJ5IChGaWxlV3JpdGVyIGZ3ID0gbmV3IEZpbGVXcml0ZXIoZikpCiAgICAgIHsKICAgICAgICBmdy53cml0ZShjb250ZW50KTsKICAgICAgfQogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIHJlYWRTdHJpbmdGcm9tRmlsZShGaWxlIGYpIHRocm93cyBJT0V4Y2VwdGlvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>331</text>
