@@ -34,13 +34,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/sap/ConversionObserver.java" timestamp="1556806365576">
         <mark key="'" line="225" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/util/fewwf.java" timestamp="1558089356227">
-        <mark key="'" line="157" column="6" />
-        <mark key="[" line="64" column="38" />
-        <mark key="]" line="64" column="37" />
-        <mark key="^" line="64" column="37" />
-        <mark key="." line="64" column="37" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentCloneStart.java" timestamp="1558525548681" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/brobj/BrClonePosition.java" timestamp="1558450695812" />
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/cfc/log/Log.java" timestamp="1556801116334">
@@ -161,7 +154,7 @@
         <mark key="'" line="335" column="2" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/omf/OmfDocCloneExtended.java" timestamp="1558453618302" />
-      <file name="/Dummy.txt" timestamp="1558525873197">
+      <file name="/Dummy.txt" timestamp="1558532218394">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/clone/helper/CloneDadiHelper.java" timestamp="1558452894053" />
@@ -178,12 +171,11 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.8.1/convert-5.1.8.1-sources.jar!/cadagent/sap/ProcessStartConversion.java" timestamp="1556184200678">
         <mark key="'" line="1173" column="39" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1558525790559">
-        <mark key="'" line="1091" column="41" />
-        <mark key="[" line="528" column="0" />
-        <mark key="]" line="528" column="0" />
-        <mark key="^" line="531" column="86" />
-        <mark key="." line="528" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1558532202187">
+        <mark key="[" line="392" column="0" />
+        <mark key="]" line="392" column="0" />
+        <mark key="^" line="495" column="3" />
+        <mark key="." line="392" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1-SNAPSHOT/base-5.1-20190411.130436-274-sources.jar!/cadagent/cfc/util/FileCopy.java" timestamp="1556205829518">
         <mark key="'" line="79" column="21" />
@@ -207,9 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="489" column="39" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/sess/ApplPart.java" />
-      <jump line="473" column="18" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/sess/ApplPart.java" />
-      <jump line="410" column="24" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/sess/ApplPart.java" />
       <jump line="399" column="22" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/sess/ApplPart.java" />
       <jump line="380" column="25" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/sess/ApplPart.java" />
       <jump line="308" column="32" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/sess/ApplPart.java" />
@@ -307,16 +296,19 @@
       <jump line="151" column="22" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/brobj/BrDocPosition.java" />
       <jump line="21" column="46" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.1/customize/config/dtype.xml" />
       <jump line="1115" column="41" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
+      <jump line="528" column="81" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
+      <jump line="529" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
+      <jump line="392" column="16" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>docVersion</text>
+        <text>, ncModelNew</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoaWRkZW5Eb2N1bWVudFNhcGtleXNcPg==</text>
+        <text encoding="base64">XDxuY01vZGVsTmV3XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I2diLm5jLmFzc2VtYmx5LmR0eXBlID0gRFJXVgo=</text>
@@ -328,57 +320,37 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFBsbURvY3VtZW50IG5jTW9kZWxOZXcgPSBjcmVhdGVNYXN0ZXJNb2RlbE5ldyhuY01vZGVsLCBkb2N1bWVudFJlbGF0aW9uKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="4">
-        <text>String docVersion;
-    CloneAction cloneAction = getCloneAction(documentRelation.getAction());
-    if (cloneAction == CloneAction.NEWVERS)
-      docVersion = &quot;*&quot;;
-    else
-      docVersion = PlmCloneUtils.getDocumentVersion(nonMaster.getDTypeId(), mmNew, nonMaster.getVersion());</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBuZXdOdW1iZXI7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>if (caseA)
-      newNumber = documentRelation.getNewNumber();
-    else if (caseB)
-    {
-      if (newDType.getDna() == DType.NUMBER_ASSIGNMENT_MASTER)
-        newNumber = ASSIGNMENT_MASTER;
-      else
-        newNumber = &quot;*&quot;;
-    }
-    else
-    {
-      if (newDType.getDna() == DType.NUMBER_ASSIGNMENT_MASTER)
-        newNumber = ASSIGNMENT_MASTER;
-      else
-        newNumber = &quot;*&quot;;
-    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Z2IubmMuYXNzZW1ibHkuZHR5cGUgPSBDUFJUCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgIERUeXBlIG5ld0RUeXBlID0gRFR5cGVDb250YWluZXIuZ2V0SW5zdCgpLmdldERUeXBlKG5vbk1hc3Rlci5nZXREVHlwZUlkKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>331</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoaWRkZW5Eb2N1bWVudFNhcGtleXNcPg==</last-search>
+      <last-search encoding="base64">XDxuY01vZGVsTmV3XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoaWRkZW5Eb2N1bWVudFNhcGtleXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxuY01vZGVsTmV3XD4=</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -386,8 +358,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZGRPYnJPYmplY3RcPg==</entry>
-        <entry encoding="base64">XDxva0J1dHRvblw+</entry>
         <entry encoding="base64">XDxNRVRFUklBTF9OVU1CRVJcPg==</entry>
         <entry encoding="base64">XDxleHRlcm5MaXN0ZW5lckZvckNlbGxDaGFuZ2VzXD4=</entry>
         <entry encoding="base64">XDx2X3BhcmVudHNcPg==</entry>
@@ -406,6 +376,8 @@
         <entry encoding="base64">XDxuZXdTaG9ydFRleHRcPg==</entry>
         <entry encoding="base64">XDxjbG9uZVNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxoaWRkZW5Eb2N1bWVudFNhcGtleXNcPg==</entry>
+        <entry encoding="base64">XDxuZXdEVHlwZVw+</entry>
+        <entry encoding="base64">XDxuY01vZGVsTmV3XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>191</entry>
