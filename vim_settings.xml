@@ -34,6 +34,13 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/sap/ConversionObserver.java" timestamp="1556806365576">
         <mark key="'" line="225" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/util/fewwf.java" timestamp="1558089356227">
+        <mark key="'" line="157" column="6" />
+        <mark key="[" line="64" column="38" />
+        <mark key="]" line="64" column="37" />
+        <mark key="^" line="64" column="37" />
+        <mark key="." line="64" column="37" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentCloneStart.java" timestamp="1558525548681" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/brobj/BrClonePosition.java" timestamp="1558450695812" />
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/cfc/log/Log.java" timestamp="1556801116334">
@@ -177,12 +184,12 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.8.1/convert-5.1.8.1-sources.jar!/cadagent/sap/ProcessStartConversion.java" timestamp="1556184200678">
         <mark key="'" line="1173" column="39" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1558539077335">
-        <mark key="'" line="126" column="18" />
-        <mark key="[" line="518" column="4" />
-        <mark key="]" line="519" column="3" />
-        <mark key="." line="519" column="3" />
-        <mark key="^" line="519" column="3" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1558541134427">
+        <mark key="'" line="517" column="43" />
+        <mark key="[" line="594" column="48" />
+        <mark key="]" line="595" column="3" />
+        <mark key="." line="595" column="3" />
+        <mark key="^" line="595" column="3" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1-SNAPSHOT/base-5.1-20190411.130436-274-sources.jar!/cadagent/cfc/util/FileCopy.java" timestamp="1556205829518">
         <mark key="'" line="79" column="21" />
@@ -206,7 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="22" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/sess/metainf/MetaInfPartInfo.java" />
       <jump line="149" column="22" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/sess/metainf/MetaInfPartInfo.java" />
       <jump line="158" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/sess/metainf/MetaInfPartInfo.java" />
       <jump line="164" column="18" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/sess/metainf/MetaInfPartInfo.java" />
@@ -306,19 +312,20 @@
       <jump line="6795" column="9" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" />
       <jump line="343" column="17" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" />
       <jump line="2263" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" />
+      <jump line="517" column="43" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>startPartNonMaster</text>
       </register>
       <register name="-" type="4">
-        <text>throws DefaultLogException</text>
+        <text>startPartNonMaster</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb2NwcnRQcmVzZWxlY3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbmV3TnVtYmVyID0gZG9jdW1lbnRSZWxhdGlvbi5nZXROZXdOdW1iZXIoKTsK</text>
+        <text encoding="base64">ICAgIG5ld0RvYyA9IHBsbUFjY2Vzcy5kb2N1bWVudE5ldyhBU1NJR05NRU5UX01BU1RFUiwgbmV3VHlwZSwgc3RhcnRQYXJ0Tm9uTWFzdGVyLCAiMDAiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -327,28 +334,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBuZXdQYXJ0ID0gbmNNb2RlbC5nZXRQYXJ0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEFsdGVybmF0aXZlTnVtYmVyR2VuZXJhdG9yIGdlbmVyYXRvciA9IG5ldyBBbHRlcm5hdGl2ZU51bWJlckdlbmVyYXRvcihudW1iZXIsIDMpOwogICAgaWYgKGdlbmVyYXRvci5oYXNOZXh0KCkpCiAgICAgIHJldHVybiBnZW5lcmF0b3IubmV4dCgpOwo=</text>
+        <text encoding="base64">ICAgIFBsbURvY3VtZW50IG5ld0RvYzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IERlZmF1bHRMb2dFeGNlcHRpb24oInBsbS5kb2N1bWVudC5hbHRlcm5hdGl2ZS5udW1iZXIuZXJyb3IiLCAiRXJyb3IgZ2VuZXJhdGluZyBhbHRlcm5hdGl2ZSBudW1iZXIhIik7Cg==</text>
+        <text encoding="base64">Ly8gICAgICBuZXdOdW1iZXIgPSAiKiI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBTdHJpbmcgaW5jcmVhc2VBbHBoYU51bShTdHJpbmcgbnVtYmVyKSAKICB7CiAgICBQbG1Eb2N1bWVudFV0aWxzIGluc3RhbmNlID0gZ2V0SW5zdCgpOwogICAgdHJ5CiAgICB7CiAgICAgIHJldHVybiBpbnN0YW5jZS5pbmNyZWFzZUFscGhhTnVtSW1wbChudW1iZXIpOwogICAgfQogICAgY2F0Y2ggKERlZmF1bHRMb2dFeGNlcHRpb24gZSkKICAgIHsKICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgIH0KICB9Cg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICBnZXROZXh0UGFydE51bWJlcigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>331</text>
