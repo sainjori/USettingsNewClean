@@ -9,7 +9,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/InspectionReportProvider.java" timestamp="1557946638084">
         <mark key="'" line="63" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1558517651146">
+      <file name="/a.dummy" timestamp="1558538655965">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/sess/ApplPart.java" timestamp="1557925216906">
@@ -33,13 +33,6 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/sap/ConversionObserver.java" timestamp="1556806365576">
         <mark key="'" line="225" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/util/fewwf.java" timestamp="1558089356227">
-        <mark key="'" line="157" column="6" />
-        <mark key="[" line="64" column="38" />
-        <mark key="]" line="64" column="37" />
-        <mark key="^" line="64" column="37" />
-        <mark key="." line="64" column="37" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentCloneStart.java" timestamp="1558525548681" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/brobj/BrClonePosition.java" timestamp="1558450695812" />
@@ -97,7 +90,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.12.1/base-5.1.12.1-sources.jar!/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1557329001574">
         <mark key="'" line="3579" column="4" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/utils/PlmDocumentUtils.java" timestamp="1558538338442" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/utils/PlmDocumentUtils.java" timestamp="1558538825500" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/ProjectSystem/customize/config/default.txt" timestamp="1558367795840">
         <mark key="'" line="194" column="46" />
         <mark key="[" line="314" column="83" />
@@ -184,12 +177,12 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.8.1/convert-5.1.8.1-sources.jar!/cadagent/sap/ProcessStartConversion.java" timestamp="1556184200678">
         <mark key="'" line="1173" column="39" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1558537955789">
-        <mark key="'" line="123" column="18" />
-        <mark key="[" line="507" column="38" />
-        <mark key="]" line="507" column="40" />
-        <mark key="." line="507" column="40" />
-        <mark key="^" line="507" column="40" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" timestamp="1558539077335">
+        <mark key="'" line="126" column="18" />
+        <mark key="[" line="518" column="4" />
+        <mark key="]" line="519" column="3" />
+        <mark key="." line="519" column="3" />
+        <mark key="^" line="519" column="3" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1-SNAPSHOT/base-5.1-20190411.130436-274-sources.jar!/cadagent/cfc/util/FileCopy.java" timestamp="1556205829518">
         <mark key="'" line="79" column="21" />
@@ -316,10 +309,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgbmV3TnVtYmVyID0gZG9jdW1lbnRSZWxhdGlvbi5nZXROZXdOdW1iZXIoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>clean and lean</text>
+        <text>throws DefaultLogException</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb2NwcnRQcmVzZWxlY3RcPg==</text>
@@ -334,28 +327,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbmV3TnVtYmVyID0gIioiOwo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBuZXdQYXJ0ID0gbmNNb2RlbC5nZXRQYXJ0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFsdGVybmF0aXZlTnVtYmVyR2VuZXJhdG9yIGdlbmVyYXRvciA9IG5ldyBBbHRlcm5hdGl2ZU51bWJlckdlbmVyYXRvcihudW1iZXIsIDMpOwogICAgaWYgKGdlbmVyYXRvci5oYXNOZXh0KCkpCiAgICAgIHJldHVybiBnZW5lcmF0b3IubmV4dCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFBsbURvY3VtZW50IG5jTW9kZWxOZXcgPSBjcmVhdGVNYXN0ZXJNb2RlbE5ldyhuY01vZGVsLCBkb2N1bWVudFJlbGF0aW9uKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IERlZmF1bHRMb2dFeGNlcHRpb24oInBsbS5kb2N1bWVudC5hbHRlcm5hdGl2ZS5udW1iZXIuZXJyb3IiLCAiRXJyb3IgZ2VuZXJhdGluZyBhbHRlcm5hdGl2ZSBudW1iZXIhIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBTdHJpbmcgaW5jcmVhc2VBbHBoYU51bShTdHJpbmcgbnVtYmVyKSAKICB7CiAgICBQbG1Eb2N1bWVudFV0aWxzIGluc3RhbmNlID0gZ2V0SW5zdCgpOwogICAgdHJ5CiAgICB7CiAgICAgIHJldHVybiBpbnN0YW5jZS5pbmNyZWFzZUFscGhhTnVtSW1wbChudW1iZXIpOwogICAgfQogICAgY2F0Y2ggKERlZmF1bHRMb2dFeGNlcHRpb24gZSkKICAgIHsKICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgIH0KICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICBnZXROZXh0UGFydE51bWJlcigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>331</text>
