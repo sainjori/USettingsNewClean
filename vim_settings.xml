@@ -26,6 +26,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/sap/ConversionServer.java" timestamp="1558615369205" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.1/base-5.1.13.1-sources.jar!/cadagent/cfc/util/Trace.java" timestamp="1558547495653" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.13.1/addons-5.1.13.1-sources.jar!/plm/omf/OmfDocClone.java" timestamp="1558451431853" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/addPlmSapConnector_5.1.9.5-RC8/addPlmSapConnector/customize/config/plmservices_setenv.bat" timestamp="1559044666375" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentCloneStart.java" timestamp="1558525548681" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/clone/service/GbCloneScheduleService.java" timestamp="1558453515958" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.1/basis/dictionary/de/ectr.txt" timestamp="1558451554395" />
@@ -41,11 +42,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/sap/SapCredentials.java" timestamp="1558615567117" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/omf/OmfDocCloneOption.java" timestamp="1558451501883" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentClone.java" timestamp="1558452763489" />
-      <file name="/fragment.java" timestamp="1558517643913">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="56" />
-        <mark key="." line="0" column="56" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="149" column="22" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/sess/metainf/MetaInfPartInfo.java" />
