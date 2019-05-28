@@ -6,27 +6,60 @@
       <file name="/a.dummy" timestamp="1558538655965">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/clone/gfx/DocCloneActionListener.java" timestamp="1558455347383">
-        <mark key="'" line="240" column="87" />
-      </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.9.3/customize/config/SAPlogon.txt" timestamp="1559047733835" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/brobj/BrClonePosition.java" timestamp="1558450695812" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentClone2.java" timestamp="1558451568182" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.12.1/sapbase-5.1.12.1-sources.jar!/cadagent/objmod/PlmMaterial.java" timestamp="1558124707989">
-        <mark key="'" line="1824" column="33" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/ConvProcessUpdateInspectionReportBitzer.java" timestamp="1557946590023">
+        <mark key="[" line="88" column="11" />
+        <mark key="]" line="88" column="13" />
+        <mark key="^" line="88" column="13" />
+        <mark key="." line="88" column="13" />
+      </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.12.1/customize/config/attributes-to-sap.xml" timestamp="1558124103467">
+        <mark key="[" line="58" column="38" />
+        <mark key="]" line="58" column="37" />
+        <mark key="^" line="58" column="37" />
+        <mark key="." line="58" column="37" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/utils/YpsomedVeaHelper.java" timestamp="1558114557652">
+        <mark key="[" line="64" column="46" />
+        <mark key="]" line="64" column="54" />
+        <mark key="." line="64" column="54" />
+        <mark key="^" line="64" column="54" />
       </file>
       <file name="/Clipboard.txt" timestamp="1558523307574">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" timestamp="1558538202701">
-        <mark key="'" line="2263" column="6" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.12.1/customize/config/plm_initialize.bat" timestamp="1558111966560">
+        <mark key="[" line="239" column="41" />
+        <mark key="]" line="239" column="40" />
+        <mark key="^" line="239" column="40" />
+        <mark key="." line="239" column="40" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneExtended.java" timestamp="1558452831566" />
       <file name="/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1558101892901" />
       <file name="/plm_initialize.bat" timestamp="1558111344128" />
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/sap/ConversionServer.java" timestamp="1558615369205" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/InspectionReportProvider.java" timestamp="1557946680301">
+        <mark key="[" line="44" column="68" />
+        <mark key="]" line="44" column="74" />
+        <mark key="." line="44" column="74" />
+        <mark key="^" line="44" column="74" />
+      </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/addPlmSapConnector_5.1.9.5-RC8/addPlmSapConnector/customize/config/SAPlogon.txt" timestamp="1559047845932">
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="^" line="152" column="6" />
+        <mark key="." line="151" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.1/base-5.1.13.1-sources.jar!/cadagent/cfc/util/Trace.java" timestamp="1558547495653" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.13.1/addons-5.1.13.1-sources.jar!/plm/omf/OmfDocClone.java" timestamp="1558451431853" />
-      <file name="C:/ENTWICKLUNG/ectr_installations/addPlmSapConnector_5.1.9.5-RC8/addPlmSapConnector/customize/config/plmservices_setenv.bat" timestamp="1559044666375" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/addPlmSapConnector_5.1.9.5-RC8/addPlmSapConnector/customize/config/plmservices_setenv.bat" timestamp="1559047264050">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="2" />
+        <mark key="." line="65" column="2" />
+        <mark key="^" line="65" column="2" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/test/java/plm/modules/wsfunction/addPlmTestClient/Main.java" timestamp="1559046162570" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentCloneStart.java" timestamp="1558525548681" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/clone/service/GbCloneScheduleService.java" timestamp="1558453515958" />
@@ -35,8 +68,20 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.1/plm-5.1.12.1-sources.jar!/plm/attrib/AttributeSection.java" timestamp="1558090018758" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.1/base-5.1.13.1-sources.jar!/cadagent/cfc/util/FileUtils.java" timestamp="1558547993111" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/utils/PlmDocumentUtils.java" timestamp="1558538825500" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/WirtgenDialogSize.java" timestamp="1557412820076">
+        <mark key="[" line="18" column="9" />
+        <mark key="]" line="18" column="16" />
+        <mark key="." line="18" column="16" />
+        <mark key="^" line="18" column="16" />
+      </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/addPlmSapConnector_5.1.9.5-RC8/addPlmSapConnector/customize/exec/win/addutils/ReadMe.txt" timestamp="1559045561105" />
-      <file name="C:/ENTWICKLUNG/ectr_installations/addPlmSapConnector_5.1.9.5-RC8/addPlmSapConnector/customize/config/addplm-service.txt" timestamp="1559046089061" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/addPlmSapConnector_5.1.9.5-RC8/addPlmSapConnector/customize/config/addplm-service.txt" timestamp="1559047190549" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.1/customize/config/default.txt" timestamp="1558474099356">
+        <mark key="[" line="2643" column="27" />
+        <mark key="]" line="2643" column="26" />
+        <mark key="^" line="2643" column="26" />
+        <mark key="." line="2643" column="26" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/omf/OmfDocCloneExtended.java" timestamp="1558548110824" />
       <file name="/Dummy.txt" timestamp="1559043175874">
         <mark key="[" line="0" column="0" />
@@ -45,6 +90,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/sap/SapCredentials.java" timestamp="1558615567117" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/omf/OmfDocCloneOption.java" timestamp="1558451501883" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentClone.java" timestamp="1558452763489" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.12.1/customize/config/attributes-from-sap.xml" timestamp="1558347911968">
+        <mark key="[" line="440" column="12" />
+        <mark key="]" line="450" column="58" />
+        <mark key="^" line="450" column="58" />
+        <mark key="." line="450" column="58" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="149" column="22" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/sess/metainf/MetaInfPartInfo.java" />
@@ -149,47 +200,47 @@
       <jump line="517" column="43" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">MAo=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>debug_log_file_name</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb2NwcnRQcmVzZWxlY3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG5ld0RvYyA9IHBsbUFjY2Vzcy5kb2N1bWVudE5ldyhBU1NJR05NRU5UX01BU1RFUiwgbmV3VHlwZSwgc3RhcnRQYXJ0Tm9uTWFzdGVyLCAiMDAiKTsK</text>
+        <text encoding="base64">cmVtICAgIHNldCBQTE1fREVNT19NT0RFPXRydWUK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">MAo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJhY2VYbWxGaWxlKHhtbEZpbGUpOwo=</text>
+        <text encoding="base64">ICAgICAgc2FwLmxvZ29uLkNvbm5lY3Rpb25OYW1lMSAgICAgID0gCiAgICAgIHNhcC5sb2dvbi5DbGllbnQxICAgICAgICAgICAgICA9IAogICAgICBzYXAubG9nb24uRGVzdGluYXRpb24xICAgICAgICAgPSAKICAgICAgc2FwLmxvZ29uLkhvc3RuYW1lMSAgICAgICAgICAgID0gCiAgICAgIHNhcC5sb2dvbi5TeXNucjEgICAgICAgICAgICAgICA9IAogICAgICBzYXAubG9nb24uR2F0ZXdheVNlcnZpY2UxICAgICAgPSAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">MAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyeQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJhY2VYbWxGaWxlKHhtbEZpbGUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgRmlsZVV0aWxzLndyaXRlU3RyaW5nVG9GaWxlKGNvbnRlbnQsIGYpOwo=</text>
+        <text encoding="base64">ICAgIHRyeQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIGNvbnRlbnQgPSBGaWxlVXRpbHMucmVhZFN0cmluZ0Zyb21GaWxlKHhtbEZpbGUpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgRmlsZVV0aWxzLndyaXRlU3RyaW5nVG9GaWxlKGNvbnRlbnQsIGYpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIGNvbnRlbnQgPSBGaWxlVXRpbHMucmVhZFN0cmluZ0Zyb21GaWxlKHhtbEZpbGUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>331</text>
