@@ -12,6 +12,9 @@
       <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/javax/xml/parsers/DocumentBuilderFactory.java" timestamp="1559069601282">
         <mark key="'" line="117" column="6" />
       </file>
+      <file name="/a.dummy" timestamp="1558538655965">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/sess/ApplPart.java" timestamp="1557925216906">
         <mark key="'" line="261" column="4" />
       </file>
@@ -31,13 +34,7 @@
         <mark key="'" line="97" column="64" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentClone2.java" timestamp="1558451568182" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/ConvProcessUpdateInspectionReportBitzer.java" timestamp="1557946590023">
-        <mark key="[" line="88" column="11" />
-        <mark key="]" line="88" column="13" />
-        <mark key="^" line="88" column="13" />
-        <mark key="." line="88" column="13" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.9.5/addons-5.1.9.5-sources.jar!/plm/modules/wsfunction/PlmServiceFunctionHandlerWSImpl.java" timestamp="1559128470601" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.9.5/addons-5.1.9.5-sources.jar!/plm/modules/wsfunction/PlmServiceFunctionHandlerWSImpl.java" timestamp="1559136938438" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.12.1/customize/config/attributes-to-sap.xml" timestamp="1558124103467">
         <mark key="[" line="58" column="38" />
         <mark key="]" line="58" column="37" />
@@ -55,6 +52,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.1/plm-5.1.12.1-sources.jar!/plm/gui/classhierarchy/CharacteristicView.java" timestamp="1557152710827">
         <mark key="'" line="668" column="6" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1558523307574">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.12.1/customize/config/plm_initialize.bat" timestamp="1558111966560">
         <mark key="[" line="239" column="41" />
@@ -77,16 +77,11 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/omf/OmfDocEplanPdfCreate.java" timestamp="1557923808980">
         <mark key="'" line="820" column="12" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/javax/xml/ws/Endpoint.java" timestamp="1559136780047" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.8.1/convert-5.1.8.1-sources.jar!/cadagent/sap/ProcessStartConversion.java" timestamp="1556184200678">
         <mark key="'" line="1173" column="39" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/sap/ConversionServer.java" timestamp="1558615369205" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/InspectionReportProvider.java" timestamp="1557946680301">
-        <mark key="[" line="44" column="68" />
-        <mark key="]" line="44" column="74" />
-        <mark key="." line="44" column="74" />
-        <mark key="^" line="44" column="74" />
-      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/CountDownLatch.java" timestamp="1559133507194">
         <mark key="'" line="217" column="5" />
       </file>
@@ -124,12 +119,6 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/clone/service/GbCloneScheduleService.java" timestamp="1558453515958" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.9.5/addons-5.1.9.5-sources.jar!/plm/modules/wsfunction/xml/PlmServiceFunctionXmlBuilder.java" timestamp="1559069762177" />
-      <file name="C:/DSCSAG/batchEngine/DEV/customize/config/SAPlogon.txt" timestamp="1559048543892">
-        <mark key="[" line="22" column="77" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.1/basis/dictionary/de/ectr.txt" timestamp="1558451554395" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.13.1/addons-5.1.13.1-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentCloneSchedule.java" timestamp="1558460052635" />
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/test/java/plm/modules/wsfunction/addPlmTestClient/TestClient.java" timestamp="1559062595115" />
@@ -140,12 +129,6 @@
         <mark key="'" line="3579" column="4" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/utils/PlmDocumentUtils.java" timestamp="1558538825500" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/WirtgenDialogSize.java" timestamp="1557412820076">
-        <mark key="[" line="18" column="9" />
-        <mark key="]" line="18" column="16" />
-        <mark key="." line="18" column="16" />
-        <mark key="^" line="18" column="16" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentChangeAttributes.java" timestamp="1558097909550">
         <mark key="'" line="253" column="47" />
       </file>
@@ -171,6 +154,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/omf/OmfDocCloneExtended.java" timestamp="1558548110824" />
       <file name="C:/Program Files/Java/jdk1.8.0_201/jre/lib/rt.jar!/javax/jws/WebService.class" timestamp="1559133781224" />
+      <file name="/Dummy.txt" timestamp="1559137745886">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/clone/helper/CloneDadiHelper.java" timestamp="1558452894053" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/utils/ConvUtils.java" timestamp="1556187326451">
         <mark key="'" line="220" column="23" />
@@ -189,12 +175,6 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentClone.java" timestamp="1558452763489" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/brobj/BrDocPosition.java" timestamp="1558458995155">
         <mark key="'" line="151" column="22" />
-      </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.12.1/customize/config/attributes-from-sap.xml" timestamp="1558347911968">
-        <mark key="[" line="440" column="12" />
-        <mark key="]" line="450" column="58" />
-        <mark key="^" line="450" column="58" />
-        <mark key="." line="450" column="58" />
       </file>
       <file name="/fragment.java" timestamp="1559128284168">
         <mark key="[" line="0" column="0" />
