@@ -25,6 +25,7 @@
         <mark key="'" line="479" column="31" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/plm_setenv.bat" timestamp="1559064911079" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmProcessDocumentMetaDataGet.java" timestamp="1559138528883" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.9.3/customize/config/SAPlogon.txt" timestamp="1559050102326" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/brobj/BrClonePosition.java" timestamp="1558450695812" />
       <file name="C:/ENTWICKLUNG/java/workspaces/batchEngine/convert_trunk/java/src/cadagent/cfc/log/Log.java" timestamp="1556801116334">
@@ -86,6 +87,7 @@
         <mark key="'" line="217" column="5" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.1/base-5.1.13.1-sources.jar!/cadagent/cfc/util/Trace.java" timestamp="1558547495653" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocumentMetaDataGet.java" timestamp="1559138851008" />
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocExistsCheck.java" timestamp="1559062694906" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/sess/metainf/MetaInfPartInfo.java" timestamp="1557925246171">
         <mark key="'" line="235" column="21" />
@@ -121,7 +123,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.9.5/addons-5.1.9.5-sources.jar!/plm/modules/wsfunction/xml/PlmServiceFunctionXmlBuilder.java" timestamp="1559069762177" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.1/basis/dictionary/de/ectr.txt" timestamp="1558451554395" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.13.1/addons-5.1.13.1-sources.jar!/plm/proc/doc/clone/PlmProcessDocumentCloneSchedule.java" timestamp="1558460052635" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/test/java/plm/modules/wsfunction/addPlmTestClient/TestClient.java" timestamp="1559062595115" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/test/java/plm/modules/wsfunction/addPlmTestClient/TestClient.java" timestamp="1559138490377" />
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/test/java/plm/modules/wsfunction/PlmServiceFunctions.java" timestamp="1559062814383" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.1/plm-5.1.12.1-sources.jar!/plm/attrib/AttributeSection.java" timestamp="1558090018758" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.1/base-5.1.13.1-sources.jar!/cadagent/cfc/util/FileUtils.java" timestamp="1558547993111" />
