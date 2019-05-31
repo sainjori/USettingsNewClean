@@ -9,7 +9,10 @@
       <file name="/Clipboard.txt" timestamp="1558523307574">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.9.5/addons-5.1.9.5-sources.jar!/plm/modules/wsfunction/xml/PlmServiceFunctionXmlParser.java" timestamp="1559311083341" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.9.5/addons-5.1.9.5-sources.jar!/plm/modules/wsfunction/xml/PlmServiceFunctionXmlParser.java" timestamp="1559314658400">
+        <mark key="[" line="78" column="4" />
+        <mark key="]" line="78" column="10" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/pom.xml" timestamp="1559309808280">
         <mark key="[" line="30" column="6" />
       </file>
@@ -133,10 +136,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TRUNK-SNAPSHOT</text>
+        <text encoding="base64">cGFyc2U6IA==</text>
       </register>
       <register name="-" type="4">
-        <text>TRUNK-SNAPSHOT</text>
+        <text encoding="base64">cGFyc2U6IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb2NwcnRQcmVzZWxlY3RcPg==</text>
