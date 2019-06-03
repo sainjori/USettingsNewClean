@@ -4,13 +4,6 @@
     <globalmarks />
     <filemarks>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/landscape-provider/src/test/java/com/dscsag/landscapeprovider/connections/SapGuiApplicationServerConnectionTest.java" timestamp="1559579309137" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/branches/CONV-ECTR-44/java/src/main/java/wirtgen/proc/ConvProcessUpdateInspectionReport.java" timestamp="1559567644782">
-        <mark key="'" line="807" column="2" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="640" column="26" />
-        <mark key="." line="42" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneExtended.java" timestamp="1559578155505">
         <mark key="[" line="148" column="9" />
         <mark key="]" line="150" column="52" />
@@ -71,6 +64,9 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/4.4-SNAPSHOT/plm-4.4-20190506.170519-3717-sources.jar!/plm/utils/PlmPartNameRules.java" timestamp="1559561764800" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.13.1/addons-5.1.13.1-sources.jar!/plm/modules/dataexchange/DDXExchangeGenerator.java" timestamp="1559576304218" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/utils/YpsomedVeaHelper.java" timestamp="1559577815244" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/sap/conn/jco/tm/JcoSapManager.java" timestamp="1559584900883">
+        <mark key="'" line="120" column="50" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/landscape-provider/pom.xml" timestamp="1559571549226" />
       <file name="/fragment.java" timestamp="1559577369996">
         <mark key="[" line="0" column="0" />
@@ -80,13 +76,6 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/utils/PlmStdPartNameRules.java" timestamp="1559561820733" />
     </filemarks>
     <jumps>
-      <jump line="120" column="37" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/ConvProcessUpdateInspectionReport.java" />
-      <jump line="119" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/ConvProcessUpdateInspectionReport.java" />
-      <jump line="483" column="21" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/ConvProcessUpdateInspectionReport.java" />
-      <jump line="476" column="37" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/ConvProcessUpdateInspectionReport.java" />
-      <jump line="473" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/ConvProcessUpdateInspectionReport.java" />
-      <jump line="472" column="23" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/ConvProcessUpdateInspectionReport.java" />
-      <jump line="139" column="32" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/ConvProcessUpdateInspectionReport.java" />
       <jump line="137" column="19" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/ConvProcessUpdateInspectionReport.java" />
       <jump line="131" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/ConvProcessUpdateInspectionReport.java" />
       <jump line="126" column="41" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/ConvProcessUpdateInspectionReport.java" />
@@ -180,6 +169,13 @@
       <jump line="59" column="45" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/sap/ApiParameter.java" />
       <jump line="51" column="13" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/sapbase/java/src/cadagent/sap/ApiParameter.java" />
       <jump line="280" column="38" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
+      <jump line="271" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/sap/conn/jco/tm/JcoSapManager.java" />
+      <jump line="282" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/sap/conn/jco/tm/JcoSapManager.java" />
+      <jump line="283" column="51" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/sap/conn/jco/tm/JcoSapManager.java" />
+      <jump line="309" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/sap/conn/jco/tm/JcoSapManager.java" />
+      <jump line="319" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/sap/conn/jco/tm/JcoSapManager.java" />
+      <jump line="96" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/sap/conn/jco/tm/JcoSapManager.java" />
+      <jump line="120" column="50" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/sap/conn/jco/tm/JcoSapManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -189,7 +185,7 @@
         <text>wdocumentElement</text>
       </register>
       <register name="/" type="4">
-        <text>()</text>
+        <text encoding="base64">XDxzYXBDb25uZWN0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaWYgKCFDbG9uZURhZGlIZWxwZXIuZ2V0SW5zdCgpLmdldERhcmtDbG9uZSgpKQo=</text>
@@ -229,9 +225,9 @@
       </register>
     </registers>
     <search>
-      <last-search>()</last-search>
+      <last-search encoding="base64">XDxzYXBDb25uZWN0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern>()</last-pattern>
+      <last-pattern encoding="base64">XDxzYXBDb25uZWN0aW9uXD4=</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -239,7 +235,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwbG1NYXRlcmlhbFw+</entry>
         <entry encoding="base64">XDxpZlw+</entry>
         <entry encoding="base64">XDxwYXJ0SW5mb1w+</entry>
         <entry encoding="base64">XDxvd25BdHRyaWJ1dGVzXD4=</entry>
@@ -259,6 +254,7 @@
         <entry encoding="base64">XDxkb2NwcnRQcmVzZWxlY3RcPg==</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry>()</entry>
+        <entry encoding="base64">XDxzYXBDb25uZWN0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>191</entry>
