@@ -5,8 +5,15 @@
     <filemarks>
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocumentMetaDataGet.java" timestamp="1559654810224" />
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocExistsCheck.java" timestamp="1559654807091" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/default.txt" timestamp="1559673252560">
+        <mark key="'" line="17" column="25" />
+        <mark key="[" line="2634" column="40" />
+        <mark key="]" line="2636" column="27" />
+        <mark key="^" line="2636" column="27" />
+        <mark key="." line="2636" column="27" />
+      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/logging/Logger.java" timestamp="1559646681236" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/index/trunk/src/main/java/index/omf/OmfIndexExportOriginals.java" timestamp="1559669175185" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/index/trunk/src/main/java/index/omf/OmfIndexExportOriginals.java" timestamp="1559673188333" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.5/sapbase-5.1.9.5-sources.jar!/cadagent/proc/PLMProcess.java" timestamp="1559643481695" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.13.1/addons-5.1.13.1-sources.jar!/plm/proc/sdk2/PlmProcessGenericCall.java" timestamp="1559575346520" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/sapbase/java/src/cadagent/sap/ApiParameter.java" timestamp="1559574752521">
@@ -15,7 +22,19 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmProcessCacheUpdate.java" timestamp="1559654789130" />
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmProcessDocumentMetaDataGet.java" timestamp="1559656553685" />
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionComponentsRead.java" timestamp="1559641789991" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/menu.guidef" timestamp="1559673278721">
+        <mark key="[" line="102" column="46" />
+        <mark key="]" line="102" column="67" />
+        <mark key="." line="102" column="67" />
+        <mark key="^" line="102" column="67" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.9.5/addons-5.1.9.5-sources.jar!/plm/modules/wsfunction/xml/PlmServiceFunctionXmlBuilder.java" timestamp="1559643150792" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/branches/CONV-ECTR-44/java/src/main/java/wirtgen/proc/InspectionReportProvider.java" timestamp="1559561321674">
+        <mark key="[" line="32" column="4" />
+        <mark key="]" line="32" column="10" />
+        <mark key="^" line="32" column="10" />
+        <mark key="." line="32" column="10" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/util/PlmInfoFileUtils.java" timestamp="1559651438189" />
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/test/java/plm/modules/wsfunction/addPlmTestClient/TestClient.java" timestamp="1559654824954">
         <mark key="'" line="148" column="0" />
@@ -31,6 +50,9 @@
         <mark key="'" line="217" column="46" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/omf/OmfFldExportDocs.java" timestamp="1559660587534" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/index/trunk/src/main/java/index/omf/OmfIndexExportOriginals2.java" timestamp="1559673012190">
+        <mark key="'" line="257" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/sap/ApiParameter.java" timestamp="1559574668897">
         <mark key="'" line="59" column="45" />
       </file>
@@ -41,6 +63,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckout.java" timestamp="1559651018816" />
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" timestamp="1559646899375" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/omf/OmfOriginalsExport.java" timestamp="1559667563121" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/pom.xml" timestamp="1559571435331">
+        <mark key="[" line="32" column="21" />
+        <mark key="]" line="32" column="20" />
+        <mark key="^" line="32" column="20" />
+        <mark key="." line="32" column="20" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.5/base-5.1.9.5-sources.jar!/cadagent/cfc/util/Trace.java" timestamp="1559643340348">
         <mark key="'" line="1997" column="62" />
       </file>
@@ -53,8 +81,6 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/utils/PlmStdPartNameRules.java" timestamp="1559561820733" />
     </filemarks>
     <jumps>
-      <jump line="131" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/ConvProcessUpdateInspectionReport.java" />
-      <jump line="126" column="41" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/ConvProcessUpdateInspectionReport.java" />
       <jump line="677" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/ConvProcessUpdateInspectionReport.java" />
       <jump line="672" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/ConvProcessUpdateInspectionReport.java" />
       <jump line="469" column="20" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/bitzer/trunk/src/main/java/bitzer/proc/iplan/ConvProcessUpdateInspectionReport.java" />
@@ -153,19 +179,21 @@
       <jump line="96" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/sap/conn/jco/tm/JcoSapManager.java" />
       <jump line="120" column="50" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/sap/conn/jco/tm/JcoSapManager.java" />
       <jump line="1997" column="62" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.5/base-5.1.9.5-sources.jar!/cadagent/cfc/util/Trace.java" />
+      <jump line="257" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/index/trunk/src/main/java/index/omf/OmfIndexExportOriginals2.java" />
+      <jump line="17" column="25" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/default.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>wdocumentElement</text>
+        <text>show.admin.menu</text>
       </register>
       <register name="-" type="4">
-        <text>wdocumentElement</text>
+        <text>show.admin.menu</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXBDb25uZWN0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFDbG9uZURhZGlIZWxwZXIuZ2V0SW5zdCgpLmdldERhcmtDbG9uZSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gZm5jLnNob3cuYWRtaW4ubWVudQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHhtbERvY3VtZW50Lgo=</text>
