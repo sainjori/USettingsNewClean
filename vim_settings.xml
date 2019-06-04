@@ -4,10 +4,6 @@
     <globalmarks />
     <filemarks>
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocumentMetaDataGet.java" timestamp="1559654810224" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.9.5/addons-5.1.9.5-sources.jar!/plm/modules/wsfunction/xml/PlmServiceFunctionXmlParser.java" timestamp="1559642318731">
-        <mark key="[" line="78" column="4" />
-        <mark key="]" line="78" column="10" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocExistsCheck.java" timestamp="1559654807091" />
       <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/logging/Logger.java" timestamp="1559646681236" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.5/sapbase-5.1.9.5-sources.jar!/cadagent/proc/PLMProcess.java" timestamp="1559643481695" />
@@ -39,6 +35,7 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/proc/sdk2/PlmProcessGenericCall.java" timestamp="1559574873072" />
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmProcessReadBillOfDocuments.java" timestamp="1559654798321" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/PlmProcessFolderExport.java" timestamp="1559662062483" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/omf/OmfOriginalsExport.java" timestamp="1559659525175" />
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckout.java" timestamp="1559651018816" />
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" timestamp="1559646899375" />
