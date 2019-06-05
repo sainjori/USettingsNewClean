@@ -91,12 +91,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/landscape-provider/src/test/java/com/dscsag/landscapeprovider/connections/SapGuiApplicationServerConnectionTest.java" timestamp="1559579309137" />
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmProcessDocumentsSelect.java" timestamp="1559654794285" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/proc/PlmProcessFolderExport.java" timestamp="1559737842673" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" timestamp="1559749022074">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" timestamp="1559753582979">
         <mark key="'" line="129" column="0" />
-        <mark key="[" line="523" column="3" />
-        <mark key="]" line="522" column="64" />
-        <mark key="^" line="522" column="64" />
-        <mark key="." line="522" column="64" />
+        <mark key="[" line="524" column="0" />
+        <mark key="]" line="524" column="0" />
+        <mark key="." line="524" column="0" />
+        <mark key="^" line="527" column="21" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/omf/OmfFldExportDocs.java" timestamp="1559660587534" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneExtended.java" timestamp="1559578155505">
@@ -146,7 +146,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/utils/PartNameRuleServiceFactory.java" timestamp="1559561958153" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.13.1/addons-5.1.13.1-sources.jar!/plm/modules/dataexchange/DDXExchangeGenerator.java" timestamp="1559576304218" />
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmProcessDocumentStructureInfoGet.java" timestamp="1559654796438" />
-      <file name="/fragment.java" timestamp="1559747959058">
+      <file name="/fragment.java" timestamp="1559753489683">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -257,47 +257,47 @@
       <jump line="121" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>document</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>document</text>
+        <text>dirDowpcument</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGREaXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVzdEZpbGVOYW1lID0gZGVzdEZpbGVOYW1lICsgIiAtICIgKyBnZXRMYW5ndWFnZVNwZWNpZmljRGVzYyhwbG1Eb2MsIGxhbmd1YWdlKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEVYUE9SVF9GSUxFTkFNRSA9ICJFWFBPUlRfRklMRU5BTUUiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyBsYW5nRGVzYyA9IGdldExhbmd1YWdlU3BlY2lmaWNEZXNjKHBsbURvYyk7Ci8vICAgICAgICBTdHJpbmcgZGVzY3JpcHRpb24gPSBwbG1Eb2MuZ2V0RGVzY3JpcHRpb24oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlc3RGaWxlTmFtZSA9IGRlc3RGaWxlTmFtZSArICIgLSAiICsgcGxtRG9jLmdldERlc2NyaXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBnZXRWYWx1ZU9mQ2hhck0wMDM4ID0gZ2V0Q2xhc3NDaGFyVmFsdWUocGxtRG9jLCBQcmVmZXJlbmNlcy5zdHJpbmdWYWx1ZSgiaW5kZXgucHJvYy5leHBvcnQub3JpZy5jbGFzc0NoYXIuVERPSWQiLAogICAgICAgICJNMDAzOCIpLCAiTm8tTTAwMzgtQ2hhciIpOwogICAgU3RyaW5nIGRlc3RGaWxlTmFtZSA9IChnZXRWYWx1ZU9mQ2hhck0wMDM4ICE9IG51bGwpID8gZ2V0VmFsdWVPZkNoYXJNMDAzOCA6IGdldE1hdE5yKHBsbURvYyk7CiAgICAvLyAgICAgICAgICAgIGRlc3RGaWxlTmFtZSA9IGRlc3RGaWxlTmFtZSArICIgLSAiICsgZ2V0TGFuZ3VhZ2VTcGVjaWZpY0Rlc2MocGxtRG9jLCBsYW5ndWFnZSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUGxtRG9jdW1lbnQgZGlyRG9jdW1lbnQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zb3VyY2VGaWxlRXh0ZW5zaW9uID0gc291cmNlRmlsZUV4dGVuc2lvbjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgU3RyaW5nIHNvdXJjZUZpbGVFeHRlbnNpb247Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgT2JqZWN0IG8gPSBzOwo=</text>
+        <text encoding="base64">ICAgICAgcGxtRG9jID0gbnVsbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG87Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEVYUE9SVF9GSUxFTkFNRSA9ICJFWFBPUlRfRklMRU5BTUUiOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zb3VyY2VGaWxlRXh0ZW5zaW9uID0gc291cmNlRmlsZUV4dGVuc2lvbjsK</text>
       </register>
       <register name=":" type="4">
         <text>331</text>
