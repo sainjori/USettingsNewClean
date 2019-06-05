@@ -92,12 +92,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/landscape-provider/src/test/java/com/dscsag/landscapeprovider/connections/SapGuiApplicationServerConnectionTest.java" timestamp="1559579309137" />
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmProcessDocumentsSelect.java" timestamp="1559654794285" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/proc/PlmProcessFolderExport.java" timestamp="1559737842673" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" timestamp="1559761885765">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" timestamp="1559764636421">
         <mark key="'" line="129" column="0" />
-        <mark key="[" line="392" column="0" />
-        <mark key="]" line="392" column="0" />
-        <mark key="." line="392" column="0" />
-        <mark key="^" line="405" column="18" />
+        <mark key="[" line="500" column="58" />
+        <mark key="]" line="500" column="58" />
+        <mark key="." line="500" column="58" />
+        <mark key="^" line="500" column="58" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/omf/OmfFldExportDocs.java" timestamp="1559660587534" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneExtended.java" timestamp="1559578155505">
@@ -263,13 +263,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGREaXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEVYUE9SVF9GSUxFTkFNRSA9ICJFWFBPUlRfRklMRU5BTUUiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIFN0cmluZyBkaXJMYW5ndWFnZVBhdGggPSBleHRyYWN0Rm9sZGVyUGF0aE9uUEMgKyBGaWxlLnNlcGFyYXRvciArIGNyZWF0ZUxhbmd1YWdlUGF0aEZyb21TYXBLZXlzKHNhcEtleXMpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -278,28 +278,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGludCBnZXRDb3VudE9mRm9sZGVycyhMaXN0PFN0cmluZz4gc2FwS2V5c0FzRm9sZGVycykgdGhyb3dzIERlZmF1bHRMb2dFeGNlcHRpb24KICB7CiAgICBpbnQgY291bnQ7CiAgICBMaXN0PFN0cmluZz4gb2JqZWN0cyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgZm9yIChTdHJpbmcgc2FwS2V5c0FzRm9sZGVyIDogc2FwS2V5c0FzRm9sZGVycykKICAgIHsKICAgICAgU3RyaW5nIGRpckxhbmd1YWdlUGF0aCA9IGV4dHJhY3RGb2xkZXJQYXRoT25QQyArIEZpbGUuc2VwYXJhdG9yICsgY3JlYXRlTGFuZ3VhZ2VQYXRoRnJvbVNhcEtleXMoc2FwS2V5c0FzRm9sZGVyKTsKICAgICAgb2JqZWN0cy5hZGQoZGlyTGFuZ3VhZ2VQYXRoKTsKICAgIH0KICAgIG9iamVjdHMuc3RyZWFtKCkuCiAgICByZXR1cm4gY291bnQ7CiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChuZXcgRmlsZShkaXJMYW5ndWFnZVBhdGgpLmV4aXN0cygpKQogICAgICAgICAgewogICAgICAgICAgICBkaXJMYW5ndWFnZVBhdGggPSBleHRyYWN0Rm9sZGVyUGF0aE9uUEMgKyBGaWxlLnNlcGFyYXRvciArIGNyZWF0ZUxhbmd1YWdlUGF0aEZyb21TYXBLZXlzKHNhcEtleXMpICsgIl8xIjsKICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgY291bnQgPSBnZXRDb3VudE9mRm9sZGVycyhzYXBLZXlzQXNGb2xkZXJzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUGxtRG9jdW1lbnQgZGlyRG9jdW1lbnQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zb3VyY2VGaWxlRXh0ZW5zaW9uID0gc291cmNlRmlsZUV4dGVuc2lvbjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgU3RyaW5nIHNvdXJjZUZpbGVFeHRlbnNpb247Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>331</text>
