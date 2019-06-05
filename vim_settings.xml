@@ -12,6 +12,20 @@
         <mark key="." line="21" column="20" />
         <mark key="^" line="21" column="20" />
       </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/default.txt" timestamp="1559727310361">
+        <mark key="'" line="17" column="25" />
+        <mark key="[" line="2637" column="28" />
+        <mark key="]" line="2637" column="25" />
+        <mark key="^" line="2637" column="25" />
+        <mark key="." line="2637" column="25" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/branches/CONV-ECTR-44/java/src/main/java/wirtgen/proc/ConvProcessUpdateInspectionReport.java" timestamp="1559567644782">
+        <mark key="'" line="807" column="2" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="640" column="26" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/logging/Logger.java" timestamp="1559646681236" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/index/trunk/src/main/java/index/omf/OmfIndexExportOriginals.java" timestamp="1559675881628" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.5/sapbase-5.1.9.5-sources.jar!/cadagent/proc/PLMProcess.java" timestamp="1559643481695" />
@@ -190,16 +204,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>${plm.version}</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>${plm.version}</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGREaXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gZm5jLnNob3cuYWRtaW4ubWVudQo=</text>
+        <text encoding="base64">I3BsbS5jb250cm9sLmN1c3RvbWVyID0gaW5kZXgK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHhtbERvY3VtZW50Lgo=</text>
