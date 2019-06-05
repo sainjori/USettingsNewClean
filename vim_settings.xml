@@ -105,11 +105,11 @@
         <mark key="^" line="75" column="18" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/omf/OmfOriginalsExport.java" timestamp="1559667563121" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/omf/OmfHkgExportOriginals.java" timestamp="1559728258942">
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="166" column="0" />
-        <mark key="." line="166" column="0" />
-        <mark key="^" line="118" column="76" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/omf/OmfHkgExportOriginals.java" timestamp="1559730141429">
+        <mark key="[" line="69" column="50" />
+        <mark key="]" line="69" column="49" />
+        <mark key="." line="69" column="49" />
+        <mark key="^" line="69" column="49" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/utils/PartNameRuleServiceFactory.java" timestamp="1559561958153" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.13.1/addons-5.1.13.1-sources.jar!/plm/modules/dataexchange/DDXExchangeGenerator.java" timestamp="1559576304218" />
@@ -224,11 +224,11 @@
       <jump line="23" column="38" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/default_index.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>INDEX</text>
       </register>
       <register name="-" type="4">
-        <text>langCharSelectedValues</text>
+        <text>INDEX</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGREaXJcPg==</text>
