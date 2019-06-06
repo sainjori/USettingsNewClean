@@ -111,11 +111,11 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.13.1/addons-5.1.13.1-sources.jar!/plm/modules/dataexchange/DDXExchangeGenerator.java" timestamp="1559576304218" />
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmProcessDocumentStructureInfoGet.java" timestamp="1559654796438" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/utils/PlmStdPartNameRules.java" timestamp="1559561820733" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/FileChecker.java" timestamp="1559844519123">
-        <mark key="[" line="32" column="32" />
-        <mark key="]" line="32" column="33" />
-        <mark key="^" line="32" column="33" />
-        <mark key="." line="32" column="33" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/FileChecker.java" timestamp="1559849507403">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="29" column="32" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocumentMetaDataGet.java" timestamp="1559654810224" />
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocExistsCheck.java" timestamp="1559654807091" />
@@ -196,7 +196,7 @@
         <mark key="." line="50" column="26" />
         <mark key="^" line="50" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559843170733">
+      <file name="/Dummy.txt" timestamp="1559849945561">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -217,11 +217,11 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/omf/OmfOriginalsExport.java" timestamp="1559667563121" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateNames.java" timestamp="1559745911563" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/omf/OmfHkgExportOriginals.java" timestamp="1559733309252">
-        <mark key="[" line="159" column="43" />
-        <mark key="]" line="159" column="55" />
-        <mark key="^" line="159" column="55" />
-        <mark key="." line="159" column="55" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/omf/OmfHkgExportOriginals.java" timestamp="1559849982830">
+        <mark key="[" line="61" column="2" />
+        <mark key="]" line="61" column="43" />
+        <mark key="^" line="61" column="43" />
+        <mark key="." line="61" column="43" />
       </file>
       <file name="/fragment.java" timestamp="1559841536442">
         <mark key="[" line="0" column="0" />
@@ -333,11 +333,11 @@
       <jump line="391" column="60" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>removeCounter2(Paths.get(FileUtils.removeExtension(path)))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>removeCounter2(Paths.get(FileUtils.removeExtension(path)))</text>
+        <text>toString</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGREaXJcPg==</text>
@@ -346,34 +346,34 @@
         <text encoding="base64">ICAgIFN0cmluZyBzdWJzdHJpbmcgPSB0b1N0cmluZy5zdWJzdHJpbmcodG9TdHJpbmcubGVuZ3RoKCkgLSAyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIHMgPSBGaWxlVXRpbHMucmVtb3ZlRXh0ZW5zaW9uKHBhdGgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIHMgPSBGaWxlVXRpbHMucmVtb3ZlRXh0ZW5zaW9uKHBhdGgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBzID0gRmlsZVV0aWxzLnJlbW92ZUV4dGVuc2lvbihwYXRoKSArICJfIiArIGZpbGVDb3VudCArICIuIiArIEZpbGVVdGlscy5nZXRFeHRlbnNpb24ocGF0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzOwo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBzID0gRmlsZVV0aWxzLnJlbW92ZUV4dGVuc2lvbihwYXRoKSArICJfIiArIGZpbGVDb3VudCArICIuIiArIEZpbGVVdGlscy5nZXRFeHRlbnNpb24ocGF0aCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaW50IGNvdW50ID0gMDsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgaW50IGNvdW50ID0gMDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyeQogICAgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>331</text>
