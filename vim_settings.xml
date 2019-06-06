@@ -92,12 +92,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/landscape-provider/src/test/java/com/dscsag/landscapeprovider/connections/SapGuiApplicationServerConnectionTest.java" timestamp="1559579309137" />
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmProcessDocumentsSelect.java" timestamp="1559654794285" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/proc/PlmProcessFolderExport.java" timestamp="1559737842673" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" timestamp="1559826238621">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" timestamp="1559827180703">
         <mark key="'" line="131" column="0" />
-        <mark key="[" line="409" column="10" />
-        <mark key="]" line="409" column="10" />
-        <mark key="^" line="409" column="25" />
-        <mark key="." line="409" column="10" />
+        <mark key="[" line="421" column="13" />
+        <mark key="]" line="421" column="24" />
+        <mark key="^" line="421" column="24" />
+        <mark key="." line="421" column="24" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/omf/OmfFldExportDocs.java" timestamp="1559660587534" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneExtended.java" timestamp="1559578155505">
@@ -260,10 +260,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>newFolderName</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>newFolderName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGREaXJcPg==</text>
