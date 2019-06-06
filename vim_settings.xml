@@ -5,7 +5,7 @@
     <filemarks>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/index/trunk/src/main/java/index/proc/IndexProcessExportOriginals.java" timestamp="1559677557597" />
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocumentMetaDataGet.java" timestamp="1559654810224" />
-      <file name="/a.dummy" timestamp="1559744883996">
+      <file name="/a.dummy" timestamp="1559825492341">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocExistsCheck.java" timestamp="1559654807091" />
@@ -92,12 +92,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/landscape-provider/src/test/java/com/dscsag/landscapeprovider/connections/SapGuiApplicationServerConnectionTest.java" timestamp="1559579309137" />
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmProcessDocumentsSelect.java" timestamp="1559654794285" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/proc/PlmProcessFolderExport.java" timestamp="1559737842673" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" timestamp="1559824368977">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" timestamp="1559826238621">
         <mark key="'" line="131" column="0" />
-        <mark key="[" line="439" column="11" />
-        <mark key="]" line="439" column="29" />
-        <mark key="." line="439" column="29" />
-        <mark key="^" line="439" column="29" />
+        <mark key="[" line="409" column="10" />
+        <mark key="]" line="409" column="10" />
+        <mark key="^" line="409" column="25" />
+        <mark key="." line="409" column="10" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/omf/OmfFldExportDocs.java" timestamp="1559660587534" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneExtended.java" timestamp="1559578155505">
@@ -124,7 +124,7 @@
         <mark key="^" line="50" column="26" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckout.java" timestamp="1559651018816" />
-      <file name="/Dummy.txt" timestamp="1559748289975">
+      <file name="/Dummy.txt" timestamp="1559825849490">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -148,7 +148,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/utils/PartNameRuleServiceFactory.java" timestamp="1559561958153" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.13.1/addons-5.1.13.1-sources.jar!/plm/modules/dataexchange/DDXExchangeGenerator.java" timestamp="1559576304218" />
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmProcessDocumentStructureInfoGet.java" timestamp="1559654796438" />
-      <file name="/fragment.java" timestamp="1559823503082">
+      <file name="/fragment.java" timestamp="1559825504801">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -157,7 +157,6 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/utils/PlmStdPartNameRules.java" timestamp="1559561820733" />
     </filemarks>
     <jumps>
-      <jump line="859" column="14" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/ConvProcessUpdateInspectionReport.java" />
       <jump line="153" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/util/fewwf.java" />
       <jump line="68" column="46" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/util/MaterialAttributeMapperToSap.java" />
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/util/MaterialAttributeMapperToSap.java" />
@@ -257,13 +256,14 @@
       <jump line="33" column="32" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/attributes-from-sap.xml" />
       <jump line="2513" column="36" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/default.txt" />
       <jump line="121" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" />
+      <jump line="131" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>path1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>path1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGREaXJcPg==</text>
@@ -272,34 +272,34 @@
         <text encoding="base64">ICAgICAgICAgIGZvbGRlck5hbWVDb3VudC5wdXQobmFtZSwxKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFBhdGggZmlsZU5hbWUgPSBwYXRoLmdldEZpbGVOYW1lKCk7CiAgICByZXR1cm4gZGlyTGFuZ3VhZ2VQYXRoOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgZGlyTGFuZ3VhZ2VQYXRoID0gYWRkQ291bnRlck51bWJlcihkaXJMYW5ndWFnZVBhdGgsIGNvdW50KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhdGguCg==</text>
+        <text encoding="base64">ICAgICAgZGlyTGFuZ3VhZ2VQYXRoID0gYWRkQ291bnRlck51bWJlcihkaXJMYW5ndWFnZVBhdGgsIGNvdW50KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNoZWNrSWZFeGlzdHMK</text>
+        <text encoding="base64">ICAgICAgRmlsZXMubGlzdChwYXRoLmdldFBhcmVudCgpKS5tYXAoZSAtPiBlLnRvU3RyaW5nKCkuc3Vic3RyaW5nKDAsIGUudG9TdHJpbmcoKS5sZW5ndGgoKSAtIDIpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgTWFwPFN0cmluZywgSW50ZWdlcj4gZm9sZGVyTmFtZUNvdW50ID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGludCBjb3VudCA9IGdldEZvbGRlckNvdW50KGRpckxhbmd1YWdlUGF0aCk7CiAgICAgICAgICBkaXJMYW5ndWFnZVBhdGggPSBhZGRDb3VudGVyTnVtYmVyKGRpckxhbmd1YWdlUGF0aCwgY291bnQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb2xkZXJOYW1lQ291bnQucHV0KG5hbWUsMSk7Cg==</text>
+        <text encoding="base64">ICBGaWxlcy5saXN0KHBhdGguZ2V0UGFyZW50KCkpLm1hcChlIC0+IGUudG9TdHJpbmcoKS5zdWJzdHJpbmcoMCwgZS50b1N0cmluZygpLmxlbmd0aCgpIC0gMikpCg==</text>
       </register>
       <register name=":" type="4">
         <text>331</text>
