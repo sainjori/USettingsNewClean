@@ -26,12 +26,12 @@
         <mark key="." line="2" column="47" />
         <mark key="^" line="2" column="47" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/test/hkg/proc/FolderCheckerTest.java" timestamp="1559929579769">
-        <mark key="'" line="25" column="2" />
-        <mark key="[" line="46" column="51" />
-        <mark key="]" line="46" column="51" />
-        <mark key="." line="46" column="51" />
-        <mark key="^" line="46" column="51" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/test/hkg/proc/FolderCheckerTest.java" timestamp="1559932161760">
+        <mark key="'" line="27" column="2" />
+        <mark key="[" line="54" column="52" />
+        <mark key="]" line="54" column="60" />
+        <mark key="." line="54" column="60" />
+        <mark key="^" line="54" column="60" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmProcessDocumentMetaDataGet.java" timestamp="1559656553685" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/menu.guidef" timestamp="1559912022975">
@@ -339,11 +339,11 @@
       <jump line="22" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/test/hkg/proc/FolderCheckerTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ZERO</text>
       </register>
       <register name="-" type="4">
-        <text>UpperCas</text>
+        <text>ZERO</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxET0NVTUVOVF9UWVBFU1w+</text>
