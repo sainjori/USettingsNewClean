@@ -186,11 +186,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" timestamp="1560264872264">
-        <mark key="'" line="87" column="0" />
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="0" />
-        <mark key="." line="139" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" timestamp="1560265924492">
+        <mark key="'" line="121" column="51" />
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="181" column="0" />
+        <mark key="^" line="380" column="2" />
+        <mark key="." line="181" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/omf/OmfIndexExportOriginals.java" timestamp="1559727550617">
         <mark key="[" line="75" column="16" />
@@ -237,6 +238,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.9.5/base-5.1.9.5-sources.jar!/cadagent/cfc/util/Trace.java" timestamp="1559643340348">
         <mark key="'" line="1997" column="62" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.7.1/convert-5.1.7.1-sources.jar!/cadagent/moduls/view/PlmProcessGenerateViewerData.java" timestamp="1560265591612" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/FileExistsCheck.java" timestamp="1559831878747">
         <mark key="[" line="6" column="38" />
         <mark key="]" line="6" column="46" />
@@ -253,8 +255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="47" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
-      <jump line="156" column="21" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.1/plm-5.1.12.1-sources.jar!/plm/attrib/MaterialAttributeMapperFromSap.java" />
       <jump line="148" column="20" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="123" column="1" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="996" column="34" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
@@ -353,10 +353,12 @@
       <jump line="177" column="44" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.5/sapbase-5.1.9.5-sources.jar!/cadagent/objmod/PlmFile.java" />
       <jump line="184" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.5/sapbase-5.1.9.5-sources.jar!/cadagent/objmod/PlmFile.java" />
       <jump line="87" column="0" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" />
+      <jump line="207" column="29" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" />
+      <jump line="121" column="51" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgbmV3IEFkZGl0aW9uYWxGaWxlcygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Q29sbGVjdGlvbjw/IGV4dGVuZHMgUGxtRmlsZT4=</text>
@@ -368,34 +370,34 @@
         <text encoding="base64">ICAgIGJ1aWxkZXIuYWRkUGFyYW1ldGVyKCJDSEVDS0lOX0FERElUSU9OQUxTIiwgIlgiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbmV3IEFkZGl0aW9uYWxGaWxlcygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGNsYXNzIEFkZGl0aW9uYWxGaWxlcwogIHsKICB9Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIExpc3Q8UGxtRmlsZT4gZ2V0QWRkaXRpb25hbHMoUGxtRG9jdW1lbnQgZG9jLCBTdHJpbmcgbmV3U3RyQ2F0KQogIHsKICAgIG5ldyBQbG1GaWxlKCkKICAgIHJldHVybiBudWxsOwogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGNsYXNzIEFkZGl0aW9uYWxGaWxlcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBUcmFjZS5wcmludGxuKDQsICIgc2V0IHN0b3JhZ2UgY2F0ZWdvcnkgZnJvbSBtYXN0ZXIgb3JnaW5hbDogIiArIG1hc3Rlck9yaWdpbmFsU3RvcmFnZUNhdGVnb3J5KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKFByZWZlcmVuY2VzLmJvb2xlYW5WYWx1ZSgiY29udmVydC52aWV3Lmtwcm8uc3RvcmFnZUNhdGVnLnVzZUZyb21NYXN0ZXJPcmlnaW5hbCIsIGZhbHNlKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgbmV3IEFkZGl0aW9uYWxGaWxlcygpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICBwcml2YXRlIGNsYXNzIEFkZGl0aW9uYWxGaWxlcwogIHsKICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgb3JpZ2luYWwuc2V0U3RvcmFnZUNhdGVnb3J5KG5ld1N0ckNhdCk7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGNsYXNzIEFkZGl0aW9uYWxGaWxlcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIG5ld1N0ckNhdCA9IGRldGVybWluZVN0b3JhZ2VDYXRlZ29yeShkb2MuZ2V0VHlwZSgpLCBvcmlnaW5hbC5nZXRXb3Jrc3RhdGlvbkFwcGxpY2F0aW9uKCksIG9yaWdpbmFsLmdldFN0b3JhZ2VDYXRlZ29yeSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>331</text>
