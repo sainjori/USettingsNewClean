@@ -39,7 +39,7 @@
       <file name="$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.6.3/mockito-core-2.6.3-sources.jar!/org/mockito/ArgumentMatchers.java" timestamp="1560038140126">
         <mark key="'" line="821" column="51" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmProcessDocumentMetaDataGet.java" timestamp="1559656553685" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmProcessDocumentMetaDataGet.java" timestamp="1560255173720" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/menu.guidef" timestamp="1559912022975">
         <mark key="'" line="1589" column="63" />
         <mark key="[" line="102" column="66" />
@@ -195,7 +195,19 @@
         <mark key="." line="36" column="77" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.9.5/addons-5.1.9.5-sources.jar!/plm/modules/wsfunction/xml/PlmServiceFunctionXmlBuilder.java" timestamp="1559643150792" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/test/java/plm/modules/wsfunction/PlmServiceFunctions.java" timestamp="1559641784293" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/test/java/plm/modules/wsfunction/addPlmTestClient/TestClient.java" timestamp="1560254395121">
+        <mark key="'" line="152" column="0" />
+        <mark key="[" line="119" column="14" />
+        <mark key="]" line="119" column="35" />
+        <mark key="^" line="119" column="35" />
+        <mark key="." line="119" column="35" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/test/java/plm/modules/wsfunction/PlmServiceFunctions.java" timestamp="1560254623450">
+        <mark key="[" line="223" column="46" />
+        <mark key="]" line="223" column="60" />
+        <mark key="^" line="223" column="60" />
+        <mark key="." line="223" column="60" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.3/sapbase-5.1.13.3-sources.jar!/cadagent/proc/doc/PopDocCreate.java" timestamp="1559761582067" />
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckoutCancel.java" timestamp="1559654805339" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/aeew.java" timestamp="1559830152532">
@@ -236,7 +248,13 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.3/sapbase-5.1.13.3-sources.jar!/cadagent/proc/PLMProcess.java" timestamp="1559737564809" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" timestamp="1559646899375" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" timestamp="1560255000185">
+        <mark key="'" line="88" column="12" />
+        <mark key="[" line="88" column="12" />
+        <mark key="]" line="88" column="26" />
+        <mark key="." line="88" column="26" />
+        <mark key="^" line="88" column="26" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/omf/OmfIndexExportOriginals.java" timestamp="1559727550617">
         <mark key="[" line="75" column="16" />
         <mark key="]" line="75" column="18" />
@@ -265,7 +283,6 @@
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.12.1/customize/config/attributes-from-sap.xml" timestamp="1559746805149" />
     </filemarks>
     <jumps>
-      <jump line="97" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.1/plm-5.1.12.1-sources.jar!/plm/attrib/MappingContext.java" />
       <jump line="103" column="18" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.1/plm-5.1.12.1-sources.jar!/plm/attrib/MappingContext.java" />
       <jump line="108" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.12.1/plm-5.1.12.1-sources.jar!/plm/attrib/MappingContext.java" />
       <jump line="181" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
@@ -365,46 +382,47 @@
       <jump line="22" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/test/hkg/proc/FolderCheckerTest.java" />
       <jump line="1605" column="55" filename="$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.6.3/mockito-core-2.6.3-sources.jar!/org/mockito/Mockito.java" />
       <jump line="821" column="51" filename="$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.6.3/mockito-core-2.6.3-sources.jar!/org/mockito/ArgumentMatchers.java" />
+      <jump line="88" column="12" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;ciit&quot;</text>
+        <text>checkinIgnoreChecks</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;ciit&quot;</text>
+        <text>checkinIgnoreChecks</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxET0NVTUVOVF9UWVBFU1w+</text>
+        <text encoding="base64">XDx1cGRhdGVTdHJ1Y3R1cmVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5qdXBpdGVyLmFwaS5UZXN0Owo=</text>
+        <text encoding="base64">ICAgIHBhbmVsLmFkZChjaGVja2luSWdub3JlQ2hlY2tzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhbmVsLmFkZChjaGVja2luSWdub3JlQ2hlY2tzKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRydWUoIkFCQyIubGVuZ3RoKCkgPiAwKTsKICAgIGFzc2VydFRydWUoIkEiLmxlbmd0aCgpID4gMCk7CiAgICBhc3NlcnRUcnVlKCJERUYiLmxlbmd0aCgpID4gMCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIGFzc2VydFRydWUoIkFCQyIubGVuZ3RoKCkgPiAwKTsKICAgIGFzc2VydFRydWUoIkEiLmxlbmd0aCgpID4gMCk7CiAgICBhc3NlcnRUcnVlKCJERUYiLmxlbmd0aCgpID4gMCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5qdW5pdDwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+anVuaXQ8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjQuMTI8L3ZlcnNpb24+CiAgICAgIDxzY29wZT50ZXN0PC9zY29wZT4KICAgIDwvZGVwZW5kZW5jeT4=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5qdXBpdGVyLmFwaS5QYXJhbWV0ZXJpemVkOwo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5qdXBpdGVyLmFwaS5QYXJhbWV0ZXJpemVkOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAvLyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K</text>
@@ -414,9 +432,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxET0NVTUVOVF9UWVBFU1w+</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVTdHJ1Y3R1cmVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxET0NVTUVOVF9UWVBFU1w+</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVTdHJ1Y3R1cmVcPg==</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -424,7 +442,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc0Zyb21TYXBcPg==</entry>
         <entry encoding="base64">XDx7XD4=</entry>
         <entry>{</entry>
         <entry encoding="base64">XDxwYWNrYWdlXD4=</entry>
@@ -444,6 +461,7 @@
         <entry>documenttypes</entry>
         <entry encoding="base64">XDxET0NVTUVOVF9XU19BUFBMU1w+</entry>
         <entry encoding="base64">XDxET0NVTUVOVF9UWVBFU1w+</entry>
+        <entry encoding="base64">XDx1cGRhdGVTdHJ1Y3R1cmVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>191</entry>
