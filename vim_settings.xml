@@ -9,6 +9,10 @@
         <mark key="^" line="29" column="32" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.5/sapbase-5.1.9.5-sources.jar!/cadagent/proc/doc/ProcessCdeskCheckinAdditionalOriginals.java" timestamp="1560262797613" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/proc/doc/PlmProcessSingleCheckinCdeskServices.java" timestamp="1560263590556">
+        <mark key="'" line="623" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/pom.xml" timestamp="1559928911426">
         <mark key="[" line="50" column="15" />
         <mark key="]" line="50" column="20" />
@@ -104,6 +108,7 @@
         <mark key="^" line="33" column="4" />
         <mark key="." line="33" column="4" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.5/sapbase-5.1.9.5-sources.jar!/cadagent/objmod/PlmFile.java" timestamp="1560262915023" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/branches/CONV-ECTR-44/java/src/main/java/wirtgen/proc/InspectionReportProvider.java" timestamp="1559561321674">
         <mark key="[" line="32" column="4" />
         <mark key="]" line="32" column="10" />
@@ -117,11 +122,11 @@
         <mark key="^" line="122" column="35" />
         <mark key="." line="122" column="35" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/test/java/plm/modules/wsfunction/PlmServiceFunctions.java" timestamp="1560260216299">
-        <mark key="[" line="289" column="56" />
-        <mark key="]" line="290" column="46" />
-        <mark key="^" line="290" column="46" />
-        <mark key="." line="290" column="46" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/test/java/plm/modules/wsfunction/PlmServiceFunctions.java" timestamp="1560262046294">
+        <mark key="[" line="291" column="26" />
+        <mark key="]" line="291" column="38" />
+        <mark key="^" line="291" column="38" />
+        <mark key="." line="291" column="38" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckoutCancel.java" timestamp="1560257163408" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/IndexProcessExportOriginals.java" timestamp="1559732393502">
@@ -179,7 +184,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" timestamp="1560260812278">
+      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" timestamp="1560263883438">
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
@@ -245,8 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
-      <jump line="253" column="47" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentChangeAttributes.java" />
       <jump line="203" column="26" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="190" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="252" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
@@ -345,19 +348,21 @@
       <jump line="88" column="12" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" />
       <jump line="106" column="12" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/test/java/plm/modules/wsfunction/addPlmTestClient/TestClient.java" />
       <jump line="107" column="4" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/test/java/plm/modules/wsfunction/addPlmTestClient/TestClient.java" />
+      <jump line="618" column="36" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/proc/doc/PlmProcessSingleCheckinCdeskServices.java" />
+      <jump line="623" column="0" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/proc/doc/PlmProcessSingleCheckinCdeskServices.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgYm9vbGVhbiB1cGRhdGVTdHJ1Y3R1cmU9ICJYIi5lcXVhbHMoaW5wdXQuZ2V0UGFyYW1ldGVycygpLmdldCgiVVBEQVRFX1NUUlVDVFVSRSIpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>CHECKIN_ADDITIONALS</text>
       </register>
       <register name="-" type="4">
-        <text>checkinAdditionals</text>
+        <text>CHECKIN_ADDITIONALS</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGVja2luQWRkaXRpb25hbHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhbmVsLmFkZChjaGVja2luQWRkaXRpb25hbHMpOwo=</text>
+        <text encoding="base64">ICAgIGJ1aWxkZXIuYWRkUGFyYW1ldGVyKCJDSEVDS0lOX0FERElUSU9OQUxTIiwgIlgiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgYm9vbGVhbiB1cGRhdGVTdHJ1Y3R1cmU9ICJYIi5lcXVhbHMoaW5wdXQuZ2V0UGFyYW1ldGVycygpLmdldCgiVVBEQVRFX1NUUlVDVFVSRSIpKTsK</text>
