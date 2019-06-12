@@ -158,6 +158,13 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.5/sapbase-5.1.9.5-sources.jar!/cadagent/objmod/PlmFile.java" timestamp="1560264659183">
         <mark key="'" line="184" column="12" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/test/java/plm/modules/wsfunction/addPlmTestClient/TestClient.java" timestamp="1560258694616">
+        <mark key="'" line="107" column="4" />
+        <mark key="[" line="122" column="14" />
+        <mark key="]" line="122" column="35" />
+        <mark key="^" line="122" column="35" />
+        <mark key="." line="122" column="35" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/test/java/plm/modules/wsfunction/PlmServiceFunctions.java" timestamp="1560262046294">
         <mark key="[" line="291" column="26" />
         <mark key="]" line="291" column="38" />
@@ -197,11 +204,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.14.0/sapbase-5.1.14.0-sources.jar!/cadagent/proc/doc/ProcessDocBomMaintain.java" timestamp="1560285723714" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" timestamp="1560353013083">
-        <mark key="[" line="101" column="12" />
-        <mark key="]" line="101" column="26" />
-        <mark key="." line="101" column="26" />
-        <mark key="^" line="101" column="26" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" timestamp="1560355049629">
+        <mark key="'" line="144" column="6" />
+        <mark key="[" line="117" column="24" />
+        <mark key="]" line="117" column="27" />
+        <mark key="." line="117" column="27" />
+        <mark key="^" line="117" column="27" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/omf/OmfIndexExportOriginals.java" timestamp="1559727550617">
         <mark key="[" line="75" column="16" />
@@ -225,7 +233,6 @@
       <file name="/pom.xml" timestamp="1560286134582" />
     </filemarks>
     <jumps>
-      <jump line="1921" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="163" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="1944" column="11" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="905" column="13" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
@@ -325,6 +332,7 @@
       <jump line="460" column="17" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckout.java" />
       <jump line="142" column="0" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" />
       <jump line="174" column="4" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" />
+      <jump line="135" column="6" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
