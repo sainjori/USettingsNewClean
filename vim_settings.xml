@@ -174,11 +174,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.14.0/sapbase-5.1.14.0-sources.jar!/cadagent/proc/doc/ProcessDocBomMaintain.java" timestamp="1560285723714" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" timestamp="1560360846007">
-        <mark key="[" line="182" column="13" />
-        <mark key="]" line="183" column="3" />
-        <mark key="." line="183" column="3" />
-        <mark key="^" line="183" column="3" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" timestamp="1560362226359">
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
+        <mark key="^" line="120" column="30" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/omf/OmfIndexExportOriginals.java" timestamp="1559727550617">
         <mark key="[" line="75" column="16" />
@@ -206,7 +206,7 @@
         <mark key="." line="54" column="47" />
         <mark key="^" line="54" column="47" />
       </file>
-      <file name="/fragment.java" timestamp="1560359506414">
+      <file name="/fragment.java" timestamp="1560361964000">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -315,11 +315,11 @@
       <jump line="135" column="6" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, skipCheckinMain</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG5ldyBDaGVja2luQWRkaXRpb25hbHMoY2lpcykK</text>
       </register>
       <register name="-" type="4">
-        <text>, skipCheckinMain</text>
+        <text>skipCheckinMain</text>
       </register>
       <register name="/" type="4">
         <text>otto-fuchs</text>
@@ -328,22 +328,22 @@
         <text encoding="base64">ICAgICAgICAgIGNoZWNraW5GaWxlcy5hZGQoZ2V0TWFpbk9yaWdpbmFsRmlsZShjaGVja2luSW5mbykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIG5ldyBDaGVja2luQWRkaXRpb25hbHMoY2lpcykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIGlmIChza2lwQ2hlY2tpbk1haW4pCiAgICAgIHJldHVybjsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICghY2lpcy5pc0VtcHR5KCkpCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGlmICghY2lpcy5pc0VtcHR5KCkpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -352,10 +352,10 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2tpcENoZWNraW5NYWluKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlCiAgICAgICAgewogICAgICAgICAgY2hlY2tJbkRvY3VtZW50c1dpdGhvdXRDaGVjayhjaGVja2luRmlsZXMpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>331</text>
