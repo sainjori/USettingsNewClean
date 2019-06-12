@@ -170,15 +170,15 @@
         <mark key="." line="50" column="26" />
         <mark key="^" line="50" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560355787276">
+      <file name="/Dummy.txt" timestamp="1560360997388">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.14.0/sapbase-5.1.14.0-sources.jar!/cadagent/proc/doc/ProcessDocBomMaintain.java" timestamp="1560285723714" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" timestamp="1560360052713">
-        <mark key="[" line="115" column="6" />
-        <mark key="]" line="115" column="12" />
-        <mark key="." line="115" column="12" />
-        <mark key="^" line="115" column="12" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" timestamp="1560360846007">
+        <mark key="[" line="182" column="13" />
+        <mark key="]" line="183" column="3" />
+        <mark key="." line="183" column="3" />
+        <mark key="^" line="183" column="3" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/omf/OmfIndexExportOriginals.java" timestamp="1559727550617">
         <mark key="[" line="75" column="16" />
@@ -316,10 +316,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>checkInMainOriginal</text>
+        <text>, skipCheckinMain</text>
       </register>
       <register name="-" type="4">
-        <text>checkInMainOriginal</text>
+        <text>, skipCheckinMain</text>
       </register>
       <register name="/" type="4">
         <text>otto-fuchs</text>
