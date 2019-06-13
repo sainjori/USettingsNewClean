@@ -12,6 +12,9 @@
       <file name="/a.dummy" timestamp="1560375722959">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/kion-ectr-patch-effective-pom.xml" timestamp="1560452236958">
+        <mark key="'" line="222" column="27" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/FilesCounter.java" timestamp="1559829513268">
         <mark key="[" line="6" column="10" />
         <mark key="]" line="6" column="21" />
@@ -60,6 +63,13 @@
         <mark key="." line="44" column="31" />
         <mark key="^" line="44" column="31" />
       </file>
+      <file name="$USER_HOME$/.m2/settings.xml" timestamp="1560453226104">
+        <mark key="'" line="99" column="31" />
+        <mark key="[" line="84" column="28" />
+        <mark key="]" line="84" column="27" />
+        <mark key="." line="84" column="27" />
+        <mark key="^" line="84" column="27" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/test/gb/dadi/DadiAfterCloneFinishedTest.java" timestamp="1559578378169">
         <mark key="[" line="50" column="26" />
         <mark key="]" line="50" column="26" />
@@ -75,7 +85,7 @@
         <mark key="^" line="8" column="16" />
         <mark key="." line="8" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560449969103">
+      <file name="/Dummy.txt" timestamp="1560452836121">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinishedTest.java" timestamp="1559571579013">
@@ -216,8 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="958" column="21" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
-      <jump line="959" column="15" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="1006" column="11" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="828" column="19" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
       <jump line="458" column="50" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
@@ -316,13 +324,15 @@
       <jump line="138" column="2" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" />
       <jump line="94" column="0" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" />
       <jump line="383" column="23" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" />
+      <jump line="222" column="27" filename="/kion-ectr-patch-effective-pom.xml" />
+      <jump line="99" column="31" filename="$USER_HOME$/.m2/settings.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>withAdditionals</text>
+        <text>default</text>
       </register>
       <register name="-" type="4">
-        <text>withAdditionals</text>
+        <text>default</text>
       </register>
       <register name="/" type="4">
         <text>otto-fuchs</text>
@@ -331,34 +341,34 @@
         <text encoding="base64">ICAgIGJvb2xlYW4gd2l0aEFkZGl0aW9uYWxzID0gIlgiLmVxdWFscyhpbnB1dC5nZXRQYXJhbWV0ZXJzKCkuZ2V0KCJDSEVDS0lOX0FERElUSU9OQUxTIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CTxyZWxlYXNlcz4KCQkJCQkJPGVuYWJsZWQ+dHJ1ZTwvZW5hYmxlZD4KCQkJCQk8L3JlbGVhc2VzPgoJCQkJCTxzbmFwc2hvdHM+CgkJCQkJCTxlbmFibGVkPnRydWU8L2VuYWJsZWQ+CgkJCQkJPC9zbmFwc2hvdHM+</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdHJ5CiAgICAgIHsKICAgICAgICAgIFBsbVByb2Nlc3NTaW5nbGVDaGVja2luQ2Rlc2tTZXJ2aWNlcy5jaGVja0luRG9jdW1lbnQobWFpbk9yaWdpbmFsRmlsZSk7CiAgICAgIH0KICAgICAgY2F0Y2ggKFRocm93YWJsZSB0KQogICAgICB7CiAgICAgICAgVHJhY2UucHJpbnRsblN0YWNrVHJhY2UoMCwgdCk7CiAgICAgICAgU3RyaW5nIGV4Y01lc3NhZ2UgPSB0LmdldE1lc3NhZ2UoKTsKICAgICAgICBpZiAoZXhjTWVzc2FnZSA9PSBudWxsIHx8IGV4Y01lc3NhZ2UuaXNFbXB0eSgpKQogICAgICAgICAgZXhjTWVzc2FnZSA9IHQudG9TdHJpbmcoKTsKCiAgICAgICAgdG9SZW1vdmUuYWRkKGRvYy5nZXRTYXBLZXkoKSk7CiAgICAgICAgTWVzc2FnZUNvZGVzIG1zZ0NvZGUgPSBNZXNzYWdlQ29kZXMuRVJST1JfQ09VTERfTk9UX0NIRUNLSU5fRklMRTsKICAgICAgICBidWlsZGVyCiAgICAgICAgICAgIC5hZGRNZXNzYWdlKGRvYy5nZXRTYXBLZXkoKSwgTWVzc2FnZVR5cGUuRVJST1IsCiAgICAgICAgICAgICAgICBtc2dDb2RlLmdldE1lc3NhZ2VLZXkoKSwKICAgICAgICAgICAgICAgIG1zZ0NvZGUuZ2V0TWVzc2FnZVRleHQoY2hlY2tpbkluZm8uZ2V0TWFzdGVyT3JpZ2luYWwoKS5nZXRBYnNvbHV0ZVBhdGgoKSwgZXhjTWVzc2FnZSkpOwogICAgICB9Cg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG1haW5PcmlnaW5hbEZpbGUgPT0gbnVsbCkKICAgICAgICBjb250aW51ZTsK</text>
+        <text encoding="base64">ICAgICAgdHJ5CiAgICAgIHsKICAgICAgICAgIFBsbVByb2Nlc3NTaW5nbGVDaGVja2luQ2Rlc2tTZXJ2aWNlcy5jaGVja0luRG9jdW1lbnQobWFpbk9yaWdpbmFsRmlsZSk7CiAgICAgIH0KICAgICAgY2F0Y2ggKFRocm93YWJsZSB0KQogICAgICB7CiAgICAgICAgVHJhY2UucHJpbnRsblN0YWNrVHJhY2UoMCwgdCk7CiAgICAgICAgU3RyaW5nIGV4Y01lc3NhZ2UgPSB0LmdldE1lc3NhZ2UoKTsKICAgICAgICBpZiAoZXhjTWVzc2FnZSA9PSBudWxsIHx8IGV4Y01lc3NhZ2UuaXNFbXB0eSgpKQogICAgICAgICAgZXhjTWVzc2FnZSA9IHQudG9TdHJpbmcoKTsKCiAgICAgICAgdG9SZW1vdmUuYWRkKGRvYy5nZXRTYXBLZXkoKSk7CiAgICAgICAgTWVzc2FnZUNvZGVzIG1zZ0NvZGUgPSBNZXNzYWdlQ29kZXMuRVJST1JfQ09VTERfTk9UX0NIRUNLSU5fRklMRTsKICAgICAgICBidWlsZGVyCiAgICAgICAgICAgIC5hZGRNZXNzYWdlKGRvYy5nZXRTYXBLZXkoKSwgTWVzc2FnZVR5cGUuRVJST1IsCiAgICAgICAgICAgICAgICBtc2dDb2RlLmdldE1lc3NhZ2VLZXkoKSwKICAgICAgICAgICAgICAgIG1zZ0NvZGUuZ2V0TWVzc2FnZVRleHQoY2hlY2tpbkluZm8uZ2V0TWFzdGVyT3JpZ2luYWwoKS5nZXRBYnNvbHV0ZVBhdGgoKSwgZXhjTWVzc2FnZSkpOwogICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>331</text>
