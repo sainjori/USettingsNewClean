@@ -75,7 +75,7 @@
         <mark key="^" line="8" column="16" />
         <mark key="." line="8" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560427841693">
+      <file name="/Dummy.txt" timestamp="1560442111691">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinishedTest.java" timestamp="1559571579013">
@@ -84,12 +84,12 @@
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="17" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" timestamp="1560428949074">
-        <mark key="'" line="383" column="23" />
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="194" column="0" />
-        <mark key="." line="194" column="0" />
-        <mark key="^" line="211" column="13" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" timestamp="1560441472393">
+        <mark key="'" line="385" column="23" />
+        <mark key="[" line="100" column="88" />
+        <mark key="]" line="101" column="3" />
+        <mark key="." line="101" column="3" />
+        <mark key="^" line="101" column="3" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/preferences/PreferencesTest.java" timestamp="1560038127423">
         <mark key="[" line="36" column="71" />
@@ -109,11 +109,11 @@
         <mark key="^" line="21" column="92" />
         <mark key="." line="21" column="92" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/kion/trunk/kion/pom.xml" timestamp="1560434886324">
-        <mark key="[" line="15" column="18" />
-        <mark key="]" line="21" column="20" />
-        <mark key="^" line="21" column="20" />
-        <mark key="." line="21" column="20" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/kion/trunk/kion/pom.xml" timestamp="1560441705181">
+        <mark key="[" line="18" column="43" />
+        <mark key="]" line="19" column="31" />
+        <mark key="^" line="19" column="31" />
+        <mark key="." line="19" column="31" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/FolderChecker.java" timestamp="1559844140944">
         <mark key="[" line="76" column="0" />
@@ -173,7 +173,7 @@
         <mark key="^" line="122" column="35" />
         <mark key="." line="122" column="35" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/test/java/plm/modules/wsfunction/PlmServiceFunctions.java" timestamp="1560262046294">
+      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/test/java/plm/modules/wsfunction/PlmServiceFunctions.java" timestamp="1560441388863">
         <mark key="[" line="291" column="26" />
         <mark key="]" line="291" column="38" />
         <mark key="^" line="291" column="38" />
@@ -322,16 +322,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>${parent.version}</text>
+        <text>withAdditionals</text>
       </register>
       <register name="-" type="4">
-        <text>${parent.version}</text>
+        <text>withAdditionals</text>
       </register>
       <register name="/" type="4">
         <text>otto-fuchs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaWYgKFN0cmluZ1Rvb2wuaGFzQ29udGVudChjaGVja2luSW5mby5jYWRWZXJzaW9uKSkKICAgICAgICBjaGVja0luRG9jLnNldEFwcGxWZXJzaW9uKGNoZWNraW5JbmZvLmNhZFZlcnNpb24pOwoKICAgICAgaWYgKFN0cmluZ1Rvb2wuaGFzQ29udGVudChjaGVja2luSW5mby5jYWRWZXJzaW9uRXh0KSkK</text>
+        <text encoding="base64">ICAgIGJvb2xlYW4gd2l0aEFkZGl0aW9uYWxzID0gIlgiLmVxdWFscyhpbnB1dC5nZXRQYXJhbWV0ZXJzKCkuZ2V0KCJDSEVDS0lOX0FERElUSU9OQUxTIikpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
