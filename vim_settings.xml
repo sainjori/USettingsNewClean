@@ -174,7 +174,7 @@
         <mark key="." line="50" column="26" />
         <mark key="^" line="50" column="26" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/kion/trunk/kion/src/main/java/kion/omf/PlmProcessGenerateViewerData.java" timestamp="1560521203823">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/kion/trunk/kion/src/main/java/kion/omf/PlmProcessGenerateViewerData.java" timestamp="1560526462960">
         <mark key="'" line="355" column="26" />
         <mark key="[" line="344" column="59" />
         <mark key="]" line="344" column="58" />
@@ -189,15 +189,17 @@
         <mark key="." line="2462" column="26" />
         <mark key="^" line="2462" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560519358404">
+      <file name="/Dummy.txt" timestamp="1560526329427">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" timestamp="1560523657706">
-        <mark key="'" line="221" column="24" />
-        <mark key="[" line="436" column="0" />
-        <mark key="]" line="436" column="0" />
-        <mark key="." line="436" column="0" />
-        <mark key="^" line="221" column="9" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" timestamp="1560526151134">
+        <mark key="'" line="509" column="149" />
+        <mark key="[" line="146" column="71" />
+        <mark key="]" line="146" column="83" />
+        <mark key="^" line="146" column="83" />
+        <mark key="." line="146" column="83" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.8.1/plm-5.1.8.1-sources.jar!/plm/proc/doc/checkout/PlmProcessSessionUpdate.java" timestamp="1560515257201" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/omf/OmfIndexExportOriginals.java" timestamp="1559727550617">
@@ -264,11 +266,11 @@
         <mark key="^" line="6" column="46" />
         <mark key="." line="6" column="46" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/util/MessageCodes.java" timestamp="1560428784346">
-        <mark key="[" line="54" column="47" />
-        <mark key="]" line="54" column="47" />
-        <mark key="." line="54" column="47" />
-        <mark key="^" line="54" column="47" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/util/MessageCodes.java" timestamp="1560526119513">
+        <mark key="[" line="55" column="81" />
+        <mark key="]" line="55" column="86" />
+        <mark key="." line="55" column="86" />
+        <mark key="^" line="55" column="86" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.8.1/customize/config/menu.guidef" timestamp="1560512831752">
         <mark key="[" line="105" column="0" />
@@ -283,10 +285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="240" column="87" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/clone/gfx/DocCloneActionListener.java" />
-      <jump line="950" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/brobj/BrDocPosition.java" />
-      <jump line="951" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/brobj/BrDocPosition.java" />
-      <jump line="953" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/brobj/BrDocPosition.java" />
       <jump line="958" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/brobj/BrDocPosition.java" />
       <jump line="961" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/brobj/BrDocPosition.java" />
       <jump line="151" column="22" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/brobj/BrDocPosition.java" />
@@ -383,49 +381,53 @@
       <jump line="173" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/kion/trunk/kion/src/main/java/kion/omf/OmfConvertJobRunLocal.java" />
       <jump line="442" column="0" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" />
       <jump line="221" column="24" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" />
+      <jump line="432" column="23" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" />
+      <jump line="472" column="38" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" />
+      <jump line="429" column="51" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" />
+      <jump line="473" column="149" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>getAbsolutePath()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>getAbsolutePath()</text>
       </register>
       <register name="/" type="4">
         <text>otto-fuchs</text>
       </register>
-      <register name="0" type="4">
-        <text>masterOriginalStorageCategory</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBFUlJPUl9DT1VMRF9OT1RfQ0hFQ0tJTl9GSUxFUygiRTAwMDE0IiwgIkZpbGVzICglcykgY291bGRuJ3QgYmUgY2hlY2tlZCBpbi4gUmVhc29uOiAlcyIpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5pZlByZXNlbnQobWFpbk9yaWdpbmFsRmlsZSAtPiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGdldFN0b3JhZ2VDYXQoKQogICAgewogICAgICBTdHJpbmcgd29ya3N0YXRpb25BcHBsaWNhdGlvbiA9IG1haW5PcmlnaW5hbEZpbGUuZ2V0V29ya3N0YXRpb25BcHBsaWNhdGlvbigpOwogICAgICBTdHJpbmcgc3RvcmFnZUNhdGVnb3J5ID0gbWFpbk9yaWdpbmFsRmlsZS5nZXRTdG9yYWdlQ2F0ZWdvcnkoKTsKICAgICAgU3RyaW5nIHR5cGUgPSBjaGVja0luRG9jLmdldFR5cGUoKTsKCiAgICAgIHJldHVybiBkZXRlcm1pbmVTdG9yYWdlQ2F0ZWdvcnkodHlwZSwgd29ya3N0YXRpb25BcHBsaWNhdGlvbiwgc3RvcmFnZUNhdGVnb3J5KTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBQbG1Qcm9jZXNzU2luZ2xlQ2hlY2tpbkNkZXNrU2VydmljZXMuY2hlY2tJbkRvY3VtZW50KG1haW5PcmlnaW5hbEZpbGUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbWFpbk9yaWdpbmFsRmlsZS5zZXRTdG9yYWdlQ2F0ZWdvcnkoZ2V0U3RvcmFnZUNhdCgpKTsK</text>
+        <text encoding="base64">ICAgICAgbmV3IENoZWNraW5GaWxlc0hlbHBlcihjaGVja2luSW5mbykKICAgICAgICAgIC5nZXRNYWluT3JpZ2luYWxGaWxlKCkKICAgICAgICAgIC5pZlByZXNlbnQobWFpbk9yaWdpbmFsRmlsZSAtPiB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBmaWxlVG9Eb2Muc2V0Cg==</text>
+        <text encoding="base64">ICAgIGlmIChza2lwQ2hlY2tpbk1haW4pCiAgICAgIHJldHVybjsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbWFzdGVyT3JpZ2luYWxTdG9yYWdlQ2F0ZWdvcnkgPSBDaGVja291dEluZm8uZnJvbVBsbURvY3VtZW50KGNoZWNrSW5Eb2MpLmdldFN0b3JhZ2VDYXRlZ29yeSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbWFzdGVyT3JpZ2luYWxTdG9yYWdlQ2F0ZWdvcnkgPSBDaGVja291dEluZm8uZnJvbVBsbURvY3VtZW50KGNoZWNrSW5Eb2MpLmdldFN0b3JhZ2VDYXRlZ29yeSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZXRlcm1pbmVTdG9yYWdlQ2F0ZWdvcnkoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAubWFwKGNoZWNraW5GaWxlczo6YWRkKTsK</text>
       </register>
       <register name=":" type="4">
         <text>331</text>
