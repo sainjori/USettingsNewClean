@@ -14,11 +14,11 @@
         <mark key="^" line="90" column="5" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/util/StructureUpdateUtil.java" timestamp="1560786330628">
-        <mark key="[" line="49" column="28" />
-        <mark key="]" line="49" column="28" />
-        <mark key="^" line="49" column="28" />
-        <mark key="." line="49" column="28" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/util/StructureUpdateUtil.java" timestamp="1560789394836">
+        <mark key="[" line="49" column="90" />
+        <mark key="]" line="49" column="104" />
+        <mark key="^" line="49" column="104" />
+        <mark key="." line="49" column="104" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.8.1/plm-5.1.8.1-sources.jar!/plm/sess/ApplPart.java" timestamp="1560770459876" />
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/test/java/plm/modules/wsfunction/addPlmTestClient/TestClient.java" timestamp="1560782815384" />
@@ -59,7 +59,7 @@
         <mark key="^" line="344" column="58" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.8.1/base-5.1.8.1-sources.jar!/cadagent/cfc/util/ContainerTool.java" timestamp="1560461473101" />
-      <file name="/Dummy.txt" timestamp="1560786415291">
+      <file name="/Dummy.txt" timestamp="1560789403002">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" timestamp="1560785295858">
@@ -200,10 +200,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>applicationDirectoryName, ApplPart.XMLMETAINF_NAME_FROM_SAP</text>
+        <text>XMLMETAINF_NAME_FROM_SAP</text>
       </register>
       <register name="-" type="4">
-        <text>applicationDirectoryName, ApplPart.XMLMETAINF_NAME_FROM_SAP</text>
+        <text>XMLMETAINF_NAME_FROM_SAP</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXRhSW5mRmlsZW5hbWVcPg==</text>
