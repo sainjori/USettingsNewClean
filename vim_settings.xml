@@ -3,10 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/util/StructureUpdate.java" timestamp="1560520543429">
+        <mark key="[" line="24" column="13" />
+        <mark key="]" line="24" column="13" />
+        <mark key="^" line="24" column="22" />
+        <mark key="." line="24" column="13" />
+      </file>
       <file name="/a.dummy" timestamp="1560523076356">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.8.1/plm-5.1.8.1-sources.jar!/plm/fs/FileManagerImpl.java" timestamp="1560771516713" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/kion/trunk/kion/src/main/java/kion/omf/OmfConvertJobRunLocal.java" timestamp="1560521213602">
         <mark key="'" line="172" column="2" />
         <mark key="[" line="53" column="0" />
@@ -14,38 +19,6 @@
         <mark key="^" line="90" column="5" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/util/StructureUpdateUtil.java" timestamp="1560789394836">
-        <mark key="[" line="49" column="90" />
-        <mark key="]" line="49" column="104" />
-        <mark key="^" line="49" column="104" />
-        <mark key="." line="49" column="104" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.8.1/plm-5.1.8.1-sources.jar!/plm/sess/ApplPart.java" timestamp="1560770459876" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/test/java/plm/modules/wsfunction/addPlmTestClient/TestClient.java" timestamp="1560782815384" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/test/java/plm/modules/wsfunction/PlmServiceFunctions.java" timestamp="1560780905665">
-        <mark key="[" line="237" column="50" />
-        <mark key="]" line="238" column="46" />
-        <mark key="^" line="238" column="46" />
-        <mark key="." line="238" column="46" />
-      </file>
-      <file name="/Clipboard.txt" timestamp="1560285646746">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.8.1/sapbase-5.1.8.1-sources.jar!/cadagent/proc/PLMProcess.java" timestamp="1560522431934" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/StructureUpdater.java" timestamp="1560520135563">
-        <mark key="'" line="100" column="33" />
-        <mark key="[" line="100" column="33" />
-        <mark key="]" line="100" column="33" />
-        <mark key="." line="100" column="33" />
-        <mark key="^" line="50" column="35" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/util/StructureUpdate.java" timestamp="1560520543429">
-        <mark key="[" line="24" column="13" />
-        <mark key="]" line="24" column="13" />
-        <mark key="^" line="24" column="22" />
-        <mark key="." line="24" column="13" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.8.1/plm-5.1.8.1-sources.jar!/plm/utils/FileServer.java" timestamp="1560770942284" />
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/util/StructureUpdater.java" timestamp="1560520318569">
         <mark key="[" line="24" column="13" />
         <mark key="]" line="24" column="13" />
@@ -58,7 +31,6 @@
         <mark key="." line="344" column="58" />
         <mark key="^" line="344" column="58" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.8.1/base-5.1.8.1-sources.jar!/cadagent/cfc/util/ContainerTool.java" timestamp="1560461473101" />
       <file name="/Dummy.txt" timestamp="1560789403002">
         <mark key="[" line="0" column="0" />
       </file>
@@ -68,12 +40,16 @@
         <mark key="^" line="129" column="61" />
         <mark key="." line="129" column="61" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.8.1/plm-5.1.8.1-sources.jar!/plm/proc/doc/checkout/PlmProcessSessionUpdate.java" timestamp="1560769447739" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/kion/trunk/kion/pom.xml" timestamp="1560441705181">
         <mark key="[" line="18" column="43" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/kion/trunk/kion/src/test/java/kion/proc/KionProcessListReportDataGetTest.java" timestamp="1560460223893" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.9.5/addons-5.1.9.5-sources.jar!/plm/modules/wsfunction/PlmServiceFunction.java" timestamp="1560520453770" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/util/StructureUpdateUtil.java" timestamp="1560789394836">
+        <mark key="[" line="49" column="90" />
+        <mark key="]" line="49" column="104" />
+        <mark key="^" line="49" column="104" />
+        <mark key="." line="49" column="104" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/mahle/trunk/src/test/java/scripts/AttributeMappingScriptsTest.java" timestamp="1560798798786" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.7.1/convert-5.1.7.1-sources.jar!/cadagent/moduls/view/PlmProcessGenerateViewerData.java" timestamp="1560521113758">
         <mark key="'" line="369" column="2" />
         <mark key="[" line="106" column="0" />
@@ -84,11 +60,27 @@
         <mark key="[" line="872" column="0" />
         <mark key="]" line="872" column="84" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/test/java/plm/modules/wsfunction/PlmServiceFunctions.java" timestamp="1560780905665">
+        <mark key="[" line="237" column="50" />
+        <mark key="]" line="238" column="46" />
+        <mark key="^" line="238" column="46" />
+        <mark key="." line="238" column="46" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1560285646746">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.8.1/customize/config/menu.guidef" timestamp="1560512831752">
         <mark key="[" line="105" column="0" />
         <mark key="]" line="105" column="0" />
         <mark key="." line="105" column="0" />
         <mark key="^" line="104" column="66" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/StructureUpdater.java" timestamp="1560520135563">
+        <mark key="'" line="100" column="33" />
+        <mark key="[" line="100" column="33" />
+        <mark key="]" line="100" column="33" />
+        <mark key="." line="100" column="33" />
+        <mark key="^" line="50" column="35" />
       </file>
       <file name="/fragment.java" timestamp="1560782322495">
         <mark key="[" line="0" column="0" />
