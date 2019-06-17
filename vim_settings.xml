@@ -189,17 +189,12 @@
         <mark key="." line="2462" column="26" />
         <mark key="^" line="2462" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560526329427">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" timestamp="1560526151134">
-        <mark key="'" line="509" column="149" />
-        <mark key="[" line="146" column="71" />
-        <mark key="]" line="146" column="83" />
-        <mark key="^" line="146" column="83" />
-        <mark key="." line="146" column="83" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" timestamp="1560767300181">
+        <mark key="'" line="469" column="149" />
+        <mark key="[" line="448" column="125" />
+        <mark key="]" line="448" column="155" />
+        <mark key="^" line="448" column="155" />
+        <mark key="." line="448" column="155" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.8.1/plm-5.1.8.1-sources.jar!/plm/proc/doc/checkout/PlmProcessSessionUpdate.java" timestamp="1560515257201" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/omf/OmfIndexExportOriginals.java" timestamp="1559727550617">
@@ -265,12 +260,6 @@
         <mark key="]" line="6" column="46" />
         <mark key="^" line="6" column="46" />
         <mark key="." line="6" column="46" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/util/MessageCodes.java" timestamp="1560526119513">
-        <mark key="[" line="55" column="81" />
-        <mark key="]" line="55" column="86" />
-        <mark key="." line="55" column="86" />
-        <mark key="^" line="55" column="86" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.8.1/customize/config/menu.guidef" timestamp="1560512831752">
         <mark key="[" line="105" column="0" />
@@ -388,10 +377,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getAbsolutePath()</text>
+        <text>newStrCat</text>
       </register>
       <register name="-" type="4">
-        <text>getAbsolutePath()</text>
+        <text>newStrCat</text>
       </register>
       <register name="/" type="4">
         <text>otto-fuchs</text>
