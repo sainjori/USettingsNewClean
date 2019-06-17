@@ -21,7 +21,12 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.8.1/plm-5.1.8.1-sources.jar!/plm/sess/ApplPart.java" timestamp="1560770459876" />
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/test/java/plm/modules/wsfunction/addPlmTestClient/TestClient.java" timestamp="1560778322954" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/test/java/plm/modules/wsfunction/PlmServiceFunctions.java" timestamp="1560778342386" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/test/java/plm/modules/wsfunction/PlmServiceFunctions.java" timestamp="1560780905665">
+        <mark key="[" line="237" column="50" />
+        <mark key="]" line="238" column="46" />
+        <mark key="^" line="238" column="46" />
+        <mark key="." line="238" column="46" />
+      </file>
       <file name="/Clipboard.txt" timestamp="1560285646746">
         <mark key="[" line="0" column="0" />
       </file>
@@ -53,7 +58,7 @@
         <mark key="^" line="344" column="58" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.8.1/base-5.1.8.1-sources.jar!/cadagent/cfc/util/ContainerTool.java" timestamp="1560461473101" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" timestamp="1560780523586" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" timestamp="1560780843231" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.8.1/plm-5.1.8.1-sources.jar!/plm/proc/doc/checkout/PlmProcessSessionUpdate.java" timestamp="1560769447739" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/kion/trunk/kion/pom.xml" timestamp="1560441705181">
         <mark key="[" line="18" column="43" />
@@ -181,7 +186,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFRhYmxlQnVpbGRlcjxTdHJpbmc+IHRiID0gbmV3IFRhYmxlQnVpbGRlcjw+KCJTQVBLRVkiLCAiRklMRU5BTUUiKTsK</text>
+        <text encoding="base64">ICAgIGJ1aWxkZXIuYWRkUGFyYW1ldGVyKCJJR05PUkVfQ0hFQ0tTIiwgIlgiKTsK</text>
       </register>
       <register name="-" type="4">
         <text>newStrCat</text>
@@ -190,7 +195,7 @@
         <text>otto-fuchs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBFUlJPUl9DT1VMRF9OT1RfQ0hFQ0tJTl9GSUxFUygiRTAwMDE0IiwgIkZpbGVzICglcykgY291bGRuJ3QgYmUgY2hlY2tlZCBpbi4gUmVhc29uOiAlcyIpLAo=</text>
+        <text encoding="base64">ICAgIGJ1aWxkZXIuYWRkUGFyYW1ldGVyKCJJR05PUkVfQ0hFQ0tTIiwgIlgiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIFRhYmxlQnVpbGRlcjxTdHJpbmc+IHRiID0gbmV3IFRhYmxlQnVpbGRlcjw+KCJTQVBLRVkiLCAiRklMRU5BTUUiKTsK</text>
