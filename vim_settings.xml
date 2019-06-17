@@ -14,11 +14,11 @@
         <mark key="^" line="90" column="5" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/util/StructureUpdateUtil.java" timestamp="1560783150242">
-        <mark key="[" line="45" column="33" />
-        <mark key="]" line="45" column="47" />
-        <mark key="^" line="45" column="47" />
-        <mark key="." line="45" column="47" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/util/StructureUpdateUtil.java" timestamp="1560786330628">
+        <mark key="[" line="49" column="28" />
+        <mark key="]" line="49" column="28" />
+        <mark key="^" line="49" column="28" />
+        <mark key="." line="49" column="28" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.8.1/plm-5.1.8.1-sources.jar!/plm/sess/ApplPart.java" timestamp="1560770459876" />
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/test/java/plm/modules/wsfunction/addPlmTestClient/TestClient.java" timestamp="1560782815384" />
@@ -59,7 +59,7 @@
         <mark key="^" line="344" column="58" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.8.1/base-5.1.8.1-sources.jar!/cadagent/cfc/util/ContainerTool.java" timestamp="1560461473101" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" timestamp="1560783111775">
+      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" timestamp="1560785295858">
         <mark key="[" line="129" column="35" />
         <mark key="]" line="129" column="61" />
         <mark key="^" line="129" column="61" />
@@ -76,7 +76,11 @@
         <mark key="[" line="106" column="0" />
         <mark key="]" line="106" column="30" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.5/plm-5.1.9.5-sources.jar!/plm/sess/ApplPart.java" timestamp="1560782303725" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.5/plm-5.1.9.5-sources.jar!/plm/sess/ApplPart.java" timestamp="1560786130035">
+        <mark key="'" line="1360" column="4" />
+        <mark key="[" line="872" column="0" />
+        <mark key="]" line="872" column="84" />
+      </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.8.1/customize/config/menu.guidef" timestamp="1560512831752">
         <mark key="[" line="105" column="0" />
         <mark key="]" line="105" column="0" />
@@ -90,16 +94,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="961" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/brobj/BrDocPosition.java" />
-      <jump line="151" column="22" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/brobj/BrDocPosition.java" />
-      <jump line="21" column="46" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.1/customize/config/dtype.xml" />
-      <jump line="1115" column="41" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
-      <jump line="528" column="81" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
-      <jump line="529" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
-      <jump line="392" column="16" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
-      <jump line="508" column="13" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
-      <jump line="758" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
-      <jump line="761" column="13" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
       <jump line="123" column="18" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/grozbeck/trunk/ectr/src/main/java/gb/dadi/DadiAfterCloneFinished.java" />
       <jump line="5557" column="46" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" />
       <jump line="5558" column="27" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.1/plm-5.1.13.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" />
@@ -190,58 +184,68 @@
       <jump line="429" column="51" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" />
       <jump line="473" column="149" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" />
       <jump line="356" column="6" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" />
+      <jump line="839" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.5/plm-5.1.9.5-sources.jar!/plm/sess/ApplPart.java" />
+      <jump line="189" column="29" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.5/plm-5.1.9.5-sources.jar!/plm/sess/ApplPart.java" />
+      <jump line="611" column="26" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.5/plm-5.1.9.5-sources.jar!/plm/sess/ApplPart.java" />
+      <jump line="711" column="102" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.5/plm-5.1.9.5-sources.jar!/plm/sess/ApplPart.java" />
+      <jump line="1386" column="41" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.5/plm-5.1.9.5-sources.jar!/plm/sess/ApplPart.java" />
+      <jump line="198" column="17" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.5/plm-5.1.9.5-sources.jar!/plm/sess/ApplPart.java" />
+      <jump line="298" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.5/plm-5.1.9.5-sources.jar!/plm/sess/ApplPart.java" />
+      <jump line="865" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.5/plm-5.1.9.5-sources.jar!/plm/sess/ApplPart.java" />
+      <jump line="867" column="17" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.5/plm-5.1.9.5-sources.jar!/plm/sess/ApplPart.java" />
+      <jump line="1360" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.5/plm-5.1.9.5-sources.jar!/plm/sess/ApplPart.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkZXIuYWRkUGFyYW1ldGVyKCJJR05PUkVfQ0hFQ0tTIiwgIlgiKTsK</text>
+      <register name="&quot;" type="4">
+        <text>applicationDirectoryName, ApplPart.XMLMETAINF_NAME_FROM_SAP</text>
       </register>
       <register name="-" type="4">
-        <text>newStrCat</text>
+        <text>applicationDirectoryName, ApplPart.XMLMETAINF_NAME_FROM_SAP</text>
       </register>
       <register name="/" type="4">
-        <text>otto-fuchs</text>
+        <text encoding="base64">XDxtZXRhSW5mRmlsZW5hbWVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkZXIuYWRkUGFyYW1ldGVyKCJJR05PUkVfQ0hFQ0tTIiwgIlgiKTsK</text>
+        <text encoding="base64">ICAgICAgZmlsZW5hbWUgPSBFbnZpcm9ubWVudC5jb25jYXRGaWxlbmFtZShkaXIuZ2V0QWJzb2x1dGVQYXRoKCksIFhNTE1FVEFJTkZfTkFNRSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFRhYmxlQnVpbGRlcjxTdHJpbmc+IHRiID0gbmV3IFRhYmxlQnVpbGRlcjw+KCJTQVBLRVkiLCAiRklMRU5BTUUiKTsK</text>
+        <text encoding="base64">ICAgIGJ1aWxkZXIuYWRkUGFyYW1ldGVyKCJJR05PUkVfQ0hFQ0tTIiwgIlgiKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIFRhYmxlQnVpbGRlcjxTdHJpbmc+IHRiID0gbmV3IFRhYmxlQnVpbGRlcjw+KCJTQVBLRVkiLCAiRklMRU5BTUUiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBQbG1Qcm9jZXNzU2luZ2xlQ2hlY2tpbkNkZXNrU2VydmljZXMuY2hlY2tJbkRvY3VtZW50KG1haW5PcmlnaW5hbEZpbGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbmV3IENoZWNraW5GaWxlc0hlbHBlcihjaGVja2luSW5mbykKICAgICAgICAgIC5nZXRNYWluT3JpZ2luYWxGaWxlKCkKICAgICAgICAgIC5pZlByZXNlbnQobWFpbk9yaWdpbmFsRmlsZSAtPiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBQbG1Qcm9jZXNzU2luZ2xlQ2hlY2tpbkNkZXNrU2VydmljZXMuY2hlY2tJbkRvY3VtZW50KG1haW5PcmlnaW5hbEZpbGUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChza2lwQ2hlY2tpbk1haW4pCiAgICAgIHJldHVybjsKCg==</text>
+        <text encoding="base64">ICAgICAgbmV3IENoZWNraW5GaWxlc0hlbHBlcihjaGVja2luSW5mbykKICAgICAgICAgIC5nZXRNYWluT3JpZ2luYWxGaWxlKCkKICAgICAgICAgIC5pZlByZXNlbnQobWFpbk9yaWdpbmFsRmlsZSAtPiB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGlmIChza2lwQ2hlY2tpbk1haW4pCiAgICAgIHJldHVybjsKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>331</text>
       </register>
     </registers>
     <search>
-      <last-search>otto-fuchs</last-search>
+      <last-search encoding="base64">XDxtZXRhSW5mRmlsZW5hbWVcPg==</last-search>
       <last-offset />
-      <last-pattern>otto-fuchs</last-pattern>
+      <last-pattern encoding="base64">XDxtZXRhSW5mRmlsZW5hbWVcPg==</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -249,8 +253,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhdHRyaWJ1dGVzRnJvbUFwcGxcPg==</entry>
-        <entry encoding="base64">XDxBVFRSSUJVVEVTRUNUSU9OTkFNRVw+</entry>
         <entry encoding="base64">XDxuZXdTaG9ydFRleHRcPg==</entry>
         <entry encoding="base64">XDxjbG9uZVNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxoaWRkZW5Eb2N1bWVudFNhcGtleXNcPg==</entry>
@@ -269,6 +271,8 @@
         <entry encoding="base64">XDxjaGVja2luQWRkaXRpb25hbHNcPg==</entry>
         <entry encoding="base64">XDxQbG1GaWxlXD4=</entry>
         <entry>otto-fuchs</entry>
+        <entry encoding="base64">XDxYTUxNRVRBSU5GX05BTUVfRlJPTV9TQVBcPg==</entry>
+        <entry encoding="base64">XDxtZXRhSW5mRmlsZW5hbWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>191</entry>
