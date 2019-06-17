@@ -42,9 +42,13 @@
           <option name="url" value="git@gitlab.dscsag.net:plmservices/addPlmConnector.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.dscsag.net:customers/mahle/mahle-batch-engine.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\ENTWICKLUNG\java\workspaces" />
+    <option name="cloneParentDir" value="C:\ENTWICKLUNG\sandbox" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
