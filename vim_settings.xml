@@ -22,7 +22,6 @@
         <mark key="^" line="90" column="5" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/kion/trunk/kion/src/main/java/kion/dadi/DadiImportSetDataFromAttr.java" timestamp="1560803930402" />
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/util/StructureUpdater.java" timestamp="1560520318569">
         <mark key="[" line="24" column="13" />
         <mark key="]" line="24" column="13" />
@@ -41,8 +40,14 @@
         <mark key="^" line="126" column="40" />
         <mark key="." line="126" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560860293288">
+      <file name="/Dummy.txt" timestamp="1560868690523">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.2/customize/config/menu.guidef" timestamp="1560868761221">
+        <mark key="[" line="166" column="63" />
+        <mark key="]" line="166" column="65" />
+        <mark key="^" line="166" column="65" />
+        <mark key="." line="166" column="65" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" timestamp="1560785295858">
         <mark key="[" line="129" column="35" />
@@ -50,7 +55,6 @@
         <mark key="^" line="129" column="61" />
         <mark key="." line="129" column="61" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.9.1/convert-5.1.9.1-sources.jar!/cadagent/sap/ProcessGetAp.java" timestamp="1560803498861" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/kion/trunk/kion/pom.xml" timestamp="1560441705181">
         <mark key="[" line="18" column="43" />
       </file>
@@ -60,16 +64,22 @@
         <mark key="^" line="49" column="104" />
         <mark key="." line="49" column="104" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/mahle/trunk/src/test/java/scripts/AttributeMappingScriptsTest.java" timestamp="1560798798786" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/plm/omf/OmfWirtgenPulldown.java" timestamp="1560868855714">
+        <mark key="[" line="68" column="1" />
+        <mark key="]" line="68" column="1" />
+        <mark key="^" line="68" column="1" />
+        <mark key="." line="68" column="1" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.9.1/convert-5.1.9.1-sources.jar!/cadagent/sap/ProcessStartConversion.java" timestamp="1560803213513">
         <mark key="'" line="183" column="25" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/gui/obr/omf/OmfWindowManager.java" timestamp="1560868407096" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.7.1/convert-5.1.7.1-sources.jar!/cadagent/moduls/view/PlmProcessGenerateViewerData.java" timestamp="1560521113758">
         <mark key="'" line="369" column="2" />
         <mark key="[" line="106" column="0" />
         <mark key="]" line="106" column="30" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/gui/obr/ObjectManagerGui.java" timestamp="1560866840403" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/gui/obr/ObjectManagerGui.java" timestamp="1560867876832" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.5/plm-5.1.9.5-sources.jar!/plm/sess/ApplPart.java" timestamp="1560786130035">
         <mark key="'" line="1360" column="4" />
         <mark key="[" line="872" column="0" />
@@ -90,6 +100,12 @@
         <mark key="." line="105" column="0" />
         <mark key="^" line="104" column="66" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/plm/omf/OmfWbsBomDerive2.java" timestamp="1560868783206">
+        <mark key="[" line="70" column="13" />
+        <mark key="]" line="70" column="30" />
+        <mark key="^" line="70" column="30" />
+        <mark key="." line="70" column="30" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/StructureUpdater.java" timestamp="1560520135563">
         <mark key="'" line="100" column="33" />
         <mark key="[" line="100" column="33" />
@@ -97,7 +113,7 @@
         <mark key="." line="100" column="33" />
         <mark key="^" line="50" column="35" />
       </file>
-      <file name="/fragment.java" timestamp="1560782322495">
+      <file name="/fragment.java" timestamp="1560868745582">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -207,46 +223,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CgoKCg==</text>
+        <text encoding="base64">ICpmbmMud2lydGdlbi5wdWxsZG93bihXUkspCg==</text>
       </register>
       <register name="-" type="4">
-        <text>validScriptPref == null</text>
+        <text>ADDON-788</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2U2FwUGFyYW1zXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZmlsZW5hbWUgPSBFbnZpcm9ubWVudC5jb25jYXRGaWxlbmFtZShkaXIuZ2V0QWJzb2x1dGVQYXRoKCksIFhNTE1FVEFJTkZfTkFNRSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gbW51LmZseW91dC5zZXR0aW5ncwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgoKCg==</text>
+        <text encoding="base64">ICpmbmMud2lydGdlbi5wdWxsZG93bihXUkspCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBjb21tYW5kID0gU3RyaW5nLmpvaW4oIiAiLCBzYXBQYXJhbWV0ZXJzKTsK</text>
+        <text encoding="base64">CgoKCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIFN0cmluZyBjb21tYW5kID0gU3RyaW5nLmpvaW4oIiAiLCBzYXBQYXJhbWV0ZXJzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyB2YWxpZFNjcmlwdFByZWYgPSBQcmVmZXJlbmNlcy5zdHJpbmdWYWx1ZSgibWFobGUuZGFkaS5iZWZvcmVDaGVja2luRmlsZS52YWxpZFNjcmlwdCIpOwo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBjb21tYW5kID0gU3RyaW5nLmpvaW4oIiAiLCBzYXBQYXJhbWV0ZXJzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFRyYWNlLnByaW50bG4oMCwpOwo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyB2YWxpZFNjcmlwdFByZWYgPSBQcmVmZXJlbmNlcy5zdHJpbmdWYWx1ZSgibWFobGUuZGFkaS5iZWZvcmVDaGVja2luRmlsZS52YWxpZFNjcmlwdCIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFRyYWNlLgo=</text>
+        <text encoding="base64">ICAgIFRyYWNlLnByaW50bG4oMCwpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFZlY3RvcjxTdHJpbmc+IHNhcFBhcmFtZXRlcnMgPSBkYXRhQ29udGFpbmVyLmdldE9iamVjdChTQVBfUEFSQU1FVEVSUyk7Cg==</text>
+        <text encoding="base64">ICAgIFRyYWNlLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIFZlY3RvcjxTdHJpbmc+IHNhcFBhcmFtZXRlcnMgPSBkYXRhQ29udGFpbmVyLmdldE9iamVjdChTQVBfUEFSQU1FVEVSUyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>331</text>
