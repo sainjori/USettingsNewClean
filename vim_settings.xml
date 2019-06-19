@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1560523076356">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.2/basis/dictionary/de/ectr.txt" timestamp="1560874794428" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfFAPlantChange.java" timestamp="1560876902220">
         <mark key="[" line="45" column="13" />
@@ -25,17 +28,23 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/gui/obr/fnc/ObrFunctionEvent.java" timestamp="1560874927754" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/modules/acm/omf/AcmOmFunctions.java" timestamp="1560874848462" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/fctr/5.1.13.2/fctr-5.1.13.2-sources.jar!/plm/modules/fa/gui/FaPlantSelectionModel.java" timestamp="1560876893031" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenPulldown.java" timestamp="1560944706880">
-        <mark key="[" line="74" column="93" />
-        <mark key="]" line="74" column="110" />
-        <mark key="." line="74" column="110" />
-        <mark key="^" line="74" column="110" />
+      <file name="/Dummy.txt" timestamp="1560946064763">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.2/customize/config/menu.guidef" timestamp="1560878605073">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenPulldown.java" timestamp="1560945627592">
+        <mark key="[" line="92" column="25" />
+        <mark key="]" line="92" column="33" />
+        <mark key="^" line="92" column="33" />
+        <mark key="." line="92" column="33" />
+      </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.2/customize/config/menu.guidef" timestamp="1560946330312">
         <mark key="[" line="161" column="62" />
         <mark key="]" line="161" column="63" />
         <mark key="^" line="161" column="63" />
         <mark key="." line="161" column="63" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/kion/trunk/kion/pom.xml" timestamp="1560441705181">
+        <mark key="[" line="18" column="43" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/plm/omf/OmfWirtgenPulldown.java" timestamp="1560868855714">
         <mark key="[" line="68" column="1" />
@@ -51,15 +60,18 @@
         <mark key="." line="62" column="84" />
         <mark key="^" line="62" column="84" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/WirtgenOmFunction.java" timestamp="1560941532203">
-        <mark key="'" line="148" column="24" />
-        <mark key="[" line="195" column="2" />
-        <mark key="]" line="195" column="14" />
-        <mark key="." line="195" column="14" />
-        <mark key="^" line="195" column="14" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/WirtgenOmFunction.java" timestamp="1560945933400">
+        <mark key="'" line="139" column="24" />
+        <mark key="[" line="154" column="91" />
+        <mark key="]" line="154" column="91" />
+        <mark key="^" line="155" column="67" />
+        <mark key="." line="154" column="91" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.2/base-5.1.13.2-sources.jar!/cadagent/gui/obr/ObjectManagerGui.java" timestamp="1560867876832" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.2/plm-5.1.13.2-sources.jar!/plm/modules/acm/gui/activeacc/ActiveAccComboBoxModel.java" timestamp="1560872638508" />
+      <file name="/Clipboard.txt" timestamp="1560285646746">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/plm/omf/OmfWbsBomDerive2.java" timestamp="1560868783206">
         <mark key="[" line="70" column="13" />
         <mark key="]" line="70" column="30" />
@@ -177,11 +189,11 @@
       <jump line="148" column="24" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/WirtgenOmFunction.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>makroName</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2U2FwUGFyYW1zXD4=</text>
@@ -196,28 +208,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE1hY3JvU3RhdGUgbXMgPSBuZXcgTWFjcm9TdGF0ZShFeGVjdXRpb25FbnZpcm9ubWVudC5PTUYpOwogICAgbXMuc2V0VXNlRGVmYXVsdEZvbGRlcih0cnVlKTsKICAgIE1hY3JvVG9vbC5ydW5NYWNybyhtYWtyb05hbWUsIG1zKTsK</text>
+        <text encoding="base64">ICAgICAgLy8gICAgICBMaXN0PFN0cmluZz4gcGxhbnRzID0gUHJlZmVyZW5jZXMuc3RyaW5nTGlzdCgicGxtLndpcnRnZW4ucHVsbGRvd24udmFsdWUuIiArIGZuY0luZGV4LCAiMDAxMDswMTUwOzAxMjAiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgLy8gICAgICBTdHJpbmcgYWN0aXZlUGxhbnQgPSBQcmVmZXJlbmNlcy5zdHJpbmdWYWx1ZSgicGxtLndpcnRnZW4ucHVsbGRvd24udmFsdWUuZGVmYXVsdC4iICsgZm5jSW5kZXgsICIwMTUwIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgLy8gICAgICBTdHJpbmcgYWN0aXZlUGxhbnQgPSBQcmVmZXJlbmNlcy5zdHJpbmdWYWx1ZShGQVByZWZlcmVuY2VzLkFDVElWRV9QTEFOVCwgIiIpLnRvVXBwZXJDYXNlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtYWNyb05hbWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgIGlmIChrZXkuc3RhcnRzV2l0aCgiZm5jLmYuYS4iKSkKICAgIHsKICAgICAgU3RyaW5nIGRlc2NyID0gRGljLmdldChrZXkpOwogICAgICBTdHJpbmcga2V5c3Ryb2tlID0gUHJlZmVyZW5jZXMuc3RyaW5nVmFsdWUoa2V5ICsgIi5rZXlzdHJva2UiKTsKICAgICAgZm5jID0gbmV3IE9ickZ1bmN0aW9uKGZuY0lkLCBkZXNjcik7CiAgICAgIGZuYy5zZXRUaXBUZXh0KGRlc2NyKTsKICAgICAgZm5jLnNldEtleVN0cm9rZShLZXlTdHJva2UuZ2V0S2V5U3Ryb2tlKGtleXN0cm9rZSkpOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgT21mUGxhbnRDaGFuZ2Ugb21mID0gbmV3IE9tZlBsYW50Q2hhbmdlKCk7Ci8vICAgIG9tZi5hY3Rpb25QZXJmb3JtZWQob2ZFdmVudCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiZWZlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYWNyb1BhcmFtZXRlciBmZWYgPSBuZXcgTWFjcm9QYXJhbWV0ZXIoImZlZiIsIGZuY0luZGV4LCAiIik7CiAgICAgICAgTWFjcm9TdGF0ZSBtcyA9IG5ldyBNYWNyb1N0YXRlKEV4ZWN1dGlvbkVudmlyb25tZW50Lk9NRik7CiAgICAgICAgbXMuc2V0VXNlRGVmYXVsdEZvbGRlcih0cnVlKTsKICAgICAgICBNYWNyb1Rvb2wucnVuTWFjcm8obWFjcm9GaWxlLCBtcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIE9tZkV4ZWN1dGVNYWNybwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>331</text>
