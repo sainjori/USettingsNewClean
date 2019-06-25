@@ -17,6 +17,18 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.9.1/convert-5.1.9.1-sources.jar!/cadagent/sap/ConversionEventData.java" timestamp="1560803235954">
         <mark key="'" line="80" column="27" />
       </file>
+      <file name="C:/ENTWICKLUNG/sandbox/mahleTest/src/main/java/mahle/dadi/BeforeConvertCheckIn.java" timestamp="1560860427345">
+        <mark key="[" line="126" column="40" />
+        <mark key="]" line="126" column="40" />
+        <mark key="^" line="126" column="40" />
+        <mark key="." line="126" column="40" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/util/StructureUpdateUtil.java" timestamp="1560789394836">
+        <mark key="[" line="49" column="90" />
+        <mark key="]" line="49" column="104" />
+        <mark key="^" line="49" column="104" />
+        <mark key="." line="49" column="104" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.9.1/convert-5.1.9.1-sources.jar!/cadagent/sap/ProcessStartConversion.java" timestamp="1560803213513">
         <mark key="'" line="183" column="25" />
       </file>
@@ -27,20 +39,38 @@
         <mark key="^" line="155" column="67" />
         <mark key="." line="154" column="91" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/test/java/plm/modules/wsfunction/PlmServiceFunctions.java" timestamp="1560780905665">
+        <mark key="[" line="237" column="50" />
+        <mark key="]" line="238" column="46" />
+        <mark key="^" line="238" column="46" />
+        <mark key="." line="238" column="46" />
+      </file>
       <file name="/Clipboard.txt" timestamp="1560285646746">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" timestamp="1561466627715">
+      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/util/StructureUpdate.java" timestamp="1560520543429">
+        <mark key="[" line="24" column="13" />
+        <mark key="]" line="24" column="13" />
+        <mark key="^" line="24" column="22" />
+        <mark key="." line="24" column="13" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" timestamp="1561468293596">
         <mark key="'" line="299" column="0" />
-        <mark key="[" line="479" column="27" />
-        <mark key="]" line="479" column="27" />
-        <mark key="^" line="479" column="27" />
-        <mark key="." line="479" column="27" />
+        <mark key="[" line="460" column="16" />
+        <mark key="]" line="460" column="24" />
+        <mark key="^" line="460" column="24" />
+        <mark key="." line="460" column="24" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/util/StructureUpdater.java" timestamp="1560520318569">
         <mark key="[" line="24" column="13" />
         <mark key="]" line="24" column="13" />
         <mark key="." line="24" column="13" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/test/hkg/proc/HkgProcessExportOriginalsTest.java" timestamp="1561467706025">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="51" />
+        <mark key="^" line="19" column="50" />
+        <mark key="." line="19" column="50" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/utils/FolderChecker.java" timestamp="1561465755077">
         <mark key="[" line="28" column="0" />
@@ -54,7 +84,7 @@
         <mark key="^" line="133" column="8" />
         <mark key="." line="133" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561461371088">
+      <file name="/Dummy.txt" timestamp="1561467316630">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/OmfWirtgenPulldown.java" timestamp="1560947149134">
@@ -62,10 +92,22 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" timestamp="1560785295858">
+        <mark key="[" line="129" column="35" />
+        <mark key="]" line="129" column="61" />
+        <mark key="^" line="129" column="61" />
+        <mark key="." line="129" column="61" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/kion/trunk/kion/pom.xml" timestamp="1560441705181">
         <mark key="[" line="18" column="43" />
       </file>
-      <file name="/fragment.java" timestamp="1561465188586">
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.8.1/customize/config/menu.guidef" timestamp="1560512831752">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+        <mark key="^" line="104" column="66" />
+      </file>
+      <file name="/fragment.java" timestamp="1561467663448">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -175,16 +217,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new File(newName).getName();</text>
+        <text>sapKey</text>
       </register>
       <register name="-" type="4">
-        <text>new File(newName).getName();</text>
+        <text>sapKey</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2U2FwUGFyYW1zXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhZGRDb3VudGVyTnVtYmVyKGdldEZvbGRlckNvdW50KCkpOwo=</text>
+        <text encoding="base64">ICAgIENoZWNrb3V0SW5mbyBjaGVja291dEluZm8gPSBuZXcgQ2hlY2tvdXRJbmZvKCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -193,28 +235,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdOYW1lID0gcmVtb3ZlRXh0cmFjdEZvbGRlckJlZ2lubmluZyhuZXdOYW1lKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3Vic3RyaW5nID0gbmV3TmFtZS5zdWJzdHJpbmcobmV3TmFtZShleHRyYWN0Rm9sZGVyUGF0aE9uUEMgKyBGaWxlLnNlcGFyYXRvcikpOwo=</text>
+      <register name="3" type="4">
+        <text>private String removeExtractFolderBeginning(String newName)
+  {
+    return null;
+  }</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBuZXdOYW1lID0gcmVtb3ZlRXh0cmFjdEZvbGRlckJlZ2lubmluZyhuZXdOYW1lKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3Vic3RyaW5nID0gbmV3TmFtZS5zdWJzdHJpbmcobmV3TmFtZShleHRyYWN0Rm9sZGVyUGF0aE9uUEMgKyBGaWxlLnNlcGFyYXRvcikpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgcHVibGljIFN0cmluZyBnZXROYW1lUmVsYXRpdmUoKQogICB7CiAgICAgU3RyaW5nIHMgPSBhZGRDb3VudGVyTnVtYmVyKGdldEZvbGRlckNvdW50KCkpOwogICAgIGV4dHJhY3RGb2xkZXJQYXRoT25QQyArIEZpbGUuc2VwYXJhdG9yICAgICAKICAgICByZXR1cm4gczsKICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbmV3TmFtZSA9IGZvbGRlckNoZWNrZXIuZ2V0TmV3TmFtZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>331</text>
