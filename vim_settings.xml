@@ -12,7 +12,7 @@
         <mark key="^" line="24" column="22" />
         <mark key="." line="24" column="13" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/behr/branches/ECTR-43/src/test/java/behr/dadi/DadiCGRAfterSessionUpdateTest.java" timestamp="1561551200698" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/behr/branches/ECTR-43/src/test/java/behr/dadi/DadiCGRAfterSessionUpdateTest.java" timestamp="1561558931875" />
       <file name="/a.dummy" timestamp="1561554568333">
         <mark key="[" line="0" column="0" />
       </file>
@@ -22,25 +22,39 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/test/hkg/utils/FolderCheckerTest.java" timestamp="1561558711720">
+        <mark key="'" line="52" column="34" />
+        <mark key="[" line="96" column="68" />
+        <mark key="]" line="96" column="98" />
+        <mark key="." line="96" column="98" />
+        <mark key="^" line="96" column="98" />
+      </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/default.txt" timestamp="1561552103645">
         <mark key="[" line="2642" column="0" />
         <mark key="]" line="2642" column="0" />
         <mark key="^" line="2642" column="0" />
         <mark key="." line="2642" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" timestamp="1561554266844">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/pom.xml" timestamp="1561558864263">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="52" column="16" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" timestamp="1561557164604">
         <mark key="'" line="456" column="42" />
         <mark key="[" line="479" column="112" />
         <mark key="]" line="479" column="118" />
         <mark key="^" line="479" column="118" />
         <mark key="." line="479" column="118" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/test/hkg/proc/HkgProcessExportOriginalsTest.java" timestamp="1561551648429">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/test/hkg/proc/HkgProcessExportOriginalsTest.java" timestamp="1561559020582">
+        <mark key="[" line="36" column="51" />
+        <mark key="]" line="36" column="67" />
+        <mark key="." line="36" column="67" />
+        <mark key="^" line="36" column="67" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/utils/FolderChecker.java" timestamp="1561555366388">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/utils/FolderChecker.java" timestamp="1561557928459">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
         <mark key="^" line="51" column="6" />
@@ -108,6 +122,7 @@
         <mark key="^" line="155" column="67" />
         <mark key="." line="154" column="91" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/behr/branches/ECTR-43/pom.xml" timestamp="1561558840299" />
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/test/java/plm/modules/wsfunction/PlmServiceFunctions.java" timestamp="1560780905665">
         <mark key="[" line="237" column="50" />
         <mark key="]" line="238" column="46" />
@@ -129,7 +144,7 @@
         <mark key="." line="105" column="0" />
         <mark key="^" line="104" column="66" />
       </file>
-      <file name="/fragment.java" timestamp="1561545349765">
+      <file name="/fragment.java" timestamp="1561556773074">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -137,7 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="271" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/sap/conn/jco/tm/JcoSapManager.java" />
       <jump line="282" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/sap/conn/jco/tm/JcoSapManager.java" />
       <jump line="283" column="51" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/sap/conn/jco/tm/JcoSapManager.java" />
       <jump line="309" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/sap/conn/jco/tm/JcoSapManager.java" />
@@ -237,49 +251,50 @@
       <jump line="292" column="39" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/index/trunk/src/main/java/index/proc/IndexProcessExportOriginals.java" />
       <jump line="428" column="59" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" />
       <jump line="456" column="42" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" />
+      <jump line="52" column="34" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/test/hkg/utils/FolderCheckerTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>checkoutResult</text>
       </register>
       <register name="-" type="4">
-        <text>getNewName</text>
+        <text>checkoutResult</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2U2FwUGFyYW1zXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPFhGT1JNQVQgb3V0cHV0Rm9ybWF0PSJ7MH1fezF9X3syfV97M31fezR9Ij4K</text>
+        <text encoding="base64">ICAgIFN0cmluZyBzID0gIkM6XFxVc2Vyc1xcYnlhXFxEb2N1bWVudHNcXE5ldWVyIE9yZG5lciAoOClcXHRlc3RcXHBmZDFfMS5wZGYiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFycmF5TGlzdDxDaGVja291dEluZm8+IGNoZWNrb3V0UmVzdWx0ID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICBDaGVja291dEluZm8gY2hlY2tvdXRJbmZvID0gbmV3IENoZWNrb3V0SW5mbygpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICBlbHNlCg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigidGVzdF9jbGVhck9sZEVudHJpZXMoKS4uLiIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIHJldHVybiBwYXRoLnRvU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5qdW5pdDwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+anVuaXQ8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjQuMTI8L3ZlcnNpb24+CiAgICAgIDxzY29wZT50ZXN0PC9zY29wZT4KICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICBpZiAoaXNDb3VudGVyU3RyaW5nKHBhdGgudG9TdHJpbmcoKSkpCg==</text>
+        <text encoding="base64">ICAgIGZpbGVDaGVja2VyLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJvb2xlYW4gY291bnRlclN0cmluZyA9IGZpbGVDaGVja2VyLmlzQ291bnRlclN0cmluZyhzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEZpbGVDaGVja2VyIGZpbGVDaGVja2VyID0gbmV3IEZpbGVDaGVja2VyKHMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN0cmluZ1tdIHNwbGl0ID0gc3ViUGF0aC5zcGxpdChyZWdleCk7Cg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyByZWdleCA9ICJcXCIgKyBGaWxlLnNlcGFyYXRvcjsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCB0ZWFyRG93bkFmdGVyQ2xhc3MoKSB0aHJvd3MgRXhjZXB0aW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>331</text>
