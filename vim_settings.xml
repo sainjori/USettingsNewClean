@@ -22,12 +22,12 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/test/hkg/utils/FolderCheckerTest.java" timestamp="1561558711720">
-        <mark key="'" line="52" column="34" />
-        <mark key="[" line="96" column="68" />
-        <mark key="]" line="96" column="98" />
-        <mark key="." line="96" column="98" />
-        <mark key="^" line="96" column="98" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/test/hkg/utils/FolderCheckerTest.java" timestamp="1561566218582">
+        <mark key="'" line="54" column="34" />
+        <mark key="[" line="17" column="30" />
+        <mark key="]" line="17" column="30" />
+        <mark key="." line="17" column="30" />
+        <mark key="^" line="17" column="30" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/default.txt" timestamp="1561552103645">
         <mark key="[" line="2642" column="0" />
@@ -49,11 +49,11 @@
         <mark key="." line="411" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.3/sapbase-5.1.13.3-sources.jar!/cadagent/objmod/PlmDocumentContainer.java" timestamp="1561561305922" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/test/hkg/proc/HkgProcessExportOriginalsTest.java" timestamp="1561561728124">
-        <mark key="[" line="42" column="45" />
-        <mark key="]" line="42" column="45" />
-        <mark key="." line="42" column="45" />
-        <mark key="^" line="43" column="50" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/test/hkg/proc/HkgProcessExportOriginalsTest.java" timestamp="1561566550760">
+        <mark key="[" line="88" column="81" />
+        <mark key="]" line="89" column="26" />
+        <mark key="." line="89" column="26" />
+        <mark key="^" line="89" column="26" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/utils/FolderChecker.java" timestamp="1561557928459">
         <mark key="[" line="57" column="0" />
@@ -116,6 +116,7 @@
         <mark key="." line="62" column="84" />
         <mark key="^" line="62" column="84" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/rules/TemporaryFolder.java" timestamp="1561565485656" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/WirtgenOmFunction.java" timestamp="1560945933400">
         <mark key="'" line="139" column="24" />
         <mark key="[" line="154" column="91" />
@@ -255,47 +256,47 @@
       <jump line="163" column="37" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>L</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>L</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbGxQbG1Eb2NzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdoZW4obW9jay5nZXRTYXBLZXkoKSkudGhlblJldHVybigiUERGMDAwMDAwMDAwMDAwMDAwMTAwMDAyMjE2NzAwMDAwIik7CiAgICB3aGVuKG1vY2suZ2V0VGFibGVUeXBlKCkpLnRoZW5SZXR1cm4oIkRSQVciKTsK</text>
+        <text encoding="base64">ICAgICAgdGVtcEZvbGRlciA9IHRlc3RGb2xkZXIubmV3Rm9sZGVyKCJ0ZW1wIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1vY2suCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFBsbUFjY2VzcyBwbG1BY2Nlc3MgPSBuZXcgUGxtQWNjZXNzKCk7Cg==</text>
+        <text encoding="base64">ICAgIGYxLmNyZWF0ZU5ld0ZpbGUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvaS5tYXN0ZXJTYXBLZXkgPSAiUERGMDAwMDAwMDAwMDAwMDAwMTAwMDAyMjE2NzAwMDAwIjsK</text>
+        <text encoding="base64">ICAgIEZpbGUgZjEgPSBuZXcgRmlsZSh0ZW1wRm9sZGVyLCBjb2kuYWRkRGlyLCBjb2kubWFzdGVyRmlsZU5hbWUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2b2lkIGhhbmRsZUZldGNoZWRGaWxlc1Rlc3QoTGlzdDxDaGVja291dEluZm8+IGNoZWNrb3V0UmVzdWx0LCApIHRocm93cyBEZWZhdWx0TG9nRXhjZXB0aW9uCiAgewoKCiAgfQo=</text>
+        <text encoding="base64">ICBzdGF0aWMgRmlsZSBmZXhwb3J0RGlyOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIC8vIEZvciBlYWNoIGNvaS1vYmosIG5vdGUgdGhhdCB0aGlzIGlzIG5vdCBlYWNoIGZpbGUgaW50byBmb2xkZXIgSU5fRVhUUkFDVF9GT0xERVJfUEFUSF9QQ1xUTVBfRk9MX05BTUUKICAgIC8vIEEgY29pLW9iaiBjYW4gY29udGFpbiBtb3JlIGFzIG9uZSBmaWxlLgogICAgZm9yIChDaGVja291dEluZm8gY29pIDogY2hlY2tvdXRSZXN1bHQpCiAgICB7CiAgICAgIFBsbURvY3VtZW50IHBkZkpwZ1RpZmZEb2MgPSBhbGxQbG1Eb2NzLmdldERvY3VtZW50KGNvaS5nZXRTYXBLZXkoKSk7CgogICAgICAvLyB0aGUgc2FtZSBkb2N1bWVudCBjb3VsZCBiZSBpbiBtYW55IGZvbGRlcnMgLiAuIC4gQ2hlY2sgdGhhdCEKICAgICAgTGlzdDxTdHJpbmc+IGxpc3RGb2xkZXJQYXRoSGFzVGhlSXRlbSA9IGRvY0ZvbGRlck1hcC5nZXQocGRmSnBnVGlmZkRvYyk7CgogICAgICBmb3IgKFN0cmluZyBwYXRoV2hlcmVBc1NhcEtleSA6IGxpc3RGb2xkZXJQYXRoSGFzVGhlSXRlbSkKICAgICAgewogICAgICAgIFN0cmluZyBkaXJMYW5ndWFnZVBhdGggPSBleHRyYWN0Rm9sZGVyUGF0aE9uUEMgKyBGaWxlLnNlcGFyYXRvciArIGNyZWF0ZUxhbmd1YWdlUGF0aEZyb21TYXBLZXlzKHBhdGhXaGVyZUFzU2FwS2V5KTsKICAgICAgICAvLyBkZXRlcm1pbmUgd2hpY2ggZmlsZXMgZnJvbSBJTl9FWFRSQUNUX0ZPTERFUl9QQVRIX1BDXFRNUF9GT0xfTkFNRSB3aWxsIGJlIGNvcGllZCB0byB0aGUgY29ycmVzcG9uZGluZyBsYW5ndWFnZSBmb2xkZXIKICAgICAgICAvLyBmb3ItbG9vcCBmb3IgYWxsIFBERiBvcmlnaW5hbHMgLiAuIC4KCiAgICAgICAgaW50IGkgPSAwOwogICAgICAgIGZvciAoTWFwLkVudHJ5PFN0cmluZywgU3RyaW5nPiBlbnRyeSA6IGNvaS5obUFsbEZpbGVzLmVudHJ5U2V0KCkpCiAgICAgICAgewogICAgICAgICAgU3RyaW5nIHNvdXJjZUZpbGVOYW1lID0gZW50cnkuZ2V0S2V5KCk7CiAgICAgICAgICBTdHJpbmcgc291cmNlRmlsZUV4dGVuc2lvbiA9IGdldEZpbGVFeHRlbnNpb24oc291cmNlRmlsZU5hbWUpOwogICAgICAgICAgU3RyaW5nIHNvdXJjZUZpbGVQYXRoID0gdG1wRm9sZGVyUGF0aCArIEZpbGUuc2VwYXJhdG9yICsgY29pLmFkZERpciArIEZpbGUuc2VwYXJhdG9yICsgc291cmNlRmlsZU5hbWU7CgogICAgICAgICAgU3RyaW5nIGRlc3RGaWxlUGF0aCA9IGRpckxhbmd1YWdlUGF0aCArIEZpbGUuc2VwYXJhdG9yICsgZ2V0RGVzdEZpbGVOYW1lKHBkZkpwZ1RpZmZEb2MsIGksIHNvdXJjZUZpbGVFeHRlbnNpb24pOwoKICAgICAgICAgIGRlc3RGaWxlUGF0aCA9IG5ldyBGb2xkZXJDaGVja2VyKGRlc3RGaWxlUGF0aCkuZ2V0TmV3TmFtZUlmRXhpc3RzQ291bnRVcCgpOwoKICAgICAgICAgIGNvcHlGaWxlKHNvdXJjZUZpbGVQYXRoLCBkZXN0RmlsZVBhdGgpOwogICAgICAgICAgaSsrOwoKICAgICAgICB9IC8vIGZvci1sb29wIGZvciBQREZzCgogICAgICB9IC8vIGZvci1sb29wIGZvciBESVNzIGluIG1hbnkgZm9sZGVycwoKICAgIH0gLy8gZm9yLWxvb3AgZm9yIENPSXM=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBzdGF0aWMgRmlsZSBmdGVtcERpcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGhrZ1Byb2Nlc3NFeHBvcnRPcmlnaW5hbHMuYWRkRG9jdW1lbnQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgZnRlbXBEaXIgPSBuZXcgRmlsZShTeXN0ZW0uZ2V0ZW52KCJURU1QIikpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEFycmF5TGlzdDxDaGVja291dEluZm8+IGNoZWNrb3V0UmVzdWx0ID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICBDaGVja291dEluZm8gY2hlY2tvdXRJbmZvID0gbmV3IENoZWNrb3V0SW5mbygpOwo=</text>
+        <text encoding="base64">ICAgIHRlbXBGb2xkZXIgPSB0ZXN0Rm9sZGVyLm5ld0ZvbGRlcigidGVtcCIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigidGVzdF9jbGVhck9sZEVudHJpZXMoKS4uLiIpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBoa2cudXRpbHMuRm9sZGVyQ2hlY2tlclRlc3QudGVzdEZvbGRlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>331</text>
