@@ -13,7 +13,7 @@
         <mark key="." line="24" column="13" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/behr/branches/ECTR-43/src/test/java/behr/dadi/DadiCGRAfterSessionUpdateTest.java" timestamp="1561558931875" />
-      <file name="/a.dummy" timestamp="1561554568333">
+      <file name="/a.dummy" timestamp="1561567241648">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/Resources/META-INF/services/cadagent.gui.obr.ObrFunctionManagerInterface" timestamp="1560874478530">
@@ -29,7 +29,7 @@
         <mark key="." line="17" column="30" />
         <mark key="^" line="17" column="30" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/default.txt" timestamp="1561552103645">
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/default.txt" timestamp="1561567630830">
         <mark key="[" line="2642" column="0" />
         <mark key="]" line="2642" column="0" />
         <mark key="^" line="2642" column="0" />
@@ -41,19 +41,19 @@
         <mark key="^" line="52" column="16" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" timestamp="1561561646176">
-        <mark key="'" line="163" column="37" />
-        <mark key="[" line="411" column="0" />
-        <mark key="]" line="411" column="0" />
-        <mark key="^" line="127" column="35" />
-        <mark key="." line="411" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" timestamp="1561567543631">
+        <mark key="'" line="93" column="32" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="^" line="113" column="60" />
+        <mark key="." line="120" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.3/sapbase-5.1.13.3-sources.jar!/cadagent/objmod/PlmDocumentContainer.java" timestamp="1561561305922" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/test/hkg/proc/HkgProcessExportOriginalsTest.java" timestamp="1561566550760">
-        <mark key="[" line="88" column="81" />
-        <mark key="]" line="89" column="26" />
-        <mark key="." line="89" column="26" />
-        <mark key="^" line="89" column="26" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/test/hkg/proc/HkgProcessExportOriginalsTest.java" timestamp="1561567637232">
+        <mark key="[" line="46" column="67" />
+        <mark key="]" line="46" column="80" />
+        <mark key="." line="46" column="80" />
+        <mark key="^" line="46" column="80" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/utils/FolderChecker.java" timestamp="1561557928459">
         <mark key="[" line="57" column="0" />
@@ -116,6 +116,12 @@
         <mark key="." line="62" column="84" />
         <mark key="^" line="62" column="84" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/omf/OmfHkgExportOriginals.java" timestamp="1561567538596">
+        <mark key="[" line="153" column="67" />
+        <mark key="]" line="153" column="66" />
+        <mark key="^" line="153" column="66" />
+        <mark key="." line="153" column="66" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/rules/TemporaryFolder.java" timestamp="1561565485656" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/WirtgenOmFunction.java" timestamp="1560945933400">
         <mark key="'" line="139" column="24" />
@@ -154,7 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="309" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/sap/conn/jco/tm/JcoSapManager.java" />
       <jump line="319" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/sap/conn/jco/tm/JcoSapManager.java" />
       <jump line="96" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/sap/conn/jco/tm/JcoSapManager.java" />
       <jump line="120" column="50" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/sap/conn/jco/tm/JcoSapManager.java" />
@@ -254,58 +259,59 @@
       <jump line="52" column="34" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/test/hkg/utils/FolderCheckerTest.java" />
       <jump line="111" column="41" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" />
       <jump line="163" column="37" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" />
+      <jump line="93" column="32" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhbGxQbG1Eb2NzXD4=</text>
+        <text encoding="base64">XDxlY3RyUm9vdEZvbGRlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGVtcEZvbGRlciA9IHRlc3RGb2xkZXIubmV3Rm9sZGVyKCJ0ZW1wIik7Cg==</text>
+        <text encoding="base64">ICAgIFByZWZlcmVuY2VzLnNldFZhbHVlKCJzeXN0ZW0udHJhY2UuY29udmVyc2lvblNlcnZlciIsIHRydWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGYxLmNyZWF0ZU5ld0ZpbGUoKTsK</text>
+        <text encoding="base64">ICAgIEhrZ1Byb2Nlc3NFeHBvcnRPcmlnaW5hbHMgcHJvYyA9IG5ldyBIa2dQcm9jZXNzRXhwb3J0T3JpZ2luYWxzKG51bGwpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEZpbGUgZjEgPSBuZXcgRmlsZSh0ZW1wRm9sZGVyLCBjb2kuYWRkRGlyLCBjb2kubWFzdGVyRmlsZU5hbWUpOwo=</text>
+        <text encoding="base64">ICAgIGhrZ1Byb2Nlc3NFeHBvcnRPcmlnaW5hbHMgPSBuZXcgSGtnUHJvY2Vzc0V4cG9ydE9yaWdpbmFscygpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzdGF0aWMgRmlsZSBmZXhwb3J0RGlyOwo=</text>
+        <text encoding="base64">ICAgIGhrZ1Byb2Nlc3NFeHBvcnRPcmlnaW5hbHMgPSBuZXcgSGtnUHJvY2Vzc0V4cG9ydE9yaWdpbmFscygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzdGF0aWMgRmlsZSBmdGVtcERpcjsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIFBsbURvY3VtZW50IG1vY2tGb2xkZXIgPSBNb2NraXRvLm1vY2soUGxtRG9jdW1lbnQuY2xhc3MpOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZnRlbXBEaXIgPSBuZXcgRmlsZShTeXN0ZW0uZ2V0ZW52KCJURU1QIikpOwo=</text>
+        <text encoding="base64">ICAgIGNyZWF0ZUZpbGUoY29pKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRlbXBGb2xkZXIgPSB0ZXN0Rm9sZGVyLm5ld0ZvbGRlcigidGVtcCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBoa2cudXRpbHMuRm9sZGVyQ2hlY2tlclRlc3QudGVzdEZvbGRlcjsK</text>
+        <text encoding="base64">ICAgIGYxLmNyZWF0ZU5ld0ZpbGUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>331</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhbGxQbG1Eb2NzXD4=</last-search>
+      <last-search encoding="base64">XDxlY3RyUm9vdEZvbGRlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhbGxQbG1Eb2NzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxlY3RyUm9vdEZvbGRlclw+</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -313,7 +319,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuZXdEVHlwZVw+</entry>
         <entry encoding="base64">XDxuY01vZGVsTmV3XD4=</entry>
         <entry encoding="base64">XDxjYXNlQlw+</entry>
         <entry encoding="base64">XDxkb2NwcnRQcmVzZWxlY3RcPg==</entry>
@@ -333,6 +338,7 @@
         <entry encoding="base64">XDxzYXBQYXJhbXNcPg==</entry>
         <entry encoding="base64">XDx2U2FwUGFyYW1zXD4=</entry>
         <entry encoding="base64">XDxhbGxQbG1Eb2NzXD4=</entry>
+        <entry encoding="base64">XDxlY3RyUm9vdEZvbGRlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>191</entry>
