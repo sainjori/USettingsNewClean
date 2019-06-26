@@ -13,7 +13,7 @@
         <mark key="." line="24" column="13" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/behr/branches/ECTR-43/src/test/java/behr/dadi/DadiCGRAfterSessionUpdateTest.java" timestamp="1561551200698" />
-      <file name="/a.dummy" timestamp="1560523076356">
+      <file name="/a.dummy" timestamp="1561554568333">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/Resources/META-INF/services/cadagent.gui.obr.ObrFunctionManagerInterface" timestamp="1560874478530">
@@ -22,29 +22,29 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/default.txt" timestamp="1561551990429">
-        <mark key="[" line="2644" column="0" />
-        <mark key="]" line="2644" column="0" />
-        <mark key="^" line="2644" column="0" />
-        <mark key="." line="2644" column="0" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/default.txt" timestamp="1561552103645">
+        <mark key="[" line="2642" column="0" />
+        <mark key="]" line="2642" column="0" />
+        <mark key="^" line="2642" column="0" />
+        <mark key="." line="2642" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" timestamp="1561546242172">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" timestamp="1561554266844">
         <mark key="'" line="456" column="42" />
-        <mark key="[" line="482" column="54" />
-        <mark key="]" line="482" column="54" />
-        <mark key="^" line="482" column="54" />
-        <mark key="." line="482" column="54" />
+        <mark key="[" line="479" column="112" />
+        <mark key="]" line="479" column="118" />
+        <mark key="^" line="479" column="118" />
+        <mark key="." line="479" column="118" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/test/hkg/proc/HkgProcessExportOriginalsTest.java" timestamp="1561551648429">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/utils/FolderChecker.java" timestamp="1561544538959">
-        <mark key="[" line="24" column="9" />
-        <mark key="]" line="24" column="14" />
-        <mark key="^" line="24" column="14" />
-        <mark key="." line="24" column="14" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/utils/FolderChecker.java" timestamp="1561555366388">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="51" column="6" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/sapbase/java/src/cadagent/sap/Lma.java" timestamp="1561391031486">
         <mark key="'" line="356" column="6" />
@@ -64,7 +64,7 @@
         <mark key="]" line="404" column="32" />
         <mark key="." line="404" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561552006064">
+      <file name="/Dummy.txt" timestamp="1561555486527">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.2/customize/config/menu.guidef" timestamp="1560946330312">
@@ -239,11 +239,11 @@
       <jump line="456" column="42" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>getNewName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2U2FwUGFyYW1zXD4=</text>
@@ -252,34 +252,34 @@
         <text encoding="base64">ICAgICAgPFhGT1JNQVQgb3V0cHV0Rm9ybWF0PSJ7MH1fezF9X3syfV97M31fezR9Ij4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICBzdWJQYXRoID0gdmFsaWRhdGVOZXdOYW1lKHN1YlBhdGgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFByZWZlcmVuY2VzLgo=</text>
+        <text encoding="base64">ICAgICBlbHNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFzCg==</text>
+        <text encoding="base64">ICAgICAgIHJldHVybiBwYXRoLnRvU3RyaW5nKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEhrZ1Byb2Nlc3NFeHBvcnRPcmlnaW5hbHMgaGtnUHJvY2Vzc0V4cG9ydE9yaWdpbmFsczsK</text>
+        <text encoding="base64">ICAgICBpZiAoaXNDb3VudGVyU3RyaW5nKHBhdGgudG9TdHJpbmcoKSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEhrZ1Byb2Nlc3NFeHBvcnRPcmlnaW5hbHMgaGtnUHJvY2Vzc0V4cG9ydE9yaWdpbmFscyA9IG5ldyBIa2dQcm9jZXNzRXhwb3J0T3JpZ2luYWxzKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZ1tdIHNwbGl0ID0gc3ViUGF0aC5zcGxpdChyZWdleCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyByZWdleCA9ICJcXCIgKyBGaWxlLnNlcGFyYXRvcjsK</text>
       </register>
       <register name=":" type="4">
         <text>331</text>
