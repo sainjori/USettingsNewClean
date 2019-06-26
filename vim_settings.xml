@@ -41,18 +41,19 @@
         <mark key="^" line="52" column="16" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" timestamp="1561557164604">
-        <mark key="'" line="456" column="42" />
-        <mark key="[" line="479" column="112" />
-        <mark key="]" line="479" column="118" />
-        <mark key="^" line="479" column="118" />
-        <mark key="." line="479" column="118" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" timestamp="1561561646176">
+        <mark key="'" line="163" column="37" />
+        <mark key="[" line="411" column="0" />
+        <mark key="]" line="411" column="0" />
+        <mark key="^" line="127" column="35" />
+        <mark key="." line="411" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/test/hkg/proc/HkgProcessExportOriginalsTest.java" timestamp="1561559020582">
-        <mark key="[" line="36" column="51" />
-        <mark key="]" line="36" column="67" />
-        <mark key="." line="36" column="67" />
-        <mark key="^" line="36" column="67" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.3/sapbase-5.1.13.3-sources.jar!/cadagent/objmod/PlmDocumentContainer.java" timestamp="1561561305922" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/test/hkg/proc/HkgProcessExportOriginalsTest.java" timestamp="1561561728124">
+        <mark key="[" line="42" column="45" />
+        <mark key="]" line="42" column="45" />
+        <mark key="." line="42" column="45" />
+        <mark key="^" line="43" column="50" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/utils/FolderChecker.java" timestamp="1561557928459">
         <mark key="[" line="57" column="0" />
@@ -152,8 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="282" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/sap/conn/jco/tm/JcoSapManager.java" />
-      <jump line="283" column="51" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/sap/conn/jco/tm/JcoSapManager.java" />
       <jump line="309" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/sap/conn/jco/tm/JcoSapManager.java" />
       <jump line="319" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/sap/conn/jco/tm/JcoSapManager.java" />
       <jump line="96" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.1/sapbase-5.1.13.1-sources.jar!/cadagent/sap/conn/jco/tm/JcoSapManager.java" />
@@ -252,58 +251,60 @@
       <jump line="428" column="59" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" />
       <jump line="456" column="42" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" />
       <jump line="52" column="34" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/test/hkg/utils/FolderCheckerTest.java" />
+      <jump line="111" column="41" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" />
+      <jump line="163" column="37" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>checkoutResult</text>
+        <text>L</text>
       </register>
       <register name="-" type="4">
-        <text>checkoutResult</text>
+        <text>L</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2U2FwUGFyYW1zXD4=</text>
+        <text encoding="base64">XDxhbGxQbG1Eb2NzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBzID0gIkM6XFxVc2Vyc1xcYnlhXFxEb2N1bWVudHNcXE5ldWVyIE9yZG5lciAoOClcXHRlc3RcXHBmZDFfMS5wZGYiOwo=</text>
+        <text encoding="base64">ICAgIHdoZW4obW9jay5nZXRTYXBLZXkoKSkudGhlblJldHVybigiUERGMDAwMDAwMDAwMDAwMDAwMTAwMDAyMjE2NzAwMDAwIik7CiAgICB3aGVuKG1vY2suZ2V0VGFibGVUeXBlKCkpLnRoZW5SZXR1cm4oIkRSQVciKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEFycmF5TGlzdDxDaGVja291dEluZm8+IGNoZWNrb3V0UmVzdWx0ID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICBDaGVja291dEluZm8gY2hlY2tvdXRJbmZvID0gbmV3IENoZWNrb3V0SW5mbygpOwo=</text>
+        <text encoding="base64">ICAgIG1vY2suCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigidGVzdF9jbGVhck9sZEVudHJpZXMoKS4uLiIpOwo=</text>
+        <text encoding="base64">ICAgIFBsbUFjY2VzcyBwbG1BY2Nlc3MgPSBuZXcgUGxtQWNjZXNzKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5qdW5pdDwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+anVuaXQ8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjQuMTI8L3ZlcnNpb24+CiAgICAgIDxzY29wZT50ZXN0PC9zY29wZT4KICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgIGNvaS5tYXN0ZXJTYXBLZXkgPSAiUERGMDAwMDAwMDAwMDAwMDAwMTAwMDAyMjE2NzAwMDAwIjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZpbGVDaGVja2VyLgo=</text>
+        <text encoding="base64">ICB2b2lkIGhhbmRsZUZldGNoZWRGaWxlc1Rlc3QoTGlzdDxDaGVja291dEluZm8+IGNoZWNrb3V0UmVzdWx0LCApIHRocm93cyBEZWZhdWx0TG9nRXhjZXB0aW9uCiAgewoKCiAgfQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGJvb2xlYW4gY291bnRlclN0cmluZyA9IGZpbGVDaGVja2VyLmlzQ291bnRlclN0cmluZyhzKTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIC8vIEZvciBlYWNoIGNvaS1vYmosIG5vdGUgdGhhdCB0aGlzIGlzIG5vdCBlYWNoIGZpbGUgaW50byBmb2xkZXIgSU5fRVhUUkFDVF9GT0xERVJfUEFUSF9QQ1xUTVBfRk9MX05BTUUKICAgIC8vIEEgY29pLW9iaiBjYW4gY29udGFpbiBtb3JlIGFzIG9uZSBmaWxlLgogICAgZm9yIChDaGVja291dEluZm8gY29pIDogY2hlY2tvdXRSZXN1bHQpCiAgICB7CiAgICAgIFBsbURvY3VtZW50IHBkZkpwZ1RpZmZEb2MgPSBhbGxQbG1Eb2NzLmdldERvY3VtZW50KGNvaS5nZXRTYXBLZXkoKSk7CgogICAgICAvLyB0aGUgc2FtZSBkb2N1bWVudCBjb3VsZCBiZSBpbiBtYW55IGZvbGRlcnMgLiAuIC4gQ2hlY2sgdGhhdCEKICAgICAgTGlzdDxTdHJpbmc+IGxpc3RGb2xkZXJQYXRoSGFzVGhlSXRlbSA9IGRvY0ZvbGRlck1hcC5nZXQocGRmSnBnVGlmZkRvYyk7CgogICAgICBmb3IgKFN0cmluZyBwYXRoV2hlcmVBc1NhcEtleSA6IGxpc3RGb2xkZXJQYXRoSGFzVGhlSXRlbSkKICAgICAgewogICAgICAgIFN0cmluZyBkaXJMYW5ndWFnZVBhdGggPSBleHRyYWN0Rm9sZGVyUGF0aE9uUEMgKyBGaWxlLnNlcGFyYXRvciArIGNyZWF0ZUxhbmd1YWdlUGF0aEZyb21TYXBLZXlzKHBhdGhXaGVyZUFzU2FwS2V5KTsKICAgICAgICAvLyBkZXRlcm1pbmUgd2hpY2ggZmlsZXMgZnJvbSBJTl9FWFRSQUNUX0ZPTERFUl9QQVRIX1BDXFRNUF9GT0xfTkFNRSB3aWxsIGJlIGNvcGllZCB0byB0aGUgY29ycmVzcG9uZGluZyBsYW5ndWFnZSBmb2xkZXIKICAgICAgICAvLyBmb3ItbG9vcCBmb3IgYWxsIFBERiBvcmlnaW5hbHMgLiAuIC4KCiAgICAgICAgaW50IGkgPSAwOwogICAgICAgIGZvciAoTWFwLkVudHJ5PFN0cmluZywgU3RyaW5nPiBlbnRyeSA6IGNvaS5obUFsbEZpbGVzLmVudHJ5U2V0KCkpCiAgICAgICAgewogICAgICAgICAgU3RyaW5nIHNvdXJjZUZpbGVOYW1lID0gZW50cnkuZ2V0S2V5KCk7CiAgICAgICAgICBTdHJpbmcgc291cmNlRmlsZUV4dGVuc2lvbiA9IGdldEZpbGVFeHRlbnNpb24oc291cmNlRmlsZU5hbWUpOwogICAgICAgICAgU3RyaW5nIHNvdXJjZUZpbGVQYXRoID0gdG1wRm9sZGVyUGF0aCArIEZpbGUuc2VwYXJhdG9yICsgY29pLmFkZERpciArIEZpbGUuc2VwYXJhdG9yICsgc291cmNlRmlsZU5hbWU7CgogICAgICAgICAgU3RyaW5nIGRlc3RGaWxlUGF0aCA9IGRpckxhbmd1YWdlUGF0aCArIEZpbGUuc2VwYXJhdG9yICsgZ2V0RGVzdEZpbGVOYW1lKHBkZkpwZ1RpZmZEb2MsIGksIHNvdXJjZUZpbGVFeHRlbnNpb24pOwoKICAgICAgICAgIGRlc3RGaWxlUGF0aCA9IG5ldyBGb2xkZXJDaGVja2VyKGRlc3RGaWxlUGF0aCkuZ2V0TmV3TmFtZUlmRXhpc3RzQ291bnRVcCgpOwoKICAgICAgICAgIGNvcHlGaWxlKHNvdXJjZUZpbGVQYXRoLCBkZXN0RmlsZVBhdGgpOwogICAgICAgICAgaSsrOwoKICAgICAgICB9IC8vIGZvci1sb29wIGZvciBQREZzCgogICAgICB9IC8vIGZvci1sb29wIGZvciBESVNzIGluIG1hbnkgZm9sZGVycwoKICAgIH0gLy8gZm9yLWxvb3AgZm9yIENPSXM=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEZpbGVDaGVja2VyIGZpbGVDaGVja2VyID0gbmV3IEZpbGVDaGVja2VyKHMpOwo=</text>
+        <text encoding="base64">ICAgIGhrZ1Byb2Nlc3NFeHBvcnRPcmlnaW5hbHMuYWRkRG9jdW1lbnQoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0gCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIEFycmF5TGlzdDxDaGVja291dEluZm8+IGNoZWNrb3V0UmVzdWx0ID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICBDaGVja291dEluZm8gY2hlY2tvdXRJbmZvID0gbmV3IENoZWNrb3V0SW5mbygpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCB0ZWFyRG93bkFmdGVyQ2xhc3MoKSB0aHJvd3MgRXhjZXB0aW9uCg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigidGVzdF9jbGVhck9sZEVudHJpZXMoKS4uLiIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>331</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2U2FwUGFyYW1zXD4=</last-search>
+      <last-search encoding="base64">XDxhbGxQbG1Eb2NzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2U2FwUGFyYW1zXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhbGxQbG1Eb2NzXD4=</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -311,7 +312,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoaWRkZW5Eb2N1bWVudFNhcGtleXNcPg==</entry>
         <entry encoding="base64">XDxuZXdEVHlwZVw+</entry>
         <entry encoding="base64">XDxuY01vZGVsTmV3XD4=</entry>
         <entry encoding="base64">XDxjYXNlQlw+</entry>
@@ -331,6 +331,7 @@
         <entry encoding="base64">XDxtZXRhSW5mRmlsZW5hbWVcPg==</entry>
         <entry encoding="base64">XDxzYXBQYXJhbXNcPg==</entry>
         <entry encoding="base64">XDx2U2FwUGFyYW1zXD4=</entry>
+        <entry encoding="base64">XDxhbGxQbG1Eb2NzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>191</entry>
