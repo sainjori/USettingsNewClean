@@ -74,12 +74,12 @@
         <mark key="^" line="51" column="6" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/sapbase/java/src/cadagent/sap/Lma.java" timestamp="1561647787733">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/sapbase/java/src/cadagent/sap/Lma.java" timestamp="1561649048389">
         <mark key="'" line="356" column="6" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="^" line="133" column="8" />
-        <mark key="." line="133" column="0" />
+        <mark key="[" line="132" column="18" />
+        <mark key="]" line="132" column="18" />
+        <mark key="^" line="132" column="18" />
+        <mark key="." line="132" column="18" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/test/src/plm/omf/OmfMatLinkMarkTest.java" timestamp="1561636437466">
         <mark key="'" line="286" column="4" />
@@ -211,11 +211,11 @@
       <jump line="31" column="2" filename="$MAVEN_REPOSITORY$/org/mockito/mockito-core/1.9.5/mockito-core-1.9.5-sources.jar!/org/mockito/runners/MockitoJUnitRunner.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlY3RyUm9vdEZvbGRlclw+</text>
