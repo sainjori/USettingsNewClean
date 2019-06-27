@@ -80,8 +80,11 @@
         <mark key="^" line="126" column="40" />
         <mark key="." line="126" column="40" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/test/src/plm/omf/OmfMatLinkMarkTest.java" timestamp="1561635789208">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/test/src/plm/omf/OmfMatLinkMarkTest.java" timestamp="1561636437466">
         <mark key="'" line="286" column="4" />
+        <mark key="[" line="438" column="0" />
+        <mark key="]" line="438" column="0" />
+        <mark key="." line="438" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/4.3.0-SNAPSHOT/sapbase-4.3.0-20160713.160116-112-sources.jar!/cadagent/proc/PLMProcess.java" timestamp="1561630424109" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.2/customize/config/menu.guidef" timestamp="1560946330312">
@@ -278,8 +281,8 @@
       <jump line="286" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/test/src/plm/omf/OmfMatLinkMarkTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -291,34 +294,34 @@
         <text encoding="base64">ICAgIFByZWZlcmVuY2VzLnNldFZhbHVlKCJwbG0uaGtnLnByb2MuZXhwb3J0Lm9yaWcucmVwbGFjZW1lbnQucmVnZXguZm9sZGVyIiwgIlteYS16QS1aMC05X1xcLlxcLVxcKFxcKV0iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHZhbGlkYXRlTmV3TmFtZSgpCiAgewogICAgU3RyaW5nIHMgPSBoa2dQcm9jZXNzRXhwb3J0T3JpZ2luYWxzLnZhbGlkYXRlTmV3TmFtZSgidGVzdC90ZXN0Iik7CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEhrZ1Byb2Nlc3NFeHBvcnRPcmlnaW5hbHMgcHJvYyA9IG5ldyBIa2dQcm9jZXNzRXhwb3J0T3JpZ2luYWxzKG51bGwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGhrZ1Byb2Nlc3NFeHBvcnRPcmlnaW5hbHMgPSBuZXcgSGtnUHJvY2Vzc0V4cG9ydE9yaWdpbmFscygpOwo=</text>
+        <text encoding="base64">ICAgICAgfTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGhrZ1Byb2Nlc3NFeHBvcnRPcmlnaW5hbHMgPSBuZXcgSGtnUHJvY2Vzc0V4cG9ydE9yaWdpbmFscygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL25vdGhpbmcgdG8gZG8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFBsbURvY3VtZW50IG1vY2tGb2xkZXIgPSBNb2NraXRvLm1vY2soUGxtRG9jdW1lbnQuY2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgfTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZUZpbGUoY29pKTsK</text>
+        <text encoding="base64">ICAgICAgICAvL25vdGhpbmcgdG8gZG8K</text>
       </register>
       <register name=":" type="4">
         <text>331</text>
