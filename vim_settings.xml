@@ -6,7 +6,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/index/trunk/src/main/java/index/proc/IndexProcessExportOriginals.java" timestamp="1561474249759">
         <mark key="'" line="292" column="39" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/extensions/basis/dictionary/de/addon.txt" timestamp="1561652162285" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/extensions/basis/dictionary/de/addon.txt" timestamp="1561658460430" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/behr/branches/ECTR-43/src/test/java/behr/dadi/DadiCGRAfterSessionUpdateTest.java" timestamp="1561630815528" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/sapbase/java/src/cadagent/objmod/PlmObject.java" timestamp="1561646934664" />
       <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/javax/swing/plaf/basic/BasicButtonListener.java" timestamp="1561653405848" />
@@ -28,6 +28,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/sapbase/java/src/cadagent/objmod/PlmDocumentContainer.java" timestamp="1561647173237" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/proc/doc/checkin/PlmProcessDocumentSave.java" timestamp="1561647168785" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/omf/OmfMatLinkMark.java" timestamp="1561640177406" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/base/java/src/cadagent/gui/obr/ObjectManagerGui.java" timestamp="1561658668501" />
       <file name="$MAVEN_REPOSITORY$/org/mockito/mockito-core/1.9.5/mockito-core-1.9.5-sources.jar!/org/mockito/runners/MockitoJUnitRunner.java" timestamp="1561640637198">
         <mark key="'" line="31" column="2" />
       </file>
@@ -35,11 +36,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/test/src/plm/omf/OmfDocCheckoutTest.java" timestamp="1561634061533" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/behr/branches/ECTR-43/pom.xml" timestamp="1561558840299" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/gui/browser/util/tabs/services/PspElementAdditionalBrowsePanelTabBuildService.java" timestamp="1561647743659" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/ProjectSystem/customize/config/menu.guidef" timestamp="1561659154308" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/gui/SortStringFilter.java" timestamp="1561632970773" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/sapbase/java/src/cadagent/objmod/BomItemSortString.java" timestamp="1561633135910" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/test/src/com/dscsag/plm/internal/json/ExtensionInHelperImplTest.java" timestamp="1561631753176" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/gui/browser/util/tabs/services/PsNetworkActivityBrowsePanelTabBuildService.java" timestamp="1561647738432" />
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/basis/dictionary/de/ectr.txt" timestamp="1561652403971" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/basis/dictionary/de/ectr.txt" timestamp="1561658447977" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/test/hkg/utils/FolderCheckerTest.java" timestamp="1561566218582">
         <mark key="'" line="54" column="34" />
         <mark key="[" line="17" column="30" />
@@ -48,6 +50,7 @@
         <mark key="^" line="17" column="30" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/proc/PlmProcessFolderExport.java" timestamp="1561628277330" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/gui/browser/ClhBrowsePanel.java" timestamp="1561659526150" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/test/src/plm/gui/SortStringFilterTest.java" timestamp="1561633029999" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" timestamp="1561573415619">
         <mark key="'" line="93" column="32" />
@@ -72,10 +75,11 @@
         <mark key="." line="132" column="18" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/gui/browser/util/optionspanel/OptionsPanel.java" timestamp="1561652425155" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/base/java/src/cadagent/gui/obr/ObrFunctionToolbarBuilder.java" timestamp="1561653415920">
-        <mark key="'" line="214" column="8" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/base/java/src/cadagent/gui/obr/ObrFunctionToolbarBuilder.java" timestamp="1561659004525">
+        <mark key="'" line="77" column="23" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/4.3.0-SNAPSHOT/sapbase-4.3.0-20160713.160116-112-sources.jar!/cadagent/proc/PLMProcess.java" timestamp="1561630424109" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/ProjectSystem/basis/aux-files/standard_icons.txt" timestamp="1561658565143" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/test/src/plm/proc/doc/checkin/PlmProcessDocumentSaveTest.java" timestamp="1561647019670" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/omf/OmfDocEplanPdfCreate.java" timestamp="1561482533706" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/test/src/plm/proc/doc/create/DocNumberInputValidatorTest.java" timestamp="1561640689465" />
@@ -93,7 +97,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/test/src/plm/gui/TmpFolderDialogTest.java" timestamp="1561633241646" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/base/java/src/cadagent/cfc/gfx/GxToolBar.java" timestamp="1561653174137" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/behr/branches/ECTR-43/src/main/java/behr/dadi/DadiCGRAfterSessionUpdate.java" timestamp="1561630859357" />
-      <file name="/fragment.java" timestamp="1561641977778">
+      <file name="/fragment.java" timestamp="1561659009903">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -101,7 +105,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="16" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.3/sapbase-5.1.13.3-sources.jar!/cadagent/objmod/CheckoutInfo.java" />
       <jump line="116" column="34" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/menu.guidef" />
       <jump line="23" column="38" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/default_index.txt" />
       <jump line="1589" column="63" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/menu.guidef" />
@@ -201,6 +204,7 @@
       <jump line="31" column="2" filename="$MAVEN_REPOSITORY$/org/mockito/mockito-core/1.9.5/mockito-core-1.9.5-sources.jar!/org/mockito/runners/MockitoJUnitRunner.java" />
       <jump line="754" column="47" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/gui/browser/AbstractBrowsePanel.java" />
       <jump line="214" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/base/java/src/cadagent/gui/obr/ObrFunctionToolbarBuilder.java" />
+      <jump line="77" column="23" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/base/java/src/cadagent/gui/obr/ObrFunctionToolbarBuilder.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -210,7 +214,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlY3RyUm9vdEZvbGRlclw+</text>
+        <text encoding="base64">XDxwcmVmS2V5XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFByZWZlcmVuY2VzLnNldFZhbHVlKCJwbG0uaGtnLnByb2MuZXhwb3J0Lm9yaWcucmVwbGFjZW1lbnQucmVnZXguZm9sZGVyIiwgIlteYS16QS1aMC05X1xcLlxcLVxcKFxcKV0iKTsK</text>
@@ -250,9 +254,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlY3RyUm9vdEZvbGRlclw+</last-search>
+      <last-search encoding="base64">XDxwcmVmS2V5XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlY3RyUm9vdEZvbGRlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxwcmVmS2V5XD4=</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -260,7 +264,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuY01vZGVsTmV3XD4=</entry>
         <entry encoding="base64">XDxjYXNlQlw+</entry>
         <entry encoding="base64">XDxkb2NwcnRQcmVzZWxlY3RcPg==</entry>
         <entry encoding="base64">XDwoXD4=</entry>
@@ -280,6 +283,7 @@
         <entry encoding="base64">XDx2U2FwUGFyYW1zXD4=</entry>
         <entry encoding="base64">XDxhbGxQbG1Eb2NzXD4=</entry>
         <entry encoding="base64">XDxlY3RyUm9vdEZvbGRlclw+</entry>
+        <entry encoding="base64">XDxwcmVmS2V5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>191</entry>
