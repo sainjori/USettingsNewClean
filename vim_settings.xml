@@ -27,6 +27,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/omf/OmfFldExportDocs.java" timestamp="1561627524466" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/sapbase/java/src/cadagent/objmod/PlmDocumentContainer.java" timestamp="1561647173237" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/proc/doc/checkin/PlmProcessDocumentSave.java" timestamp="1561647168785" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/gui/browser/StandardBrowsePanel.java" timestamp="1561662653902" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/omf/OmfMatLinkMark.java" timestamp="1561640177406" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/base/java/src/cadagent/gui/obr/ObjectManagerGui.java" timestamp="1561658668501" />
       <file name="$MAVEN_REPOSITORY$/org/mockito/mockito-core/1.9.5/mockito-core-1.9.5-sources.jar!/org/mockito/runners/MockitoJUnitRunner.java" timestamp="1561640637198">
@@ -95,7 +96,8 @@
       <file name="$MAVEN_REPOSITORY$/org/mockito/mockito-core/1.9.5/mockito-core-1.9.5-sources.jar!/org/mockito/ArgumentCaptor.java" timestamp="1561647247500" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/test/src/plm/gui/GuiUtilsTest.java" timestamp="1561631867854" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/test/src/plm/gui/TmpFolderDialogTest.java" timestamp="1561633241646" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/base/java/src/cadagent/cfc/gfx/GxToolBar.java" timestamp="1561653174137" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/base/java/src/cadagent/cfc/gfx/GxToolBar.java" timestamp="1561662182285" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/gui/browser/PsProjectBrowsePanel.java" timestamp="1561662622534" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/behr/branches/ECTR-43/src/main/java/behr/dadi/DadiCGRAfterSessionUpdate.java" timestamp="1561630859357" />
       <file name="/fragment.java" timestamp="1561659009903">
         <mark key="[" line="0" column="0" />
