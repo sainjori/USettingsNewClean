@@ -29,20 +29,25 @@
         <mark key="." line="62" column="28" />
         <mark key="^" line="62" column="28" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/PsProjectBrowsePanel.java" timestamp="1561989635216">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="^" line="84" column="3" />
-        <mark key="." line="85" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/PsPteventBrowserPanel.java" timestamp="1561994473066">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/PsProjectBrowsePanel.java" timestamp="1561994801621">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
+        <mark key="^" line="101" column="88" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/components/PsProjectHeaderPanel.java" timestamp="1561905151577" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/gui/browser/StandardBrowsePanel.java" timestamp="1561973648059" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/brobj/BrObjFactory.java" timestamp="1561735524542" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/sap/Lma.java" timestamp="1561989136413">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/sap/Lma.java" timestamp="1561994728742">
         <mark key="[" line="132" column="13" />
-        <mark key="]" line="132" column="16" />
-        <mark key="." line="132" column="16" />
-        <mark key="^" line="132" column="16" />
+        <mark key="]" line="132" column="17" />
+        <mark key="." line="132" column="17" />
+        <mark key="^" line="132" column="17" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/util/ToolbarConfigurator.java" timestamp="1561981729419">
         <mark key="[" line="61" column="0" />
@@ -59,6 +64,12 @@
         <mark key="[" line="107" column="0" />
         <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/PsMilestoneBrowsePanel.java" timestamp="1561993807082">
+        <mark key="[" line="97" column="3" />
+        <mark key="]" line="104" column="2" />
+        <mark key="^" line="104" column="2" />
+        <mark key="." line="104" column="2" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/gui/obr/ObrFunctionToolbarBuilder.java" timestamp="1561981534998">
         <mark key="'" line="121" column="4" />
@@ -80,24 +91,35 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/sapbase/java/src/cadagent/sap/Lma.java" timestamp="1561727854303" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/ClhBrowsePanel.java" timestamp="1561726995337" />
-      <file name="/Dummy.txt" timestamp="1561989120480">
+      <file name="/Dummy.txt" timestamp="1561993137855">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" timestamp="1561988688029">
-        <mark key="'" line="166" column="4" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="^" line="158" column="51" />
-        <mark key="." line="74" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" timestamp="1561994440559">
+        <mark key="'" line="166" column="26" />
+        <mark key="[" line="767" column="25" />
+        <mark key="]" line="767" column="24" />
+        <mark key="^" line="767" column="24" />
+        <mark key="." line="767" column="24" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/PspBrowsePanel.java" timestamp="1561994850222">
+        <mark key="[" line="310" column="42" />
+        <mark key="]" line="310" column="46" />
+        <mark key="." line="310" column="46" />
+        <mark key="^" line="310" column="46" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsProjectAdd.java" timestamp="1561736376597" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/PsNetworkActivityBrowsePanel.java" timestamp="1561989761023">
-        <mark key="[" line="98" column="52" />
-        <mark key="]" line="351" column="61" />
-        <mark key="^" line="351" column="61" />
-        <mark key="." line="351" column="61" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/PsNetworkActivityBrowsePanel.java" timestamp="1561993037926">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/AbstractBrowsePanel.java" timestamp="1561982759015" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/PsNetworkheaderBrowsePanel.java" timestamp="1561993021119">
+        <mark key="[" line="80" column="3" />
+        <mark key="]" line="87" column="2" />
+        <mark key="^" line="87" column="2" />
+        <mark key="." line="87" column="2" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/omf/OmfHkgExportOriginals.java" timestamp="1561567538596">
         <mark key="[" line="153" column="67" />
         <mark key="]" line="153" column="66" />
@@ -117,7 +139,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/util/BrowsePanelController.java" timestamp="1561985508815">
         <mark key="'" line="98" column="6" />
       </file>
-      <file name="/fragment.java" timestamp="1561986022405">
+      <file name="/fragment.java" timestamp="1561991289298">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -125,8 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="428" column="59" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" />
-      <jump line="456" column="42" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" />
       <jump line="52" column="34" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/test/hkg/utils/FolderCheckerTest.java" />
       <jump line="111" column="41" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" />
       <jump line="163" column="37" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" />
@@ -225,53 +245,56 @@
       <jump line="129" column="18" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="159" column="38" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="167" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="559" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="166" column="26" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE9tZlBzTmV0d29ya0FjdGl2aXR5QWRkCg==</text>
+      <register name="&quot;" type="4">
+        <text>!Lma.check(LicenseMapping.LIC_PS)</text>
       </register>
       <register name="-" type="4">
-        <text>project</text>
+        <text>!Lma.check(LicenseMapping.LIC_PS)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlZGl0QnV0dG9uU2hvd1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gZm5jLnBzLnByb2plY3QuYWRkCg==</text>
+        <text encoding="base64">ICAgIGJyb3dzZVBhbmVsU3RhY2suc2hvd0VkaXRCdXR0b25HcmV5ZWQodHJ1ZSk7IAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE9tZlBzTmV0d29ya0FjdGl2aXR5QWRkCg==</text>
+        <text encoding="base64">ICAgICAgYnJvd3NlUGFuZWxTdGFjay5zaG93RWRpdEJ1dHRvbkdyZXllZCghTG1hLmNoZWNrKExpY2Vuc2VNYXBwaW5nLkxJQ19QUykpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRydWU7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICgoQnJvd3NlUGFuZWxTdGFjaykgaGFuZGxlcikuc2hvd0VkaXRCdXR0b25HcmV5ZWQoKTsK</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGlzRWRpdGFibGUoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJyb3dzZVBhbmVsU3RhY2suc2hvd0VkaXRCdXR0b25HcmV5ZWQoZmFsc2UpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>//  @Override
-//  public boolean isEditable()
-//  {
-//    return Lma.check(LicenseMapping.LIC_PS);
-//  }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHBsbS5ndWkuYnJvd3Nlci51dGlsLkJyb3dzZVBhbmVsRmlsdGVyZmVmZTsK</text>
+      <register name="9" type="4">
+        <text>@Override
+  public boolean isEditable()
+  {
+    browsePanelStack.showEditButtonGreyed(!Lma.check(LicenseMapping.LIC_PS));
+    return true;
+  }</text>
       </register>
       <register name=":" type="4">
         <text>130</text>
