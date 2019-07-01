@@ -6,6 +6,10 @@
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/addons/ProjectSystem/customize/config/menu.guidef" timestamp="1561735193980">
         <mark key="'" line="77" column="61" />
       </file>
+      <file name="/a.dummy" timestamp="1561988127320">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsNetworkActivityAdd.java" timestamp="1561989353742" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/default.txt" timestamp="1561573726467">
         <mark key="[" line="2642" column="0" />
         <mark key="]" line="2642" column="0" />
@@ -25,16 +29,16 @@
         <mark key="." line="62" column="28" />
         <mark key="^" line="62" column="28" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/PsProjectBrowsePanel.java" timestamp="1561986058717">
-        <mark key="[" line="94" column="14" />
-        <mark key="]" line="94" column="14" />
-        <mark key="^" line="94" column="14" />
-        <mark key="." line="94" column="14" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/PsProjectBrowsePanel.java" timestamp="1561989635216">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="^" line="84" column="3" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/components/PsProjectHeaderPanel.java" timestamp="1561905151577" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/gui/browser/StandardBrowsePanel.java" timestamp="1561973648059" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/brobj/BrObjFactory.java" timestamp="1561735524542" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/sap/Lma.java" timestamp="1561985194593">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/sap/Lma.java" timestamp="1561989136413">
         <mark key="[" line="132" column="13" />
         <mark key="]" line="132" column="16" />
         <mark key="." line="132" column="16" />
@@ -51,11 +55,10 @@
         <mark key="]" line="404" column="32" />
         <mark key="." line="404" column="32" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/customize/config/menu.guidef" timestamp="1561735234011">
-        <mark key="[" line="105" column="46" />
-        <mark key="]" line="105" column="59" />
-        <mark key="." line="105" column="59" />
-        <mark key="^" line="105" column="59" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/customize/config/menu.guidef" timestamp="1561989267567">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/gui/obr/ObrFunctionToolbarBuilder.java" timestamp="1561981534998">
         <mark key="'" line="121" column="4" />
@@ -77,17 +80,23 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/sapbase/java/src/cadagent/sap/Lma.java" timestamp="1561727854303" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/ClhBrowsePanel.java" timestamp="1561726995337" />
-      <file name="/Dummy.txt" timestamp="1561985090338">
+      <file name="/Dummy.txt" timestamp="1561989120480">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" timestamp="1561985884093">
-        <mark key="'" line="561" column="6" />
-        <mark key="[" line="780" column="37" />
-        <mark key="]" line="780" column="73" />
-        <mark key="^" line="780" column="73" />
-        <mark key="." line="780" column="73" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" timestamp="1561988688029">
+        <mark key="'" line="166" column="4" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="158" column="51" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsProjectAdd.java" timestamp="1561736376597" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/PsNetworkActivityBrowsePanel.java" timestamp="1561989761023">
+        <mark key="[" line="98" column="52" />
+        <mark key="]" line="351" column="61" />
+        <mark key="^" line="351" column="61" />
+        <mark key="." line="351" column="61" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/AbstractBrowsePanel.java" timestamp="1561982759015" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/omf/OmfHkgExportOriginals.java" timestamp="1561567538596">
         <mark key="[" line="153" column="67" />
@@ -116,46 +125,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="13" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" />
-      <jump line="355" column="26" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/kion/trunk/kion/src/main/java/kion/omf/PlmProcessGenerateViewerData.java" />
-      <jump line="173" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/kion/trunk/kion/src/main/java/kion/omf/OmfConvertJobRunLocal.java" />
-      <jump line="442" column="0" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" />
-      <jump line="221" column="24" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" />
-      <jump line="432" column="23" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" />
-      <jump line="472" column="38" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" />
-      <jump line="429" column="51" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" />
-      <jump line="473" column="149" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" />
-      <jump line="356" column="6" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" />
-      <jump line="839" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.5/plm-5.1.9.5-sources.jar!/plm/sess/ApplPart.java" />
-      <jump line="189" column="29" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.5/plm-5.1.9.5-sources.jar!/plm/sess/ApplPart.java" />
-      <jump line="611" column="26" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.5/plm-5.1.9.5-sources.jar!/plm/sess/ApplPart.java" />
-      <jump line="711" column="102" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.5/plm-5.1.9.5-sources.jar!/plm/sess/ApplPart.java" />
-      <jump line="1386" column="41" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.5/plm-5.1.9.5-sources.jar!/plm/sess/ApplPart.java" />
-      <jump line="198" column="17" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.5/plm-5.1.9.5-sources.jar!/plm/sess/ApplPart.java" />
-      <jump line="298" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.5/plm-5.1.9.5-sources.jar!/plm/sess/ApplPart.java" />
-      <jump line="865" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.5/plm-5.1.9.5-sources.jar!/plm/sess/ApplPart.java" />
-      <jump line="867" column="17" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.5/plm-5.1.9.5-sources.jar!/plm/sess/ApplPart.java" />
-      <jump line="1360" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.5/plm-5.1.9.5-sources.jar!/plm/sess/ApplPart.java" />
-      <jump line="139" column="22" filename="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.9.1/convert-5.1.9.1-sources.jar!/cadagent/sap/ConversionEventData.java" />
-      <jump line="153" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.9.1/convert-5.1.9.1-sources.jar!/cadagent/sap/ConversionEventData.java" />
-      <jump line="357" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.9.1/convert-5.1.9.1-sources.jar!/cadagent/sap/ConversionEventData.java" />
-      <jump line="451" column="17" filename="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.9.1/convert-5.1.9.1-sources.jar!/cadagent/sap/ConversionEventData.java" />
-      <jump line="454" column="22" filename="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.9.1/convert-5.1.9.1-sources.jar!/cadagent/sap/ConversionEventData.java" />
-      <jump line="123" column="43" filename="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.9.1/convert-5.1.9.1-sources.jar!/cadagent/sap/ConversionEventData.java" />
-      <jump line="460" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.9.1/convert-5.1.9.1-sources.jar!/cadagent/sap/ProcessStartConversion.java" />
-      <jump line="731" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.9.1/convert-5.1.9.1-sources.jar!/cadagent/sap/ProcessStartConversion.java" />
-      <jump line="734" column="29" filename="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.9.1/convert-5.1.9.1-sources.jar!/cadagent/sap/ProcessStartConversion.java" />
-      <jump line="1175" column="39" filename="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.9.1/convert-5.1.9.1-sources.jar!/cadagent/sap/ProcessStartConversion.java" />
-      <jump line="1278" column="35" filename="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.9.1/convert-5.1.9.1-sources.jar!/cadagent/sap/ProcessStartConversion.java" />
-      <jump line="2371" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.9.1/convert-5.1.9.1-sources.jar!/cadagent/sap/ProcessStartConversion.java" />
-      <jump line="2374" column="27" filename="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.9.1/convert-5.1.9.1-sources.jar!/cadagent/sap/ProcessStartConversion.java" />
-      <jump line="183" column="25" filename="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.9.1/convert-5.1.9.1-sources.jar!/cadagent/sap/ProcessStartConversion.java" />
-      <jump line="80" column="27" filename="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.9.1/convert-5.1.9.1-sources.jar!/cadagent/sap/ConversionEventData.java" />
-      <jump line="80" column="29" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/WirtgenOmFunction.java" />
-      <jump line="148" column="24" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/omf/WirtgenOmFunction.java" />
-      <jump line="353" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/sapbase/java/src/cadagent/sap/Lma.java" />
-      <jump line="299" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" />
-      <jump line="292" column="39" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/index/trunk/src/main/java/index/proc/IndexProcessExportOriginals.java" />
       <jump line="428" column="59" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" />
       <jump line="456" column="42" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" />
       <jump line="52" column="34" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/test/hkg/utils/FolderCheckerTest.java" />
@@ -189,10 +158,8 @@
       <jump line="701" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="610" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="769" column="29" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
-      <jump line="473" column="5" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="112" column="25" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="470" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
-      <jump line="489" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="548" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="564" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="592" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
@@ -201,7 +168,6 @@
       <jump line="553" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="760" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="761" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
-      <jump line="767" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="771" column="12" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="842" column="34" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="843" column="11" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
@@ -212,41 +178,84 @@
       <jump line="146" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="113" column="25" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="154" column="10" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
-      <jump line="157" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="165" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="480" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="558" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="121" column="20" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="137" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="138" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="379" column="10" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="472" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="473" column="36" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="477" column="14" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="478" column="14" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="484" column="18" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="485" column="17" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="488" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="489" column="21" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="495" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="551" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="555" column="14" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="556" column="14" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="562" column="18" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="563" column="17" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="566" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="567" column="21" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="569" column="36" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="575" column="31" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="674" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="684" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="697" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="698" column="22" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="115" column="25" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="157" column="10" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="160" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="483" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="561" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="778" column="12" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="849" column="34" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="850" column="11" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="114" column="25" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="482" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="560" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="767" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="768" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="774" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="779" column="37" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="129" column="18" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="159" column="38" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="167" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE9tZlBzTmV0d29ya0FjdGl2aXR5QWRkCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>project</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidG5FZGl0XD4=</text>
+        <text encoding="base64">XDxlZGl0QnV0dG9uU2hvd1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICB0Yi5yZW1vdmUoaSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gZm5jLnBzLnByb2plY3QuYWRkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJ0bkVkaXQuc2V0RW5hYmxlZCh0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE9tZlBzTmV0d29ya0FjdGl2aXR5QWRkCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGhhbmRsZXIxLnNldEJ1dHRvbkRpc2FibGVyKCluZXcgQmZlZmVmZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gYWNjZXB0UGFuZWwoU3RyaW5nIGtleSkKICAgIHsKICAgICAgcmV0dXJuIFRhYkJ1aWxkU2VydmljZS5CQVNJQ19EQVRBLmVxdWFsc0lnbm9yZUNhc2Uoa2V5KSB8fCBMbWEuY2hlY2soTGljZW5zZU1hcHBpbmcuTElDX1BTKTsKICAgIH0KICAgIAogIH0pOwo=</text>
+        <text encoding="base64">ICAgICgoQnJvd3NlUGFuZWxTdGFjaykgaGFuZGxlcikuc2hvd0VkaXRCdXR0b25HcmV5ZWQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5ldyBKQnV0dG9uKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdXBlci5pc0VkaXRhYmxlKCk7Cg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -254,20 +263,24 @@
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIENvbXBvbmVudFtdIGNvbXBvbmVudHMgPSBoYW5kbGVyMS5nZXRDb21wb25lbnRzKCk7CiAgICBHeFRvb2xCYXIgdG9vbEJhciA9ICgoR3hUb29sQmFyKSBjb21wb25lbnRzWzBdKTsKICAgIHRvb2xCYXIuCg==</text>
+      <register name="8" type="4">
+        <text>//  @Override
+//  public boolean isEditable()
+//  {
+//    return Lma.check(LicenseMapping.LIC_PS);
+//  }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEJyb3dzZXJIZWxwZXIuCg==</text>
+        <text encoding="base64">aW1wb3J0IHBsbS5ndWkuYnJvd3Nlci51dGlsLkJyb3dzZVBhbmVsRmlsdGVyZmVmZTsK</text>
       </register>
       <register name=":" type="4">
         <text>130</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxidG5FZGl0XD4=</last-search>
+      <last-search encoding="base64">XDxlZGl0QnV0dG9uU2hvd1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidG5FZGl0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxlZGl0QnV0dG9uU2hvd1w+</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -275,8 +288,6 @@
     </search>
     <history>
       <history-search>
-        <entry>documenttypes</entry>
-        <entry encoding="base64">XDxET0NVTUVOVF9XU19BUFBMU1w+</entry>
         <entry encoding="base64">XDxET0NVTUVOVF9UWVBFU1w+</entry>
         <entry encoding="base64">XDx1cGRhdGVTdHJ1Y3R1cmVcPg==</entry>
         <entry encoding="base64">XDxjaGVja2luQWRkaXRpb25hbHNcPg==</entry>
@@ -294,7 +305,9 @@
         <entry encoding="base64">XDxkaXNhYmxlcnNcPg==</entry>
         <entry encoding="base64">XDxidG5OZXh0XD4=</entry>
         <entry encoding="base64">XDxwYW5lbEZpbHRlclw+</entry>
+        <entry encoding="base64">XDx0b29sQmFyXD4=</entry>
         <entry encoding="base64">XDxidG5FZGl0XD4=</entry>
+        <entry encoding="base64">XDxlZGl0QnV0dG9uU2hvd1w+</entry>
       </history-search>
       <history-cmd>
         <entry>460</entry>
