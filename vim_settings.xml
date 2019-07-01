@@ -19,11 +19,17 @@
         <mark key="." line="41" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/PsModulImpl.java" timestamp="1561904058287" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/PsProjectBrowsePanel.java" timestamp="1561985028553">
-        <mark key="[" line="121" column="3" />
-        <mark key="]" line="122" column="15" />
-        <mark key="^" line="122" column="15" />
-        <mark key="." line="122" column="15" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/util/BrowsePanelFilterfefe.java" timestamp="1561985994177">
+        <mark key="[" line="62" column="29" />
+        <mark key="]" line="62" column="28" />
+        <mark key="." line="62" column="28" />
+        <mark key="^" line="62" column="28" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/PsProjectBrowsePanel.java" timestamp="1561986058717">
+        <mark key="[" line="94" column="14" />
+        <mark key="]" line="94" column="14" />
+        <mark key="^" line="94" column="14" />
+        <mark key="." line="94" column="14" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/components/PsProjectHeaderPanel.java" timestamp="1561905151577" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/gui/browser/StandardBrowsePanel.java" timestamp="1561973648059" />
@@ -55,9 +61,6 @@
         <mark key="'" line="121" column="4" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/ProjectSystem/customize/config/menu.guidef" timestamp="1561973608799" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/gui/browser/BrowserHelper.java" timestamp="1561724023248">
-        <mark key="'" line="617" column="8" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/proc/ProcessMilumPSGetDetails.java" timestamp="1561735551214" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm-launcher/src/main/java/com/dscsag/plm/launcher/PlmLauncher.java" timestamp="1561981039006">
         <mark key="[" line="366" column="25" />
@@ -77,12 +80,12 @@
       <file name="/Dummy.txt" timestamp="1561985090338">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" timestamp="1561985266261">
-        <mark key="'" line="157" column="8" />
-        <mark key="[" line="163" column="13" />
-        <mark key="]" line="165" column="26" />
-        <mark key="^" line="165" column="26" />
-        <mark key="." line="165" column="26" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" timestamp="1561985884093">
+        <mark key="'" line="561" column="6" />
+        <mark key="[" line="780" column="37" />
+        <mark key="]" line="780" column="73" />
+        <mark key="^" line="780" column="73" />
+        <mark key="." line="780" column="73" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsProjectAdd.java" timestamp="1561736376597" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/AbstractBrowsePanel.java" timestamp="1561982759015" />
@@ -96,16 +99,16 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/base/java/src/cadagent/cfc/gfx/GxToolBar.java" timestamp="1561724488753" />
       <file name="/pom.xml" timestamp="1561721398963" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/conversionservices/PlmPsProjectToObrConverterService.java" timestamp="1561903722018" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/conversionservices/AbstractBrowsePanelService.java" timestamp="1561904846539">
-        <mark key="'" line="68" column="11" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/gui/browser/PsProjectBrowsePanel.java" timestamp="1561981212260">
         <mark key="[" line="133" column="0" />
         <mark key="]" line="133" column="0" />
         <mark key="." line="133" column="0" />
         <mark key="^" line="133" column="9" />
       </file>
-      <file name="/fragment.java" timestamp="1561984542866">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/util/BrowsePanelController.java" timestamp="1561985508815">
+        <mark key="'" line="98" column="6" />
+      </file>
+      <file name="/fragment.java" timestamp="1561986022405">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -113,14 +116,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="222" column="27" filename="/kion-ectr-patch-effective-pom.xml" />
-      <jump line="99" column="31" filename="$USER_HOME$/.m2/settings.xml" />
-      <jump line="103" column="19" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.8.1/customize/config/default.txt" />
-      <jump line="369" column="2" filename="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.7.1/convert-5.1.7.1-sources.jar!/cadagent/moduls/view/PlmProcessGenerateViewerData.java" />
-      <jump line="94" column="0" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" />
-      <jump line="48" column="51" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/StructureUpdater.java" />
-      <jump line="130" column="57" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" />
-      <jump line="100" column="33" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/StructureUpdater.java" />
       <jump line="132" column="13" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" />
       <jump line="355" column="26" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/kion/trunk/kion/src/main/java/kion/omf/PlmProcessGenerateViewerData.java" />
       <jump line="173" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/kion/trunk/kion/src/main/java/kion/omf/OmfConvertJobRunLocal.java" />
@@ -210,16 +205,24 @@
       <jump line="771" column="12" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="842" column="34" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="843" column="11" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="173" column="39" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/util/BrowsePanelController.java" />
+      <jump line="55" column="28" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/util/BrowsePanelController.java" />
+      <jump line="96" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/util/BrowsePanelController.java" />
+      <jump line="98" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/util/BrowsePanelController.java" />
+      <jump line="146" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="113" column="25" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="154" column="10" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="157" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="165" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="480" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="558" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidG5FZGl0XD4=</text>
@@ -228,34 +231,34 @@
         <text encoding="base64">Ly8gICAgICB0Yi5yZW1vdmUoaSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdXBlci5pc0VkaXRhYmxlKCk7Cg==</text>
+        <text encoding="base64">ICAgIGJ0bkVkaXQuc2V0RW5hYmxlZCh0cnVlKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGhhbmRsZXIxLnNldEJ1dHRvbkRpc2FibGVyKCluZXcgQmZlZmVmZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gYWNjZXB0UGFuZWwoU3RyaW5nIGtleSkKICAgIHsKICAgICAgcmV0dXJuIFRhYkJ1aWxkU2VydmljZS5CQVNJQ19EQVRBLmVxdWFsc0lnbm9yZUNhc2Uoa2V5KSB8fCBMbWEuY2hlY2soTGljZW5zZU1hcHBpbmcuTElDX1BTKTsKICAgIH0KICAgIAogIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIENvbXBvbmVudFtdIGNvbXBvbmVudHMgPSBoYW5kbGVyMS5nZXRDb21wb25lbnRzKCk7CiAgICBHeFRvb2xCYXIgdG9vbEJhciA9ICgoR3hUb29sQmFyKSBjb21wb25lbnRzWzBdKTsKICAgIHRvb2xCYXIuCg==</text>
+        <text encoding="base64">ICAgIG5ldyBKQnV0dG9uKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEJyb3dzZXJIZWxwZXIuCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdXBlci5pc0VkaXRhYmxlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhbmVsQ29udHJvbGxlci5zZXRCdXR0b25EaXNhYmxlcigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIENvbXBvbmVudFtdIGNvbXBvbmVudHMgPSBoYW5kbGVyMS5nZXRDb21wb25lbnRzKCk7CiAgICBHeFRvb2xCYXIgdG9vbEJhciA9ICgoR3hUb29sQmFyKSBjb21wb25lbnRzWzBdKTsKICAgIHRvb2xCYXIuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEJyb3dzZXJIZWxwZXIuCg==</text>
       </register>
       <register name=":" type="4">
         <text>130</text>
@@ -272,7 +275,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZGREaXJcPg==</entry>
         <entry>documenttypes</entry>
         <entry encoding="base64">XDxET0NVTUVOVF9XU19BUFBMU1w+</entry>
         <entry encoding="base64">XDxET0NVTUVOVF9UWVBFU1w+</entry>
@@ -291,6 +293,7 @@
         <entry encoding="base64">XDxzdXBwb3J0ZWRUeXBlc1w+</entry>
         <entry encoding="base64">XDxkaXNhYmxlcnNcPg==</entry>
         <entry encoding="base64">XDxidG5OZXh0XD4=</entry>
+        <entry encoding="base64">XDxwYW5lbEZpbHRlclw+</entry>
         <entry encoding="base64">XDxidG5FZGl0XD4=</entry>
       </history-search>
       <history-cmd>
