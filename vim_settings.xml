@@ -19,16 +19,25 @@
         <mark key="." line="41" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/PsModulImpl.java" timestamp="1561904058287" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/PsProjectBrowsePanel.java" timestamp="1561981548213">
-        <mark key="[" line="100" column="7" />
-        <mark key="]" line="102" column="37" />
-        <mark key="." line="102" column="37" />
-        <mark key="^" line="102" column="37" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/PsProjectBrowsePanel.java" timestamp="1561981604611">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/components/PsProjectHeaderPanel.java" timestamp="1561905151577" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/gui/browser/StandardBrowsePanel.java" timestamp="1561973648059" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/brobj/BrObjFactory.java" timestamp="1561735524542" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/util/ToolbarConfigurator.java" timestamp="1561981729419">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/conversionservices/PlmToObrConverter.java" timestamp="1561735684417" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/attributes-from-sap.xml" timestamp="1561543714848">
+        <mark key="[" line="404" column="32" />
+        <mark key="]" line="404" column="32" />
+        <mark key="." line="404" column="32" />
+      </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/customize/config/menu.guidef" timestamp="1561735234011">
         <mark key="[" line="105" column="46" />
         <mark key="]" line="105" column="59" />
@@ -61,7 +70,11 @@
       <file name="/Dummy.txt" timestamp="1561980805324">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" timestamp="1561983054856">
+        <mark key="'" line="610" column="4" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsProjectAdd.java" timestamp="1561736376597" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/AbstractBrowsePanel.java" timestamp="1561982759015" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/omf/OmfHkgExportOriginals.java" timestamp="1561567538596">
         <mark key="[" line="153" column="67" />
         <mark key="]" line="153" column="66" />
@@ -94,8 +107,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1605" column="55" filename="$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.6.3/mockito-core-2.6.3-sources.jar!/org/mockito/Mockito.java" />
-      <jump line="821" column="51" filename="$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.6.3/mockito-core-2.6.3-sources.jar!/org/mockito/ArgumentMatchers.java" />
       <jump line="88" column="12" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/main/java/addplm/proc/service/PlmServiceFunctionDocCheckin.java" />
       <jump line="106" column="12" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/test/java/plm/modules/wsfunction/addPlmTestClient/TestClient.java" />
       <jump line="107" column="4" filename="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/test/java/plm/modules/wsfunction/addPlmTestClient/TestClient.java" />
@@ -194,10 +205,12 @@
       <jump line="140" column="43" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/gui/obr/ObrFunctionToolbarBuilder.java" />
       <jump line="102" column="76" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/gui/obr/ObrFunctionToolbarBuilder.java" />
       <jump line="121" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/gui/obr/ObrFunctionToolbarBuilder.java" />
+      <jump line="701" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="610" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEJyb3dzZXJIZWxwZXIuCg==</text>
       </register>
       <register name="-" type="4">
         <text>setPanelFilter</text>
@@ -209,34 +222,34 @@
         <text encoding="base64">Ly8gICAgICB0Yi5yZW1vdmUoaSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEJyb3dzZXJIZWxwZXIuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHBhbmVsQ29udHJvbGxlci5zZXRCdXR0b25EaXNhYmxlcigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhbmVsQ29udHJvbGxlci5zZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0cnVlOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGNvbXBvbmVudCBpbnN0YW5jZW9mIEpCdXR0b24pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHBhbmVsQ29udHJvbGxlci5zZXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgewo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB0cnVlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>130</text>
