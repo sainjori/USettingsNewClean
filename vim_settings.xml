@@ -34,31 +34,25 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/PsProjectBrowsePanel.java" timestamp="1562005986046">
-        <mark key="[" line="99" column="49" />
-        <mark key="]" line="99" column="60" />
-        <mark key="." line="99" column="60" />
-        <mark key="^" line="99" column="60" />
-      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/PsProjectBrowsePanel.java" timestamp="1562009798087" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/components/PsProjectHeaderPanel.java" timestamp="1561905151577" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/gui/browser/StandardBrowsePanel.java" timestamp="1561973648059" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/brobj/BrObjFactory.java" timestamp="1561735524542" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/sap/Lma.java" timestamp="1562007941827">
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="0" />
-        <mark key="." line="131" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/util/ToolbarConfigurator.java" timestamp="1561981729419">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/conversionservices/PlmToObrConverter.java" timestamp="1561735684417" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/attributes-from-sap.xml" timestamp="1561543714848">
+        <mark key="[" line="404" column="32" />
+        <mark key="]" line="404" column="32" />
+        <mark key="." line="404" column="32" />
+      </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/customize/config/menu.guidef" timestamp="1561989267567">
         <mark key="[" line="107" column="0" />
         <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/PsMilestoneBrowsePanel.java" timestamp="1562006674310">
-        <mark key="[" line="90" column="59" />
-        <mark key="]" line="90" column="65" />
-        <mark key="^" line="90" column="65" />
-        <mark key="." line="90" column="65" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/gui/obr/ObrFunctionToolbarBuilder.java" timestamp="1561981534998">
         <mark key="'" line="121" column="4" />
@@ -86,28 +80,14 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/sapbase/java/src/cadagent/sap/Lma.java" timestamp="1561727854303" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/ClhBrowsePanel.java" timestamp="1561726995337" />
-      <file name="/Dummy.txt" timestamp="1562008057381">
+      <file name="/Dummy.txt" timestamp="1562010330955">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" timestamp="1562007619852">
-        <mark key="'" line="162" column="10" />
-        <mark key="[" line="168" column="2" />
-        <mark key="]" line="168" column="2" />
-        <mark key="." line="168" column="2" />
-        <mark key="^" line="168" column="1" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/PspBrowsePanel.java" timestamp="1562007516444">
-        <mark key="[" line="308" column="43" />
-        <mark key="]" line="308" column="43" />
-        <mark key="." line="308" column="43" />
-        <mark key="^" line="308" column="43" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsProjectAdd.java" timestamp="1561736376597" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/PsNetworkActivityBrowsePanel.java" timestamp="1562006037735">
-        <mark key="[" line="100" column="128" />
-        <mark key="]" line="101" column="3" />
-        <mark key="^" line="101" column="3" />
-        <mark key="." line="101" column="3" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/PsNetworkActivityBrowsePanel.java" timestamp="1562010278986">
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/AbstractBrowsePanel.java" timestamp="1561982759015" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/PsNetworkheaderBrowsePanel.java" timestamp="1562006015622">
@@ -252,10 +232,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">IHBhbmVsQ29udHJvbGxlci5zZXRQYW5lbGRkRmlsdGVyKGtleSAtPiBUYWJCdWlsZFNlcnZpY2UuQkFTSUNfREFUQS5lcXVhbHNJZ25vcmVDYXNlKGtleSkgfHwgTG1hLmNoZWNrKExpY2Vuc2VNYXBwaW5nLkxJQ19QUykpOw==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxicm93c2VQYW5lbEZpbHRlcmZlZmVcPg==</text>
@@ -264,34 +244,34 @@
         <text encoding="base64">ICAgIGJyb3dzZVBhbmVsU3RhY2suc2hvd0VkaXRCdXR0b25HcmV5ZWQodHJ1ZSk7IAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICBpZiAobW9kdWxlLmVxdWFsc0lnbm9yZUNhc2UoIjgwMjgiKSkKICAgICAgcmV0dXJuIHRydWU7CiAgICBlbHNl</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGJyb3dzZVBhbmVsU3RhY2suc2V0RWRpdEJ1dHRvbkNvbnN1bWVyKG51bGwpOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgQFN1cHByZXNzV2FybmluZ3MgKCJ1bmNoZWNrZWQiKQogIEBPdmVycmlkZQogIHByb3RlY3RlZCBMaXN0PENsYXNzPD8gZXh0ZW5kcyBCcm93c2VQYW5lbENvbXBvbmVudD4+IGdldENvbXBvbmVudENsYXNzZXMoKQogIHsKICAgIExpc3Q8Q2xhc3M8PyBleHRlbmRzIEJyb3dzZVBhbmVsQ29tcG9uZW50Pj4gY29tcG9uZW50Q2xhc3NlcyA9IHN1cGVyLmdldENvbXBvbmVudENsYXNzZXMoKTsKCiAgICBMaXN0PFN0cmluZz4gY3VzdG9tZXJUYWJzID0gUHJlZmVyZW5jZXMuc3RyaW5nTGlzdCgib2JyLm5ldHdvcmsuYWN0aXZpdHkuY3VzdG9tZXIudGFicyIpOwogICAgZm9yIChTdHJpbmcgY2xzIDogY3VzdG9tZXJUYWJzKQogICAgewogICAgICBDbGFzczw/PiBjbHogPSBudWxsOwogICAgICB0cnkKICAgICAgewogICAgICAgIGNseiA9IENsYXNzLmZvck5hbWUoY2xzKTsKICAgICAgfQogICAgICBjYXRjaCAoQ2xhc3NOb3RGb3VuZEV4Y2VwdGlvbiBlKQogICAgICB7CiAgICAgICAgVHJhY2UucHJpbnRsbihUcmFjZS5ERUJVRywgIkNvdWxkIG5vdCBmaW5kIGNsYXNzICIgKyBjbHMpOwogICAgICB9CgogICAgICBpZiAoY2x6ICE9IG51bGwpCiAgICAgICAgY29tcG9uZW50Q2xhc3Nlcy5hZGQoKENsYXNzPD8gZXh0ZW5k</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHBsbS5ndWkuYnJvd3Nlci51dGlsLkJyb3dzZVBhbmVsRmlsdGVyOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICBwYW5lbENvbnRyb2xsZXIuc2V0UGFuZWxGaWx0ZXIobmV3IEJyb3dzZVBhbmVsRmlsdGVyKCkKICAgIHsKCiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgYm9vbGVhbiBhY2NlcHRQYW5lbChTdHJpbmcga2V5KQogICAgICB7CiAgICAgICAgYm9vbGVhbiBpc0JBUyA9IFRhYkJ1aWxkU2VydmljZS5CQVNJQ19EQVRBLmVxdWFsc0lnbm9yZUNhc2Uoa2V5KTsKICAgICAgICByZXR1cm4gaXNCQVMgfHwgTG1hLmNoZWNrKExpY2Vuc2VNYXBwaW5nLkxJQ19QUyk7CiAgICAgIH0KCiAgICB9KTs=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHBsbS5ndWkuYnJvd3Nlci51dGlsLkJyb3dzZVBhbmVsRmlsdGVyZmVmZTsK</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEJyb3dzZVBhbmVsU3RhY2sgYnJvd3NlUGFuZWxTdGFjayA9IChCcm93c2VQYW5lbFN0YWNrKSBoYW5kbGVyOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LmNmYy51dGlsLkNvbnRhaW5lclRvb2w7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJyb3dzZVBhbmVsU3RhY2suc2V0UGFuZWxGaWx0ZXIodGhpczo6YWNjZXB0KTsK</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LmNmYy51dGlsLlN0cmluZ1Rvb2w7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LmNmYy51dGlsLlN0cmluZ1Rvb2w7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LmNmYy51dGlsLkNvbnRhaW5lclRvb2w7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>130</text>
