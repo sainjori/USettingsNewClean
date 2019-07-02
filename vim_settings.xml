@@ -48,6 +48,9 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/gui/obr/ObrFunctionToolbarBuilder.java" timestamp="1561981534998">
+        <mark key="'" line="121" column="4" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/gui/conversionservices/qualitymanagement/AuditQuestionListPanelService.java" timestamp="1562071430827">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="39" />
@@ -64,9 +67,9 @@
         <mark key="." line="60" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/conversionservices/PlmPSNetworkHeaderCreateByURLService.java" timestamp="1562071631085">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="48" />
-        <mark key="." line="49" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="48" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/gui/conversionservices/qualitymanagement/InspectionLotPanelService.java" timestamp="1562071421937">
         <mark key="[" line="48" column="0" />
@@ -109,9 +112,9 @@
         <mark key="." line="58" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/search/PsSearchMaskDefinition.java" timestamp="1562071733592">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/gui/conversionservices/doc/BrTdpDirBrowsePanelService.java" timestamp="1562071450672">
         <mark key="[" line="48" column="0" />
@@ -168,7 +171,7 @@
         <mark key="]" line="55" column="48" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562071770502">
+      <file name="/Dummy.txt" timestamp="1562073636396">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/brobj/BrNotifyContainer.java" timestamp="1562067976184">
@@ -237,9 +240,9 @@
         <mark key="." line="60" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/search/PsWbsSearchMaskDefinition.java" timestamp="1562071745523">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="48" />
-        <mark key="." line="46" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="48" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/gui/conversionservices/qualitymanagement/QualityNotificationPanelService.java" timestamp="1562071423843">
         <mark key="[" line="48" column="0" />
@@ -250,6 +253,9 @@
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="39" />
         <mark key="." line="49" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" timestamp="1562073796758">
+        <mark key="'" line="163" column="10" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/conversionservices/PlmPSMilestoneCreateByURLService.java" timestamp="1562071627330">
         <mark key="[" line="50" column="0" />
@@ -286,15 +292,21 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/util/BrowsePanelController.java" timestamp="1561985508815">
+        <mark key="'" line="98" column="6" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/conversionservices/PlmPSNetworkActivityCreateByURLService.java" timestamp="1562071623693">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="48" />
         <mark key="." line="49" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/addons/ProjectSystem/customize/config/menu.guidef" timestamp="1561735193980">
+        <mark key="'" line="77" column="61" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/search/PsProjectSearchMaskDefinition.java" timestamp="1562071742463">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="48" />
-        <mark key="." line="46" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="48" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/util/tabs/services/PsPteventBrowserPanelTabBuildService.java" timestamp="1562071401494">
         <mark key="[" line="53" column="0" />
@@ -312,9 +324,9 @@
         <mark key="." line="48" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/search/PsNetworkActivitySearchMaskDefinition.java" timestamp="1562071735226">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="48" />
-        <mark key="." line="46" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="48" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/gui/browser/util/tabs/services/AuditQuestionListReplyTabBuildService.java" timestamp="1562071376759">
         <mark key="[" line="53" column="0" />
@@ -373,11 +385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="754" column="47" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/gui/browser/AbstractBrowsePanel.java" />
-      <jump line="214" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/base/java/src/cadagent/gui/obr/ObrFunctionToolbarBuilder.java" />
-      <jump line="77" column="23" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/base/java/src/cadagent/gui/obr/ObrFunctionToolbarBuilder.java" />
-      <jump line="95" column="33" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/gui/browser/BrowserHelper.java" />
-      <jump line="99" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/gui/browser/BrowserHelper.java" />
       <jump line="100" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/gui/browser/BrowserHelper.java" />
       <jump line="101" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/gui/browser/BrowserHelper.java" />
       <jump line="102" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/gui/browser/BrowserHelper.java" />
@@ -472,7 +479,12 @@
       <jump line="789" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="790" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="129" column="35" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
-      <jump line="162" column="10" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="176" column="9" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="795" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="796" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="130" column="35" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="162" column="12" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
+      <jump line="163" column="10" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -482,7 +494,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxicm93c2VQYW5lbEZpbHRlcmZlZmVcPg==</text>
+        <text encoding="base64">XDxlZGl0QnV0dG9uQ29uc3VtZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGJyb3dzZVBhbmVsU3RhY2suc2hvd0VkaXRCdXR0b25HcmV5ZWQodHJ1ZSk7IAo=</text>
@@ -522,9 +534,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxicm93c2VQYW5lbEZpbHRlcmZlZmVcPg==</last-search>
+      <last-search encoding="base64">XDxlZGl0QnV0dG9uQ29uc3VtZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxicm93c2VQYW5lbEZpbHRlcmZlZmVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxlZGl0QnV0dG9uQ29uc3VtZXJcPg==</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -532,7 +544,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGVja2luQWRkaXRpb25hbHNcPg==</entry>
         <entry encoding="base64">XDxQbG1GaWxlXD4=</entry>
         <entry>otto-fuchs</entry>
         <entry encoding="base64">XDxYTUxNRVRBSU5GX05BTUVfRlJPTV9TQVBcPg==</entry>
@@ -552,6 +563,7 @@
         <entry encoding="base64">XDxkaXNhYmxlZEVkaXRCdXR0b25cPg==</entry>
         <entry encoding="base64">XDxidG5FZGl0XD4=</entry>
         <entry encoding="base64">XDxicm93c2VQYW5lbEZpbHRlcmZlZmVcPg==</entry>
+        <entry encoding="base64">XDxlZGl0QnV0dG9uQ29uc3VtZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>460</entry>
