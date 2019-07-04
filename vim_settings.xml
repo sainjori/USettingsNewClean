@@ -108,6 +108,7 @@
         <mark key="^" line="45" column="50" />
         <mark key="." line="45" column="50" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deutz/trunk/src/main/java/deutz/proc/DeutzProcessClassificationSave.java" timestamp="1562249810488" />
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/gui/conversionservices/qualitymanagement/PlmAuditQuestionListCreateByUrlService.java" timestamp="1562068594407" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/PsMilestoneBrowsePanel.java" timestamp="1562178133613">
         <mark key="[" line="76" column="3" />
@@ -138,6 +139,12 @@
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/cadagent/modules/ps/search/QueryWbsGetListService.java" timestamp="1562067910641" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/ClhBrowsePanel.java" timestamp="1561726995337" />
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/gui/conversionservices/qualitymanagement/InspectionLotPanelService.java" timestamp="1562068134680" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deutz/trunk/src/main/java/deutz/proc/DeutzProcessAddComponent.java" timestamp="1562250142673">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="9" column="2" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsProjectAdd.java" timestamp="1561736376597" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/qualitymanagement/brobj/PlmPurchaseRequisitionToObrObjectConverterService.java" timestamp="1562069781982">
         <mark key="[" line="47" column="0" />
@@ -284,11 +291,11 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/target/classes/META-INF/services/plm.modules.ps.gui.conversionservices.BrPSMaterialComponentBrowseUrlService" timestamp="1562080413369" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/qualitymanagement/brobj/PlmInspectionLotToObrObjectConverterService.java" timestamp="1562068793969" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deutz/trunk/src/main/java/deutz/proc/efefe.java" timestamp="1562245355867">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deutz/trunk/src/main/java/deutz/proc/efefe.java" timestamp="1562249769082">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="13" />
         <mark key="^" line="13" column="73" />
-        <mark key="." line="13" column="0" />
+        <mark key="." line="8" column="13" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/target/classes/META-INF/services/plm.modules.ps.gui.conversionservices.PlmPSMaterialComponentCreateByURLService" timestamp="1562080494550" />
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/gui/conversionservices/qualitymanagement/PurchaseRequisitionItemPanelService.java" timestamp="1562068264805" />
@@ -444,10 +451,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">U2FwCg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="-" type="4">
-        <text>Sap</text>
+        <text>ab</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidG5FZGl0XD4=</text>
@@ -456,34 +463,34 @@
         <text encoding="base64">ICAgICAgICAuZmlsdGVyKGUgLT4gZS5nZXRDbGFzcygpLmlzQXNzaWduYWJsZUZyb20oR3hCdXR0b24uY2xhc3MpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U2FwCg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogUHJvY2VzcyB0byB1cGRhdGUgdGhlIGNoYXJhY3RlcmlzdGljcyBvbiBhIHJlbGVhc2VkIChsb2NrZWQpIGRvY3VtZW50cwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICogYmFzZWQgb24gTU9MRVgtMTI1Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">U2FwCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgdm9pZCBjb25maWd1cmVUb29sYmFyKEd4VG9vbEJhciB0YikKICB7CiAgICBzdXBlci5jb25maWd1cmVUb29sYmFyKHRiKTsKICAgIHRvb2xiYXIgPSB0YjsKICB9CgogIEBPdmVycmlkZQogIHB1YmxpYyB2b2lkIHVwZGF0ZURpc3BsYXkoYm9vbGVhbiBlZGl0TW9kZSkKICB7CiAgICBnZXRFZGl0QnV0dG9uKCkKICAgICAgICAuaWZQcmVzZW50KHRoaXM6OmNoZWNrTGljZW5zZSk7CgogICAgc3VwZXIudXBkYXRlRGlzcGxheShlZGl0TW9kZSk7CiAgfQoKICBwcml2YXRlIHZvaWQgY2hlY2tMaWNlbnNlKEFic3RyYWN0QnV0dG9uIGVkaXRCdXR0b24pCiAgewogICAgZWRpdEJ1dHRvbi5zZXRWaXNpYmxlKHRydWUpOwogICAgZWRpdEJ1dHRvbi5zZXRFbmFibGVkKExtYS5jaGVjayhMaWNlbnNlTWFwcGluZy5MSUNfUFMpKTsKCiAgICBpZiAodG9vbHRpcEhhc0xpY2Vuc2UgPT0gbnVsbCkKICAgICAgdG9vbHRpcEhhc0xpY2Vuc2UgPSBlZGl0QnV0dG9uLmdldFRvb2xUaXBUZXh0KCk7CiAgICBlZGl0QnV0dG9uLnNldFRvb2xUaXBUZXh0KExtYS5jaGVjayhMaWNlbnNlTWFwcGluZy5MSUNfUFMpID8gdG9vbHRpcEhhc0xpY2Vuc2UgOgogICAgICAgIERpYy5nZXQoInBsbS5saWMuMDAwMSIsICJObyBsaWNlbnNlIGZvciBtb2R1bGUgJTEgYXZhaWxhYmxlLiIsIExpY2Vuc2VNYXBwaW5nLkxJQ19QUykpOwogIH0=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IHByaXZhdGUgT3B0aW9uYWw8R3hCdXR0b24+IGdldEVkaXRCdXR0b24oKQogIHsKICAgIHJldHVybiBBcnJheXMuc3RyZWFtKHRvb2xiYXIuZ2V0Q29tcG9uZW50cygpKQogICAgICAgIC5maWx0ZXIoZSAtPiBlLmdldENsYXNzKCkuaXNBc3NpZ25hYmxlRnJvbShHeEJ1dHRvbi5jbGFzcykpCiAgICAgICAgLm1hcChHeEJ1dHRvbi5jbGFzczo6Y2FzdCkKICAgICAgICAuZmlsdGVyKGd4QnV0dG9uIC0+IEFycmF5cy5zdHJlYW0oZ3hCdXR0b24uZ2V0QWN0aW9uTGlzdGVuZXJzKCkpCiAgICAgICAgICAgIC5maWx0ZXIoQWJzdHJhY3RBY3Rpb24uY2xhc3M6OmlzSW5zdGFuY2UpCiAgICAgICAgICAgIC5tYXAoQWJzdHJhY3RBY3Rpb24uY2xhc3M6OmNhc3QpCiAgICAgICAgICAgIC5hbnlNYXRjaChlIC0+IGUuZ2V0VmFsdWUoQWN0aW9uLk5BTUUpLmVxdWFscygib2JyLmVkaXQiKSkpCiAgICAgICAgLmZpbmRBbnkoKTsKICB9</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBEaWMuZ2V0KCJwbG0ubGljLjAwMDEiLCAiTm8gbGljZW5zZSBmb3IgbW9kdWxlICUxIGF2YWlsYWJsZSIpKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAuaXNQcmVzZW50KCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgQWN0aW9uTGlzdGVuZXJbXSBhY3Rpb25MaXN0ZW5lcnMgPSBneEJ1dHRvbi5nZXRBY3Rpb25MaXN0ZW5lcnMoKTsKLy8gICAgZm9yIChBY3Rpb25MaXN0ZW5lciBhY3Rpb25MaXN0ZW5lciA6IGFjdGlvbkxpc3RlbmVycykKLy8gICAgewovLyAgICAgIGlmIChhY3Rpb25MaXN0ZW5lciBpbnN0YW5jZW9mIEFic3RyYWN0QWN0aW9uKQovLyAgICAgIHsKLy8gICAgICAgIEFic3RyYWN0QWN0aW9uIGFjdGlvbkxpc3RlbmVyMSA9IChBYnN0cmFjdEFjdGlvbikgYWN0aW9uTGlzdGVuZXI7Ci8vICAgICAgICBPYmplY3QgdmFsdWUgPSBhY3Rpb25MaXN0ZW5lcjEuZ2V0VmFsdWUoQWN0aW9uLk5BTUUpOwovLyAgICAgICAgaWYgKHZhbHVlLmVxdWFscygib2JyLmVkaXQiKSkKLy8gICAgICAgICAgcmV0dXJuIHRydWU7Ci8vICAgICAgfQovLyAgICB9Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
+        <text encoding="base64">ICBEaWMuZ2V0KCJwbG0ubGljLjAwMDEiLCAiTm8gbGljZW5zZSBmb3IgbW9kdWxlICUxIGF2YWlsYWJsZSIpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>130</text>
