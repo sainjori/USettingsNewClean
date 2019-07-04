@@ -187,6 +187,12 @@
         <mark key="^" line="47" column="44" />
         <mark key="." line="47" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deutz/trunk/pom.xml" timestamp="1562243747726">
+        <mark key="[" line="26" column="21" />
+        <mark key="]" line="26" column="28" />
+        <mark key="^" line="26" column="28" />
+        <mark key="." line="26" column="28" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/qualitymanagement/brobj/PlmAuditToObrObjectConverterService.java" timestamp="1562069756879">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -420,10 +426,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>Sap</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>Sap</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidG5FZGl0XD4=</text>
