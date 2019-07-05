@@ -10,6 +10,16 @@
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/resources/META-INF/services/cadagent.gui.obr.ObrFunctionManagerInterface" timestamp="1562067679762" />
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/modules/ps/brobj/BrPSNetworkActivityIconPlaceHolderReplacer.java" timestamp="1562067810563" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.13.3/addons-5.1.13.3-sources.jar!/plm/proc/ug/PlmProcessUgAdvSimulationCreate.java" timestamp="1562256821920" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/conversionservices/AbstractPlmObjectCreateByURLService.java" timestamp="1562081200696">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/conversionservices/BrPSMaterialComponentBrowseUrlService.java" timestamp="1562081167409">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/modules/variantconfiguration/omf/VariantConfigurationOmFunctions.java" timestamp="1562067786326" />
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/gui/conversionservices/acp/AcpBrowsePanelService.java" timestamp="1562068120234" />
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/gui/conversionservices/qualitymanagement/PlmAuditCreateByUrlService.java" timestamp="1562068558457" />
@@ -35,6 +45,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/AbstractBrowsePanel.java" timestamp="1561982759015" />
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/gui/conversionservices/rm/RMBrowseUrlService.java" timestamp="1562068416709" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/brobj/BrObjectLinkContainer.java" timestamp="1562261170594" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/gui/conversionservices/rm/RMBrowseUrlService.java" timestamp="1562071483422">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="37" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/conversionservices/PlmPsProjectToObrConverterService.java" timestamp="1562069817354">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -49,12 +64,21 @@
       </file>
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/gui/conversionservices/qualitymanagement/PurchaseRequisitionPanelService.java" timestamp="1562068244315" />
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/gui/conversionservices/qualitymanagement/PurchaseOrderItemPanelService.java" timestamp="1562068284542" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/gui/browser/util/tabs/services/InspectionLotBrowserPanelTabBuildService.java" timestamp="1562080303444">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="36" />
+        <mark key="." line="62" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/util/MessageService.java" timestamp="1562260685264" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/PsProjectBrowsePanel.java" timestamp="1562333908533">
-        <mark key="[" line="113" column="26" />
-        <mark key="]" line="113" column="29" />
-        <mark key="." line="113" column="29" />
-        <mark key="^" line="113" column="29" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/gui/conversionservices/folder/BomMatcherMaterialContainerPanelService.java" timestamp="1562071416465">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="39" />
+        <mark key="." line="49" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/PsProjectBrowsePanel.java" timestamp="1562334907001">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/components/PsProjectHeaderPanel.java" timestamp="1561905151577" />
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/gui/conversionservices/qualitymanagement/PlmPurchaseOrderItemCreateByUrlService.java" timestamp="1562068672919">
@@ -66,6 +90,11 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/sess/comm/util/SessionUtil.java" timestamp="1562268080915" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deutz/trunk/src/main/java/deutz/proc/DeutzProcessClassificationSave.java" timestamp="1562249810488" />
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/gui/conversionservices/qualitymanagement/PlmAuditQuestionListCreateByUrlService.java" timestamp="1562068594407" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/gui/browser/util/tabs/services/AcpBrowsePanelTabBuildService.java" timestamp="1562071358107">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="36" />
+        <mark key="." line="52" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/gui/conversionservices/folder/BrTdpFolderBrowsePanelService.java" timestamp="1562068323605">
         <mark key="[" line="46" column="13" />
         <mark key="]" line="46" column="13" />
@@ -75,6 +104,11 @@
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/gui/conversionservices/folder/TdpPlmFolderCreateByURLService.java" timestamp="1562068687966" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/sess/XmlData.java" timestamp="1562268229011" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/proc/ProcessMilumPSGetDetails.java" timestamp="1562330463586" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/BrowsePanelFilterfefe.java" timestamp="1562004494181">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/conversionservices/BrPSMilestoneBrowseUrlService.java" timestamp="1562069529264">
         <mark key="[" line="46" column="14" />
         <mark key="]" line="46" column="29" />
@@ -98,6 +132,11 @@
         <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/gui/conversionservices/qualitymanagement/PlmInspectionLotCreateByUrlService.java" timestamp="1562071552254">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="48" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.3/sapbase-5.1.13.3-sources.jar!/cadagent/objmod/PlmBomHeader.java" timestamp="1562259696514" />
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/gui/conversionservices/connectprocess/PlmConnectProcessCreateByURLService.java" timestamp="1562068457405" />
@@ -133,7 +172,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/sapbase/java/src/cadagent/sap/Lma.java" timestamp="1561727854303" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/proc/doc/clone/service/CloneScheduleService.java" timestamp="1562069889098" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/omf/OmfDocOpenFast.java" timestamp="1562269504406" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" timestamp="1562331796054">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" timestamp="1562334738153">
         <mark key="'" line="114" column="25" />
         <mark key="[" line="212" column="2" />
         <mark key="]" line="212" column="7" />
@@ -158,6 +197,11 @@
         <mark key="." line="62" column="28" />
         <mark key="^" line="62" column="28" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/PsPteventBrowserPanel.java" timestamp="1561994473066">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/cadagent/gui/conversionservices/connectprocess/PlmConnectProcessCreateService.java" timestamp="1562068901334" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/gui/LoadOptionComboBox.java" timestamp="1562269277710" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentCreateMaterialBomSingle.java" timestamp="1562253028542" />
@@ -176,6 +220,11 @@
         <mark key="^" line="132" column="17" />
         <mark key="." line="132" column="17" />
       </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/customize/config/menu.guidef" timestamp="1561989267567">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/target/classes/META-INF/services/plm.modules.ps.gui.conversionservices.BrPSMaterialComponentBrowseUrlService" timestamp="1562080413369" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/qualitymanagement/brobj/PlmInspectionLotToObrObjectConverterService.java" timestamp="1562068793969" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deutz/trunk/src/main/java/deutz/proc/efefe.java" timestamp="1562249769082">
@@ -186,15 +235,30 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/target/classes/META-INF/services/plm.modules.ps.gui.conversionservices.PlmPSMaterialComponentCreateByURLService" timestamp="1562080494550" />
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/gui/conversionservices/qualitymanagement/PurchaseRequisitionItemPanelService.java" timestamp="1562068264805" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/gui/browser/util/tabs/services/PurchaseOrderItemLongTextPanel.java" timestamp="1562080365258">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/ProjectSystem/customize/config/menu.guidef" timestamp="1561973608799" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/basis/dictionary/de/ectr.txt" timestamp="1562005686858" />
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/modules/ps/gui/conversionservices/PsProgressTrackingEventBrowsePanelService.java" timestamp="1562068370607" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/conversionservices/PlmPsMaterialComponentToObrConverterService.java" timestamp="1562081219881">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/modules/sapsettings/omf/SapSettingsOmFunctions.java" timestamp="1562067754315" />
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/gui/conversionservices/qualitymanagement/PlmInspectionLotCreateByUrlService.java" timestamp="1562068477637" />
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/gui/conversionservices/qualitymanagement/PlmQualityNotificationCreateByUrlService.java" timestamp="1562068492493" />
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/cadagent/gui/conversionservices/qualitymanagement/PlmQualityNotificationCreateService.java" timestamp="1562068976165" />
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/cadagent/modules/ps/search/QueryProjectGetListService.java" timestamp="1562067898001" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/proc/services/RMRootcontainerService.java" timestamp="1562069930263" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/search/QueryNetworkActivityGetListService.java" timestamp="1562071304991">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="40" />
+        <mark key="." line="50" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/modules/ps/gui/conversionservices/PlmPSProgressTrackingEventCreateByURLService.java" timestamp="1562068726475" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.3/sapbase-5.1.13.3-sources.jar!/cadagent/proc/ProcessObjectGetLinkedDocuments.java" timestamp="1562260986640" />
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/modules/qualitymanagement/omf/QualityManagementOmFunctions.java" timestamp="1562067733727" />
@@ -311,8 +375,8 @@
       <jump line="112" column="20" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/StandardBrowsePanel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>editMode</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgc2V0ZQo=</text>
       </register>
       <register name="-" type="4">
         <text>editMode</text>
@@ -324,34 +388,34 @@
         <text encoding="base64">ICAgIHN1cGVyLnVwZGF0ZURpc3BsYXkoZWRpdE1vZGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc3VwZXIubG9jaygpCg==</text>
+        <text encoding="base64">ICAgICAgc2V0ZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgc3VwZXIubG9jaygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFlZGl0TW9kZSkKICAgICAgICBmb3JjZVVwZGF0ZSgpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc3VwZXIudXBkYXRlRGlzcGxheShmYWxzZSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOwogICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgaWYgKCFlZGl0TW9kZSkKICAgICAgICBmb3JjZVVwZGF0ZSgpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgc3VwZXIudXBkYXRlRGlzcGxheShmYWxzZSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuOwogICAgfQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZm9kCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVsc2UKICAgICAgc3VwZXIudXBkYXRlRGlzcGxheShlZGl0TW9kZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgZm9kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc3VwZXIudXBkYXRlRGlzcGxheShmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgIGVsc2UKICAgICAgc3VwZXIudXBkYXRlRGlzcGxheShlZGl0TW9kZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>130</text>
