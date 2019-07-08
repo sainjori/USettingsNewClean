@@ -15,6 +15,9 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/gui/obr/ObrFunctionToolbarBuilder.java" timestamp="1561981534998">
+        <mark key="'" line="121" column="4" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/conversionservices/BrPSMaterialComponentBrowseUrlService.java" timestamp="1562081167409">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -143,7 +146,7 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="35" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562602340745">
+      <file name="/Dummy.txt" timestamp="1562603503991">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -211,7 +214,13 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsProject.java" timestamp="1561905465707" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/omf/OmfSessionFileAddComponent.java" timestamp="1562269893452" />
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/modules/ps/gui/conversionservices/PsMilestoneBrowsePanelService.java" timestamp="1562068362194" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/util/BrowsePanelController.java" timestamp="1561985508815">
+        <mark key="'" line="98" column="6" />
+      </file>
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/modules/qualitymanagement/brobj/PlmInspectionLotToObrObjectConverterService.java" timestamp="1562068756748" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/addons/ProjectSystem/customize/config/menu.guidef" timestamp="1561735193980">
+        <mark key="'" line="77" column="61" />
+      </file>
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/gui/conversionservices/qualitymanagement/AuditCoreReactionPanelService.java" timestamp="1562068173187" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsNetworkActivityAdd.java" timestamp="1561989353742" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/PsModulImpl.java" timestamp="1561904058287" />
@@ -267,6 +276,9 @@
         <mark key="." line="20" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/modules/sapsettings/omf/SapSettingsOmFunctions.java" timestamp="1562067754315" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" timestamp="1562603791142">
+        <mark key="'" line="415" column="48" />
+      </file>
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/gui/conversionservices/qualitymanagement/PlmInspectionLotCreateByUrlService.java" timestamp="1562068477637" />
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/gui/conversionservices/qualitymanagement/PlmQualityNotificationCreateByUrlService.java" timestamp="1562068492493" />
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/cadagent/gui/conversionservices/qualitymanagement/PlmQualityNotificationCreateService.java" timestamp="1562068976165" />
@@ -280,6 +292,12 @@
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/modules/ps/gui/conversionservices/PlmPSProgressTrackingEventCreateByURLService.java" timestamp="1562068726475" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.3/sapbase-5.1.13.3-sources.jar!/cadagent/proc/ProcessObjectGetLinkedDocuments.java" timestamp="1562260986640" />
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/modules/qualitymanagement/omf/QualityManagementOmFunctions.java" timestamp="1562067733727" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/omf/OmfHkgExportOriginals.java" timestamp="1562603795147">
+        <mark key="[" line="153" column="67" />
+        <mark key="]" line="153" column="66" />
+        <mark key="^" line="153" column="66" />
+        <mark key="." line="153" column="66" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/util/ToolbarUtil.java" timestamp="1562177956852">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -291,7 +309,6 @@
       <file name="/pom.xml" timestamp="1561721398963" />
     </filemarks>
     <jumps>
-      <jump line="553" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="760" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="771" column="12" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="842" column="34" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
@@ -391,6 +408,7 @@
       <jump line="305" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/StandardBrowsePanel.java" />
       <jump line="312" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/StandardBrowsePanel.java" />
       <jump line="112" column="20" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/StandardBrowsePanel.java" />
+      <jump line="415" column="48" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
