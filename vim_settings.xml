@@ -193,7 +193,12 @@
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/gui/conversionservices/doc/BrTdpDirBrowsePanelService.java" timestamp="1562068301246" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/search/project/PsProjectSearchManager.java" timestamp="1561735725627" />
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/gui/conversionservices/qualitymanagement/PlmPurchaseRequisitionItemCreateByUrlService.java" timestamp="1562068625262" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/utils/FolderChecker.java" timestamp="1562605034041" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/utils/FolderChecker.java" timestamp="1562608290992">
+        <mark key="[" line="91" column="89" />
+        <mark key="]" line="91" column="89" />
+        <mark key="." line="91" column="89" />
+        <mark key="^" line="91" column="89" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/sapbase/java/src/cadagent/sap/Lma.java" timestamp="1561727854303" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/proc/doc/clone/service/CloneScheduleService.java" timestamp="1562069889098" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/omf/OmfDocOpenFast.java" timestamp="1562269504406" />
@@ -268,11 +273,12 @@
         <mark key="." line="20" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/modules/sapsettings/omf/SapSettingsOmFunctions.java" timestamp="1562067754315" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" timestamp="1562605280542">
-        <mark key="'" line="136" column="35" />
-        <mark key="[" line="147" column="43" />
-        <mark key="]" line="147" column="43" />
-        <mark key="." line="147" column="43" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" timestamp="1562608345672">
+        <mark key="'" line="137" column="35" />
+        <mark key="[" line="391" column="29" />
+        <mark key="]" line="391" column="40" />
+        <mark key="." line="391" column="40" />
+        <mark key="^" line="391" column="40" />
       </file>
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/gui/conversionservices/qualitymanagement/PlmInspectionLotCreateByUrlService.java" timestamp="1562068477637" />
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/gui/conversionservices/qualitymanagement/PlmQualityNotificationCreateByUrlService.java" timestamp="1562068492493" />
@@ -407,10 +413,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>FolderChecker</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>FolderChecker</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQQVRIX1RPX1RIRV9UTVBfRk9MREVSXD4=</text>
