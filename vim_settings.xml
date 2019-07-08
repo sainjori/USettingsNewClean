@@ -15,9 +15,6 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/gui/obr/ObrFunctionToolbarBuilder.java" timestamp="1561981534998">
-        <mark key="'" line="121" column="4" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/conversionservices/BrPSMaterialComponentBrowseUrlService.java" timestamp="1562081167409">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -196,6 +193,7 @@
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/gui/conversionservices/doc/BrTdpDirBrowsePanelService.java" timestamp="1562068301246" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/search/project/PsProjectSearchManager.java" timestamp="1561735725627" />
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/gui/conversionservices/qualitymanagement/PlmPurchaseRequisitionItemCreateByUrlService.java" timestamp="1562068625262" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/utils/FolderChecker.java" timestamp="1562605034041" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/sapbase/java/src/cadagent/sap/Lma.java" timestamp="1561727854303" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/proc/doc/clone/service/CloneScheduleService.java" timestamp="1562069889098" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/omf/OmfDocOpenFast.java" timestamp="1562269504406" />
@@ -214,13 +212,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsProject.java" timestamp="1561905465707" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/omf/OmfSessionFileAddComponent.java" timestamp="1562269893452" />
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/modules/ps/gui/conversionservices/PsMilestoneBrowsePanelService.java" timestamp="1562068362194" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/util/BrowsePanelController.java" timestamp="1561985508815">
-        <mark key="'" line="98" column="6" />
-      </file>
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/modules/qualitymanagement/brobj/PlmInspectionLotToObrObjectConverterService.java" timestamp="1562068756748" />
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/addons/ProjectSystem/customize/config/menu.guidef" timestamp="1561735193980">
-        <mark key="'" line="77" column="61" />
-      </file>
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/gui/conversionservices/qualitymanagement/AuditCoreReactionPanelService.java" timestamp="1562068173187" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/omf/OmfPsNetworkActivityAdd.java" timestamp="1561989353742" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/PsModulImpl.java" timestamp="1561904058287" />
@@ -276,8 +268,11 @@
         <mark key="." line="20" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/modules/sapsettings/omf/SapSettingsOmFunctions.java" timestamp="1562067754315" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" timestamp="1562603791142">
-        <mark key="'" line="415" column="48" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" timestamp="1562605280542">
+        <mark key="'" line="136" column="35" />
+        <mark key="[" line="147" column="43" />
+        <mark key="]" line="147" column="43" />
+        <mark key="." line="147" column="43" />
       </file>
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/gui/conversionservices/qualitymanagement/PlmInspectionLotCreateByUrlService.java" timestamp="1562068477637" />
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/gui/conversionservices/qualitymanagement/PlmQualityNotificationCreateByUrlService.java" timestamp="1562068492493" />
@@ -292,11 +287,11 @@
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/modules/ps/gui/conversionservices/PlmPSProgressTrackingEventCreateByURLService.java" timestamp="1562068726475" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.13.3/sapbase-5.1.13.3-sources.jar!/cadagent/proc/ProcessObjectGetLinkedDocuments.java" timestamp="1562260986640" />
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/modules/qualitymanagement/omf/QualityManagementOmFunctions.java" timestamp="1562067733727" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/omf/OmfHkgExportOriginals.java" timestamp="1562603795147">
-        <mark key="[" line="153" column="67" />
-        <mark key="]" line="153" column="66" />
-        <mark key="^" line="153" column="66" />
-        <mark key="." line="153" column="66" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/omf/OmfHkgExportOriginals.java" timestamp="1562604939422">
+        <mark key="[" line="138" column="84" />
+        <mark key="]" line="139" column="81" />
+        <mark key="^" line="139" column="81" />
+        <mark key="." line="139" column="81" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/util/ToolbarUtil.java" timestamp="1562177956852">
         <mark key="[" line="11" column="0" />
@@ -309,10 +304,6 @@
       <file name="/pom.xml" timestamp="1561721398963" />
     </filemarks>
     <jumps>
-      <jump line="760" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
-      <jump line="771" column="12" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
-      <jump line="842" column="34" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
-      <jump line="173" column="39" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/util/BrowsePanelController.java" />
       <jump line="55" column="28" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/util/BrowsePanelController.java" />
       <jump line="96" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/util/BrowsePanelController.java" />
       <jump line="98" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/util/BrowsePanelController.java" />
@@ -409,19 +400,23 @@
       <jump line="312" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/StandardBrowsePanel.java" />
       <jump line="112" column="20" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/StandardBrowsePanel.java" />
       <jump line="415" column="48" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" />
+      <jump line="97" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" />
+      <jump line="137" column="45" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" />
+      <jump line="88" column="87" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" />
+      <jump line="136" column="35" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxub1VwZGF0ZVw+</text>
+        <text encoding="base64">XDxQQVRIX1RPX1RIRV9UTVBfRk9MREVSXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN1cGVyLnVwZGF0ZURpc3BsYXkoZWRpdE1vZGUpOwo=</text>
+        <text encoding="base64">ICAgICAgaWYgKGRpci5leGlzdHMoKSAmJiBkaXIuaXNEaXJlY3RvcnkoKSAmJiAhRmlsZVV0aWxzLmRlbGV0ZURpcihkaXIpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -458,9 +453,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxub1VwZGF0ZVw+</last-search>
+      <last-search encoding="base64">XDxQQVRIX1RPX1RIRV9UTVBfRk9MREVSXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxub1VwZGF0ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxQQVRIX1RPX1RIRV9UTVBfRk9MREVSXD4=</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -468,8 +463,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzYXBQYXJhbXNcPg==</entry>
-        <entry encoding="base64">XDx2U2FwUGFyYW1zXD4=</entry>
         <entry encoding="base64">XDxhbGxQbG1Eb2NzXD4=</entry>
         <entry encoding="base64">XDxlY3RyUm9vdEZvbGRlclw+</entry>
         <entry encoding="base64">XDxwcmVmS2V5XD4=</entry>
@@ -488,6 +481,8 @@
         <entry encoding="base64">XDxidG5FZGl0XD4=</entry>
         <entry encoding="base64">XDxpdGVtQ291bnRcPg==</entry>
         <entry encoding="base64">XDxub1VwZGF0ZVw+</entry>
+        <entry encoding="base64">XDx0bXBGb2xkZXJQYXRoXD4=</entry>
+        <entry encoding="base64">XDxQQVRIX1RPX1RIRV9UTVBfRk9MREVSXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>460</entry>
