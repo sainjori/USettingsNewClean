@@ -41,21 +41,25 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" timestamp="1562611438088">
-        <mark key="'" line="463" column="33" />
-        <mark key="[" line="465" column="56" />
-        <mark key="]" line="465" column="64" />
-        <mark key="^" line="465" column="64" />
-        <mark key="." line="465" column="64" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" timestamp="1562695672260">
+        <mark key="'" line="465" column="33" />
+        <mark key="[" line="440" column="27" />
+        <mark key="]" line="442" column="22" />
+        <mark key="." line="442" column="22" />
+        <mark key="^" line="442" column="22" />
       </file>
+      <file name="$USER_HOME$/AppData/Local/Temp/7zO4A83FA19/HkgProcessExportOriginals.class" timestamp="1562693789540" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/gui/conversionservices/folder/BomMatcherMaterialContainerPanelService.java" timestamp="1562071416465">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="39" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/utils/FolderChecker.java" timestamp="1562610780991">
-        <mark key="'" line="85" column="25" />
-        <mark key="^" line="53" column="67" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/utils/FolderChecker.java" timestamp="1562695560543">
+        <mark key="'" line="86" column="25" />
+        <mark key="[" line="86" column="123" />
+        <mark key="]" line="86" column="123" />
+        <mark key="^" line="85" column="21" />
+        <mark key="." line="86" column="123" />
       </file>
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/gui/conversionservices/qualitymanagement/PlmPurchaseOrderItemCreateByUrlService.java" timestamp="1562068672919">
         <mark key="[" line="45" column="50" />
@@ -87,7 +91,7 @@
         <mark key="." line="212" column="7" />
         <mark key="^" line="212" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562692660034">
+      <file name="/Dummy.txt" timestamp="1562695733071">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -114,10 +118,11 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/omf/OmfHkgExportOriginals.java" timestamp="1562609309546">
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/omf/OmfHkgExportOriginals.java" timestamp="1562694267298">
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="143" column="13" />
+        <mark key="." line="143" column="13" />
+        <mark key="^" line="143" column="13" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deutz/trunk/pom.xml" timestamp="1562243747726">
         <mark key="[" line="26" column="21" />
@@ -176,7 +181,7 @@
         <mark key="." line="133" column="0" />
         <mark key="^" line="133" column="9" />
       </file>
-      <file name="/fragment.java" timestamp="1562267850930">
+      <file name="/fragment.java" timestamp="1562694846858">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="14" />
@@ -292,46 +297,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb2xkZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGRpci5leGlzdHMoKSAmJiBkaXIuaXNEaXJlY3RvcnkoKSAmJiAhRmlsZVV0aWxzLmRlbGV0ZURpcihkaXIpKQo=</text>
+        <text encoding="base64">ICAgIHNGID0gbnVsbDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICB0aGlzLnBhdGhXaGVyZUFzU2FwS2V5ID0gcGF0aFdoZXJlQXNTYXBLZXk7Cg==</text>
+        <text encoding="base64">ICAgIHAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbmV3TmFtZUlmRXhpc3RzQ291bnRVcCA9IGZvbGRlckNoZWNrZXIuZ2V0TmV3TmFtZUlmRXhpc3RzQ291bnRVcCgpOwo=</text>
+        <text encoding="base64">ICAgIEZpbGUgZGlyID0gbmV3IEZpbGUoZXh0cmFjdEZvbGRlclBhdGhPblBDKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBGb2xkZXJDaGVja2VyIGZvbGRlckNoZWNrZXIgPSBuZXcgRm9sZGVyQ2hlY2tlcihuZXdFeHBvcnRGb2xkZXIudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICB0aGlzLnBhdGhXaGVyZUFzU2FwS2V5ID0gcGF0aFdoZXJlQXNTYXBLZXk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICBGaWxlIGZpbGUgPSBwYXRoLnRvRmlsZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgbmV3TmFtZUlmRXhpc3RzQ291bnRVcCA9IGZvbGRlckNoZWNrZXIuZ2V0TmV3TmFtZUlmRXhpc3RzQ291bnRVcCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICBTdHJpbmcgd2l0aG91dEV4dGVuc2lvbiA9IEZpbGVVdGlscy5yZW1vdmVFeHRlbnNpb24oZmlsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBGb2xkZXJDaGVja2VyIGZvbGRlckNoZWNrZXIgPSBuZXcgRm9sZGVyQ2hlY2tlcihuZXdFeHBvcnRGb2xkZXIudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICBGaWxlIGZpbGUgPSBwYXRoLnRvRmlsZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICBTdHJpbmcgd2l0aG91dEV4dGVuc2lvbiA9IEZpbGVVdGlscy5yZW1vdmVFeHRlbnNpb24oZmlsZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>130</text>
