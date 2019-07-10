@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/index/trunk/src/main/java/index/proc/IndexProcessExportOriginals.java" timestamp="1562769716135">
+        <mark key="[" line="384" column="0" />
+        <mark key="]" line="384" column="0" />
+        <mark key="." line="384" column="0" />
+        <mark key="^" line="392" column="65" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/conversionservices/PlmPsMaterialComponentToObrConverterService.java" timestamp="1562081219881">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -13,6 +19,12 @@
         <mark key="]" line="48" column="52" />
         <mark key="." line="48" column="14" />
         <mark key="^" line="48" column="19" />
+      </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/default.txt" timestamp="1562769840215">
+        <mark key="[" line="2637" column="0" />
+        <mark key="]" line="2637" column="0" />
+        <mark key="^" line="2636" column="0" />
+        <mark key="." line="2637" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/gui/browser/util/tabs/services/InspectionLotBrowserPanelTabBuildService.java" timestamp="1562080303444">
         <mark key="[" line="62" column="0" />
@@ -41,31 +53,41 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" timestamp="1562763765797">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" timestamp="1562769488292">
         <mark key="'" line="465" column="33" />
-        <mark key="[" line="453" column="0" />
-        <mark key="]" line="453" column="0" />
-        <mark key="." line="453" column="0" />
-        <mark key="^" line="446" column="45" />
+        <mark key="[" line="447" column="27" />
+        <mark key="]" line="447" column="27" />
+        <mark key="." line="447" column="27" />
+        <mark key="^" line="437" column="14" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/index/trunk/src/main/java/index/omf/OmfIndexExportOriginals.java" timestamp="1562768492456" />
       <file name="$USER_HOME$/AppData/Local/Temp/7zO4A83FA19/HkgProcessExportOriginals.class" timestamp="1562693789540" />
+      <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/File.java" timestamp="1562764458192">
+        <mark key="'" line="148" column="16" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/gui/conversionservices/folder/BomMatcherMaterialContainerPanelService.java" timestamp="1562071416465">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="39" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/utils/FolderChecker.java" timestamp="1562695560543">
-        <mark key="'" line="86" column="25" />
-        <mark key="[" line="86" column="123" />
-        <mark key="]" line="86" column="123" />
-        <mark key="^" line="85" column="21" />
-        <mark key="." line="86" column="123" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/utils/FolderChecker.java" timestamp="1562767573447">
+        <mark key="'" line="85" column="25" />
+        <mark key="[" line="92" column="60" />
+        <mark key="]" line="92" column="68" />
+        <mark key="^" line="92" column="68" />
+        <mark key="." line="92" column="68" />
       </file>
       <file name="C:/ENTWICKLUNG/sandbox/ectr-platform22222/modules/addons/src/main/java/plm/gui/conversionservices/qualitymanagement/PlmPurchaseOrderItemCreateByUrlService.java" timestamp="1562068672919">
         <mark key="[" line="45" column="50" />
         <mark key="]" line="45" column="50" />
         <mark key="^" line="45" column="50" />
         <mark key="." line="45" column="50" />
+      </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/default_index.txt" timestamp="1562769832513">
+        <mark key="[" line="2" column="45" />
+        <mark key="]" line="2" column="47" />
+        <mark key="." line="2" column="47" />
+        <mark key="^" line="2" column="47" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/util/fefe.java" timestamp="1562177942916">
         <mark key="[" line="11" column="13" />
@@ -92,7 +114,7 @@
         <mark key="." line="212" column="7" />
         <mark key="^" line="212" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562695733071">
+      <file name="/Dummy.txt" timestamp="1562769408492">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -114,16 +136,23 @@
         <mark key="]" line="50" column="40" />
         <mark key="." line="50" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/menu.guidef" timestamp="1562768653025">
+        <mark key="[" line="104" column="68" />
+        <mark key="]" line="104" column="68" />
+        <mark key="^" line="104" column="68" />
+        <mark key="." line="104" column="68" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/conversionservices/AbstractPlmObjectCreateByURLService.java" timestamp="1562081200696">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/omf/OmfHkgExportOriginals.java" timestamp="1562694267298">
+      <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/nio/file/Files.java" timestamp="1562765478601" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/omf/OmfHkgExportOriginals.java" timestamp="1562767640593">
         <mark key="[" line="142" column="0" />
-        <mark key="]" line="143" column="13" />
-        <mark key="." line="143" column="13" />
-        <mark key="^" line="143" column="13" />
+        <mark key="]" line="142" column="0" />
+        <mark key="." line="142" column="0" />
+        <mark key="^" line="142" column="13" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/deutz/trunk/pom.xml" timestamp="1562243747726">
         <mark key="[" line="26" column="21" />
@@ -182,7 +211,7 @@
         <mark key="." line="133" column="0" />
         <mark key="^" line="133" column="9" />
       </file>
-      <file name="/fragment.java" timestamp="1562694846858">
+      <file name="/fragment.java" timestamp="1562769614664">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="14" />
@@ -195,7 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="480" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="558" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="121" column="20" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
@@ -295,49 +323,97 @@
       <jump line="70" column="43" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/utils/FolderChecker.java" />
       <jump line="83" column="13" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/utils/FolderChecker.java" />
       <jump line="85" column="25" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/utils/FolderChecker.java" />
+      <jump line="148" column="16" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/File.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRGID0gbnVsbDsK</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>backupExtension</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb2xkZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNGID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gZm5jLmluZGV4LmV4cG9ydC5vcmlnaW5hbHMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRGID0gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNGID0gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcGFyZW50RGlyID0gbnVsbDsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgRmlsZVV0aWxzLmNvcHlPck1vdmVEaXJlY3Rvcnkoc0YudG9QYXRoKCksZEYudG9QYXRoKCksKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEZpbGUgZGlyID0gbmV3IEZpbGUoZXh0cmFjdEZvbGRlclBhdGhPblBDKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIEZpbGVVdGlscy5jb3B5T3JNb3ZlRGlyZWN0b3J5KAogICAgICAgICAgICAgIHNGLAogICAgICAgICAgICAgIGRGLCBudWxsLCBmYWxzZSwgZmFsc2UsIG51bGwsCiAgICAgICAgICAgICAgU3RhbmRhcmRDb3B5T3B0aW9uLlJFUExBQ0VfRVhJU1RJTkcpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigidGVzdCIpOwo=</text>
+      </register>
+      <register name="6" type="4">
+        <text>FileChannel source = null;
+    FileChannel destination = null;
+    try
+    {
+      if (!new File(destFilePath).exists())
+      {
+        Path parentDirPath = Paths.get(destFilePath).getParent();
+        if (!Files.exists(parentDirPath))
+          Files.createDirectories(parentDirPath);
+        Files.createFile(Paths.get(destFilePath));
+      }
+//        new File(destFilePath).createNewFile();
+      source = new FileInputStream(new File(sourceFilePath)).getChannel();
+      destination = new FileOutputStream(new File(destFilePath)).getChannel();
+
+      destination.transferFrom(source, 0, source.size());
+    }
+    catch (IOException e)
+    {
+      e.printStackTrace();
+    }
+    finally
+    {
+
+      if (source != null)
+      {
+        try
+        {
+          source.close();
+        }
+        catch (IOException e)
+        {
+          e.printStackTrace();
+        }
+      }
+
+      if (destination != null)
+      {
+        try
+        {
+          destination.close();
+        }
+        catch (IOException e)
+        {
+          e.printStackTrace();
+        }
+      }
+    }</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEZpbGVzLmNvcHkoKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICB0aGlzLnBhdGhXaGVyZUFzU2FwS2V5ID0gcGF0aFdoZXJlQXNTYXBLZXk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbmV3TmFtZUlmRXhpc3RzQ291bnRVcCA9IGZvbGRlckNoZWNrZXIuZ2V0TmV3TmFtZUlmRXhpc3RzQ291bnRVcCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name=":" type="4">
         <text>130</text>
