@@ -13,8 +13,8 @@
       <file name="/a.dummy" timestamp="1562784176232">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/default.txt" timestamp="1562854970814">
-        <mark key="'" line="1766" column="0" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/default.txt" timestamp="1562864683795">
+        <mark key="'" line="2845" column="40" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/index/trunk/src/main/java/index/omf/OmfIndexExportOriginals.java" timestamp="1562768492456" />
       <file name="$USER_HOME$/AppData/Local/Temp/7zO4A83FA19/HkgProcessExportOriginals.class" timestamp="1562693789540" />
@@ -76,8 +76,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="558" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
-      <jump line="121" column="20" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="137" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="138" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="379" column="10" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
@@ -176,6 +174,8 @@
       <jump line="85" column="25" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/utils/FolderChecker.java" />
       <jump line="148" column="16" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/File.java" />
       <jump line="1766" column="0" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/default.txt" />
+      <jump line="101" column="15" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/default.txt" />
+      <jump line="2845" column="40" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/default.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
