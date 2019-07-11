@@ -31,17 +31,17 @@
         <mark key="." line="2" column="47" />
         <mark key="^" line="2" column="47" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.3/base-5.1.13.3-sources.jar!/cadagent/cfc/util/FileUtils.java" timestamp="1562859536191" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/utils/configtransmitter/proc/PlmProcessReadConfigAll.java" timestamp="1562763649524" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.5/sapbase-5.1.9.5-sources.jar!/cadagent/objmod/PlmFile.java" timestamp="1562784753572" />
       <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/nio/file/Files.java" timestamp="1562782724119" />
       <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/test/java/plm/modules/wsfunction/PlmServiceFunctions.java" timestamp="1562782949544" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.5/plm-5.1.9.5-sources.jar!/plm/utils/PlmDocumentUtils.java" timestamp="1562784772118" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" timestamp="1562855284253">
-        <mark key="'" line="453" column="33" />
-        <mark key="[" line="440" column="72" />
-        <mark key="]" line="440" column="75" />
-        <mark key="^" line="440" column="75" />
-        <mark key="." line="440" column="75" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" timestamp="1562862644494">
+        <mark key="'" line="455" column="33" />
+        <mark key="[" line="444" column="0" />
+        <mark key="]" line="444" column="0" />
+        <mark key="." line="444" column="0" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/File.java" timestamp="1562764458192">
         <mark key="'" line="148" column="16" />
@@ -53,7 +53,7 @@
         <mark key="^" line="22" column="47" />
         <mark key="." line="22" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562854672010">
+      <file name="/Dummy.txt" timestamp="1562862764074">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -71,7 +71,7 @@
         <mark key="." line="141" column="0" />
         <mark key="^" line="141" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1562783965422">
+      <file name="/fragment.java" timestamp="1562861472781">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -178,50 +178,50 @@
       <jump line="1766" column="0" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/default.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>extend checking for additional originals</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAxMDAwMTE1OTM2cGRmMDAwXzAwCg==</text>
       </register>
       <register name="-" type="4">
-        <text>extend checking for additional originals</text>
+        <text>pathWhereAsSapKey</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb2xkZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcGFyZW50RGlyLnNldFdyaXRhYmxlKHRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIEZpbGVVdGlscy5jb3B5T3JNb3ZlRGlyZWN0b3J5KHNGLnRvUGF0aCgpLCBkRi50b1BhdGgoKSwgbnVsbCwgdHJ1ZSwgZmFsc2UsIG51bGwsIFN0YW5kYXJkQ29weU9wdGlvbi5SRVBMQUNFX0VYSVNUSU5HKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAxMDAwMTE1OTM2cGRmMDAwXzAwCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRoVG9GaWxlcyA9ICJObyBGaWxlcyI7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIExpc3Q8UGxtRmlsZT4gZGlyZWN0RmlsZXNGcm9tRHR5cGUgPSBjaGVja2luRmlsZXMuZ2V0RGlyZWN0RmlsZXNGcm9tRHR5cGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBzdWJQYXRoID0gZm9sZGVyQ2hlY2tlck5ld05hbWVJZkV4aXN0c0NvdW50VXA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdWJQYXRoID0gZm9sZGVyQ2hlY2tlci5nZXROZXdOYW1lSWZFeGlzdHNDb3VudFVwKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdWJQYXRoLnJlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBUcmFjZS5wcmludGxuKDQsICIgYWRkIGZpbGUgIiArIGZpbGUuZ2V0UGF0aCgpICsgIiB0byBjaGVja2luIik7CiAgICAgICAgICAgICAgUGxtRmlsZSBmaWxlVG9Eb2MgPSBQbG1Eb2N1bWVudFV0aWxzLmdldEluc3QoKS5hZGRGaWxlVG9Eb2MoY2hlY2tJbkRvYywgZmlsZSwgbWF0Y2hGaWxlLmdldFdvcmtzdGF0aW9uQXBwbGljYXRpb24oKSwgbWF0Y2hGaWxlCiAgICAgICAgICAgICAgICAgIC5nZXREZXNjcmlwdGlvbigpKTsKCiAgICAgICAgICAgICAgU3RyaW5nIHN0b3JhZ2VDYXRlZ29yeSA9IGRldGVybWluZVN0b3JhZ2VDYXRlZ29yeShjaGVja0luRG9jLmdldFR5cGUoKSwgZmlsZVRvRG9jLmdldFdvcmtzdGF0aW9uQXBwbGljYXRpb24oKSwgb2xkTWFzdGVyU3RyQ2F0KTsKICAgICAgICAgICAgICBmaWxlVG9Eb2Muc2V0U3RvcmFnZUNhdGVnb3J5KHN0b3JhZ2VDYXRlZ29yeSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdWJQYXRoID0gY2hlY2tJZkNvdW50ZXJOZXNzYXJ5KHBhdGhXaGVyZUFzU2FwS2V5LCBzdWJQYXRoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBGb2xkZXJDaGVja2VyIGZvbGRlckNoZWNrZXIgPSBuZXcgRm9sZGVyQ2hlY2tlcihwYXRoV2hlcmVBc1NhcEtleSwgZXh0cmFjdEZvbGRlclBhdGhPblBDICsgRmlsZS5zZXBhcmF0b3IgKyBmb2xkZXJOYW1lRnJvbU1hcHBpbmcpOwogICAgICAgIGZvbGRlck5hbWVGcm9tTWFwcGluZyA9IGZvbGRlckNoZWNrZXIuZ2V0TmV3TmFtZUlmRXhpc3RzQ291bnRVcCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRGVmYXVsdExvZ0V4Y2VwdGlvbigiZmVmZSIsImZlZiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBGb2xkZXJDaGVja2VyIGZvbGRlckNoZWNrZXIgPSBuZXcgRm9sZGVyQ2hlY2tlcihmb2xkZXJLZXksIGV4dHJhY3RGb2xkZXJQYXRoT25QQyArIEZpbGUuc2VwYXJhdG9yICsgc3ViUGF0aCk7CiAgICAgICAgZm9sZGVyTmFtZUZyb21NYXBwaW5nID0gUGF0aHMuZ2V0KGZvbGRlckNoZWNrZXIuZ2V0TmV3TmFtZUlmRXhpc3RzQ291bnRVcCgpKS5nZXRGaWxlTmFtZSgpLnRvU3RyaW5nKCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>130</text>
+        <text>579</text>
       </register>
     </registers>
     <search>
@@ -257,8 +257,6 @@
         <entry encoding="base64">XDxmb2xkZXJcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>460</entry>
-        <entry>execute</entry>
         <entry encoding="base64">JzwsJz5zL1wvL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1wvLzs=</entry>
         <entry>153</entry>
@@ -277,6 +275,8 @@
         <entry>1169</entry>
         <entry>331</entry>
         <entry>130</entry>
+        <entry>149</entry>
+        <entry>579</entry>
       </history-cmd>
       <history-expr />
       <history-input />
