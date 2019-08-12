@@ -49,8 +49,9 @@
         <mark key="." line="2" column="47" />
         <mark key="^" line="2" column="47" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/trunk/src/main/java/sandvik/dadi/DadiExportAfter.java" timestamp="1565618392448" />
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.14.1/customize/config/menu.guidef" timestamp="1565619265078">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/trunk/src/main/java/sandvik/dadi/DadiExportAfter.java" timestamp="1565621200321" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.14.1/customize/config/menu.guidef" timestamp="1565620723135">
+        <mark key="'" line="112" column="31" />
         <mark key="[" line="103" column="40" />
         <mark key="]" line="103" column="41" />
         <mark key="^" line="103" column="41" />
@@ -70,12 +71,12 @@
         <mark key="." line="112" column="49" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/omf/OmfObjectAdd.java" timestamp="1565610066030" />
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.14.1/customize/config/default.txt" timestamp="1565616756099">
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.14.1/customize/config/default.txt" timestamp="1565620848073">
         <mark key="'" line="70" column="0" />
-        <mark key="[" line="2681" column="40" />
-        <mark key="]" line="2684" column="66" />
-        <mark key="^" line="2684" column="66" />
-        <mark key="." line="2684" column="66" />
+        <mark key="[" line="2685" column="38" />
+        <mark key="]" line="2686" column="45" />
+        <mark key="^" line="2686" column="45" />
+        <mark key="." line="2686" column="45" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/omf/OmfHkgExportOriginals.java" timestamp="1565610255349">
         <mark key="[" line="198" column="0" />
@@ -95,7 +96,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="488" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="489" column="21" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="495" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="551" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
@@ -195,6 +195,7 @@
       <jump line="57" column="5" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/utils/FolderChecker.java" />
       <jump line="76" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/omf/OmfHkgExportOriginals.java" />
       <jump line="70" column="0" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.14.1/customize/config/default.txt" />
+      <jump line="112" column="31" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.14.1/customize/config/menu.guidef" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -240,7 +241,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>579</text>
+        <text>1061</text>
       </register>
     </registers>
     <search>
@@ -276,7 +277,6 @@
         <entry encoding="base64">XDxyb290XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1wvL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1wvLzs=</entry>
         <entry>153</entry>
         <entry>56</entry>
@@ -296,6 +296,7 @@
         <entry>130</entry>
         <entry>149</entry>
         <entry>579</entry>
+        <entry>1061</entry>
       </history-cmd>
       <history-expr />
       <history-input />
