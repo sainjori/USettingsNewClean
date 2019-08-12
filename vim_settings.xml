@@ -9,9 +9,6 @@
         <mark key="." line="384" column="0" />
         <mark key="^" line="392" column="65" />
       </file>
-      <file name="/a.dummy" timestamp="1562784176232">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/test/hkg/utils/FolderCheckerTest.java" timestamp="1565605429871">
         <mark key="[" line="13" column="119" />
         <mark key="]" line="14" column="27" />
@@ -49,10 +46,11 @@
         <mark key="." line="2" column="47" />
         <mark key="^" line="2" column="47" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/trunk/src/main/java/sandvik/dadi/DadiExportAfter.java" timestamp="1565628467239">
-        <mark key="[" line="209" column="0" />
-        <mark key="]" line="209" column="0" />
-        <mark key="." line="209" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/trunk/src/main/java/sandvik/dadi/DadiExportAfter.java" timestamp="1565629640664">
+        <mark key="[" line="93" column="40" />
+        <mark key="]" line="93" column="39" />
+        <mark key="." line="93" column="39" />
+        <mark key="^" line="93" column="39" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.14.1/customize/config/menu.guidef" timestamp="1565620723135">
         <mark key="'" line="112" column="31" />
@@ -60,6 +58,9 @@
         <mark key="]" line="103" column="41" />
         <mark key="^" line="103" column="41" />
         <mark key="." line="103" column="41" />
+      </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/FileOutputStream.java" timestamp="1565629708343">
+        <mark key="'" line="172" column="33" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.14.1/.gitignore" timestamp="1565616694247">
         <mark key="[" line="3" column="1" />
@@ -89,8 +90,10 @@
         <mark key="." line="198" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/trunk/src/main/java/sandvik/omf/OmfSandvikDataExcExport.java" timestamp="1565618765020" />
-      <file name="/fragment.java" timestamp="1565605327154">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.java" timestamp="1565630175046">
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="0" column="32" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/trunk/pom.xml" timestamp="1565618447376">
         <mark key="[" line="45" column="21" />
@@ -100,14 +103,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="489" column="21" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
-      <jump line="495" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
-      <jump line="551" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
-      <jump line="555" column="14" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
-      <jump line="556" column="14" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
-      <jump line="562" column="18" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
-      <jump line="563" column="17" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
-      <jump line="566" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="567" column="21" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="575" column="31" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="674" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
@@ -200,31 +195,39 @@
       <jump line="76" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/omf/OmfHkgExportOriginals.java" />
       <jump line="70" column="0" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.14.1/customize/config/default.txt" />
       <jump line="112" column="31" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.14.1/customize/config/menu.guidef" />
+      <jump line="205" column="58" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/FileOutputStream.java" />
+      <jump line="210" column="13" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/FileOutputStream.java" />
+      <jump line="248" column="13" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/FileOutputStream.java" />
+      <jump line="397" column="51" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/FileOutputStream.java" />
+      <jump line="70" column="11" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/FileOutputStream.java" />
+      <jump line="73" column="25" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/FileOutputStream.java" />
+      <jump line="142" column="33" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/FileOutputStream.java" />
+      <jump line="172" column="33" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/FileOutputStream.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJvZS4K</text>
+      <register name="&quot;" type="4">
+        <text>getLoggerNames()</text>
       </register>
       <register name="-" type="4">
-        <text>toString</text>
+        <text>getLoggerNames()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyb290XD4=</text>
+        <text encoding="base64">XDxwYXRoXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbihIS0csIFRyYWNlLkRFQlVHLCAiUGFyZW50IGVjdHIgZm9sZGVyOiAiICtwYXJlbnRFQ1RSRm9sZGVyLmdldERlc2NyaXB0aW9uKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJvZS4K</text>
+        <text encoding="base64">ICAgIExvZ2dlci5nZXRHbG9iYWwoKS5nZXRSZXNvdXJjZUJ1bmRsZSgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFRyYWNlLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJvZS4K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -236,22 +239,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdXBlci5jaGVja1RyZWVTZWxlY3Rpb24oY3R4LCB0cmVlX3NlbCk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>1061</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyb290XD4=</last-search>
+      <last-search encoding="base64">XDxwYXRoXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyb290XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwYXRoXD4=</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -259,7 +262,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcmVmS2V5XD4=</entry>
         <entry encoding="base64">XDxESVNBQkxFRF9GVU5DX0lEU1w+</entry>
         <entry encoding="base64">XDxzdXBwb3J0ZWRUeXBlc1w+</entry>
         <entry encoding="base64">XDxkaXNhYmxlcnNcPg==</entry>
@@ -279,6 +281,7 @@
         <entry encoding="base64">XDxmb2xkZXJcPg==</entry>
         <entry encoding="base64">XDx0bXBGb2xkZXJQYXRoXD4=</entry>
         <entry encoding="base64">XDxyb290XD4=</entry>
+        <entry encoding="base64">XDxwYXRoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1wvLzs=</entry>
