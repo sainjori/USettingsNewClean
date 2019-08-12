@@ -9,51 +9,10 @@
         <mark key="." line="384" column="0" />
         <mark key="^" line="392" column="65" />
       </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Map.java" timestamp="1562770185764" />
-      <file name="/a.dummy" timestamp="1562784176232">
+      <file name="/Dummy.txt" timestamp="1565605731423">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/default.txt" timestamp="1562864683795">
-        <mark key="'" line="2845" column="40" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/index/trunk/src/main/java/index/omf/OmfIndexExportOriginals.java" timestamp="1562768492456" />
-      <file name="$USER_HOME$/AppData/Local/Temp/7zO4A83FA19/HkgProcessExportOriginals.class" timestamp="1562693789540" />
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/basis/dictionary/en/ectr.txt" timestamp="1562854839677" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/utils/IndexConstants.java" timestamp="1562781318665">
-        <mark key="[" line="39" column="22" />
-        <mark key="]" line="39" column="17" />
-        <mark key="." line="39" column="17" />
-        <mark key="^" line="39" column="17" />
-      </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/default_index.txt" timestamp="1562769832513">
-        <mark key="[" line="2" column="45" />
-        <mark key="]" line="2" column="47" />
-        <mark key="." line="2" column="47" />
-        <mark key="^" line="2" column="47" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.13.3/base-5.1.13.3-sources.jar!/cadagent/cfc/util/FileUtils.java" timestamp="1562859536191" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.13.3/plm-5.1.13.3-sources.jar!/plm/utils/configtransmitter/proc/PlmProcessReadConfigAll.java" timestamp="1562763649524" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.5/sapbase-5.1.9.5-sources.jar!/cadagent/objmod/PlmFile.java" timestamp="1562784753572" />
-      <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/nio/file/Files.java" timestamp="1562782724119" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/addPlmConnector/src/test/java/plm/modules/wsfunction/PlmServiceFunctions.java" timestamp="1562782949544" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.9.5/plm-5.1.9.5-sources.jar!/plm/utils/PlmDocumentUtils.java" timestamp="1562784772118" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" timestamp="1562869253653">
-        <mark key="[" line="229" column="62" />
-        <mark key="]" line="229" column="74" />
-        <mark key="." line="229" column="74" />
-        <mark key="^" line="229" column="74" />
-      </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/File.java" timestamp="1562764458192">
-        <mark key="'" line="148" column="16" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/utils/FolderChecker.java" timestamp="1562868453054">
-        <mark key="'" line="119" column="25" />
-        <mark key="[" line="120" column="76" />
-        <mark key="]" line="120" column="76" />
-        <mark key="^" line="120" column="67" />
-        <mark key="." line="120" column="76" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1562869268308">
+      <file name="/a.dummy" timestamp="1562784176232">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/utils/FileChecker.java" timestamp="1562780667103">
@@ -62,20 +21,54 @@
         <mark key="^" line="112" column="49" />
         <mark key="." line="112" column="49" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.9.5/sapbase-5.1.9.5-sources.jar!/cadagent/objmod/PlmDocument.java" timestamp="1562784880562" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/test/hkg/utils/FolderCheckerTest.java" timestamp="1565605429871">
+        <mark key="[" line="13" column="119" />
+        <mark key="]" line="14" column="27" />
+        <mark key="^" line="14" column="27" />
+        <mark key="." line="14" column="27" />
+      </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/default.txt" timestamp="1562864683795">
+        <mark key="'" line="2845" column="40" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" timestamp="1562869253653">
+        <mark key="[" line="229" column="62" />
+        <mark key="]" line="229" column="74" />
+        <mark key="." line="229" column="74" />
+        <mark key="^" line="229" column="74" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/omf/OmfHkgExportOriginals.java" timestamp="1562767640593">
         <mark key="[" line="141" column="0" />
         <mark key="]" line="141" column="0" />
         <mark key="." line="141" column="0" />
         <mark key="^" line="141" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1562861472781">
+      <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/File.java" timestamp="1562764458192">
+        <mark key="'" line="148" column="16" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/utils/IndexConstants.java" timestamp="1562781318665">
+        <mark key="[" line="39" column="22" />
+        <mark key="]" line="39" column="17" />
+        <mark key="." line="39" column="17" />
+        <mark key="^" line="39" column="17" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/utils/FolderChecker.java" timestamp="1565605632567">
+        <mark key="'" line="57" column="5" />
+        <mark key="[" line="124" column="34" />
+        <mark key="]" line="124" column="42" />
+        <mark key="^" line="124" column="42" />
+        <mark key="." line="124" column="42" />
+      </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/default_index.txt" timestamp="1562769832513">
+        <mark key="[" line="2" column="45" />
+        <mark key="]" line="2" column="47" />
+        <mark key="." line="2" column="47" />
+        <mark key="^" line="2" column="47" />
+      </file>
+      <file name="/fragment.java" timestamp="1565605327154">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="477" column="14" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
-      <jump line="478" column="14" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="484" column="18" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="485" column="17" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="488" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
@@ -174,46 +167,48 @@
       <jump line="138" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" />
       <jump line="139" column="78" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" />
       <jump line="476" column="9" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" />
+      <jump line="27" column="19" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/utils/FolderChecker.java" />
+      <jump line="57" column="5" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/utils/FolderChecker.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>parentECTRFolder</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>parentECTRFolder</text>
+        <text>toString</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0bXBGb2xkZXJQYXRoXD4=</text>
+        <text encoding="base64">XDxyb290XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbihIS0csIFRyYWNlLkRFQlVHLCAiUGFyZW50IGVjdHIgZm9sZGVyOiAiICtwYXJlbnRFQ1RSRm9sZGVyLmdldERlc2NyaXB0aW9uKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIChyb290KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIFN0cmluZyBzID0gRmlsZVV0aWxzLnJlbW92ZUV4dGVuc2lvbihQYXRocy5nZXQodG9TdHJpbmcpLnRvRmlsZSgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIFN0cmluZyBzID0gRmlsZVV0aWxzLnJlbW92ZUV4dGVuc2lvbihQYXRocy5nZXQodG9TdHJpbmcpLnRvRmlsZSgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleHRyYWN0Rm9sZGVyUGF0aE9uUEMuCg==</text>
+        <text encoding="base64">ICAgIGlmIChyb290KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKEhLRywgVHJhY2UuREVCVUcsICJQcm9jZXNzIERhdGE6Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUcgo=</text>
+        <text encoding="base64">ICAgICAgICBleHRyYWN0Rm9sZGVyUGF0aE9uUEMuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlVXRpbHMuZGUK</text>
+        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKEhLRywgVHJhY2UuREVCVUcsICJQcm9jZXNzIERhdGE6Iik7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -223,9 +218,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0bXBGb2xkZXJQYXRoXD4=</last-search>
+      <last-search encoding="base64">XDxyb290XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0bXBGb2xkZXJQYXRoXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyb290XD4=</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
@@ -233,7 +228,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlY3RyUm9vdEZvbGRlclw+</entry>
         <entry encoding="base64">XDxwcmVmS2V5XD4=</entry>
         <entry encoding="base64">XDxESVNBQkxFRF9GVU5DX0lEU1w+</entry>
         <entry encoding="base64">XDxzdXBwb3J0ZWRUeXBlc1w+</entry>
@@ -253,6 +247,7 @@
         <entry encoding="base64">XDxQQVRIX1RPX1RIRV9UTVBfRk9MREVSXD4=</entry>
         <entry encoding="base64">XDxmb2xkZXJcPg==</entry>
         <entry encoding="base64">XDx0bXBGb2xkZXJQYXRoXD4=</entry>
+        <entry encoding="base64">XDxyb290XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1wvL2c=</entry>
