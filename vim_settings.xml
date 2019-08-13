@@ -33,7 +33,7 @@
         <mark key="." line="39" column="17" />
         <mark key="^" line="39" column="17" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/utils/FolderChecker.java" timestamp="1565605632567">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/utils/FolderChecker.java" timestamp="1565695053227">
         <mark key="'" line="57" column="5" />
         <mark key="[" line="124" column="34" />
         <mark key="]" line="124" column="42" />
@@ -46,11 +46,11 @@
         <mark key="." line="2" column="47" />
         <mark key="^" line="2" column="47" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/trunk/src/main/java/sandvik/dadi/DadiExportAfter.java" timestamp="1565693239176">
-        <mark key="[" line="98" column="31" />
-        <mark key="]" line="98" column="30" />
-        <mark key="^" line="98" column="30" />
-        <mark key="." line="98" column="30" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/trunk/src/main/java/sandvik/dadi/DadiExportAfter.java" timestamp="1565695301525">
+        <mark key="i" line="284" column="46" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.14.1/customize/config/menu.guidef" timestamp="1565620723135">
         <mark key="'" line="112" column="31" />
@@ -205,47 +205,47 @@
       <jump line="172" column="33" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/FileOutputStream.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0cmFjZUV4cG9ydEZvbGRlckNvbnRlbnQoZXhwb3J0RGlyTmFtZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>root</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXRoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhZGREaXIubWtkaXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICB0cmFjZUV4cG9ydEZvbGRlckNvbnRlbnQoZXhwb3J0RGlyTmFtZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cmFjZUV4cG9ydEZvbGRlckNvbnRlbnQoZXhwb3J0RGlyTmFtZSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhZGREaXIuCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhZGREaXIubWtkaXIoKTsK</text>
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIExvZ2dlci5nZXRHbG9iYWwoKS5nZXRSZXNvdXJjZUJ1bmRsZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICB0cmFjZUV4cG9ydEZvbGRlckNvbnRlbnQoZXhwb3J0RGlyTmFtZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFRyYWNlLgo=</text>
+        <text encoding="base64">ICAgICAgICB0cmFjZUV4cG9ydEZvbGRlckNvbnRlbnQoZXhwb3J0RGlyTmFtZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJvZS4K</text>
+        <text encoding="base64">ICAgICAgICBmaWxlTmFtZXNMaXN0LmFkZChmaWxlLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocm9vdCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbigwLCJNb3ZlIHRvIC4uLiBBZGRpdGlvbmFsIGRpcmVjdG9yeTogIiArIGFkZERpcik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>1061</text>
