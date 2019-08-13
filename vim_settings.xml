@@ -46,11 +46,11 @@
         <mark key="." line="2" column="47" />
         <mark key="^" line="2" column="47" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/trunk/src/main/java/sandvik/dadi/DadiExportAfter.java" timestamp="1565692678855">
-        <mark key="[" line="262" column="24" />
-        <mark key="]" line="262" column="38" />
-        <mark key="." line="262" column="38" />
-        <mark key="^" line="262" column="38" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/trunk/src/main/java/sandvik/dadi/DadiExportAfter.java" timestamp="1565693239176">
+        <mark key="[" line="98" column="31" />
+        <mark key="]" line="98" column="30" />
+        <mark key="^" line="98" column="30" />
+        <mark key="." line="98" column="30" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.14.1/customize/config/menu.guidef" timestamp="1565620723135">
         <mark key="'" line="112" column="31" />
@@ -205,11 +205,11 @@
       <jump line="172" column="33" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/FileOutputStream.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXRoXD4=</text>
