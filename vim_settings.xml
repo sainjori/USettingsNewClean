@@ -21,11 +21,19 @@
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/default.txt" timestamp="1562864683795">
         <mark key="'" line="2845" column="40" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/ConvProcessUpdateInspectionReport.java" timestamp="1565701272931" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" timestamp="1562869253653">
         <mark key="[" line="229" column="62" />
         <mark key="]" line="229" column="74" />
         <mark key="." line="229" column="74" />
         <mark key="^" line="229" column="74" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/branches/CONV-ECTR-44/java/src/main/java/wirtgen/proc/ConvProcessUpdateInspectionReport.java" timestamp="1565701205551">
+        <mark key="'" line="555" column="59" />
+        <mark key="[" line="378" column="30" />
+        <mark key="]" line="378" column="34" />
+        <mark key="." line="378" column="34" />
+        <mark key="^" line="378" column="34" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/File.java" timestamp="1562764458192">
         <mark key="'" line="148" column="16" />
@@ -96,7 +104,7 @@
         <mark key="." line="198" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/trunk/src/main/java/sandvik/omf/OmfSandvikDataExcExport.java" timestamp="1565618765020" />
-      <file name="/fragment.java" timestamp="1565692131333">
+      <file name="/fragment.java" timestamp="1565700978063">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="32" />
@@ -109,7 +117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="567" column="21" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="575" column="31" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="674" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="684" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
@@ -209,13 +216,14 @@
       <jump line="73" column="25" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/FileOutputStream.java" />
       <jump line="142" column="33" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/FileOutputStream.java" />
       <jump line="172" column="33" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/FileOutputStream.java" />
+      <jump line="555" column="59" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/branches/CONV-ECTR-44/java/src/main/java/wirtgen/proc/ConvProcessUpdateInspectionReport.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFjZUV4cG9ydEZvbGRlckNvbnRlbnQoZXhwb3J0RGlyTmFtZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>root</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXRoXD4=</text>
