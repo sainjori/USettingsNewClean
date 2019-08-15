@@ -9,6 +9,12 @@
         <mark key="." line="384" column="0" />
         <mark key="^" line="392" column="65" />
       </file>
+      <file name="C:/ENTWICKLUNG/sandbox/tutorials/core-java-modules/core-java/pom.xml" timestamp="1565879915408">
+        <mark key="[" line="318" column="33" />
+        <mark key="]" line="318" column="38" />
+        <mark key="^" line="318" column="38" />
+        <mark key="." line="318" column="38" />
+      </file>
       <file name="/a.dummy" timestamp="1562784176232">
         <mark key="[" line="0" column="0" />
       </file>
@@ -17,9 +23,6 @@
         <mark key="]" line="14" column="27" />
         <mark key="^" line="14" column="27" />
         <mark key="." line="14" column="27" />
-      </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.13.3/customize/config/default.txt" timestamp="1562864683795">
-        <mark key="'" line="2845" column="40" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/trunk/src/main/java/wirtgen/proc/ConvProcessUpdateInspectionReport.java" timestamp="1565701272931" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/proc/HkgProcessExportOriginals.java" timestamp="1562869253653">
@@ -34,9 +37,6 @@
         <mark key="]" line="378" column="34" />
         <mark key="." line="378" column="34" />
         <mark key="^" line="378" column="34" />
-      </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/File.java" timestamp="1562764458192">
-        <mark key="'" line="148" column="16" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hkg/trunk/src/main/java/hkg/utils/IndexConstants.java" timestamp="1562781318665">
         <mark key="[" line="39" column="22" />
@@ -63,7 +63,14 @@
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565878896234">
+      <file name="C:/ENTWICKLUNG/sandbox/tutorials/pom.xml" timestamp="1565880007438">
+        <mark key="'" line="1175" column="30" />
+        <mark key="[" line="124" column="33" />
+        <mark key="]" line="124" column="38" />
+        <mark key="^" line="124" column="38" />
+        <mark key="." line="124" column="38" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1565879000309">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.14.1/customize/config/menu.guidef" timestamp="1565696478646">
@@ -104,6 +111,9 @@
         <mark key="." line="198" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/trunk/src/main/java/sandvik/omf/OmfSandvikDataExcExport.java" timestamp="1565618765020" />
+      <file name="/Clipboard.txt" timestamp="1565879815930">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1565700978063">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
@@ -117,7 +127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="575" column="31" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="674" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="684" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
       <jump line="697" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/BrowsePanelStack.java" />
@@ -217,13 +226,14 @@
       <jump line="142" column="33" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/FileOutputStream.java" />
       <jump line="172" column="33" filename="C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/FileOutputStream.java" />
       <jump line="555" column="59" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/wirtgen/branches/CONV-ECTR-44/java/src/main/java/wirtgen/proc/ConvProcessUpdateInspectionReport.java" />
+      <jump line="1175" column="30" filename="C:/ENTWICKLUNG/sandbox/tutorials/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>${junit-platform.version}</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>${junit-platform.version}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXRoXD4=</text>
@@ -232,34 +242,34 @@
         <text encoding="base64">ICAgICAgICB0cmFjZUV4cG9ydEZvbGRlckNvbnRlbnQoZXhwb3J0RGlyTmFtZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFjZUV4cG9ydEZvbGRlckNvbnRlbnQoZXhwb3J0RGlyTmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGFyZ2V0PjEuODwvdGFyZ2V0Pgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">PHByb2plY3QgeG1sbnM9Imh0dHA6Ly9tYXZlbi5hcGFjaGUub3JnL1BPTS80LjAuMCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIKICAgICAgICAgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vbWF2ZW4uYXBhY2hlLm9yZy9QT00vNC4wLjAgaHR0cDovL21hdmVuLmFwYWNoZS5vcmcveHNkL21hdmVuLTQuMC4wLnhzZCI+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICB0cmFjZUV4cG9ydEZvbGRlckNvbnRlbnQoZXhwb3J0RGlyTmFtZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFjZUV4cG9ydEZvbGRlckNvbnRlbnQoZXhwb3J0RGlyTmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFjZUV4cG9ydEZvbGRlckNvbnRlbnQoZXhwb3J0RGlyTmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlTmFtZXNMaXN0LmFkZChmaWxlLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0cmFjZUV4cG9ydEZvbGRlckNvbnRlbnQoZXhwb3J0RGlyTmFtZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocm9vdCkK</text>
+        <text encoding="base64">ICAgICAgICB0cmFjZUV4cG9ydEZvbGRlckNvbnRlbnQoZXhwb3J0RGlyTmFtZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbigwLCJNb3ZlIHRvIC4uLiBBZGRpdGlvbmFsIGRpcmVjdG9yeTogIiArIGFkZERpcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlTmFtZXNMaXN0LmFkZChmaWxlLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAocm9vdCkK</text>
       </register>
       <register name=":" type="4">
         <text>1061</text>
