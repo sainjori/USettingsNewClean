@@ -102,6 +102,12 @@
       <option name="SHOW_DECLARED_TYPE" value="true" />
       <option name="SHOW_OBJECT_ID" value="false" />
     </Renderer>
+    <CustomRenderers VERSION="8">
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="cadagent.cfc.gfx.ListComposeDisplay" />
+      </Renderer>
+    </CustomRenderers>
   </component>
   <component name="ThreadsViewSettings">
     <option name="SHOW_THREAD_GROUPS" value="true" />
