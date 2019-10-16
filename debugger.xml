@@ -1,6 +1,7 @@
 <application>
   <component name="DebuggerSettings">
     <option name="SHOW_ALTERNATIVE_SOURCE" value="false" />
+    <option name="ALWAYS_SMART_STEP_INTO" value="false" />
     <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
     <option name="WATCH_RETURN_VALUES" value="true" />
     <option name="AUTO_VARIABLES_MODE" value="true" />
@@ -81,17 +82,17 @@
     </filter>
     <filter>
       <option name="PATTERN" value="java.lang.StringBuilder" />
-      <option name="ENABLED" value="true" />
+      <option name="ENABLED" value="false" />
       <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="java.lang.AbstractStringBuilder" />
-      <option name="ENABLED" value="true" />
+      <option name="ENABLED" value="false" />
       <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="java.lang.String" />
-      <option name="ENABLED" value="true" />
+      <option name="ENABLED" value="false" />
       <option name="INCLUDE" value="true" />
     </filter>
   </component>
