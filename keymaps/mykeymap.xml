@@ -186,6 +186,7 @@
   </action>
   <action id="XDebugger.MuteBreakpoints">
     <keyboard-shortcut first-keystroke="alt b" />
+    <keyboard-shortcut first-keystroke="alt windows" second-keystroke="f5" />
   </action>
   <action id="context.load" />
   <action id="openAssertEqualsDiff" />
