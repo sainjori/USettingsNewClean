@@ -80,6 +80,7 @@
   </action>
   <action id="Hotswap">
     <keyboard-shortcut first-keystroke="alt comma" />
+    <keyboard-shortcut first-keystroke="alt windows" second-keystroke="f6" />
   </action>
   <action id="InsertLiveTemplate" />
   <action id="IntroduceVariable">
