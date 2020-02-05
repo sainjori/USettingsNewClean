@@ -39,8 +39,8 @@
   <action id="EditorPasteFromX11" />
   <action id="EditorSplitLine" />
   <action id="EditorUp">
-    <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl k" />
+    <keyboard-shortcut first-keystroke="up" />
   </action>
   <action id="ExportToTextFile" />
   <action id="FileChooser.GotoDesktop" />
