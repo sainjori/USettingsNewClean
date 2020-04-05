@@ -70,9 +70,13 @@
           <option name="url" value="http://svnserver" />
           <option name="userName" value="bya" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.dscsag.net:customers/wittenstein/wittenstein-ectr.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\ENTWICKLUNG\sandbox" />
+    <option name="cloneParentDir" value="C:\ENTWICKLUNG\java\workspaces\customer-projects-git" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
