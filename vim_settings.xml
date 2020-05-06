@@ -1,6 +1,58 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxsaXN0XD4=</entry>
+        <entry encoding="base64">XDxjb21wb25lbnRzXD4=</entry>
+        <entry encoding="base64">XDxyZW1vdmVGcm9tR2VuZXJpY1RhYmxlXD4=</entry>
+        <entry encoding="base64">XDxleGlzdHNJblNhcFw+</entry>
+        <entry encoding="base64">XDxjaGVja0FjdGl2ZUxhbmd1YWdlVGFiXD4=</entry>
+        <entry encoding="base64">XDxkb2N1bWVudFw+</entry>
+        <entry encoding="base64">XDxwbG1NYXRlcmlhbFw+</entry>
+        <entry encoding="base64">XDxuYW1lXD4=</entry>
+        <entry encoding="base64">XDxuZXdTaG9ydFRleHRcPg==</entry>
+        <entry encoding="base64">XDxNQVRfU0hPUlRfVEVYVFw+</entry>
+        <entry encoding="base64">XDxhZHZNYXRWYWx1ZVw+</entry>
+        <entry encoding="base64">XDx2ZWFfbWF0X2Fzc2lnbm1lbnRcPg==</entry>
+        <entry encoding="base64">XDxpc0FjdGl2TGFuZ1RhYkVtcHR5XD4=</entry>
+        <entry encoding="base64">XDxJTl9QTEFOVFw+</entry>
+        <entry encoding="base64">XDxpblBsYW50XD4=</entry>
+        <entry encoding="base64">XDx0ZXh0X2xpbmVcPg==</entry>
+        <entry encoding="base64">XDx2aXNpYmxlUGFuZWxzXD4=</entry>
+        <entry encoding="base64">XDxtYXRfbnVtYmVyX2Fzc2lnbm1lbnRcPg==</entry>
+        <entry encoding="base64">XDxwbG1DbHNcPg==</entry>
+        <entry encoding="base64">XDxsYXlvdXRNYW5hZ2VyRGlhbG9nXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>579</entry>
+        <entry>1061</entry>
+        <entry>72</entry>
+        <entry>121</entry>
+        <entry>605</entry>
+        <entry>92</entry>
+        <entry>142</entry>
+        <entry>682</entry>
+        <entry>263</entry>
+        <entry>182</entry>
+        <entry>737</entry>
+        <entry>559</entry>
+        <entry>740</entry>
+        <entry>97</entry>
+        <entry>167</entry>
+        <entry>1547</entry>
+        <entry>3308</entry>
+        <entry>329</entry>
+        <entry>161</entry>
+        <entry>525</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
@@ -84,7 +136,229 @@
         <text>ctrl pressed K</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1586281075656">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="6" />
+        <mark key="." line="4" column="6" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/rieber_ca/branches/rieber-ectr-hotfix-4.6.13.2/src/main/java/plm/brobj/BrClassContainer.java" timestamp="1586196505820">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="^" line="76" column="46" />
+        <mark key="." line="76" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/rieber_ca/branches/rieber-ectr-hotfix-4.6.13.2/src/main/java/plm/brobj/BrAccDocContainer.java" timestamp="1586196423430">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="^" line="85" column="49" />
+        <mark key="." line="85" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/gui/obr/omf/LayoutManagerFunction.java" timestamp="1586278540038">
+        <mark key="'" line="75" column="21" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/rieber_ca/branches/rieber-ectr-hotfix-4.6.13.2/src/main/java/plm/brobj/BrEquiInstalledInContainer.java" timestamp="1586196586669">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="74" column="54" />
+        <mark key="." line="74" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/rieber_ca/branches/rieber-ectr-hotfix-4.6.13.2/src/main/java/plm/brobj/BrContainer.java" timestamp="1586196547537">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="150" column="3" />
+        <mark key="]" line="155" column="2" />
+        <mark key="^" line="155" column="2" />
+        <mark key="." line="155" column="2" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/rieber_ca/branches/rieber-ectr-hotfix-4.6.13.2/src/main/java/plm/brobj/BrEquipmentsContainer.java" timestamp="1586196648276">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="^" line="84" column="54" />
+        <mark key="." line="84" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1586281075672">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/rieber_ca/branches/rieber-ectr-hotfix-4.6.13.2/pom.xml" timestamp="1586193827336">
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="14" column="18" />
+        <mark key="^" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="1064" column="32" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="1120" column="14" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="1045" column="11" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="1965" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="130" column="48" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="1927" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
+      <jump line="23" column="1" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.12.1/customize/config/attributes-to-sap.xml" />
+      <jump line="284" column="24" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/gfps/trunk/gfps-plugins/src/main/java/gfps/gfx/LongTextEditor.java" />
+      <jump line="76" column="70" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/gfps/trunk/gfps-plugins/src/main/java/gfps/ob/tab/generic/TabGenericMat.java" />
+      <jump line="252" column="69" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/gfps/trunk/gfps-plugins/src/main/java/gfps/gfx/LongTextPanel.java" />
+      <jump line="81" column="18" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/gfps/trunk/gfps-plugins/src/main/java/gfps/gfx/LongTextPanel.java" />
+      <jump line="628" column="14" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/gfps/trunk/gfps-plugins/src/main/java/gfps/gfx/LongTextEditor.java" />
+      <jump line="130" column="19" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/gfps/trunk/gfps-plugins/src/main/java/gfps/gfx/LongTextEditor.java" />
+      <jump line="97" column="78" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/YpsomedProcessMatCreateDark.java" />
+      <jump line="228" column="39" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/YpsomedProcessMatCreateDark.java" />
+      <jump line="104" column="11" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/HashSet.java" />
+      <jump line="622" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/gfps/trunk/gfps-plugins/src/main/java/gfps/gfx/LongTextEditor.java" />
+      <jump line="817" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/gfps/trunk/gfps-plugins/src/main/java/gfps/gfx/LongTextEditor.java" />
+      <jump line="142" column="34" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-cust/src/main/java/cadagent/plm/PlmMaterialFieldsUtil.java" />
+      <jump line="588" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-cust/src/main/java/cadagent/plm/PlmMaterialFieldsUtil.java" />
+      <jump line="162" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-cust/src/main/java/cadagent/plm/PlmMaterialFieldsUtil.java" />
+      <jump line="1932" column="9" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-util/src/main/java/util/StringTool.java" />
+      <jump line="1923" column="25" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-util/src/main/java/util/StringTool.java" />
+      <jump line="1928" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-util/src/main/java/util/StringTool.java" />
+      <jump line="1518" column="85" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-util/src/main/java/util/StringTool.java" />
+      <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-util/src/main/java/util/StringTool.java" />
+      <jump line="1925" column="37" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.14.1/base-5.1.14.1-sources.jar!/cadagent/cfc/util/StringTool.java" />
+      <jump line="2139" column="45" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-util/src/main/java/util/StringTool.java" />
+      <jump line="569" column="24" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-util/src/main/java/util/ContainerTool.java" />
+      <jump line="139" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-hotfix/src/main/java/plm/gui/PlmActiveListDropHandler.java" />
+      <jump line="476" column="12" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-hotfix/src/main/java/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" />
+      <jump line="764" column="18" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-hotfix/src/main/java/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" />
+      <jump line="181" column="41" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-cust/src/main/java/hilti/brobj/BrBasicMaterialClassContainer.java" />
+      <jump line="83" column="1" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-cust/src/main/java/cadagent/plm/PlmMaterialFieldsUtil.java" />
+      <jump line="77" column="68" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-cust/src/main/java/hilti/dadi/DadiAfterDetermineExportFilename.java" />
+      <jump line="66" column="12" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-cust/src/main/java/hilti/gui/browser/components/HiltiMaterialPlantDataPanel.java" />
+      <jump line="175" column="13" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-cust/src/main/java/hilti/gui/browser/components/HiltiMaterialPlantDataTabbedPanel.java" />
+      <jump line="74" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.14.1/plm-5.1.14.1-sources.jar!/plm/gui/browser/util/BrowsePanelController.java" />
+      <jump line="75" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.14.1/plm-5.1.14.1-sources.jar!/plm/gui/browser/util/BrowsePanelController.java" />
+      <jump line="78" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.14.1/plm-5.1.14.1-sources.jar!/plm/gui/browser/util/BrowsePanelController.java" />
+      <jump line="83" column="48" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.14.1/plm-5.1.14.1-sources.jar!/plm/gui/browser/util/BrowsePanelController.java" />
+      <jump line="84" column="24" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.14.1/plm-5.1.14.1-sources.jar!/plm/gui/browser/util/BrowsePanelController.java" />
+      <jump line="112" column="22" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.14.1/plm-5.1.14.1-sources.jar!/plm/gui/browser/util/BrowsePanelController.java" />
+      <jump line="128" column="22" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.14.1/plm-5.1.14.1-sources.jar!/plm/gui/browser/util/BrowsePanelController.java" />
+      <jump line="54" column="23" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.14.1/plm-5.1.14.1-sources.jar!/plm/gui/browser/util/BrowsePanelController.java" />
+      <jump line="66" column="9" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.14.1/plm-5.1.14.1-sources.jar!/plm/gui/browser/util/BrowsePanelController.java" />
+      <jump line="67" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.14.1/plm-5.1.14.1-sources.jar!/plm/gui/browser/util/BrowsePanelController.java" />
+      <jump line="1238" column="2" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.2.2.1/sapbase-5.2.2.1-sources.jar!/cadagent/dtype/DType.java" />
+      <jump line="1779" column="46" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.2.2.1/sapbase-5.2.2.1-sources.jar!/cadagent/dtype/DType.java" />
+      <jump line="2297" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.2.2.1/sapbase-5.2.2.1-sources.jar!/cadagent/dtype/DType.java" />
+      <jump line="2299" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.2.2.1/sapbase-5.2.2.1-sources.jar!/cadagent/dtype/DType.java" />
+      <jump line="2301" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.2.2.1/sapbase-5.2.2.1-sources.jar!/cadagent/dtype/DType.java" />
+      <jump line="2303" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.2.2.1/sapbase-5.2.2.1-sources.jar!/cadagent/dtype/DType.java" />
+      <jump line="523" column="14" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.2.2.1/sapbase-5.2.2.1-sources.jar!/cadagent/dtype/DType.java" />
+      <jump line="1239" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.2.2.1/sapbase-5.2.2.1-sources.jar!/cadagent/dtype/DType.java" />
+      <jump line="1636" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-hotfix/src/main/java/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" />
+      <jump line="4711" column="21" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-hotfix/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="257" column="28" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-hotfix/src/main/java/plm/gui/PlmActiveListDropHandler.java" />
+      <jump line="1787" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-hotfix/src/main/java/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" />
+      <jump line="155" column="88" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.2.2.1/sapbase-5.2.2.1-sources.jar!/cadagent/plm/PlmMaterialFieldsUtil.java" />
+      <jump line="1019" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.14.1/plm-5.1.14.1-sources.jar!/plm/proc/doc/PlmProcessDocumentNewVersion.java" />
+      <jump line="946" column="41" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-cust/src/main/java/plm/proc/doc/PlmProcessDocumentNewVersion52.java" />
+      <jump line="143" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-cust/src/main/java/plm/proc/doc/PlmProcessDocumentNewVersion52.java" />
+      <jump line="169" column="46" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.2.2.1/addons-5.2.2.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportClassification.java" />
+      <jump line="183" column="57" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.2.2.1/addons-5.2.2.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportClassification.java" />
+      <jump line="314" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.2.2.1/addons-5.2.2.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportClassification.java" />
+      <jump line="366" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.2.2.1/addons-5.2.2.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportClassification.java" />
+      <jump line="370" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.2.2.1/addons-5.2.2.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportClassification.java" />
+      <jump line="374" column="27" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.2.2.1/addons-5.2.2.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportClassification.java" />
+      <jump line="379" column="30" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.2.2.1/addons-5.2.2.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportClassification.java" />
+      <jump line="398" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.2.2.1/addons-5.2.2.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportClassification.java" />
+      <jump line="404" column="55" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.2.2.1/addons-5.2.2.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportClassification.java" />
+      <jump line="444" column="55" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.2.2.1/addons-5.2.2.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportClassification.java" />
+      <jump line="535" column="75" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.2.2.1/addons-5.2.2.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportClassification.java" />
+      <jump line="539" column="32" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.2.2.1/addons-5.2.2.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportClassification.java" />
+      <jump line="7377" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.14.1/addons-5.1.14.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="144" column="26" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.2.2.1/addons-5.2.2.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportClassification.java" />
+      <jump line="147" column="96" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.2.2.1/addons-5.2.2.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportClassification.java" />
+      <jump line="152" column="96" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.2.2.1/addons-5.2.2.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportClassification.java" />
+      <jump line="166" column="60" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.2.2.1/addons-5.2.2.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportClassification.java" />
+      <jump line="66" column="19" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.2.2.1/addons-5.2.2.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportClassification.java" />
+      <jump line="141" column="41" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilitUntouched/hilti-ectr/hilti-cust/src/main/java/hilti/proc/HiltiProcessMaterialPlantDataRead.java" />
+      <jump line="117" column="67" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilitUntouched/hilti-ectr/hilti-cust/src/main/java/hilti/proc/HiltiProcessMaterialPlantDataRead.java" />
+      <jump line="75" column="14" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilitUntouched/hilti-ectr/hilti-cust/src/main/java/hilti/proc/HiltiProcessMaterialPlantDataRead.java" />
+      <jump line="120" column="41" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilitUntouched/hilti-ectr/hilti-cust/src/main/java/hilti/proc/HiltiProcessMaterialPlantDataRead.java" />
+      <jump line="2778" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-hotfix/src/main/java/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" />
+      <jump line="163" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-cust/src/main/java/cadagent/plm/PlmMaterialFieldsUtil.java" />
+      <jump line="193" column="21" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-cust/src/main/java/cadagent/plm/PlmMaterialFieldsUtil.java" />
+      <jump line="98" column="53" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/amphenol/trunk/src/main/java/amphenol/dadi/DadiAfterCreateFamilyMembers.java" />
+      <jump line="180" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/dadi/DadiAfterCreateFamilyMembers.java" />
+      <jump line="749" column="26" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/dadi/DadiAfterCreateFamilyMembers.java" />
+      <jump line="133" column="35" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/dadi/DadiAfterCreateFamilyMembers.java" />
+      <jump line="674" column="59" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/dadi/DadiAfterCreateFamilyMembers.java" />
+      <jump line="87" column="68" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-cust/src/main/java/hilti/dadi/DadiDocumentCreateGuiAfterSetDefaultValues.java" />
+      <jump line="88" column="61" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-cust/src/main/java/hilti/dadi/DadiDocumentCreateGuiAfterSetDefaultValues.java" />
+      <jump line="52" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/rieber_ca/branches/rieber-ectr-hotfix-4.6.13.2/src/main/java/plm/brobj/BrContainer.java" />
+      <jump line="205" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/gui/obr/omf/LayoutManagerFunction.java" />
+      <jump line="206" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/gui/obr/omf/LayoutManagerFunction.java" />
+      <jump line="207" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/gui/obr/omf/LayoutManagerFunction.java" />
+      <jump line="75" column="21" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/gui/obr/omf/LayoutManagerFunction.java" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHNldE9iamVjdEtleShzYXBrZXkgKyAiQCIgKyBPQkpFQ1RfVFlQRSk7Cg==</text>
+      </register>
+      <register name="c" type="4">
+        <text />
+      </register>
+      <register name="-" type="4">
+        <text>amphenol</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxsYXlvdXRNYW5hZ2VyRGlhbG9nXD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsblN0YWNrVHJhY2UoNCwgZSk7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHNldE9iamVjdEtleShzYXBrZXkgKyAiQCIgKyBPQkpFQ1RfVFlQRSk7Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHNldE9iamVjdEtleShzYXBrZXkgKyAiQCIgKyBPQkpFQ1RfVFlQRSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHNldE9iamVjdEtleShzYXBrZXkgKyAiY2xhc3NlcyIpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHNldE9iamVjdEtleShick9iamVjdC5nZXRTYXBLZXkoKSArICJhY2Nkb2Njb250Iik7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LmNmYy51dGlsLlN0cmluZ1Rvb2w7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbig0LCBTdHJpbmdUb29sLmV4Y2VwdGlvbjJTdHJpbmcoZSkpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbig0LCBTdHJpbmdUb29sLmV4Y2VwdGlvbjJTdHJpbmcoZSkpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbig0LCBTdHJpbmdUb29sLmV4Y2VwdGlvbjJTdHJpbmcoZSkpOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbig0LCBTdHJpbmdUb29sLmV4Y2VwdGlvbjJTdHJpbmcoZSkpOwo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>525</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDxsYXlvdXRNYW5hZ2VyRGlhbG9nXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxsYXlvdXRNYW5hZ2VyRGlhbG9nXD4=</last-pattern>
+      <last-replace>;</last-replace>
+      <last-substitute encoding="base64">XDxvYmplY3RPYmplY3RIYXNoTWFwXD4=</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
