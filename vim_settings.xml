@@ -140,10 +140,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589219194530">
+      <file name="/Dummy.txt" timestamp="1589228462388">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="6" />
-        <mark key="." line="4" column="6" />
+        <mark key="]" line="2" column="6" />
+        <mark key="." line="2" column="6" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/test/java/cadagent/modules/qualitymanagement/objmod/PlmAuditQuestionListTest.java" timestamp="1589220440756">
         <mark key="[" line="49" column="23" />
@@ -182,9 +182,11 @@
         <mark key="^" line="74" column="54" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/qualitymanagement/proc/PlmProcessAuditQuestionListRead.java" timestamp="1589219801407">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="78" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/qualitymanagement/proc/PlmProcessAuditQuestionListRead.java" timestamp="1589228096298">
+        <mark key="[" line="99" column="30" />
+        <mark key="]" line="100" column="6" />
+        <mark key="^" line="100" column="6" />
+        <mark key="." line="100" column="5" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/rieber_ca/branches/rieber-ectr-hotfix-4.6.13.2/src/main/java/plm/brobj/BrEquipmentsContainer.java" timestamp="1586196648276">
         <mark key="[" line="84" column="0" />
@@ -204,10 +206,10 @@
         <mark key="." line="14" column="18" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/qualitymanagement/objmod/PlmAuditQuestionList.java" timestamp="1589221146920">
-        <mark key="[" line="48" column="44" />
-        <mark key="]" line="48" column="63" />
-        <mark key="^" line="48" column="63" />
-        <mark key="." line="48" column="62" />
+        <mark key="[" line="32" column="44" />
+        <mark key="]" line="32" column="63" />
+        <mark key="^" line="32" column="63" />
+        <mark key="." line="32" column="62" />
       </file>
     </filemarks>
     <jumps>
