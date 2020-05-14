@@ -140,7 +140,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/gui/conversionservices/PlmToObrConverterService.java" timestamp="1589465813305" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/brobj/BrMasterModelContainer.java" timestamp="1589469375033">
         <mark key="'" line="230" column="4" />
       </file>
@@ -150,35 +149,51 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="19" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/brobj/BrPlmObject.java" timestamp="1589460153257" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/brobj/BrBusinessObject.java" timestamp="1589471902171" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.2.2.1/sapbase-5.2.2.1-sources.jar!/cadagent/objmod/PlmBusinessObject.java" timestamp="1589467694292" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/brobj/BrBusinessObjectFactory.java" timestamp="1589471436699">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="62" column="65" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1589472541918" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/gui/conversionservices/PlmToObrConverter.java" timestamp="1589469556559" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/molex/trunk/src/main/resources/META-INF/services/plm.gui.conversionservices.PlmToObrConverterService" timestamp="1589465846797" />
       <file name="/Dummy.txt" timestamp="1589467071140">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/proc/PlmProcessSearchGenSurfaceGenMat.java" timestamp="1589466503251">
-        <mark key="'" line="11" column="23" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/trunk/src/main/java/ricwolf/PlmBusinessToBrRicwolfBusinessObjectConverter.java" timestamp="1589472430119">
+        <mark key="[" line="93" column="68" />
+        <mark key="]" line="93" column="69" />
+        <mark key="^" line="93" column="69" />
+        <mark key="." line="93" column="68" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.11.0/sapbase-5.1.11.0-sources.jar!/cadagent/objmod/PlmGenericObject.java" timestamp="1589466600079" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/trunk/src/main/java/ricwolf/PlmSeriesToBrSeriesConverter.java" timestamp="1589469685172">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="58" column="43" />
-        <mark key="." line="61" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/trunk/src/main/java/ricwolf/BrBusinessObjectHelper.java" timestamp="1589472363867">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/brobj/BrPlmObject.java" timestamp="1589466964536" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/trunk/src/main/java/ricwolf/PlmSeriesToBrSeriesConverter.java" timestamp="1589471318505">
+        <mark key="[" line="51" column="49" />
+        <mark key="]" line="51" column="49" />
+        <mark key="^" line="51" column="50" />
+        <mark key="." line="51" column="49" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/brobj/BrTmpFolder.java" timestamp="1589472548343">
+        <mark key="'" line="264" column="63" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/brobj/BrDocument.java" timestamp="1589467017671" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/brobj/BrDocument.java" timestamp="1589460114157" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/trunk/src/main/resources/META-INF/services/plm.gui.conversionservices.PlmToObrConverterService" timestamp="1589465927462">
-        <mark key="[" line="0" column="36" />
-        <mark key="]" line="0" column="36" />
-        <mark key="." line="0" column="35" />
-        <mark key="^" line="0" column="36" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/trunk/src/main/java/ricwolf/brobj/BrRicwolfBusinessObject.java" timestamp="1589472596879">
+        <mark key="'" line="233" column="32" />
+        <mark key="[" line="202" column="3" />
+        <mark key="]" line="203" column="28" />
+        <mark key="^" line="203" column="28" />
+        <mark key="." line="203" column="27" />
       </file>
-      <file name="/fragment.java" timestamp="1589465871884">
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/brobj/BrPlmObject.java" timestamp="1589472517427">
+        <mark key="'" line="247" column="18" />
+      </file>
+      <file name="/fragment.java" timestamp="1589472254510">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -186,11 +201,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/molex/tags/ImportServer 4.6.7.1/src/main/java/molex/PlmSeriesNumberCreator.java" timestamp="1589468625015" />
     </filemarks>
     <jumps>
-      <jump line="1045" column="11" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
-      <jump line="1965" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
-      <jump line="130" column="48" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
-      <jump line="1927" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
-      <jump line="23" column="1" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.12.1/customize/config/attributes-to-sap.xml" />
       <jump line="284" column="24" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/gfps/trunk/gfps-plugins/src/main/java/gfps/gfx/LongTextEditor.java" />
       <jump line="76" column="70" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/gfps/trunk/gfps-plugins/src/main/java/gfps/ob/tab/generic/TabGenericMat.java" />
       <jump line="252" column="69" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/gfps/trunk/gfps-plugins/src/main/java/gfps/gfx/LongTextPanel.java" />
@@ -286,54 +296,59 @@
       <jump line="75" column="21" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/gui/obr/omf/LayoutManagerFunction.java" />
       <jump line="11" column="23" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/zeiss/trunk/ectr_dadi/src/main/java/carlzeiss/proc/PlmProcessSearchGenSurfaceGenMat.java" />
       <jump line="230" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/brobj/BrMasterModelContainer.java" />
+      <jump line="159" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/trunk/src/main/java/ricwolf/brobj/BrRicwolfBusinessObject.java" />
+      <jump line="234" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/trunk/src/main/java/ricwolf/brobj/BrRicwolfBusinessObject.java" />
+      <jump line="226" column="32" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/trunk/src/main/java/ricwolf/brobj/BrRicwolfBusinessObject.java" />
+      <jump line="247" column="18" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/brobj/BrPlmObject.java" />
+      <jump line="264" column="63" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/brobj/BrTmpFolder.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgU3lzdGVtLm91dC5wcmludGxuKCJ0ZXN0Iik7Cg==</text>
+        <text encoding="base64">ICBACg==</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>BrObjFactory().getBrSeriesNumber(psn);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQbG1CdXNpbmVzc09iamVjdENyZWF0aW9uRmFjdG9yeVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigidGV3c3QiKTsK</text>
+        <text encoding="base64">ICAgICAgQnJSaWN3b2xmQnVzaW5lc3NPYmplY3QgYnNuID0gbmV3IEJyT2JqRmFjdG9yeSgpLmdldEJyU2VyaWVzTnVtYmVyKHBzbik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgU3lzdGVtLm91dC5wcmludGxuKCJ0ZXN0Iik7Cg==</text>
+        <text encoding="base64">ICBACg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBsbS5icm9iai5CckJ1c2luZXNzT2JqZWN0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHBsbS5icm9iai5CckJ1c2luZXNzT2JqZWN0SGVscGVyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFBsbUF1ZGl0UXVlc3Rpb25MaXN0IHRlc3QgPSBQbG1BdWRpdE9iamVjdEZhY3RvcnkucGxtUXVlc3Rpb25MaXN0KEdVSUQpOwo=</text>
+        <text encoding="base64">Ly8gICAgU3lzdGVtLm91dC5wcmludGxuKCJ0ZXN0Iik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIExpc3Q8UGxtQXVkaXRPYmplY3Q+IGl0ZW1zID0gQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdChvKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIExpc3Q8UGxtQXVkaXRPYmplY3Q+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgIGxpc3QuYWRkKGl0ZW0pOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFBsbUF1ZGl0UXVlc3Rpb25MaXN0IHRlc3QgPSBQbG1BdWRpdE9iamVjdEZhY3RvcnkucGxtUXVlc3Rpb25MaXN0KCJ0ZXN0Iik7Cg==</text>
+        <text encoding="base64">ICAgIFBsbUF1ZGl0UXVlc3Rpb25MaXN0IHRlc3QgPSBQbG1BdWRpdE9iamVjdEZhY3RvcnkucGxtUXVlc3Rpb25MaXN0KEdVSUQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFBsbUF1ZGl0T2JqZWN0RmFjdG9yeQo=</text>
+        <text encoding="base64">ICAgIExpc3Q8UGxtQXVkaXRPYmplY3Q+IGl0ZW1zID0gQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdChvKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0Lio7Cg==</text>
+        <text encoding="base64">ICAgIExpc3Q8UGxtQXVkaXRPYmplY3Q+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgIGxpc3QuYWRkKGl0ZW0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>525</text>
