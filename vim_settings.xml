@@ -143,11 +143,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/brobj/BrMasterModelContainer.java" timestamp="1589469375033">
         <mark key="'" line="230" column="4" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/trunk/pom.xml" timestamp="1589469606263">
-        <mark key="[" line="19" column="25" />
-        <mark key="]" line="19" column="25" />
-        <mark key="." line="19" column="24" />
-        <mark key="^" line="19" column="25" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/trunk/pom.xml" timestamp="1589473392675">
+        <mark key="[" line="38" column="29" />
+        <mark key="]" line="38" column="29" />
+        <mark key="." line="38" column="28" />
+        <mark key="^" line="38" column="29" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/brobj/BrBusinessObject.java" timestamp="1589471902171" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.2.2.1/sapbase-5.2.2.1-sources.jar!/cadagent/objmod/PlmBusinessObject.java" timestamp="1589467694292" />
@@ -162,11 +162,11 @@
         <mark key="]" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/trunk/src/main/java/ricwolf/PlmBusinessToBrRicwolfBusinessObjectConverter.java" timestamp="1589472430119">
-        <mark key="[" line="93" column="68" />
-        <mark key="]" line="93" column="69" />
-        <mark key="^" line="93" column="69" />
-        <mark key="." line="93" column="68" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/trunk/src/main/java/ricwolf/PlmBusinessToBrRicwolfBusinessObjectConverter.java" timestamp="1589472721701">
+        <mark key="[" line="94" column="27" />
+        <mark key="]" line="94" column="34" />
+        <mark key="^" line="94" column="34" />
+        <mark key="." line="94" column="33" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/trunk/src/main/java/ricwolf/BrBusinessObjectHelper.java" timestamp="1589472363867">
         <mark key="[" line="50" column="0" />
@@ -305,14 +305,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBACg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>BrObjFactory().getBrSeriesNumber(psn);</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQbG1CdXNpbmVzc09iamVjdENyZWF0aW9uRmFjdG9yeVw+</text>
