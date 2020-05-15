@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW1vdmVGcm9tR2VuZXJpY1RhYmxlXD4=</entry>
         <entry encoding="base64">XDxleGlzdHNJblNhcFw+</entry>
         <entry encoding="base64">XDxjaGVja0FjdGl2ZUxhbmd1YWdlVGFiXD4=</entry>
         <entry encoding="base64">XDxkb2N1bWVudFw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxsYXlvdXRNYW5hZ2VyRGlhbG9nXD4=</entry>
         <entry encoding="base64">XDxQbG1CdXNpbmVzc09iamVjdENyZWF0aW9uRmFjdG9yeVw+</entry>
         <entry encoding="base64">XDxkcm9wSGFuZGxlclw+</entry>
+        <entry encoding="base64">XDxkcm9wTW9kZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>579</entry>
@@ -140,6 +140,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/brobj/SmartContainerDefinitionFactory.java" timestamp="1589538544938" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/brobj/BrMasterModelContainer.java" timestamp="1589469375033">
         <mark key="'" line="230" column="4" />
       </file>
@@ -166,7 +167,8 @@
         <mark key="]" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/trunk/src/main/java/ricwolf/BrBusinessDropHandler.java" timestamp="1589537606264">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/trunk/src/main/java/ricwolf/BrBusinessDropHandler.java" timestamp="1589538892518">
+        <mark key="'" line="94" column="58" />
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
@@ -206,11 +208,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/molex/tags/ImportServer 4.6.7.1/src/main/java/molex/PlmSeriesNumberCreator.java" timestamp="1589468625015" />
     </filemarks>
     <jumps>
-      <jump line="622" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/gfps/trunk/gfps-plugins/src/main/java/gfps/gfx/LongTextEditor.java" />
-      <jump line="817" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/gfps/trunk/gfps-plugins/src/main/java/gfps/gfx/LongTextEditor.java" />
       <jump line="142" column="34" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-cust/src/main/java/cadagent/plm/PlmMaterialFieldsUtil.java" />
       <jump line="588" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-cust/src/main/java/cadagent/plm/PlmMaterialFieldsUtil.java" />
       <jump line="162" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-cust/src/main/java/cadagent/plm/PlmMaterialFieldsUtil.java" />
@@ -309,6 +308,8 @@
       <jump line="261" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/brobj/BrTmpFolder.java" />
       <jump line="309" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/brobj/BrTmpFolder.java" />
       <jump line="315" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/brobj/BrTmpFolder.java" />
+      <jump line="64" column="20" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/trunk/src/main/java/ricwolf/BrBusinessDropHandler.java" />
+      <jump line="94" column="58" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/trunk/src/main/java/ricwolf/BrBusinessDropHandler.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -323,7 +324,7 @@
         <text>ab</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkcm9wSGFuZGxlclw+</text>
+        <text encoding="base64">XDxkcm9wTW9kZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFRyYWNlLnByaW50bG4oIlJJQ1dPTEYiLCAwLCAiVGFibGUgdHlwZToiK29iamVjdC5nZXRUYWJsZVR5cGUoKSk7Cg==</text>
@@ -365,9 +366,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxkcm9wSGFuZGxlclw+</last-search>
+      <last-search encoding="base64">XDxkcm9wTW9kZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkcm9wSGFuZGxlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxkcm9wTW9kZVw+</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute encoding="base64">XDxvYmplY3RPYmplY3RIYXNoTWFwXD4=</last-substitute>
       <last-dir>1</last-dir>
