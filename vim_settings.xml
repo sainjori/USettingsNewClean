@@ -151,6 +151,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/modules/fa/FAUtils.java" timestamp="1589810377330">
         <mark key="'" line="2244" column="79" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/dataexchange/proc/PlmProcessDataExcExport.java" timestamp="1589894126370">
+        <mark key="[" line="1487" column="50" />
+        <mark key="]" line="1488" column="18" />
+        <mark key="." line="1488" column="17" />
+        <mark key="^" line="1488" column="18" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/base/java/src/cadagent/gui/obr/ObrFunctionEventQueue.java" timestamp="1589822981507" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/trunk/src/main/java/ricwolf/brobj/BrRicwolfBusinessObject.java" timestamp="1589543195083">
         <mark key="'" line="238" column="70" />
@@ -165,19 +171,13 @@
         <mark key="]" line="173" column="36" />
         <mark key="." line="173" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589893192048">
-        <mark key="[" line="0" column="10" />
+      <file name="/Dummy.txt" timestamp="1589894186053">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/dataexchange/omf/OmfDataExcExport.java" timestamp="1589892418969">
         <mark key="'" line="1621" column="14" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/trunk/src/main/java/ricwolf/PlmBusinessToBrRicwolfBusinessObjectConverter.java" timestamp="1589539670299">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="63" column="71" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/base/java/src/cadagent/gui/obr/ObjectBrowsePanel.java" timestamp="1589816002732" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/modules/fa/brobj/BrFARouting.java" timestamp="1589885460185">
@@ -298,14 +298,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>DefaultLogException</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkbGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>DefaultLogException</text>
+        <text>Exception</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkcm9wTW9kZVw+</text>
@@ -320,32 +320,32 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNldEluZGljYXRpb25OYW1lKHBsbUZhUm91dGluZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkbGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIHNldEluZGljYXRpb25OYW1lKHBsbUZhUm91dGluZyk7Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIHNldEluZGljYXRpb25OYW1lKHBsbUZhUm91dGluZyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>String routingType = plmFaRouting.getType();
     String routingNr = plmFaRouting.getGroupNumber();
     String routingCounter = plmFaRouting.getGroupCounter();
     String routingDesc = plmFaRouting.getDescription();
     setIndicationName(routingType + &quot;-&quot; + routingNr + &quot;-&quot; + routingCounter + &quot; &quot; + routingDesc);</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgYnJSaWN3b2xmQnVzaW5lc3NPYmplY3Quc2V0RHJvcEhhbmRsZXIobmV3IEJyQnVzaW5lc3NEcm9wSGFuZGxlcigpKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkcm9wSGFuZGxlci5vYmplY3RzRHJvcHBlZChvYmplY3RzVG9BZGQpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkcm9wSGFuZGxlci5vYmplY3RzRHJvcHBlZChvYmplY3RzVG9BZGQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>525</text>
