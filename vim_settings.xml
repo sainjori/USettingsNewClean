@@ -141,13 +141,12 @@
     <globalmarks />
     <filemarks>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/trunk/src/main/java/ricwolf/ProcessBusinessDropHandler.java" timestamp="1589539854406" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/dataexchange/proc/PlmProcessDataExcExport.java" timestamp="1589892073044">
-        <mark key="[" line="1485" column="36" />
-        <mark key="]" line="1485" column="38" />
-        <mark key="^" line="1485" column="38" />
-        <mark key="." line="1485" column="37" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/dataexchange/proc/PlmProcessDataExcExport.java" timestamp="1589892628410">
+        <mark key="[" line="190" column="91" />
+        <mark key="]" line="190" column="89" />
+        <mark key="^" line="190" column="89" />
+        <mark key="." line="190" column="88" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/brobj/BrPlmObject.java" timestamp="1589539588166" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/sapbase/java/src/cadagent/proc/ProcessObjectGetDetailFast.java" timestamp="1589825225225" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/modules/fa/FAUtils.java" timestamp="1589810377330">
         <mark key="'" line="2244" column="79" />
@@ -161,16 +160,18 @@
         <mark key="." line="239" column="89" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/brobj/BrBusinessObject.java" timestamp="1589542676349" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/utils/OmfUtils.java" timestamp="1589539226580" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/modules/fa/brobj/BrFARouting.java" timestamp="1589882719234">
-        <mark key="[" line="310" column="0" />
-        <mark key="]" line="310" column="36" />
-        <mark key="." line="310" column="0" />
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="173" column="36" />
+        <mark key="." line="173" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589885494268">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1589893192048">
+        <mark key="[" line="0" column="10" />
         <mark key="]" line="2" column="6" />
         <mark key="." line="2" column="6" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/dataexchange/omf/OmfDataExcExport.java" timestamp="1589892418969">
+        <mark key="'" line="1621" column="14" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/trunk/src/main/java/ricwolf/PlmBusinessToBrRicwolfBusinessObjectConverter.java" timestamp="1589539670299">
         <mark key="[" line="63" column="0" />
@@ -186,6 +187,7 @@
         <mark key="." line="307" column="33" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/gui/GuiUtils.java" timestamp="1589824885462" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/kion/trunk/kion/src/main/java/kion/dadi/DadiExportAfterRepairRefs.java" timestamp="1589892154569" />
       <file name="/fragment.java" timestamp="1589826627319">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -193,7 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-cust/src/main/java/cadagent/plm/PlmMaterialFieldsUtil.java" />
       <jump line="1932" column="9" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-util/src/main/java/util/StringTool.java" />
       <jump line="1923" column="25" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-util/src/main/java/util/StringTool.java" />
       <jump line="1928" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-util/src/main/java/util/StringTool.java" />
@@ -293,18 +294,19 @@
       <jump line="94" column="58" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/trunk/src/main/java/ricwolf/BrBusinessDropHandler.java" />
       <jump line="238" column="70" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/trunk/src/main/java/ricwolf/brobj/BrRicwolfBusinessObject.java" />
       <jump line="2244" column="79" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/modules/fa/FAUtils.java" />
+      <jump line="1621" column="14" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/dataexchange/omf/OmfDataExcExport.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkbGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>DefaultLogException</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Exception</text>
+        <text>DefaultLogException</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkcm9wTW9kZVw+</text>
