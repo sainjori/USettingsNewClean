@@ -141,6 +141,12 @@
     <globalmarks />
     <filemarks>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/trunk/src/main/java/ricwolf/ProcessBusinessDropHandler.java" timestamp="1589539854406" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/dataexchange/proc/PlmProcessDataExcExport.java" timestamp="1589892073044">
+        <mark key="[" line="1485" column="36" />
+        <mark key="]" line="1485" column="38" />
+        <mark key="^" line="1485" column="38" />
+        <mark key="." line="1485" column="37" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/brobj/BrPlmObject.java" timestamp="1589539588166" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/sapbase/java/src/cadagent/proc/ProcessObjectGetDetailFast.java" timestamp="1589825225225" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/modules/fa/FAUtils.java" timestamp="1589810377330">
@@ -165,12 +171,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="6" />
         <mark key="." line="2" column="6" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/trunk/src/main/java/ricwolf/BrBusinessDropHandler.java" timestamp="1589538892518">
-        <mark key="'" line="94" column="58" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/trunk/src/main/java/ricwolf/PlmBusinessToBrRicwolfBusinessObjectConverter.java" timestamp="1589539670299">
         <mark key="[" line="63" column="0" />
@@ -298,13 +298,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNldEluZGljYXRpb25OYW1lKHBsbUZhUm91dGluZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkbGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>find</text>
+        <text>Exception</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkcm9wTW9kZVw+</text>
@@ -313,38 +313,38 @@
         <text encoding="base64">ICAgIFRyYWNlLnByaW50bG4oIlJJQ1dPTEYiLCAwLCAiVGFibGUgdHlwZToiK29iamVjdC5nZXRUYWJsZVR5cGUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNldEluZGljYXRpb25OYW1lKHBsbUZhUm91dGluZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkbGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIHNldEluZGljYXRpb25OYW1lKHBsbUZhUm91dGluZyk7Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIHNldEluZGljYXRpb25OYW1lKHBsbUZhUm91dGluZyk7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>String routingType = plmFaRouting.getType();
     String routingNr = plmFaRouting.getGroupNumber();
     String routingCounter = plmFaRouting.getGroupCounter();
     String routingDesc = plmFaRouting.getDescription();
     setIndicationName(routingType + &quot;-&quot; + routingNr + &quot;-&quot; + routingCounter + &quot; &quot; + routingDesc);</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgYnJSaWN3b2xmQnVzaW5lc3NPYmplY3Quc2V0RHJvcEhhbmRsZXIobmV3IEJyQnVzaW5lc3NEcm9wSGFuZGxlcigpKTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBkcm9wSGFuZGxlci5vYmplY3RzRHJvcHBlZChvYmplY3RzVG9BZGQpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChwbG1PYmplY3RzLmdldCgwKSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>525</text>
