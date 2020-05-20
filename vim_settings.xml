@@ -145,6 +145,15 @@
         <mark key="]" line="1487" column="0" />
         <mark key="." line="1487" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/dictionary/de/customer.txt" timestamp="1590000361367">
+        <mark key="[" line="19" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/gui/browser/components/FaWorkCenterEquipmentsListPanel.java" timestamp="1590001442892">
+        <mark key="[" line="107" column="83" />
+        <mark key="]" line="107" column="84" />
+        <mark key="^" line="107" column="84" />
+        <mark key="." line="107" column="83" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/sapbase/java/src/cadagent/proc/ProcessObjectGetDetailFast.java" timestamp="1589825225225" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/modules/fa/FAUtils.java" timestamp="1589810377330">
         <mark key="'" line="2244" column="79" />
@@ -156,20 +165,13 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/base/java/src/cadagent/gui/obr/ObrFunctionEventQueue.java" timestamp="1589822981507" />
       <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/gui/browser/util/tabs/services/FaEquiBrowsePanelTabBuildService.java" timestamp="1589999750005" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/trunk/src/main/java/ricwolf/brobj/BrRicwolfBusinessObject.java" timestamp="1589543195083">
-        <mark key="'" line="238" column="70" />
-        <mark key="[" line="239" column="73" />
-        <mark key="]" line="239" column="90" />
-        <mark key="^" line="239" column="90" />
-        <mark key="." line="239" column="89" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/brobj/BrBusinessObject.java" timestamp="1589542676349" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/gui/browser/components/FaEquipmentTlmReservationsPanel.java" timestamp="1590001393874" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/modules/fa/brobj/BrFARouting.java" timestamp="1589882719234">
         <mark key="[" line="173" column="0" />
         <mark key="]" line="173" column="36" />
         <mark key="." line="173" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589990489186">
+      <file name="/Dummy.txt" timestamp="1590001549655">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -178,6 +180,9 @@
         <mark key="'" line="1621" column="14" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/base/java/src/cadagent/gui/obr/ObjectBrowsePanel.java" timestamp="1589816002732" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.2/base-5.1.15.2-sources.jar!/cadagent/gui/obr/ObrChildrenDisplay.java" timestamp="1590000778941">
+        <mark key="'" line="191" column="39" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/modules/fa/brobj/BrFARouting.java" timestamp="1589885460185">
         <mark key="]" line="171" column="34" />
         <mark key="^" line="171" column="34" />
@@ -192,7 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1928" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-util/src/main/java/util/StringTool.java" />
       <jump line="1518" column="85" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-util/src/main/java/util/StringTool.java" />
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-util/src/main/java/util/StringTool.java" />
       <jump line="1925" column="37" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.14.1/base-5.1.14.1-sources.jar!/cadagent/cfc/util/StringTool.java" />
@@ -292,6 +296,7 @@
       <jump line="1621" column="14" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/dataexchange/omf/OmfDataExcExport.java" />
       <jump line="230" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/dataexchange/proc/PlmProcessDataExcExport.java" />
       <jump line="190" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/dataexchange/proc/PlmProcessDataExcExport.java" />
+      <jump line="191" column="39" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.2/base-5.1.15.2-sources.jar!/cadagent/gui/obr/ObrChildrenDisplay.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
