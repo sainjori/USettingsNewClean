@@ -153,12 +153,6 @@
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/dictionary/de/customer.txt" timestamp="1590000361367">
         <mark key="[" line="19" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/gui/browser/components/FaWorkCenterEquipmentsListPanel.java" timestamp="1590002216760">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="^" line="105" column="84" />
-        <mark key="." line="94" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/sapbase/java/src/cadagent/proc/ProcessObjectGetDetailFast.java" timestamp="1589825225225" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/dataexchange/proc/PlmProcessDataExcExport.java" timestamp="1589990333480">
         <mark key="[" line="1470" column="6" />
@@ -168,10 +162,9 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/gui/browser/components/FaWorkCenterEquipmentsListPanel.java" timestamp="1590002196226">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
-        <mark key="^" line="95" column="84" />
+        <mark key="^" line="84" column="84" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/base/java/src/cadagent/gui/obr/ObrFunctionEventQueue.java" timestamp="1589822981507" />
       <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/gui/browser/util/tabs/services/FaEquiBrowsePanelTabBuildService.java" timestamp="1589999750005" />
       <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/gui/browser/components/FaEquipmentTlmReservationsPanel.java" timestamp="1590002223339">
         <mark key="[" line="76" column="0" />
@@ -183,11 +176,7 @@
         <mark key="]" line="173" column="36" />
         <mark key="." line="173" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590002230176">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
+      <file name="/Dummy.txt" timestamp="1590002290125" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/dataexchange/omf/OmfDataExcExport.java" timestamp="1589892418969">
         <mark key="'" line="1621" column="14" />
       </file>
@@ -202,6 +191,9 @@
         <mark key="^" line="171" column="34" />
         <mark key="." line="171" column="33" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/omf/OmfFaToolConfChangeLpr.java" timestamp="1590002989531">
+        <mark key="'" line="363" column="21" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/gui/GuiUtils.java" timestamp="1589824885462" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/kion/trunk/kion/src/main/java/kion/dadi/DadiExportAfterRepairRefs.java" timestamp="1589892154569" />
       <file name="/fragment.java" timestamp="1589999773101">
@@ -211,7 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="569" column="24" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-util/src/main/java/util/ContainerTool.java" />
       <jump line="139" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-hotfix/src/main/java/plm/gui/PlmActiveListDropHandler.java" />
       <jump line="476" column="12" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-hotfix/src/main/java/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" />
       <jump line="764" column="18" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-hotfix/src/main/java/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" />
@@ -311,6 +302,7 @@
       <jump line="82" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.1/plm-5.2.2.1-sources.jar!/plm/gui/browser/DefaultObrTableBrowserComponent.java" />
       <jump line="109" column="19" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.1/plm-5.2.2.1-sources.jar!/plm/gui/browser/DefaultObrTableBrowserComponent.java" />
       <jump line="136" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.1/plm-5.2.2.1-sources.jar!/plm/gui/browser/DefaultObrTableBrowserComponent.java" />
+      <jump line="363" column="21" filename="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/omf/OmfFaToolConfChangeLpr.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
