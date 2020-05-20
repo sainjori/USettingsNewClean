@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxleGlzdHNJblNhcFw+</entry>
         <entry encoding="base64">XDxjaGVja0FjdGl2ZUxhbmd1YWdlVGFiXD4=</entry>
         <entry encoding="base64">XDxkb2N1bWVudFw+</entry>
         <entry encoding="base64">XDxwbG1NYXRlcmlhbFw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxQbG1CdXNpbmVzc09iamVjdENyZWF0aW9uRmFjdG9yeVw+</entry>
         <entry encoding="base64">XDxkcm9wSGFuZGxlclw+</entry>
         <entry encoding="base64">XDxkcm9wTW9kZVw+</entry>
+        <entry encoding="base64">XDxwYW5lbE5hbWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>579</entry>
@@ -145,33 +145,45 @@
         <mark key="]" line="1487" column="0" />
         <mark key="." line="1487" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/gui/browser/components/FaEquipmentTlmReservationsPanel.java" timestamp="1590002159235">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/dictionary/de/customer.txt" timestamp="1590000361367">
         <mark key="[" line="19" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/gui/browser/components/FaWorkCenterEquipmentsListPanel.java" timestamp="1590001442892">
-        <mark key="[" line="107" column="83" />
-        <mark key="]" line="107" column="84" />
-        <mark key="^" line="107" column="84" />
-        <mark key="." line="107" column="83" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/gui/browser/components/FaWorkCenterEquipmentsListPanel.java" timestamp="1590002216760">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="^" line="105" column="84" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/sapbase/java/src/cadagent/proc/ProcessObjectGetDetailFast.java" timestamp="1589825225225" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/modules/fa/FAUtils.java" timestamp="1589810377330">
-        <mark key="'" line="2244" column="79" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/dataexchange/proc/PlmProcessDataExcExport.java" timestamp="1589990333480">
         <mark key="[" line="1470" column="6" />
         <mark key="]" line="1470" column="6" />
         <mark key="." line="1470" column="6" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/gui/browser/components/FaWorkCenterEquipmentsListPanel.java" timestamp="1590002196226">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="^" line="95" column="84" />
+        <mark key="." line="84" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/base/java/src/cadagent/gui/obr/ObrFunctionEventQueue.java" timestamp="1589822981507" />
       <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/gui/browser/util/tabs/services/FaEquiBrowsePanelTabBuildService.java" timestamp="1589999750005" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/gui/browser/components/FaEquipmentTlmReservationsPanel.java" timestamp="1590001393874" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/gui/browser/components/FaEquipmentTlmReservationsPanel.java" timestamp="1590002223339">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/modules/fa/brobj/BrFARouting.java" timestamp="1589882719234">
         <mark key="[" line="173" column="0" />
         <mark key="]" line="173" column="36" />
         <mark key="." line="173" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590001549655">
+      <file name="/Dummy.txt" timestamp="1590002230176">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -179,9 +191,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/dataexchange/omf/OmfDataExcExport.java" timestamp="1589892418969">
         <mark key="'" line="1621" column="14" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/base/java/src/cadagent/gui/obr/ObjectBrowsePanel.java" timestamp="1589816002732" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.2/base-5.1.15.2-sources.jar!/cadagent/gui/obr/ObrChildrenDisplay.java" timestamp="1590000778941">
         <mark key="'" line="191" column="39" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.1/plm-5.2.2.1-sources.jar!/plm/gui/browser/DefaultObrTableBrowserComponent.java" timestamp="1590002088608">
+        <mark key="'" line="136" column="4" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/modules/fa/brobj/BrFARouting.java" timestamp="1589885460185">
         <mark key="]" line="171" column="34" />
@@ -197,10 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1518" column="85" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-util/src/main/java/util/StringTool.java" />
-      <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-util/src/main/java/util/StringTool.java" />
-      <jump line="1925" column="37" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.14.1/base-5.1.14.1-sources.jar!/cadagent/cfc/util/StringTool.java" />
-      <jump line="2139" column="45" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-util/src/main/java/util/StringTool.java" />
       <jump line="569" column="24" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-util/src/main/java/util/ContainerTool.java" />
       <jump line="139" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-hotfix/src/main/java/plm/gui/PlmActiveListDropHandler.java" />
       <jump line="476" column="12" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-hotfix/src/main/java/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" />
@@ -297,12 +307,16 @@
       <jump line="230" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/dataexchange/proc/PlmProcessDataExcExport.java" />
       <jump line="190" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/dataexchange/proc/PlmProcessDataExcExport.java" />
       <jump line="191" column="39" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.2/base-5.1.15.2-sources.jar!/cadagent/gui/obr/ObrChildrenDisplay.java" />
+      <jump line="74" column="17" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.1/plm-5.2.2.1-sources.jar!/plm/gui/browser/DefaultObrTableBrowserComponent.java" />
+      <jump line="82" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.1/plm-5.2.2.1-sources.jar!/plm/gui/browser/DefaultObrTableBrowserComponent.java" />
+      <jump line="109" column="19" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.1/plm-5.2.2.1-sources.jar!/plm/gui/browser/DefaultObrTableBrowserComponent.java" />
+      <jump line="136" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.1/plm-5.2.2.1-sources.jar!/plm/gui/browser/DefaultObrTableBrowserComponent.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -311,40 +325,40 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkcm9wTW9kZVw+</text>
+        <text encoding="base64">XDxwYW5lbE5hbWVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFRyYWNlLnByaW50bG4oIlJJQ1dPTEYiLCAwLCAiVGFibGUgdHlwZToiK29iamVjdC5nZXRUYWJsZVR5cGUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ClRoaXMgcmV2ZXJ0cyBjb21taXQgMjE3NmIzMjk=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQogICAgICBjYXRjaCAoRGVmYXVsdExvZ0V4Y2VwdGlvbiBkbGUpCiAgICAgIHsKICAgICAgICBUcmFjZS5wcmludGxuKDEsICJFcnJvciBpbiBEYWRpICdwbG0uZXhwb3J0LmFmdGVyUmVwYWlyUmVmcyciKTsKICAgICAgICBUcmFjZS5wcmludGxuU3RhY2tUcmFjZShUcmFjZS5ERUJVRywgZGxlKTsKICAgICAgICB0aHJvdyBkbGU7CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHNldFBhbmVsTmFtZShEaWMuZ2V0KCJwbG0uZXF1aXBtZW50LnRsbS5yZXNlcnZhdGlvbnMubGlzdC5wYW5lbC5uYW1lIiwgIkVxdWlwbWVudCByZXNlcnZhdGlvbnMiKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdHJ5CiAgICAgIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ClRoaXMgcmV2ZXJ0cyBjb21taXQgOTMxZmI4NmM=</text>
+        <text encoding="base64">ICAgIHNldFBhbmVsTmFtZShEaWMuZ2V0KCJwbG0ud29yay5jZW50ZXIuZXF1aXBtZW50Lmxpc3QucGFuZWwubmFtZSIsICJFcXVpcG1lbnRzIExpc3QiKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQogICAgICBjYXRjaCAoRGVmYXVsdExvZ0V4Y2VwdGlvbiBkbGUpCiAgICAgIHsKICAgICAgICBUcmFjZS5wcmludGxuKDEsICJFcnJvciBpbiBEYWRpICdwbG0uZXhwb3J0LmFmdGVyUmVwYWlyUmVmcyciKTsKICAgICAgICBUcmFjZS5wcmludGxuU3RhY2tUcmFjZShUcmFjZS5ERUJVRywgZGxlKTsKICAgICAgICB0aHJvdyBkbGU7CiAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdHJ5CiAgICAgIHsK</text>
+        <text encoding="base64">ICAgIHNldFBhbmVsTmFtZShEaWMuZ2V0KCJwbG0ud29yay5jZW50ZXIuZXF1aXBtZW50Lmxpc3QucGFuZWwubmFtZSIsICJFcXVpcG1lbnRzIExpc3QiKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdHJ5CiAgICAgIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHNldFBhbmVsTmFtZShEaWMuZ2V0KCJwbG0ud29yay5jZW50ZXIuZXF1aXBtZW50Lmxpc3QucGFuZWwubmFtZSIsICJFcXVpcG1lbnRzIExpc3QiKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY2F0Y2ggKERlZmF1bHRMb2dFeGNlcHRpb24gZGxlKQogICAgICB7CiAgICAgICAgVHJhY2UucHJpbnRsbigxLCAiRXJyb3IgaW4gRGFkaSAncGxtLmV4cG9ydC5hZnRlclJlcGFpclJlZnMnIik7CiAgICAgICAgVHJhY2UucHJpbnRsblN0YWNrVHJhY2UoVHJhY2UuREVCVUcsIGRsZSk7CiAgICAgICAgdGhyb3cgZGxlOwogICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>737</text>
@@ -353,9 +367,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxkcm9wTW9kZVw+</last-search>
+      <last-search encoding="base64">XDxwYW5lbE5hbWVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkcm9wTW9kZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxwYW5lbE5hbWVcPg==</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute encoding="base64">XDxkcm9wTW9kZVw+</last-substitute>
       <last-dir>1</last-dir>
