@@ -168,11 +168,11 @@
         <mark key="^" line="84" column="84" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/toolconf/backwardscompatibility/FaToolConfChangeLprDlg.java" timestamp="1590060579597">
-        <mark key="[" line="314" column="5" />
-        <mark key="]" line="314" column="17" />
-        <mark key="." line="314" column="16" />
-        <mark key="^" line="314" column="17" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/toolconf/backwardscompatibility/FaToolConfChangeLprDlg.java" timestamp="1590061924309">
+        <mark key="[" line="319" column="36" />
+        <mark key="]" line="319" column="54" />
+        <mark key="^" line="319" column="54" />
+        <mark key="." line="319" column="53" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/gui/browser/util/tabs/services/FaEquiBrowsePanelTabBuildService.java" timestamp="1589999750005" />
       <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/gui/browser/components/FaEquipmentTlmReservationsPanel.java" timestamp="1590002223339">
@@ -180,9 +180,14 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590002290125" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/dataexchange/omf/OmfDataExcExport.java" timestamp="1589892418969">
-        <mark key="'" line="1621" column="14" />
+      <file name="/Dummy.txt" timestamp="1590062486140">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/toolconf/backwardscompatibility/fefef.java" timestamp="1590063204954">
+        <mark key="[" line="14" column="35" />
+        <mark key="]" line="14" column="35" />
+        <mark key="^" line="14" column="35" />
+        <mark key="." line="14" column="34" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.2/base-5.1.15.2-sources.jar!/cadagent/gui/obr/ObrChildrenDisplay.java" timestamp="1590000778941">
         <mark key="'" line="191" column="39" />
@@ -190,19 +195,20 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1590005538798">
         <mark key="'" line="980" column="6" />
       </file>
+      <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/text/DecimalFormat.java" timestamp="1590062461395" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.1/plm-5.2.2.1-sources.jar!/plm/gui/browser/DefaultObrTableBrowserComponent.java" timestamp="1590002088608">
         <mark key="'" line="136" column="4" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/modules/fa/brobj/BrFARouting.java" timestamp="1589885460185">
-        <mark key="]" line="171" column="34" />
-        <mark key="^" line="171" column="34" />
-        <mark key="." line="171" column="33" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/omf/OmfFaToolConfChangeLpr.java" timestamp="1590005659934">
         <mark key="'" line="363" column="21" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/kion/trunk/kion/src/main/java/kion/dadi/DadiExportAfterRepairRefs.java" timestamp="1589892154569" />
-      <file name="/fragment.java" timestamp="1590007186423">
+      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/test/java/plm/modules/fa/toolconf/backwardscompatibility/fefefTest.java" timestamp="1590063069647">
+        <mark key="[" line="15" column="48" />
+        <mark key="]" line="15" column="52" />
+        <mark key="^" line="15" column="52" />
+        <mark key="." line="15" column="51" />
+      </file>
+      <file name="/fragment.java" timestamp="1590061950511">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -313,50 +319,52 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG51bWJlckZvcm1hdC5zZXRNaW5pbXVtRnJhY3Rpb25EaWdpdHMoMik7CiAgICBudW1iZXJGb3JtYXQuc2V0TWF4aW11bUZyYWN0aW9uRGlnaXRzKDQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>min</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYW5lbE5hbWVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG51bWJlckZvcm1hdC5zZXRNaW5pbXVtRnJhY3Rpb25EaWdpdHMoMik7CiAgICBudW1iZXJGb3JtYXQuc2V0TWF4aW11bUZyYWN0aW9uRGlnaXRzKDQpOwo=</text>
+        <text encoding="base64">ICAgIGJ1Zi5hcHBlbmQoU3RyaW5nLmZvcm1hdCgiJTYuM2UiLCBtaW4pKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG51bWJlckZvcm1hdC5zZXRNaW5pbXVtRnJhY3Rpb25EaWdpdHMoMik7CiAgICBudW1iZXJGb3JtYXQuc2V0TWF4aW11bUZyYWN0aW9uRGlnaXRzKDQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG51bWJlckZvcm1hdC5zZXRNaW5pbXVtRnJhY3Rpb25EaWdpdHMoMik7CiAgICBudW1iZXJGb3JtYXQuc2V0TWF4aW11bUZyYWN0aW9uRGlnaXRzKDQpOwo=</text>
+        <text encoding="base64">ICAgIERlY2ltYWxGb3JtYXQgZGVjaW1hbEZvcm1hdCA9IG5ldyBEZWNpbWFsRm9ybWF0KCIwRTAiKTsKICAgIGRlY2ltYWxGb3JtYXQuc2V0TWluaW11bUZyYWN0aW9uRGlnaXRzKDIpOwogICAgZGVjaW1hbEZvcm1hdC5zZXRNYXhpbXVtRnJhY3Rpb25EaWdpdHMoNCk7Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG51bWJlckZvcm1hdC4K</text>
+        <text encoding="base64">ICAgIGJ1Zi5hcHBlbmQoZGVjaW1hbEZvcm1hdC5mb3JtYXQobmV3IEJpZ0RlY2ltYWwobWF4KSkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIE51bWJlckZvcm1hdCBpbnN0YW5jZSA9IE51bWJlckZvcm1hdC5nZXRJbnN0YW5jZSgpOwogICAgaW5zdGFuY2Uuc2V0TWluaW11bUZyYWN0aW9uRGlnaXRzKDIpOwogICAgaW5zdGFuY2Uuc2V0TWF4aW11bUZyYWN0aW9uRGlnaXRzKDQpOwo=</text>
+        <text encoding="base64">ICAgIFN0cmluZy5mb3JtYXQoKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNldFBhbmVsTmFtZShEaWMuZ2V0KCJwbG0uZXF1aXBtZW50LnRsbS5yZXNlcnZhdGlvbnMubGlzdC5wYW5lbC5uYW1lIiwgIkVxdWlwbWVudCByZXNlcnZhdGlvbnMiKSk7Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQoImZmZSIsICI8aHRtbD4gWzxzdHJvbmc+MSwwMEUwLi4uMiwwMEUwXTwvc3Ryb25nPiIsIE1hdGNoZXJzLmVxKCI8aHRtbD4gWzxzdHJvbmc+MSwwMEUwLi4uMiwwMEUwXTwvc3Ryb25nPiIpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydGVxdWFscwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNldFBhbmVsTmFtZShEaWMuZ2V0KCJwbG0ud29yay5jZW50ZXIuZXF1aXBtZW50Lmxpc3QucGFuZWwubmFtZSIsICJFcXVpcG1lbnRzIExpc3QiKSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>NumberFormat numberFormat = NumberFormat.getInstance();
+//    numberFormat.setMinimumFractionDigits(2);
+//    numberFormat.setMaximumFractionDigits(4);</text>
       </register>
       <register name=":" type="4">
         <text>737</text>
