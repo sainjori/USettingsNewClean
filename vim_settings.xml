@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZHZNYXRWYWx1ZVw+</entry>
-        <entry encoding="base64">XDx2ZWFfbWF0X2Fzc2lnbm1lbnRcPg==</entry>
         <entry encoding="base64">XDxpc0FjdGl2TGFuZ1RhYkVtcHR5XD4=</entry>
         <entry encoding="base64">XDxJTl9QTEFOVFw+</entry>
         <entry encoding="base64">XDxpblBsYW50XD4=</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxscHJYXD4=</entry>
         <entry encoding="base64">XDxpdGVtXD4=</entry>
         <entry encoding="base64">XDxjb21wb3NlZFRvb2xcPg==</entry>
+        <entry encoding="base64">XDxEZWNpbWFsRm9ybWF0XD4=</entry>
+        <entry encoding="base64">XDxjXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>579</entry>
@@ -168,17 +168,20 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/tool/FAComposeToolExtPanel.java" timestamp="1590147774498">
         <mark key="'" line="1245" column="34" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/toolconf/backwardscompatibility/FaToolConfChangeLprDlg.java" timestamp="1590150238149">
-        <mark key="'" line="154" column="10" />
-        <mark key="[" line="312" column="27" />
-        <mark key="]" line="313" column="43" />
-        <mark key="." line="313" column="42" />
-        <mark key="^" line="313" column="43" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/toolconf/backwardscompatibility/FaToolConfChangeLprDlg.java" timestamp="1590152105575">
+        <mark key="'" line="156" column="10" />
+        <mark key="[" line="316" column="35" />
+        <mark key="]" line="316" column="38" />
+        <mark key="." line="316" column="37" />
+        <mark key="^" line="316" column="38" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/gui/browser/components/FaEquipmentTlmReservationsPanel.java" timestamp="1590002223339">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
+      </file>
+      <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Formatter.java" timestamp="1590151851195">
+        <mark key="'" line="2778" column="21" />
       </file>
       <file name="/Dummy.txt" timestamp="1590065861952">
         <mark key="[" line="0" column="0" />
@@ -189,13 +192,12 @@
         <mark key="." line="12" column="32" />
         <mark key="^" line="12" column="33" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.2/base-5.1.15.2-sources.jar!/cadagent/gui/obr/ObrChildrenDisplay.java" timestamp="1590000778941">
-        <mark key="'" line="191" column="39" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1590005538798">
         <mark key="'" line="980" column="6" />
       </file>
-      <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/text/DecimalFormat.java" timestamp="1590067346099" />
+      <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/text/DecimalFormat.java" timestamp="1590151518227">
+        <mark key="'" line="445" column="17" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.1/plm-5.2.2.1-sources.jar!/plm/gui/browser/DefaultObrTableBrowserComponent.java" timestamp="1590002088608">
         <mark key="'" line="136" column="4" />
       </file>
@@ -215,13 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="374" column="27" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.2.2.1/addons-5.2.2.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportClassification.java" />
-      <jump line="379" column="30" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.2.2.1/addons-5.2.2.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportClassification.java" />
-      <jump line="398" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.2.2.1/addons-5.2.2.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportClassification.java" />
-      <jump line="404" column="55" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.2.2.1/addons-5.2.2.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportClassification.java" />
-      <jump line="444" column="55" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.2.2.1/addons-5.2.2.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportClassification.java" />
-      <jump line="535" column="75" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.2.2.1/addons-5.2.2.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportClassification.java" />
-      <jump line="539" column="32" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.2.2.1/addons-5.2.2.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportClassification.java" />
       <jump line="7377" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.14.1/addons-5.1.14.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="144" column="26" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.2.2.1/addons-5.2.2.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportClassification.java" />
       <jump line="147" column="96" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.2.2.1/addons-5.2.2.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportClassification.java" />
@@ -315,54 +310,62 @@
       <jump line="1238" column="18" filename="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/tool/FAComposeToolExtPanel.java" />
       <jump line="1243" column="36" filename="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/tool/FAComposeToolExtPanel.java" />
       <jump line="1245" column="34" filename="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/tool/FAComposeToolExtPanel.java" />
+      <jump line="403" column="11" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/text/DecimalFormat.java" />
+      <jump line="419" column="17" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/text/DecimalFormat.java" />
+      <jump line="422" column="7" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/text/DecimalFormat.java" />
+      <jump line="437" column="11" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/text/DecimalFormat.java" />
+      <jump line="445" column="17" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/text/DecimalFormat.java" />
+      <jump line="1955" column="30" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Formatter.java" />
+      <jump line="2778" column="21" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Formatter.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC4K</text>
+        <text encoding="base64">ICAgIERlY2ltYWxGb3JtYXQgZGVjaW1hbEZvcm1hdCA9IG5ldyBEZWNpbWFsRm9ybWF0KCk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>instance</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb21wb3NlZFRvb2xcPg==</text>
+        <text encoding="base64">XDxjXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGJ1Zi5hcHBlbmQoU3RyaW5nLmZvcm1hdCgiJS4zZyIsIG1pbikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC4K</text>
+        <text encoding="base64">ICAgIERlY2ltYWxGb3JtYXQgZGVjaW1hbEZvcm1hdCA9IG5ldyBEZWNpbWFsRm9ybWF0KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE51bWJlckZvcm1hdC5nZXQK</text>
+        <text encoding="base64">ICAgIE51bWJlckZvcm1hdCBpbnN0YW5jZSA9IE51bWJlckZvcm1hdC5nZXRJbnN0YW5jZSgpOwogICAgaW5zdGFuY2Uuc2V0Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE51bWJlckZvcm1hdCBpbnN0YW5jZSA9IE51bWJlckZvcm1hdC5nZXRJbnN0YW5jZSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIERlY2ltYWxGb3JtYXQgZGVjaW1hbEZvcm1hdCA9IG5ldyBEZWNpbWFsRm9ybWF0KCIwRTAiKTsKICAgIGRlY2ltYWxGb3JtYXQuc2V0TWluaW11bUZyYWN0aW9uRGlnaXRzKDIpOwogICAgZGVjaW1hbEZvcm1hdC5zZXRNYXhpbXVtRnJhY3Rpb25EaWdpdHMoNCk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJ1Zi5hcHBlbmQoZGVjaW1hbEZvcm1hdC5mb3JtYXQobmV3IEJpZ0RlY2ltYWwobWF4KSkpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIFN0cmluZy5mb3JtYXQoKQo=</text>
+      <register name="6" type="4">
+        <text>DecimalScientificFormat decimalScientificFormat = new DecimalScientificFormat();
+    String format = decimalScientificFormat.format(min);</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQoImZmZSIsICI8aHRtbD4gWzxzdHJvbmc+MSwwMEUwLi4uMiwwMEUwXTwvc3Ryb25nPiIsIE1hdGNoZXJzLmVxKCI8aHRtbD4gWzxzdHJvbmc+MSwwMEUwLi4uMiwwMEUwXTwvc3Ryb25nPiIpKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydGVxdWFscwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">cHJpdmF0ZSBzdGF0aWMgY2xhc3MgRGVjaW1hbFNjaWVudGlmaWNGb3JtYXQgZXh0ZW5kcyBEZWNpbWFsRm9ybWF0CiAgewogICAgcHJpdmF0ZSBzdGF0aWMgRGVjaW1hbEZvcm1hdCBkZiA9IG5ldyBEZWNpbWFsRm9ybWF0KCIjMC4wMCMjIik7CiAgICBwcml2YXRlIHN0YXRpYyBEZWNpbWFsRm9ybWF0IHNmID0gbmV3IERlY2ltYWxGb3JtYXQoIjAuIyMjRTAiKTsKCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBTdHJpbmdCdWZmZXIgZm9ybWF0KGRvdWJsZSBudW1iZXIsIFN0cmluZ0J1ZmZlciByZXN1bHQsIEZpZWxkUG9zaXRpb24gZmllbGRQb3NpdGlvbikKICAgIHsKICAgICAgU3RyaW5nIGRlY2ltYWxGb3JtYXQgPSBkZi5mb3JtYXQobnVtYmVyKTsKICAgICAgcmV0dXJuICgwLjAwMDEgIT0gbnVtYmVyICYmIGRmLmZvcm1hdCgwLjAwMDEpLmVxdWFscyhkZWNpbWFsRm9ybWF0KSkgPwogICAgICAgICAgc2YuZm9ybWF0KG51bWJlciwgcmVzdWx0LCBmaWVsZFBvc2l0aW9uKSA6CiAgICAgICAgICByZXN1bHQuYXBwZW5kKGRlY2ltYWxGb3JtYXQpOwogICAgfQogIH0=</text>
       </register>
       <register name=":" type="4">
         <text>737</text>
@@ -371,9 +374,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjb21wb3NlZFRvb2xcPg==</last-search>
+      <last-search encoding="base64">XDxjXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb21wb3NlZFRvb2xcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjXD4=</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute encoding="base64">XDxkcm9wTW9kZVw+</last-substitute>
       <last-dir>1</last-dir>
