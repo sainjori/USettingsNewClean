@@ -5,11 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGVja0FjdGl2ZUxhbmd1YWdlVGFiXD4=</entry>
-        <entry encoding="base64">XDxkb2N1bWVudFw+</entry>
-        <entry encoding="base64">XDxwbG1NYXRlcmlhbFw+</entry>
-        <entry encoding="base64">XDxuYW1lXD4=</entry>
-        <entry encoding="base64">XDxuZXdTaG9ydFRleHRcPg==</entry>
         <entry encoding="base64">XDxNQVRfU0hPUlRfVEVYVFw+</entry>
         <entry encoding="base64">XDxhZHZNYXRWYWx1ZVw+</entry>
         <entry encoding="base64">XDx2ZWFfbWF0X2Fzc2lnbm1lbnRcPg==</entry>
@@ -25,6 +20,11 @@
         <entry encoding="base64">XDxkcm9wSGFuZGxlclw+</entry>
         <entry encoding="base64">XDxkcm9wTW9kZVw+</entry>
         <entry encoding="base64">XDxwYW5lbE5hbWVcPg==</entry>
+        <entry encoding="base64">XDxtaW5cPg==</entry>
+        <entry encoding="base64">XDxscHJJbnRlcnZhbExpc3RcPg==</entry>
+        <entry encoding="base64">XDxnZW5lcmF0ZUludGVydmFsTGFiZWxUZXh0XD4=</entry>
+        <entry encoding="base64">XDxscHJYXD4=</entry>
+        <entry encoding="base64">XDxpdGVtXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>579</entry>
@@ -165,13 +165,16 @@
         <mark key="." line="84" column="0" />
       </file>
       <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/math/BigDecimal.java" timestamp="1590067737935" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/toolconf/backwardscompatibility/FaToolConfChangeLprDlg.java" timestamp="1590067377190">
+      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/tool/FAComposeToolExtPanel.java" timestamp="1590145609425">
+        <mark key="'" line="529" column="51" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/toolconf/backwardscompatibility/FaToolConfChangeLprDlg.java" timestamp="1590145441882">
+        <mark key="'" line="154" column="10" />
         <mark key="[" line="313" column="55" />
         <mark key="]" line="313" column="13" />
         <mark key="." line="313" column="12" />
         <mark key="^" line="313" column="13" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/gui/browser/util/tabs/services/FaEquiBrowsePanelTabBuildService.java" timestamp="1589999750005" />
       <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/gui/browser/components/FaEquipmentTlmReservationsPanel.java" timestamp="1590002223339">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
@@ -212,22 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="68" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-cust/src/main/java/hilti/dadi/DadiAfterDetermineExportFilename.java" />
-      <jump line="66" column="12" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-cust/src/main/java/hilti/gui/browser/components/HiltiMaterialPlantDataPanel.java" />
-      <jump line="175" column="13" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilti/hilti-ectr/hilti-cust/src/main/java/hilti/gui/browser/components/HiltiMaterialPlantDataTabbedPanel.java" />
-      <jump line="74" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.14.1/plm-5.1.14.1-sources.jar!/plm/gui/browser/util/BrowsePanelController.java" />
-      <jump line="75" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.14.1/plm-5.1.14.1-sources.jar!/plm/gui/browser/util/BrowsePanelController.java" />
-      <jump line="78" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.14.1/plm-5.1.14.1-sources.jar!/plm/gui/browser/util/BrowsePanelController.java" />
-      <jump line="83" column="48" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.14.1/plm-5.1.14.1-sources.jar!/plm/gui/browser/util/BrowsePanelController.java" />
-      <jump line="84" column="24" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.14.1/plm-5.1.14.1-sources.jar!/plm/gui/browser/util/BrowsePanelController.java" />
-      <jump line="112" column="22" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.14.1/plm-5.1.14.1-sources.jar!/plm/gui/browser/util/BrowsePanelController.java" />
-      <jump line="128" column="22" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.14.1/plm-5.1.14.1-sources.jar!/plm/gui/browser/util/BrowsePanelController.java" />
-      <jump line="54" column="23" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.14.1/plm-5.1.14.1-sources.jar!/plm/gui/browser/util/BrowsePanelController.java" />
-      <jump line="66" column="9" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.14.1/plm-5.1.14.1-sources.jar!/plm/gui/browser/util/BrowsePanelController.java" />
-      <jump line="67" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.14.1/plm-5.1.14.1-sources.jar!/plm/gui/browser/util/BrowsePanelController.java" />
-      <jump line="1238" column="2" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.2.2.1/sapbase-5.2.2.1-sources.jar!/cadagent/dtype/DType.java" />
-      <jump line="1779" column="46" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.2.2.1/sapbase-5.2.2.1-sources.jar!/cadagent/dtype/DType.java" />
-      <jump line="2297" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.2.2.1/sapbase-5.2.2.1-sources.jar!/cadagent/dtype/DType.java" />
       <jump line="2299" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.2.2.1/sapbase-5.2.2.1-sources.jar!/cadagent/dtype/DType.java" />
       <jump line="2301" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.2.2.1/sapbase-5.2.2.1-sources.jar!/cadagent/dtype/DType.java" />
       <jump line="2303" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.2.2.1/sapbase-5.2.2.1-sources.jar!/cadagent/dtype/DType.java" />
@@ -312,6 +299,22 @@
       <jump line="616" column="40" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/text/NumberFormat.java" />
       <jump line="263" column="66" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/text/NumberFormat.java" />
       <jump line="198" column="44" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/text/Format.java" />
+      <jump line="339" column="6" filename="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/toolconf/backwardscompatibility/FaToolConfChangeLprDlg.java" />
+      <jump line="349" column="35" filename="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/toolconf/backwardscompatibility/FaToolConfChangeLprDlg.java" />
+      <jump line="353" column="53" filename="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/toolconf/backwardscompatibility/FaToolConfChangeLprDlg.java" />
+      <jump line="355" column="38" filename="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/toolconf/backwardscompatibility/FaToolConfChangeLprDlg.java" />
+      <jump line="77" column="23" filename="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/toolconf/backwardscompatibility/FaToolConfChangeLprDlg.java" />
+      <jump line="81" column="59" filename="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/toolconf/backwardscompatibility/FaToolConfChangeLprDlg.java" />
+      <jump line="87" column="27" filename="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/toolconf/backwardscompatibility/FaToolConfChangeLprDlg.java" />
+      <jump line="134" column="42" filename="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/toolconf/backwardscompatibility/FaToolConfChangeLprDlg.java" />
+      <jump line="142" column="19" filename="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/toolconf/backwardscompatibility/FaToolConfChangeLprDlg.java" />
+      <jump line="167" column="19" filename="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/toolconf/backwardscompatibility/FaToolConfChangeLprDlg.java" />
+      <jump line="192" column="19" filename="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/toolconf/backwardscompatibility/FaToolConfChangeLprDlg.java" />
+      <jump line="155" column="61" filename="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/toolconf/backwardscompatibility/FaToolConfChangeLprDlg.java" />
+      <jump line="154" column="10" filename="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/toolconf/backwardscompatibility/FaToolConfChangeLprDlg.java" />
+      <jump line="982" column="36" filename="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/tool/FAComposeToolExtPanel.java" />
+      <jump line="981" column="36" filename="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/tool/FAComposeToolExtPanel.java" />
+      <jump line="529" column="51" filename="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/tool/FAComposeToolExtPanel.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -326,7 +329,7 @@
         <text>6</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYW5lbE5hbWVcPg==</text>
+        <text encoding="base64">XDxpdGVtXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGJ1Zi5hcHBlbmQoU3RyaW5nLmZvcm1hdCgiJS4zZyIsIG1pbikpOwo=</text>
@@ -368,9 +371,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwYW5lbE5hbWVcPg==</last-search>
+      <last-search encoding="base64">XDxpdGVtXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYW5lbE5hbWVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpdGVtXD4=</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute encoding="base64">XDxkcm9wTW9kZVw+</last-substitute>
       <last-dir>1</last-dir>
