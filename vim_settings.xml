@@ -155,6 +155,12 @@
       <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/text/Format.java" timestamp="1590073336200">
         <mark key="'" line="198" column="44" />
       </file>
+      <file name="C:/ENTWICKLUNG/sandbox/aaaa/src/main/java/com/aaa/naaApplication.java" timestamp="1590154958165">
+        <mark key="[" line="16" column="38" />
+        <mark key="]" line="16" column="38" />
+        <mark key="^" line="16" column="40" />
+        <mark key="." line="16" column="38" />
+      </file>
       <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/text/NumberFormat.java" timestamp="1590066564697">
         <mark key="'" line="263" column="66" />
       </file>
@@ -168,12 +174,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/tool/FAComposeToolExtPanel.java" timestamp="1590147774498">
         <mark key="'" line="1245" column="34" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/toolconf/backwardscompatibility/FaToolConfChangeLprDlg.java" timestamp="1590152105575">
+      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/toolconf/backwardscompatibility/FaToolConfChangeLprDlg.java" timestamp="1590155426952">
         <mark key="'" line="156" column="10" />
-        <mark key="[" line="316" column="35" />
-        <mark key="]" line="316" column="38" />
-        <mark key="." line="316" column="37" />
-        <mark key="^" line="316" column="38" />
+        <mark key="[" line="317" column="48" />
+        <mark key="]" line="317" column="48" />
+        <mark key="." line="317" column="48" />
+        <mark key="^" line="315" column="53" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/gui/browser/components/FaEquipmentTlmReservationsPanel.java" timestamp="1590002223339">
         <mark key="[" line="76" column="0" />
@@ -186,20 +192,12 @@
       <file name="/Dummy.txt" timestamp="1590065861952">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/toolconf/backwardscompatibility/fefef.java" timestamp="1590147429023">
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="12" column="33" />
-        <mark key="." line="12" column="32" />
-        <mark key="^" line="12" column="33" />
-      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/toolconf/backwardscompatibility/fefef.java" timestamp="1590155430123" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1590005538798">
         <mark key="'" line="980" column="6" />
       </file>
       <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/text/DecimalFormat.java" timestamp="1590151518227">
         <mark key="'" line="445" column="17" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.1/plm-5.2.2.1-sources.jar!/plm/gui/browser/DefaultObrTableBrowserComponent.java" timestamp="1590002088608">
-        <mark key="'" line="136" column="4" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/omf/OmfFaToolConfChangeLpr.java" timestamp="1590005659934">
         <mark key="'" line="363" column="21" />
@@ -321,14 +319,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIERlY2ltYWxGb3JtYXQgZGVjaW1hbEZvcm1hdCA9IG5ldyBEZWNpbWFsRm9ybWF0KCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.toString()</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>instance</text>
+        <text>.toString()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjXD4=</text>
@@ -337,35 +335,34 @@
         <text encoding="base64">ICAgIGJ1Zi5hcHBlbmQoU3RyaW5nLmZvcm1hdCgiJS4zZyIsIG1pbikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIERlY2ltYWxGb3JtYXQgZGVjaW1hbEZvcm1hdCA9IG5ldyBEZWNpbWFsRm9ybWF0KCk7Cg==</text>
+        <text encoding="base64">ICAgIGZvcm1hdHRlci5jbAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE51bWJlckZvcm1hdCBpbnN0YW5jZSA9IE51bWJlckZvcm1hdC5nZXRJbnN0YW5jZSgpOwogICAgaW5zdGFuY2Uuc2V0Cgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIE51bWJlckZvcm1hdCBpbnN0YW5jZSA9IE51bWJlckZvcm1hdC5nZXRJbnN0YW5jZSgpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>DecimalScientificFormat decimalScientificFormat = new DecimalScientificFormat();
-    String format = decimalScientificFormat.format(min);</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nIGFyZ3NbXSkgewo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEZvcm1hdHRlciBmbXQgPSBuZXcgRm9ybWF0dGVyKCk7CiAgICAgICAgICAgICAgICBmb3IgKGRvdWJsZSBpID0gMTAwMDsgaSA8IDEuMGUrMTA7IGkgKj0gMTAwKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nIGFyZ3NbXSkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgY2xhc3MgTWFpbiB7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">cHJpdmF0ZSBzdGF0aWMgY2xhc3MgRGVjaW1hbFNjaWVudGlmaWNGb3JtYXQgZXh0ZW5kcyBEZWNpbWFsRm9ybWF0CiAgewogICAgcHJpdmF0ZSBzdGF0aWMgRGVjaW1hbEZvcm1hdCBkZiA9IG5ldyBEZWNpbWFsRm9ybWF0KCIjMC4wMCMjIik7CiAgICBwcml2YXRlIHN0YXRpYyBEZWNpbWFsRm9ybWF0IHNmID0gbmV3IERlY2ltYWxGb3JtYXQoIjAuIyMjRTAiKTsKCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBTdHJpbmdCdWZmZXIgZm9ybWF0KGRvdWJsZSBudW1iZXIsIFN0cmluZ0J1ZmZlciByZXN1bHQsIEZpZWxkUG9zaXRpb24gZmllbGRQb3NpdGlvbikKICAgIHsKICAgICAgU3RyaW5nIGRlY2ltYWxGb3JtYXQgPSBkZi5mb3JtYXQobnVtYmVyKTsKICAgICAgcmV0dXJuICgwLjAwMDEgIT0gbnVtYmVyICYmIGRmLmZvcm1hdCgwLjAwMDEpLmVxdWFscyhkZWNpbWFsRm9ybWF0KSkgPwogICAgICAgICAgc2YuZm9ybWF0KG51bWJlciwgcmVzdWx0LCBmaWVsZFBvc2l0aW9uKSA6CiAgICAgICAgICByZXN1bHQuYXBwZW5kKGRlY2ltYWxGb3JtYXQpOwogICAgfQogIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAvKmZyb20gIGphIHYgYTIgcyAgLmNvIG0qLwo=</text>
       </register>
       <register name=":" type="4">
         <text>737</text>
