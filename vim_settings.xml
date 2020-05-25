@@ -140,13 +140,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/dictionary/de/customer.txt" timestamp="1590004161282">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="20" column="52" />
-        <mark key="^" line="20" column="52" />
-        <mark key="." line="20" column="51" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/toolconf/tbl/tree/FaToolConfTblTree.java" timestamp="1590004992870" />
       <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/text/Format.java" timestamp="1590073336200">
         <mark key="'" line="198" column="44" />
       </file>
@@ -171,6 +164,12 @@
         <mark key="^" line="46" column="39" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/pom.xml" timestamp="1590410921521" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocument.java" timestamp="1590411593339">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Formatter.java" timestamp="1590164253037">
         <mark key="'" line="1976" column="11" />
       </file>
@@ -182,7 +181,14 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="89" column="6" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/fff.java" timestamp="1590410961439">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="47" />
+        <mark key="^" line="5" column="47" />
+        <mark key="." line="5" column="46" />
+      </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/basis/dictionary/de/ectr.txt" timestamp="1590407132799" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfAttributeTransferToMaterial.java" timestamp="1590410949137" />
       <file name="/Dummy.txt" timestamp="1590409589258">
         <mark key="[" line="0" column="0" />
       </file>
@@ -192,9 +198,6 @@
         <mark key="^" line="45" column="31" />
         <mark key="." line="43" column="39" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1590005538798">
-        <mark key="'" line="980" column="6" />
-      </file>
       <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/text/DecimalFormat.java" timestamp="1590151518227">
         <mark key="'" line="445" column="17" />
       </file>
@@ -203,9 +206,6 @@
         <mark key="]" line="76" column="78" />
         <mark key="^" line="76" column="78" />
         <mark key="." line="76" column="77" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/omf/OmfFaToolConfChangeLpr.java" timestamp="1590005659934">
-        <mark key="'" line="363" column="21" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/test/java/plm/modules/fa/toolconf/backwardscompatibility/fefefTest.java" timestamp="1590165826992">
         <mark key="[" line="40" column="46" />
@@ -324,50 +324,50 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>brSourceTool.getPlmMaterial()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgZHR5cGUuZ2V0cwo=</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>brSourceTool.getPlmMaterial()</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIGZ1bmN0aW9uX3dhc19leGVjdXRlZF9zdWNjZXNzZnVsbHkgPSBEaWMuZ2V0KCJwbG0uMDIxNDIiLCAiRnVuY3Rpb24gd2FzIGV4ZWN1dGVkIHN1Y2Nlc3NmdWxseSIpOwo=</text>
+        <text encoding="base64">ICAgIFBsbU9ic2VydmVyLmdldEluc3QoKS5zZXRIaWJlcm5hdGVkKHRydWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgR3VpVXRpbHMuc2V0U3RhdHVzTGluZVN1Y2Nlc3NUZXh0KERpYy5nZXQoInBsbS4wMjE0MiIsICJGdW5jdGlvbiB3YXMgZXhlY3V0ZWQgc3VjY2Vzc2Z1bGx5IikpOwo=</text>
+        <text encoding="base64">ICAgICAgZHR5cGUuZ2V0cwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChkVHlwZSA9PSBudWxsKQogICAgICB0aHJvdyBuZXcgRGVmYXVsdExvZ0V4Y2VwdGlvbigibmVhLmVycm9yLjEiLCAiQ291bGQgbm90IGZpbmQgZHR5cGU6ICIrIGRUeXBlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIGZ1bmN0aW9uX3dhc19leGVjdXRlZF9zdWNjZXNzZnVsbHkgPSBEaWMuZ2V0KCJwbG0uMDIxNDIiLCAiRnVuY3Rpb24gd2FzIGV4ZWN1dGVkIHN1Y2Nlc3NmdWxseSIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Gb3JtYXR0ZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgRFR5cGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGV4dC5GaWVsZFBvc2l0aW9uOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGV4dC5EZWNpbWFsRm9ybWF0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubWF0aC5CaWdEZWNpbWFsOwo=</text>
+        <text encoding="base64">ICAgICAgR3VpVXRpbHMuc2V0U3RhdHVzTGluZVN1Y2Nlc3NUZXh0KERpYy5nZXQoInBsbS4wMjE0MiIsICJGdW5jdGlvbiB3YXMgZXhlY3V0ZWQgc3VjY2Vzc2Z1bGx5IikpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIGZ1bmN0aW9uX3dhc19leGVjdXRlZF9zdWNjZXNzZnVsbHkgPSBEaWMuZ2V0KCJwbG0uMDIxNDIiLCAiRnVuY3Rpb24gd2FzIGV4ZWN1dGVkIHN1Y2Nlc3NmdWxseSIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>737</text>
