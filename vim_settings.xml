@@ -147,17 +147,22 @@
         <mark key="^" line="2720" column="27" />
         <mark key="." line="2720" column="26" />
       </file>
-      <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/text/Format.java" timestamp="1590073336200">
-        <mark key="'" line="198" column="44" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocumentFromSelected.java" timestamp="1590412517059">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="15" column="16" />
+        <mark key="." line="15" column="15" />
+        <mark key="^" line="15" column="16" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/tool/FAComposeToolExtPanel.java" timestamp="1590147774498">
-        <mark key="'" line="1245" column="34" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocumentFromSelected.java" timestamp="1590412217517" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfAttributeTransferToMaterial.java" timestamp="1590410949137" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfAttributeTransferToMaterial.java" timestamp="1590412485214" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/customize/config/dtype.xml" timestamp="1590412147978" />
       <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/text/DecimalFormat.java" timestamp="1590151518227">
         <mark key="'" line="445" column="17" />
+      </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/customize/config/menu.guidef" timestamp="1590412397853">
+        <mark key="[" line="105" column="61" />
+        <mark key="]" line="106" column="79" />
+        <mark key="^" line="106" column="79" />
+        <mark key="." line="106" column="78" />
       </file>
       <file name="C:/ENTWICKLUNG/sandbox/aaaa/src/main/java/com/aaa/naaApplication.java" timestamp="1590154958165">
         <mark key="[" line="16" column="38" />
@@ -198,7 +203,7 @@
         <mark key="." line="5" column="46" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/basis/dictionary/de/ectr.txt" timestamp="1590407132799" />
-      <file name="/Dummy.txt" timestamp="1590409589258">
+      <file name="/Dummy.txt" timestamp="1590412544502">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/toolconf/backwardscompatibility/fefef.java" timestamp="1590164936890">
@@ -325,14 +330,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZHR5cGUuZ2V0cwo=</text>
+      <register name="&quot;" type="4">
+        <text>csc</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>csc</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzXD4=</text>
