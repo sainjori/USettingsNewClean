@@ -140,8 +140,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/customize/config/default.txt" timestamp="1590412175095">
+        <mark key="'" line="35" column="78" />
+        <mark key="[" line="2718" column="56" />
+        <mark key="]" line="2720" column="27" />
+        <mark key="^" line="2720" column="27" />
+        <mark key="." line="2720" column="26" />
+      </file>
       <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/text/Format.java" timestamp="1590073336200">
         <mark key="'" line="198" column="44" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/tool/FAComposeToolExtPanel.java" timestamp="1590147774498">
+        <mark key="'" line="1245" column="34" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocumentFromSelected.java" timestamp="1590412217517" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfAttributeTransferToMaterial.java" timestamp="1590410949137" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/customize/config/dtype.xml" timestamp="1590412147978" />
+      <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/text/DecimalFormat.java" timestamp="1590151518227">
+        <mark key="'" line="445" column="17" />
       </file>
       <file name="C:/ENTWICKLUNG/sandbox/aaaa/src/main/java/com/aaa/naaApplication.java" timestamp="1590154958165">
         <mark key="[" line="16" column="38" />
@@ -150,13 +166,6 @@
         <mark key="." line="16" column="38" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.2.2.1/sapbase-5.2.2.1-sources.jar!/cadagent/objmod/NumericFormatFactory.java" timestamp="1590164347438" />
-      <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/text/NumberFormat.java" timestamp="1590066564697">
-        <mark key="'" line="263" column="66" />
-      </file>
-      <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/math/BigDecimal.java" timestamp="1590067737935" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/tool/FAComposeToolExtPanel.java" timestamp="1590147774498">
-        <mark key="'" line="1245" column="34" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/toolconf/backwardscompatibility/FaToolConfChangeLprDlg.java" timestamp="1590165555302">
         <mark key="'" line="326" column="0" />
         <mark key="[" line="42" column="0" />
@@ -165,10 +174,11 @@
         <mark key="." line="42" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/pom.xml" timestamp="1590410921521" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocument.java" timestamp="1590411593339">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocument.java" timestamp="1590412207048">
+        <mark key="[" line="14" column="33" />
+        <mark key="]" line="14" column="45" />
+        <mark key="." line="14" column="44" />
+        <mark key="^" line="14" column="45" />
       </file>
       <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Formatter.java" timestamp="1590164253037">
         <mark key="'" line="1976" column="11" />
@@ -188,7 +198,6 @@
         <mark key="." line="5" column="46" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/basis/dictionary/de/ectr.txt" timestamp="1590407132799" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfAttributeTransferToMaterial.java" timestamp="1590410949137" />
       <file name="/Dummy.txt" timestamp="1590409589258">
         <mark key="[" line="0" column="0" />
       </file>
@@ -197,9 +206,6 @@
         <mark key="]" line="43" column="39" />
         <mark key="^" line="45" column="31" />
         <mark key="." line="43" column="39" />
-      </file>
-      <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/text/DecimalFormat.java" timestamp="1590151518227">
-        <mark key="'" line="445" column="17" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/omf/OmfFaCopyCuttingDataFromOtherTool.java" timestamp="1590408541754">
         <mark key="[" line="76" column="65" />
@@ -213,14 +219,8 @@
         <mark key="^" line="40" column="47" />
         <mark key="." line="40" column="46" />
       </file>
-      <file name="/fragment.java" timestamp="1590061950511">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="96" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.2.2.1/addons-5.2.2.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportClassification.java" />
       <jump line="166" column="60" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.2.2.1/addons-5.2.2.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportClassification.java" />
       <jump line="66" column="19" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.2.2.1/addons-5.2.2.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportClassification.java" />
       <jump line="141" column="41" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/hilitUntouched/hilti-ectr/hilti-cust/src/main/java/hilti/proc/HiltiProcessMaterialPlantDataRead.java" />
@@ -320,6 +320,7 @@
       <jump line="1976" column="11" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Formatter.java" />
       <jump line="334" column="0" filename="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/toolconf/backwardscompatibility/FaToolConfChangeLprDlg.java" />
       <jump line="101" column="11" filename="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/omf/OmfFaCopyCuttingDataFromOtherTool.java" />
+      <jump line="35" column="78" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/customize/config/default.txt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
