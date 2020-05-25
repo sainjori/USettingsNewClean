@@ -161,12 +161,12 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" timestamp="1590419804969">
         <mark key="'" line="271" column="39" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocumentFromSelected.java" timestamp="1590419905337">
-        <mark key="[" line="90" column="60" />
-        <mark key="m" line="109" column="9" />
-        <mark key="]" line="90" column="63" />
-        <mark key="^" line="90" column="63" />
-        <mark key="." line="90" column="62" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocumentFromSelected.java" timestamp="1590426729927">
+        <mark key="[" line="162" column="76" />
+        <mark key="m" line="127" column="9" />
+        <mark key="]" line="162" column="92" />
+        <mark key="^" line="162" column="92" />
+        <mark key="." line="162" column="91" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfAttributeTransferToMaterial.java" timestamp="1590412485214" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/customize/config/dtype.xml" timestamp="1590412147978" />
@@ -205,7 +205,7 @@
         <mark key="." line="5" column="46" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/basis/dictionary/de/ectr.txt" timestamp="1590407132799" />
-      <file name="/Dummy.txt" timestamp="1590418271655">
+      <file name="/Dummy.txt" timestamp="1590426910275">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/omf/OmfFaCopyCuttingDataFromOtherTool.java" timestamp="1590408541754">
@@ -332,13 +332,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>new</text>
+        <text>event</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>new</text>
+        <text>event</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHVUlfSU5fRFRZUEVfSURTXD4=</text>
@@ -347,34 +347,34 @@
         <text encoding="base64">ICBwcml2YXRlIFBsbVNlc3Npb25NYW5hZ2VyIHBzbSA9IFBsbVNlc3Npb25NYW5hZ2VyLmdldEluc3QoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgT21mRG9jQ3JlYXRlIG9tZkRvY0NyZWF0ZSA9IG5ldyBPbWZEb2NDcmVhdGUoKTsK</text>
+        <text encoding="base64">ICAgICAgY2hlY2sK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIEJyRm9sZGVyIGFkZFRvT01mb2xkZXI7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBrZXlQYXJlbnRGb2xkZXI7Cg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGtleVBhcmVudEZvbGRlciA9IG9iclRyZWVTZWxlY3Rpb24uZ2V0Rmlyc3RQYXJlbnRLZXkoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>737</text>
