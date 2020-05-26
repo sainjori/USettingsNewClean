@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxEZWNpbWFsRm9ybWF0XD4=</entry>
-        <entry encoding="base64">XDxjXD4=</entry>
         <entry encoding="base64">XDxzXD4=</entry>
         <entry encoding="base64">XDxEQ1JfR3VpXD4=</entry>
         <entry encoding="base64">XDxkdHlwZUF2YWlsYWJsZVw+</entry>
@@ -25,9 +23,10 @@
         <entry encoding="base64">XDxhZGRUb09NZm9sZGVyXD4=</entry>
         <entry encoding="base64">XDxzZWVkUmVmTmFtZVRvTWFzdGVyXD4=</entry>
         <entry encoding="base64">XDxwSW5NYXN0ZXJcPg==</entry>
+        <entry encoding="base64">XDx1c2VFeHRlcm5hbFRlbXBsYXRlRmlsZVw+</entry>
+        <entry encoding="base64">XDxJTl9URU1QTEFURV9GSUxFXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>579</entry>
         <entry>1061</entry>
         <entry>72</entry>
         <entry>121</entry>
@@ -47,6 +46,7 @@
         <entry>161</entry>
         <entry>525</entry>
         <entry>737</entry>
+        <entry>2209</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -140,18 +140,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590429105686">
+      <file name="/Dummy.txt" timestamp="1590487365347">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/applications/ugs/basis/dictionary/de/nx.txt" timestamp="1590486129007" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/omf/OmfFaCopyCuttingDataFromOtherTool.java" timestamp="1590408528379">
-        <mark key="e" line="93" column="41" />
-        <mark key="'" line="101" column="11" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="89" column="6" />
-      </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/customize/config/default.txt" timestamp="1590427045369">
         <mark key="'" line="35" column="78" />
         <mark key="[" line="2720" column="27" />
@@ -168,8 +160,8 @@
         <mark key="^" line="5" column="47" />
         <mark key="." line="5" column="46" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" timestamp="1590485637056">
-        <mark key="'" line="1281" column="25" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" timestamp="1590488369185">
+        <mark key="'" line="2108" column="57" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/omf/OmfDocCreate.java" timestamp="1590428764573">
         <mark key="'" line="375" column="10" />
@@ -198,12 +190,12 @@
         <mark key="^" line="106" column="79" />
         <mark key="." line="106" column="78" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocumentFromSelected.java" timestamp="1590484887687">
-        <mark key="[" line="83" column="71" />
-        <mark key="m" line="145" column="9" />
-        <mark key="]" line="83" column="85" />
-        <mark key="." line="83" column="84" />
-        <mark key="^" line="83" column="85" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocumentFromSelected.java" timestamp="1590488944922">
+        <mark key="[" line="157" column="0" />
+        <mark key="m" line="172" column="9" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
+        <mark key="^" line="157" column="70" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocument.java" timestamp="1590412207048">
         <mark key="[" line="14" column="33" />
@@ -211,22 +203,13 @@
         <mark key="." line="14" column="44" />
         <mark key="^" line="14" column="45" />
       </file>
-      <file name="/fragment.java" timestamp="1590486013956">
+      <file name="/fragment.java" timestamp="1590487365351">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="935" column="38" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
-      <jump line="2554" column="39" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
-      <jump line="2536" column="13" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
-      <jump line="2523" column="24" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
-      <jump line="1765" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
-      <jump line="907" column="0" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
-      <jump line="1513" column="84" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
-      <jump line="1458" column="32" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
-      <jump line="1446" column="18" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
       <jump line="1427" column="35" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
       <jump line="1419" column="16" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
       <jump line="1417" column="14" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
@@ -318,65 +301,74 @@
       <jump line="278" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/cad/PlmProcessCadPrepareOriginalForCheckin.java" />
       <jump line="288" column="58" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/cad/PlmProcessCadPrepareOriginalForCheckin.java" />
       <jump line="295" column="44" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/cad/PlmProcessCadPrepareOriginalForCheckin.java" />
+      <jump line="2186" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
+      <jump line="2196" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
+      <jump line="2205" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
+      <jump line="326" column="18" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
+      <jump line="447" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
+      <jump line="1312" column="14" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
+      <jump line="2180" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
+      <jump line="185" column="42" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
+      <jump line="2108" column="57" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>plm_doc</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>plm_doc</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwSW5NYXN0ZXJcPg==</text>
+        <text encoding="base64">XDxJTl9URU1QTEFURV9GSUxFXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRjLmFkZE9iamVjdChQbG1Qcm9jZXNzRG9jdW1lbnRDcmVhdGUuSU5fVEVNUExBVEVfRE9DLCBzZWxlY3RlZFBsbURvY3VtZW50KTsK</text>
+        <text encoding="base64">ICAgIFBsbUZpbGUgbWFzdGVyT3JpZ2luYWwgPSBzZWxlY3RlZFBsbURvY3VtZW50LmdldE1hc3Rlck9yaWdpbmFsKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIFNlc3Npb25VdGlsLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIG9ickNvbnRleHRLZXkgPSBvYnJDb250ZXh0S2V5MTsK</text>
+        <text encoding="base64">ICAgIHNlc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlbGVjdGVkUGxtRG9jdW1lbnQuZ2V0bWEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIG1hc3Rlck9yaWdpbmFsLmMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBhZGRUb0ZvbGRlcihQbG1Eb2N1bWVudCBwbG1fZG9jLCBTdHJpbmcgY29udGV4dEtleSkKICAgIHsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRjLmFkZE9iamVjdChQbG1Qcm9jZXNzRG9jdW1lbnRDcmVhdGUuSU5fQUREX1RPX0ZPTERFUiwgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgIHJlYWREZXRhaWxzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBkVHlwZUlkID0gc2VsZWN0ZWRQbG1Eb2N1bWVudC5nZXREVHlwZUlkKCk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>737</text>
+        <text>2209</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwSW5NYXN0ZXJcPg==</last-search>
+      <last-search encoding="base64">XDxJTl9URU1QTEFURV9GSUxFXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwSW5NYXN0ZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxJTl9URU1QTEFURV9GSUxFXD4=</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute encoding="base64">XDxkcm9wTW9kZVw+</last-substitute>
       <last-dir>1</last-dir>
