@@ -140,14 +140,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/customize/config/default.txt" timestamp="1590427045369">
-        <mark key="'" line="35" column="78" />
-        <mark key="[" line="2720" column="27" />
-        <mark key="]" line="2720" column="27" />
-        <mark key="^" line="2720" column="27" />
-        <mark key="." line="2720" column="26" />
-      </file>
-      <file name="/a.dummy" timestamp="1590490245846">
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/addons/fctr/basis/dictionary/en/fctr.txt" timestamp="1590496625072" />
+      <file name="/a.dummy" timestamp="1590495049236">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" timestamp="1590490408921">
@@ -171,7 +165,7 @@
         <mark key="^" line="106" column="79" />
         <mark key="." line="106" column="78" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/dic/Dic.java" timestamp="1590494120753">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/dic/Dic.java" timestamp="1590496351361">
         <mark key="'" line="366" column="17" />
       </file>
       <file name="/Dummy.txt" timestamp="1590490693028">
@@ -189,10 +183,15 @@
         <mark key="^" line="159" column="18" />
         <mark key="." line="157" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/addons/fctr/basis/dictionary/de/fctr.txt" timestamp="1590493963318">
+      <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/HashMap.java" timestamp="1590494318883" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/addons/fctr/basis/dictionary/de/fctr.txt" timestamp="1590496620890">
         <mark key="'" line="768" column="43" />
+        <mark key="[" line="1349" column="3" />
+        <mark key="]" line="1349" column="4" />
+        <mark key="." line="1349" column="3" />
+        <mark key="^" line="1349" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1590494171248">
+      <file name="/fragment.java" timestamp="1590496565107">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -303,14 +302,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx4bGF0ZVw+</text>
@@ -319,34 +318,34 @@
         <text encoding="base64">ICAgIFBsbUZpbGUgbWFzdGVyT3JpZ2luYWwgPSBzZWxlY3RlZFBsbURvY3VtZW50LmdldE1hc3Rlck9yaWdpbmFsKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>((String) entry.getKey()).indexOf(&quot;p&quot;)</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text>&quot;plm.fa.tool.material.group.invalid.msg&quot;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">Zm9yIChNYXAuRW50cnk8T2JqZWN0LCBPYmplY3Q+IGVudHJ5IDogcHJvcC5lbnRyeVNldCgpKQp7CiAgVHJhY2UucHJpbnRsbigiYnlhIiwwLCBlbnRyeS5nZXRLZXkoKSk7Cn0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVsc2UK</text>
+        <text>prop.getProperty(&quot;plm.fa.tool.material.group.invalid.msg&quot;)</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG1hc3Rlck9yaWdpbmFsOwo=</text>
+        <text>prop.toString()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG1hc3Rlck9yaWdpbmFsCg==</text>
+        <text>String property = prop.getProperty(&quot;plm.fa.tool.material.group.invalid.msg&quot;);pr</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>prop.get(&quot;&quot;)</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBtYXN0ZXJPcmlnaW5hbDsK</text>
+        <text>String property = prop.getProperty(&quot;plm.fa.tool.material.group.invalid.msg&quot;);</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChtYXN0ZXJPcmlnaW5hbCA9PSBudWxsKQogICAgICByZXR1cm4gbWFzdGVyT3JpZ2luYWw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>2209</text>
