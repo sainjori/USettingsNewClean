@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxpdGVtXD4=</entry>
-        <entry encoding="base64">XDxjb21wb3NlZFRvb2xcPg==</entry>
         <entry encoding="base64">XDxEZWNpbWFsRm9ybWF0XD4=</entry>
         <entry encoding="base64">XDxjXD4=</entry>
         <entry encoding="base64">XDxzXD4=</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxhZGRUb0ZvbGRlclw+</entry>
         <entry encoding="base64">XDxmb2xkZXJUb0FkZFw+</entry>
         <entry encoding="base64">XDxhZGRUb09NZm9sZGVyXD4=</entry>
+        <entry encoding="base64">XDxzZWVkUmVmTmFtZVRvTWFzdGVyXD4=</entry>
+        <entry encoding="base64">XDxwSW5NYXN0ZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>579</entry>
@@ -140,6 +140,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1590429105686">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/applications/ugs/basis/dictionary/de/nx.txt" timestamp="1590486129007" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/omf/OmfFaCopyCuttingDataFromOtherTool.java" timestamp="1590408528379">
+        <mark key="e" line="93" column="41" />
+        <mark key="'" line="101" column="11" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="89" column="6" />
+      </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/customize/config/default.txt" timestamp="1590427045369">
         <mark key="'" line="35" column="78" />
         <mark key="[" line="2720" column="27" />
@@ -150,7 +162,13 @@
       <file name="/a.dummy" timestamp="1590418489609">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" timestamp="1590428489007">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/fff.java" timestamp="1590410961439">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="47" />
+        <mark key="^" line="5" column="47" />
+        <mark key="." line="5" column="46" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" timestamp="1590485637056">
         <mark key="'" line="1281" column="25" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/omf/OmfDocCreate.java" timestamp="1590428764573">
@@ -158,51 +176,11 @@
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="62" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/cad/PlmProcessCadPrepareOriginalForCheckin.java" timestamp="1590486350235">
+        <mark key="'" line="295" column="44" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" timestamp="1590428682196">
         <mark key="'" line="1195" column="16" />
-      </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/applications/ugs/template-customize/config/default.txt" timestamp="1590427036217">
-        <mark key="'" line="32" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocumentFromSelected.java" timestamp="1590429297212">
-        <mark key="[" line="83" column="71" />
-        <mark key="m" line="145" column="9" />
-        <mark key="]" line="83" column="85" />
-        <mark key="." line="83" column="84" />
-        <mark key="^" line="83" column="85" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfAttributeTransferToMaterial.java" timestamp="1590412485214" />
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/customize/config/dtype.xml" timestamp="1590412147978" />
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/customize/config/menu.guidef" timestamp="1590429257744">
-        <mark key="[" line="105" column="61" />
-        <mark key="]" line="106" column="79" />
-        <mark key="^" line="106" column="79" />
-        <mark key="." line="106" column="78" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/pom.xml" timestamp="1590410921521" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocument.java" timestamp="1590412207048">
-        <mark key="[" line="14" column="33" />
-        <mark key="]" line="14" column="45" />
-        <mark key="." line="14" column="44" />
-        <mark key="^" line="14" column="45" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/omf/OmfFaCopyCuttingDataFromOtherTool.java" timestamp="1590408528379">
-        <mark key="e" line="93" column="41" />
-        <mark key="'" line="101" column="11" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="89" column="6" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/fff.java" timestamp="1590410961439">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="5" column="47" />
-        <mark key="^" line="5" column="47" />
-        <mark key="." line="5" column="46" />
-      </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/basis/dictionary/de/ectr.txt" timestamp="1590407132799" />
-      <file name="/Dummy.txt" timestamp="1590429105686">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/omf/OmfFaCopyCuttingDataFromOtherTool.java" timestamp="1590408541754">
         <mark key="[" line="76" column="65" />
@@ -210,29 +188,36 @@
         <mark key="^" line="76" column="78" />
         <mark key="." line="76" column="77" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/test/java/plm/modules/fa/toolconf/backwardscompatibility/fefefTest.java" timestamp="1590165826992">
-        <mark key="[" line="40" column="46" />
-        <mark key="]" line="40" column="47" />
-        <mark key="^" line="40" column="47" />
-        <mark key="." line="40" column="46" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/applications/ugs/template-customize/config/dtype.xml" timestamp="1590486161009" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/applications/ugs/template-customize/config/default.txt" timestamp="1590427036217">
+        <mark key="'" line="32" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1590419551689">
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/customize/config/menu.guidef" timestamp="1590429257744">
+        <mark key="[" line="105" column="61" />
+        <mark key="]" line="106" column="79" />
+        <mark key="^" line="106" column="79" />
+        <mark key="." line="106" column="78" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocumentFromSelected.java" timestamp="1590484887687">
+        <mark key="[" line="83" column="71" />
+        <mark key="m" line="145" column="9" />
+        <mark key="]" line="83" column="85" />
+        <mark key="." line="83" column="84" />
+        <mark key="^" line="83" column="85" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocument.java" timestamp="1590412207048">
+        <mark key="[" line="14" column="33" />
+        <mark key="]" line="14" column="45" />
+        <mark key="." line="14" column="44" />
+        <mark key="^" line="14" column="45" />
+      </file>
+      <file name="/fragment.java" timestamp="1590486013956">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1057" column="35" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" />
-      <jump line="1082" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" />
-      <jump line="1087" column="35" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" />
-      <jump line="1159" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" />
-      <jump line="271" column="39" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" />
-      <jump line="229" column="64" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
-      <jump line="462" column="36" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
-      <jump line="32" column="0" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/applications/ugs/template-customize/config/default.txt" />
-      <jump line="945" column="41" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
-      <jump line="938" column="21" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
       <jump line="935" column="38" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
       <jump line="2554" column="39" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
       <jump line="2536" column="13" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
@@ -323,6 +308,16 @@
       <jump line="1194" column="37" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" />
       <jump line="1195" column="16" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" />
       <jump line="375" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/omf/OmfDocCreate.java" />
+      <jump line="563" column="30" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/cad/PlmProcessCadPrepareOriginalForCheckin.java" />
+      <jump line="564" column="13" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/cad/PlmProcessCadPrepareOriginalForCheckin.java" />
+      <jump line="181" column="17" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/cad/PlmProcessCadPrepareOriginalForCheckin.java" />
+      <jump line="480" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/cad/PlmProcessCadPrepareOriginalForCheckin.java" />
+      <jump line="481" column="75" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/cad/PlmProcessCadPrepareOriginalForCheckin.java" />
+      <jump line="170" column="22" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/cad/PlmProcessCadPrepareOriginalForCheckin.java" />
+      <jump line="213" column="34" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/cad/PlmProcessCadPrepareOriginalForCheckin.java" />
+      <jump line="278" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/cad/PlmProcessCadPrepareOriginalForCheckin.java" />
+      <jump line="288" column="58" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/cad/PlmProcessCadPrepareOriginalForCheckin.java" />
+      <jump line="295" column="44" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/cad/PlmProcessCadPrepareOriginalForCheckin.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -337,7 +332,7 @@
         <text>plm_doc</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGRUb09NZm9sZGVyXD4=</text>
+        <text encoding="base64">XDxwSW5NYXN0ZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRjLmFkZE9iamVjdChQbG1Qcm9jZXNzRG9jdW1lbnRDcmVhdGUuSU5fVEVNUExBVEVfRE9DLCBzZWxlY3RlZFBsbURvY3VtZW50KTsK</text>
@@ -379,9 +374,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhZGRUb09NZm9sZGVyXD4=</last-search>
+      <last-search encoding="base64">XDxwSW5NYXN0ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGRUb09NZm9sZGVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwSW5NYXN0ZXJcPg==</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute encoding="base64">XDxkcm9wTW9kZVw+</last-substitute>
       <last-dir>1</last-dir>
