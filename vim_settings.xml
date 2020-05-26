@@ -140,11 +140,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/fctr/basis/dictionary/ja/fctr.txt" timestamp="1590497273958">
-        <mark key="'" line="42" column="28" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/dadi/DadiAfterCreateFamilyMembers.java" timestamp="1590506811847">
+        <mark key="'" line="602" column="22" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/fctr/basis/dictionary/it/fctr.txt" timestamp="1590497267078">
-        <mark key="'" line="41" column="52" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/omf/OmfObjCopyCharVals.java" timestamp="1590506369473" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfMarkSourceForCopy.java" timestamp="1590507568900">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="31" column="6" />
+        <mark key="^" line="31" column="54" />
+        <mark key="." line="31" column="6" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/fctr/basis/dictionary/zf/fctr.txt" timestamp="1590497310948">
         <mark key="'" line="41" column="22" />
@@ -153,24 +157,31 @@
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/fctr/basis/dictionary/ru/fctr.txt" timestamp="1590497289315">
         <mark key="'" line="42" column="32" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfSaveSelection.java" timestamp="1590505159050">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="62" column="24" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfSaveSelection.java" timestamp="1590506665948">
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="14" column="26" />
+        <mark key="^" line="14" column="26" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/fctr/basis/dictionary/pt/fctr.txt" timestamp="1590497279998">
-        <mark key="'" line="41" column="48" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1590505598887">
+      <file name="/Dummy.txt" timestamp="1590507825919">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.2.2.0/customize/config/menu.guidef" timestamp="1590506702780">
+        <mark key="[" line="104" column="61" />
+        <mark key="]" line="105" column="66" />
+        <mark key="^" line="105" column="66" />
+        <mark key="." line="105" column="65" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/fctr/basis/dictionary/zh/fctr.txt" timestamp="1590497314797">
         <mark key="'" line="40" column="22" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/utils/OmfUtils.java" timestamp="1590504788989">
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/utils/OmfUtils.java" timestamp="1590507430090">
         <mark key="[" line="162" column="0" />
         <mark key="]" line="162" column="73" />
+      </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.2.2.0/customize/config/default.txt" timestamp="1590506992810">
+        <mark key="'" line="2669" column="39" />
+        <mark key="[" line="2702" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/addons/fctr/basis/dictionary/de/fctr.txt" timestamp="1590497644613">
         <mark key="'" line="768" column="43" />
@@ -187,8 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1187" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" />
-      <jump line="1194" column="37" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" />
       <jump line="1195" column="16" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" />
       <jump line="375" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/omf/OmfDocCreate.java" />
       <jump line="563" column="30" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/cad/PlmProcessCadPrepareOriginalForCheckin.java" />
@@ -287,18 +296,20 @@
       <jump line="42" column="32" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/fctr/basis/dictionary/ru/fctr.txt" />
       <jump line="41" column="22" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/fctr/basis/dictionary/zf/fctr.txt" />
       <jump line="40" column="22" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/fctr/basis/dictionary/zh/fctr.txt" />
+      <jump line="602" column="22" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/dadi/DadiAfterCreateFamilyMembers.java" />
+      <jump line="2669" column="39" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.2.2.0/customize/config/default.txt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgQ2xhc3M8PyBleHRlbmRzIEJyQ2xhc3NpZmllZE9iamVjdD4gYUNsYXNzID0gY3VzdENsYXNzLmdldCgwKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">T21mTWFya1NvdXJjZUZvckNvcHkuc2F2ZWRPYmplY3QgPSA=</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>aClass.</text>
+        <text encoding="base64">T21mTWFya1NvdXJjZUZvckNvcHkuc2F2ZWRPYmplY3QgPSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx4bGF0ZVw+</text>
@@ -307,34 +318,34 @@
         <text encoding="base64">ICAgICAgdGhyb3cgbmV3IERlZmF1bHRMb2dFeGNlcHRpb24oInBsbS5vbWYuMDEwMCIsICJOb3RoaW5nIHNlbGVjdGVkLiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgQ2xhc3M8PyBleHRlbmRzIEJyQ2xhc3NpZmllZE9iamVjdD4gYUNsYXNzID0gY3VzdENsYXNzLmdldCgwKTsK</text>
+        <text encoding="base64">ICAgIEJyUGxtT2JqZWN0IHNlbGVjdGVkOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgT2JyT2JqZWN0IGZpcnN0T2JyT2JqZWN0ID0gT21mVXRpbHMuZ2V0U2luZ2xlU2VsZWN0ZWRPYmplY3QoQnJQbG1PYmplY3QuY2xhc3MsIGV2ZW50KTsK</text>
+        <text encoding="base64">ICAgICAgQ2xhc3M8PyBleHRlbmRzIEJyQ2xhc3NpZmllZE9iamVjdD4gYUNsYXNzID0gY3VzdENsYXNzLmdldCgwKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHNlbGVjdGVkID09IG51bGwpCiAgICAgICAgc2VsZWN0ZWQgPShCclBsbU9iamVjdCkgT21mVXRpbHMuZ2V0U2luZ2xlU2VsZWN0ZWRPYmplY3QoQnJNYXRlcmlhbC5jbGFzcywgZXZlbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgT2JyT2JqZWN0IGZpcnN0T2JyT2JqZWN0ID0gT21mVXRpbHMuZ2V0U2luZ2xlU2VsZWN0ZWRPYmplY3QoQnJQbG1PYmplY3QuY2xhc3MsIGV2ZW50KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc2VsZWN0ZWQgPShCclBsbU9iamVjdCkgT21mVXRpbHMuZ2V0U2luZ2xlU2VsZWN0ZWRPYmplY3QoQnJEb2N1bWVudC5jbGFzcywgZXZlbnQpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgaWYgKHNlbGVjdGVkID09IG51bGwpCiAgICAgICAgc2VsZWN0ZWQgPShCclBsbU9iamVjdCkgT21mVXRpbHMuZ2V0U2luZ2xlU2VsZWN0ZWRPYmplY3QoQnJNYXRlcmlhbC5jbGFzcywgZXZlbnQpOwo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgc2VsZWN0ZWQgPShCclBsbU9iamVjdCkgT21mVXRpbHMuZ2V0U2luZ2xlU2VsZWN0ZWRPYmplY3QoQnJEb2N1bWVudC5jbGFzcywgZXZlbnQpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3RlZCA9KEJyUGxtT2JqZWN0KSBPbWZVdGlscy5nZXRTaW5nbGVTZWxlY3RlZE9iamVjdChCck1hdGVyaWFsLmNsYXNzLCBldmVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKHNlbGVjdGVkID09IG51bGwpCiAgICAgICAgc2VsZWN0ZWQgPShCclBsbU9iamVjdCkgT21mVXRpbHMuZ2V0U2luZ2xlU2VsZWN0ZWRPYmplY3QoQnJNYXRlcmlhbC5jbGFzcywgZXZlbnQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZXZlbnQuCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxlY3RlZCA9KEJyUGxtT2JqZWN0KSBPbWZVdGlscy5nZXRTaW5nbGVTZWxlY3RlZE9iamVjdChCck1hdGVyaWFsLmNsYXNzLCBldmVudCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZXZlbnQuZ2VvCg==</text>
+        <text encoding="base64">ICAgICAgZXZlbnQuCg==</text>
       </register>
       <register name=":" type="4">
         <text>2209</text>
