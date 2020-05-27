@@ -149,8 +149,12 @@
         <mark key="^" line="105" column="57" />
         <mark key="." line="105" column="56" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/fctr/basis/dictionary/zh/fctr.txt" timestamp="1590497314797">
-        <mark key="'" line="40" column="22" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/customize/config/default.txt" timestamp="1590585763881">
+        <mark key="'" line="2706" column="36" />
+        <mark key="[" line="2721" column="51" />
+        <mark key="]" line="2721" column="55" />
+        <mark key="^" line="2721" column="55" />
+        <mark key="." line="2721" column="54" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/dadi/DadiAfterCreateFamilyMembers.java" timestamp="1590506811847">
         <mark key="'" line="602" column="22" />
@@ -221,8 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1195" column="16" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" />
-      <jump line="375" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/omf/OmfDocCreate.java" />
       <jump line="563" column="30" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/cad/PlmProcessCadPrepareOriginalForCheckin.java" />
       <jump line="564" column="13" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/cad/PlmProcessCadPrepareOriginalForCheckin.java" />
       <jump line="181" column="17" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/cad/PlmProcessCadPrepareOriginalForCheckin.java" />
@@ -321,6 +323,8 @@
       <jump line="40" column="22" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/fctr/basis/dictionary/zh/fctr.txt" />
       <jump line="602" column="22" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/dadi/DadiAfterCreateFamilyMembers.java" />
       <jump line="2669" column="39" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.2.2.0/customize/config/default.txt" />
+      <jump line="2705" column="37" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/customize/config/default.txt" />
+      <jump line="2706" column="36" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/customize/config/default.txt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
