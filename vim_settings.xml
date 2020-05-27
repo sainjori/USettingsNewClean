@@ -27,9 +27,6 @@
         <entry encoding="base64">XDx4bGF0ZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>1061</entry>
-        <entry>72</entry>
-        <entry>121</entry>
         <entry>605</entry>
         <entry>92</entry>
         <entry>142</entry>
@@ -47,6 +44,9 @@
         <entry>525</entry>
         <entry>737</entry>
         <entry>2209</entry>
+        <entry>162</entry>
+        <entry>305</entry>
+        <entry>303</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -167,9 +167,6 @@
         <mark key="^" line="34" column="162" />
         <mark key="." line="19" column="26" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/fctr/basis/dictionary/zf/fctr.txt" timestamp="1590497310948">
-        <mark key="'" line="41" column="22" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfCopyMarkedToTarget.java" timestamp="1590513994770">
         <mark key="[" line="17" column="30" />
         <mark key="]" line="17" column="24" />
@@ -180,6 +177,7 @@
         <mark key="[" line="162" column="0" />
         <mark key="]" line="162" column="73" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocumentFromSelected.java" timestamp="1590582367914" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.2.2.0/customize/config/default.txt" timestamp="1590506992810">
         <mark key="'" line="2669" column="39" />
         <mark key="[" line="2702" column="0" />
@@ -209,6 +207,7 @@
       <file name="/fragment.java" timestamp="1590513891219">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/applications/des/customize/config/plm_setenv.bat" timestamp="1590583367177" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/fctr/basis/dictionary/de/fctr.txt" timestamp="1590497596014">
         <mark key="'" line="36" column="45" />
         <mark key="[" line="1302" column="0" />
@@ -372,7 +371,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>2209</text>
+        <text>303</text>
       </register>
     </registers>
   </component>
