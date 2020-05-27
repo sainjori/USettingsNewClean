@@ -172,7 +172,7 @@
         <mark key="^" line="19" column="26" />
         <mark key="." line="19" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590514806890">
+      <file name="/Dummy.txt" timestamp="1590593041673">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.2.2.0/customize/config/menu.guidef" timestamp="1590514169531">
@@ -204,11 +204,11 @@
         <mark key="[" line="162" column="0" />
         <mark key="]" line="162" column="73" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocumentFromSelected.java" timestamp="1590591680955">
-        <mark key="[" line="152" column="62" />
-        <mark key="]" line="152" column="76" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocumentFromSelected.java" timestamp="1590593427818">
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
         <mark key="^" line="152" column="76" />
-        <mark key="." line="152" column="75" />
+        <mark key="." line="139" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfCopy.java" timestamp="1590513938814">
         <mark key="[" line="17" column="20" />
@@ -329,8 +329,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>masterOriginal.getAbsolutePath()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -345,34 +345,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gZm5jLmNvcHkubWFyawo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFBsbUZpbGUgczsKICAgIHJldHVybiBzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbWFzdGVyT3JpZ2luYWwuY2hlY2tPdXQoIiIsICIiLCBtYXN0ZXJPcmlnaW5hbC5nZXRBYnNvbHV0ZVBhdGgoKSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJlYWREZXRhaWxzKCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmICghbWFzdGVyT3JpZ2luYWwuZ2V0RmlsZSgpLmV4aXN0cygpKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIFRPRkZJCg==</text>
+        <text encoding="base64">ICAgIFBsbUZpbGUgczsKICAgIHJldHVybiBzOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChjb3B5U291cmNlLmdldENsYXNzKCkuZ2V0U2ltcGxlTmFtZSgpLmVxdWFsc0lnbm9yZUNhc2UodGFyZ2V0LmdldENsYXNzKCkuZ2V0U2ltcGxlTmFtZSgpKSkK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIE9tZk1hcmtTb3VyY2UuY29weVNvdXJjZTsK</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIE9ick9iamVjdCBjb3B5U291cmNlID0gT21mTWFya1NvdXJjZS5jb3B5U291cmNlOwo=</text>
+        <text encoding="base64">ICAgICAgbWFzdGVyT3JpZ2luYWwuY2hlY2tPdXQoIiIsICIiLCBtYXN0ZXJPcmlnaW5hbC5nZXRBYnNvbHV0ZVBhdGgoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>303</text>
