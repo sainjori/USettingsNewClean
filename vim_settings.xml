@@ -166,25 +166,31 @@
         <mark key="." line="716" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/cfc/env/Environment.java" timestamp="1590591510697" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfMarkSourceCopy.java" timestamp="1590613046760">
+        <mark key="[" line="49" column="104" />
+        <mark key="]" line="49" column="104" />
+        <mark key="^" line="49" column="104" />
+        <mark key="." line="49" column="103" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/omf/OmfPlmFileOpen.java" timestamp="1590591577771" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfMarkSource.java" timestamp="1590513972312">
         <mark key="]" line="19" column="26" />
         <mark key="^" line="19" column="26" />
         <mark key="." line="19" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590593041673">
+      <file name="/Dummy.txt" timestamp="1590612433610">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.2.2.0/customize/config/menu.guidef" timestamp="1590514169531">
-        <mark key="[" line="105" column="46" />
-        <mark key="]" line="105" column="57" />
-        <mark key="^" line="105" column="57" />
-        <mark key="." line="105" column="56" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.2.2.0/customize/config/menu.guidef" timestamp="1590612515593">
+        <mark key="[" line="106" column="46" />
+        <mark key="]" line="106" column="62" />
+        <mark key="^" line="106" column="62" />
+        <mark key="." line="106" column="61" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfCopyMark.java" timestamp="1590514623802">
-        <mark key="[" line="34" column="7" />
-        <mark key="]" line="34" column="21" />
-        <mark key="." line="34" column="20" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfCopyMark.java" timestamp="1590612488128">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="19" column="16" />
+        <mark key="." line="19" column="16" />
         <mark key="^" line="34" column="21" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/applications/ugs/template-customize/config/dtype.xml" timestamp="1590588350376" />
@@ -199,10 +205,6 @@
         <mark key="]" line="17" column="24" />
         <mark key="^" line="17" column="34" />
         <mark key="." line="17" column="24" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/utils/OmfUtils.java" timestamp="1590507430090">
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="73" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocumentFromSelected.java" timestamp="1590593427818">
         <mark key="[" line="139" column="0" />
@@ -330,13 +332,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCiAgICAgIGNoZWNrU2VsZWN0aW9uQ291bnQoKTsK</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>masterOriginal.getAbsolutePath()</text>
+        <text>Nothing selected to copy from</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXJlY3RvcnlcPg==</text>
@@ -345,34 +347,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gZm5jLmNvcHkubWFyawo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCiAgICAgIGNoZWNrU2VsZWN0aW9uQ291bnQoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlYWREZXRhaWxzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmICghbWFzdGVyT3JpZ2luYWwuZ2V0RmlsZSgpLmV4aXN0cygpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFBsbUZpbGUgczsKICAgIHJldHVybiBzOwo=</text>
+        <text encoding="base64">ICAgIGlmIChjb3B5U291cmNlID09IG51bGwpCiAgICAgIHRocm93IG5ldyBEZWZhdWx0TG9nRXhjZXB0aW9uKCJ3c2UuZXhjZXB0aW9uLjEiLCAiTm90aGluZyBzZWxlY3RlZC4iKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbWFzdGVyT3JpZ2luYWwuY2hlY2tPdXQoIiIsICIiLCBtYXN0ZXJPcmlnaW5hbC5nZXRBYnNvbHV0ZVBhdGgoKSk7Cg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name=":" type="4">
         <text>303</text>
