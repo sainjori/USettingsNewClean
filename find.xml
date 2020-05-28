@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '...\wittenstein-cust\src\main\java\wittenstein\omf\OmfMarkSourceCopy.java [wittenstein-cust]'" />
+    <option name="defaultScopeName" value="File '...\wittenstein-cust\src\main\java\wittenstein\omf\OmfMarkSourceCopy.java [wittenstein-cust]'" />
+    <option name="SEARCH_SCOPE" value="File '...\wittenstein-cust\src\main\java\wittenstein\omf\OmfMarkSourceCopy.java [wittenstein-cust]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
