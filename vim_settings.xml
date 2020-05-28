@@ -153,6 +153,9 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.15.0/convert-5.1.15.0-sources.jar!/cadagent/sap/ProcessDocCheckout.java" timestamp="1590591479696">
         <mark key="'" line="125" column="17" />
       </file>
+      <file name="/MacroQuery.java" timestamp="1590667760854">
+        <mark key="'" line="213" column="27" />
+      </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/applications/wrd/customize/config/dtype.xml" timestamp="1590588379762">
         <mark key="[" line="38" column="13" />
         <mark key="]" line="39" column="9" />
@@ -173,11 +176,6 @@
         <mark key="." line="49" column="103" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/omf/OmfPlmFileOpen.java" timestamp="1590591577771" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfMarkSource.java" timestamp="1590513972312">
-        <mark key="]" line="19" column="26" />
-        <mark key="^" line="19" column="26" />
-        <mark key="." line="19" column="25" />
-      </file>
       <file name="/Dummy.txt" timestamp="1590612433610">
         <mark key="[" line="0" column="0" />
       </file>
@@ -187,6 +185,7 @@
         <mark key="^" line="106" column="62" />
         <mark key="." line="106" column="61" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/branches/ricwolf-hotfix-5.1.15.1/src/main/java/plm/utils/macro/MacroCommandHandler.java" timestamp="1590667894593" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfCopyMark.java" timestamp="1590612488128">
         <mark key="[" line="19" column="20" />
         <mark key="]" line="19" column="16" />
@@ -194,12 +193,6 @@
         <mark key="^" line="34" column="21" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/applications/ugs/template-customize/config/dtype.xml" timestamp="1590588350376" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfMarkSourceForCopy.java" timestamp="1590513971248">
-        <mark key="[" line="19" column="26" />
-        <mark key="]" line="19" column="26" />
-        <mark key="^" line="34" column="162" />
-        <mark key="." line="19" column="26" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfCopyMarkedToTarget.java" timestamp="1590513994770">
         <mark key="[" line="17" column="30" />
         <mark key="]" line="17" column="24" />
@@ -212,8 +205,11 @@
         <mark key="^" line="152" column="76" />
         <mark key="." line="139" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfCopy.java" timestamp="1590513938814">
-        <mark key="[" line="17" column="20" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/branches/ricwolf-hotfix-5.1.15.1/src/main/java/plm/utils/macro/MacroQuery.java" timestamp="1590667727597">
+        <mark key="[" line="216" column="3" />
+        <mark key="]" line="228" column="3" />
+        <mark key="^" line="228" column="3" />
+        <mark key="." line="228" column="2" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfCopyMarkTarget.java" timestamp="1590514008576">
         <mark key="[" line="17" column="24" />
@@ -221,13 +217,12 @@
         <mark key="^" line="17" column="30" />
         <mark key="." line="17" column="24" />
       </file>
-      <file name="/fragment.java" timestamp="1590513891219">
+      <file name="/fragment.java" timestamp="1590667847062">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/applications/des/customize/config/plm_setenv.bat" timestamp="1590583367177" />
     </filemarks>
     <jumps>
-      <jump line="564" column="13" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/cad/PlmProcessCadPrepareOriginalForCheckin.java" />
       <jump line="181" column="17" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/cad/PlmProcessCadPrepareOriginalForCheckin.java" />
       <jump line="480" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/cad/PlmProcessCadPrepareOriginalForCheckin.java" />
       <jump line="481" column="75" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/cad/PlmProcessCadPrepareOriginalForCheckin.java" />
@@ -327,6 +322,7 @@
       <jump line="326" column="18" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
       <jump line="447" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
       <jump line="125" column="17" filename="$MAVEN_REPOSITORY$/com/dscsag/convert/5.1.15.0/convert-5.1.15.0-sources.jar!/cadagent/sap/ProcessDocCheckout.java" />
+      <jump line="213" column="27" filename="/MacroQuery.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
