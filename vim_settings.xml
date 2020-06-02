@@ -159,7 +159,12 @@
         <mark key="^" line="243" column="30" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/modules/fa/brobj/BrFARouting.java" timestamp="1591101002665" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/modules/fa/brobj/BrFARouting.java" timestamp="1591107756571">
+        <mark key="[" line="307" column="26" />
+        <mark key="]" line="307" column="39" />
+        <mark key="^" line="307" column="39" />
+        <mark key="." line="307" column="38" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/brobj/BrPlmObject.java" timestamp="1591101124730" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.2.2.0/customize/config/default.txt" timestamp="1590674147590">
         <mark key="'" line="2669" column="39" />
@@ -289,13 +294,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>SW</text>
+        <text>fff</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>SW</text>
+        <text>fff</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tX3RvXD4=</text>
