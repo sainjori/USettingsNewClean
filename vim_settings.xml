@@ -143,8 +143,8 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/omf/utils/CreateDefinition.java" timestamp="1591284974855">
         <mark key="'" line="194" column="6" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" timestamp="1591289057193">
-        <mark key="'" line="321" column="17" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" timestamp="1591291258891">
+        <mark key="'" line="1763" column="90" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" timestamp="1591289005614">
         <mark key="'" line="966" column="23" />
@@ -177,17 +177,20 @@
         <mark key="[" line="156" column="0" />
         <mark key="]" line="159" column="46" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocumentFromSelected.java" timestamp="1591288953234">
-        <mark key="'" line="129" column="82" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocumentFromSelected.java" timestamp="1591292789643">
+        <mark key="'" line="146" column="82" />
+        <mark key="[" line="133" column="24" />
+        <mark key="]" line="134" column="27" />
+        <mark key="." line="134" column="26" />
+        <mark key="^" line="134" column="27" />
       </file>
       <file name="/Clipboard.txt" timestamp="1590744696624">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1591096589054">
+      <file name="/fragment.java" timestamp="1591292593136">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="2" column="37" />
       </file>
     </filemarks>
     <jumps>
@@ -246,21 +249,6 @@
       <jump line="2069" column="80" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
       <jump line="2070" column="45" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
       <jump line="284" column="81" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
-      <jump line="2146" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
-      <jump line="2065" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
-      <jump line="1763" column="90" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
-      <jump line="1697" column="52" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
-      <jump line="1692" column="49" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
-      <jump line="1304" column="58" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
-      <jump line="1302" column="19" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
-      <jump line="1265" column="69" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
-      <jump line="1261" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
-      <jump line="524" column="39" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
-      <jump line="513" column="100" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
-      <jump line="421" column="26" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
-      <jump line="417" column="33" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
-      <jump line="2154" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
-      <jump line="414" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
       <jump line="45" column="39" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocumentFromSelected.java" />
       <jump line="129" column="82" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocumentFromSelected.java" />
       <jump line="1828" column="59" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.15.1/sapbase-5.1.15.1-sources.jar!/cadagent/dtype/DType.java" />
@@ -290,19 +278,34 @@
       <jump line="964" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" />
       <jump line="966" column="23" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" />
       <jump line="1273" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
+      <jump line="2065" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
+      <jump line="2146" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
+      <jump line="2154" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
       <jump line="321" column="17" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
+      <jump line="414" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
+      <jump line="417" column="33" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
+      <jump line="421" column="26" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
+      <jump line="513" column="100" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
+      <jump line="524" column="39" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
+      <jump line="1261" column="41" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
+      <jump line="1265" column="69" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
+      <jump line="1302" column="19" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
+      <jump line="1304" column="58" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
+      <jump line="1692" column="49" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
+      <jump line="1697" column="52" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
+      <jump line="1763" column="90" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByZXZTZWxEdHlwZUlkID0gZGF0YUNvbnRhaW5lci5nZXRPYmplY3QoUGxtUHJvY2Vzc0RvY3VtZW50Q3JlYXRlLkdVSV9JTl9FUlJfU0VMX0lEKTsK</text>
+        <text encoding="base64">ICAgIHRhcmdldER0eXBlTGlzdC4K</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>PINT;</text>
+        <text>.stream().</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VEdHlwZUlEXD4=</text>
@@ -311,34 +314,40 @@
         <text encoding="base64">ICAgIHByZXZTZWxEdHlwZUlkID0gZGF0YUNvbnRhaW5lci5nZXRPYmplY3QoUGxtUHJvY2Vzc0RvY3VtZW50Q3JlYXRlLkdVSV9JTl9FUlJfU0VMX0lEKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByb2MuZ2V0Cg==</text>
+        <text encoding="base64">ICAgIHRhcmdldER0eXBlTGlzdC4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIENyZWF0ZURlZmluaXRpb25Db250YWluZXIgY2RjID0gQ3JlYXRlRGVmaW5pdGlvbkNvbnRhaW5lci5nZXRJbnN0KHRydWUpOwogICAgQ3JlYXRlRGVmaW5pdGlvbiBjZCA9IGNkYy5nZXREZWZhdWx0Q3JlYXRlRGVmaW5pdGlvbigpOwogICAgZGMuYWRkT2JqZWN0KFBsbVByb2Nlc3NEb2N1bWVudENyZWF0ZS5JTl9DUkVBVEVfREVGSU5JVElPTiwgY2QpOwoK</text>
+        <text>{
+  @Override
+  public int compare(Object o1, Object o2)
+  {
+    return 0;
+  }
+})</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIENyZWF0ZURlZmluaXRpb24gY3JlYXRlRGVmaW5pdGlvbiA9IG5ldyBDcmVhdGVEZWZpbml0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbm90aWZ5KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNkLgo=</text>
+        <text encoding="base64">ICAgIHByb2MuZ2V0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNkYy4K</text>
+        <text encoding="base64">ICAgIENyZWF0ZURlZmluaXRpb25Db250YWluZXIgY2RjID0gQ3JlYXRlRGVmaW5pdGlvbkNvbnRhaW5lci5nZXRJbnN0KHRydWUpOwogICAgQ3JlYXRlRGVmaW5pdGlvbiBjZCA9IGNkYy5nZXREZWZhdWx0Q3JlYXRlRGVmaW5pdGlvbigpOwogICAgZGMuYWRkT2JqZWN0KFBsbVByb2Nlc3NEb2N1bWVudENyZWF0ZS5JTl9DUkVBVEVfREVGSU5JVElPTiwgY2QpOwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIENyZWF0ZURlZmluaXRpb24gY3JlYXRlRGVmaW5pdGlvbiA9IG5ldyBDcmVhdGVEZWZpbml0aW9uKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEdVSV9EVFlQRV9JRFMK</text>
+        <text encoding="base64">ICAgIGNkLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNhZGFnZW50Lm9iam1vZC5QbG1Gb2xkZXI7Cg==</text>
+        <text encoding="base64">ICAgIGNkYy4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>427</text>
