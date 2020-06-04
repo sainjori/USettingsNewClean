@@ -166,7 +166,13 @@
         <mark key="." line="8" column="7" />
         <mark key="^" line="8" column="8" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr-ectr-hotfix-V5.2.3.0/src/main/java/plm/modules/fa/brobj/BrFARouting.java" timestamp="1591115111779" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr-ectr-hotfix-V5.2.3.0/src/main/java/plm/modules/fa/brobj/BrFARouting.java" timestamp="1591301553564">
+        <mark key="'" line="296" column="59" />
+        <mark key="[" line="180" column="0" />
+        <mark key="]" line="180" column="0" />
+        <mark key="^" line="195" column="2" />
+        <mark key="." line="180" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/applications/wrd/customize/config/dtype.xml" timestamp="1591284080837">
         <mark key="[" line="41" column="61" />
         <mark key="]" line="41" column="66" />
@@ -174,7 +180,7 @@
         <mark key="." line="41" column="61" />
       </file>
       <file name="$USER_HOME$/AppData/Local/Temp/7zO422E2658/BrFARouting.class" timestamp="1591101081625" />
-      <file name="/Dummy.txt" timestamp="1591300013808">
+      <file name="/Dummy.txt" timestamp="1591301559678">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/dadi/DadiBeforShowGuiDocCreate.java" timestamp="1591297864354">
@@ -182,7 +188,7 @@
         <mark key="^" line="14" column="38" />
         <mark key="." line="14" column="37" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/modules/fa/brobj/BrFARouting.java" timestamp="1591112425495">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/modules/fa/brobj/BrFARouting.java" timestamp="1591300725149">
         <mark key="[" line="307" column="26" />
         <mark key="]" line="307" column="39" />
         <mark key="^" line="307" column="39" />
@@ -195,6 +201,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocumentFromSelected.java" timestamp="1591297418717">
         <mark key="'" line="135" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr-ectr-hotfix-V5.2.3.0/src/main/resources/ReadMe.txt" timestamp="1591301461131">
+        <mark key="[" line="56" column="113" />
+        <mark key="]" line="39" column="34" />
+        <mark key="^" line="39" column="34" />
+        <mark key="." line="39" column="33" />
+      </file>
       <file name="/fragment.java" timestamp="1591294626013">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="0" />
@@ -202,7 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="273" column="93" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/branches/ricwolf-hotfix-5.1.15.1/src/main/java/plm/utils/macro/smartobject/SmartObjectWriter.java" />
       <jump line="77" column="18" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfMarkSourceCopy.java" />
       <jump line="153" column="18" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfMarkSourceCopy.java" />
       <jump line="67" column="11" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfMarkSourceCopy.java" />
@@ -302,44 +313,54 @@
       <jump line="142" column="27" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
       <jump line="154" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocumentFromSelected.java" />
       <jump line="141" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocumentFromSelected.java" />
+      <jump line="296" column="59" filename="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr-ectr-hotfix-V5.2.3.0/src/main/java/plm/modules/fa/brobj/BrFARouting.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Userexist</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Userexist</text>
+        <text>n another place</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEQ1JfYmVmb3JlR3VpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByZXZTZWxEdHlwZUlkID0gZGF0YUNvbnRhaW5lci5nZXRPYmplY3QoUGxtUHJvY2Vzc0RvY3VtZW50Q3JlYXRlLkdVSV9JTl9FUlJfU0VMX0lEKTsK</text>
+        <text encoding="base64">ICAgfCAgSG90Zml4IGR1ZSB0byBQTE0tMjkwNTAgKEVDVFItVmVyc2lvbnMgNS4xLjE2LjEvNS4yLjMuMCkKICAgfCAgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgfCAgICAgIC0gcGxtLmJyb2JqLkJyRG9jdW1lbnQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIGNoYW5nZWQgZHVlIHRvIHRyaWdnZXJpbmcgb2YgU1BJIElGYUNsYXNzaWZ5T2JyT2Jqc0ZvclBsbU9ialNlcnZpY2UKICAgfCAgICAgIC0gcGxtLm1vZHVsZXMuZmEuRkFVdGlscyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIGNoYW5nZWQgZHVlIHRvIHRyaWdnZXJpbmcgb2YgU1BJIElGYUNsYXNzaWZ5T2JyT2Jqc0ZvclBsbU9ialNlcnZpY2UKICAgfCAgICAgIC0gcGxtLm1vZHVsZXMuZmEuYnJvYmouSUZhQ2xhc3NpZnlPYnJPYmpzRm9yUGxtT2JqU2VydmljZSAtIGNoYW5nZWQgZHVlIHRvIHRyaWdnZXJpbmcgb2YgU1BJIElGYVBwT3JkZXJDcmVhdGVQcnRQb3NpdGlvbnNTZXJ2aWNlCiAgIHwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogVXNlcmV4aXN0IHRvIHNlbGVjdCBjb3JyZWN0IGR0eXBlIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigip3Rlc3QiKTsK</text>
+        <text encoding="base64">ICAgfCAgICAgIC0gcGxtLm1vZHVsZXMuZmEuRkFVdGlscyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIGNoYW5nZWQgZHVlIHRvIHRyaWdnZXJpbmcgb2YgU1BJIElGYUNsYXNzaWZ5T2JyT2Jqc0ZvclBsbU9ialNlcnZpY2UKICAgfCAgICAgIC0gcGxtLm1vZHVsZXMuZmEuYnJvYmouSUZhQ2xhc3NpZnlPYnJPYmpzRm9yUGxtT2JqU2VydmljZSAtIGNoYW5nZWQgZHVlIHRvIHRyaWdnZXJpbmcgb2YgU1BJIElGYVBwT3JkZXJDcmVhdGVQcnRQb3NpdGlvbnNTZXJ2aWNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIERDUl9HdWkgPSBkZi5nZXREYWRpKCJwbG0uZG9jdW1lbnQuY3JlYXRlLmd1aS5jbGFzcyIsICJwbG0ucHJvYy5kb2MuY3JlYXRlLlBsbVByb2Nlc3NEb2N1bWVudENyZWF0ZUd1aSIpOwo=</text>
+        <text encoding="base64">ICogVXNlcmV4aXN0IHRvIHNlbGVjdCBjb3JyZWN0IGR0eXBlIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRhcmdldER0eXBlTGlzdC4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigip3Rlc3QiKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIERDUl9HdWkgPSBkZi5nZXREYWRpKCJwbG0uZG9jdW1lbnQuY3JlYXRlLmd1aS5jbGFzcyIsICJwbG0ucHJvYy5kb2MuY3JlYXRlLlBsbVByb2Nlc3NEb2N1bWVudENyZWF0ZUd1aSIpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRhcmdldER0eXBlTGlzdC4K</text>
+      </register>
+      <register name="9" type="2">
         <text>{
   @Override
   public int compare(Object o1, Object o2)
@@ -347,15 +368,6 @@
     return 0;
   }
 })</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbm90aWZ5KCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByb2MuZ2V0Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIENyZWF0ZURlZmluaXRpb25Db250YWluZXIgY2RjID0gQ3JlYXRlRGVmaW5pdGlvbkNvbnRhaW5lci5nZXRJbnN0KHRydWUpOwogICAgQ3JlYXRlRGVmaW5pdGlvbiBjZCA9IGNkYy5nZXREZWZhdWx0Q3JlYXRlRGVmaW5pdGlvbigpOwogICAgZGMuYWRkT2JqZWN0KFBsbVByb2Nlc3NEb2N1bWVudENyZWF0ZS5JTl9DUkVBVEVfREVGSU5JVElPTiwgY2QpOwoK</text>
       </register>
       <register name=":" type="4">
         <text>427</text>
