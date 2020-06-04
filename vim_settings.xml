@@ -14,7 +14,6 @@
         <entry encoding="base64">XDxJTl9BRERfVE9fRk9MREVSXD4=</entry>
         <entry encoding="base64">XDxhZGRUb0ZvbGRlclw+</entry>
         <entry encoding="base64">XDxmb2xkZXJUb0FkZFw+</entry>
-        <entry encoding="base64">XDxhZGRUb09NZm9sZGVyXD4=</entry>
         <entry encoding="base64">XDxzZWVkUmVmTmFtZVRvTWFzdGVyXD4=</entry>
         <entry encoding="base64">XDxwSW5NYXN0ZXJcPg==</entry>
         <entry encoding="base64">XDxJTl9URU1QTEFURV9ET0NcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDx1c2VFeHRlcm5hbFRlbXBsYXRlRmlsZVw+</entry>
         <entry encoding="base64">XDxkaXJlY3RvcnlcPg==</entry>
         <entry encoding="base64">XDxmcm9tX3RvXD4=</entry>
+        <entry encoding="base64">XDxhZGRUb09NZm9sZGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>605</entry>
@@ -145,6 +145,12 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/brobj/BrPlmObject.java" timestamp="1591101124730" />
       <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr-ectr-hotfix-V5.2.3.0/src/main/java/plm/modules/fa/brobj/BrFARouting.java" timestamp="1591115111779" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/applications/wrd/customize/config/dtype.xml" timestamp="1591283481220">
+        <mark key="[" line="41" column="65" />
+        <mark key="]" line="41" column="69" />
+        <mark key="^" line="41" column="69" />
+        <mark key="." line="41" column="68" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfMarkSourceCopy.java" timestamp="1590674733507">
         <mark key="'" line="106" column="37" />
         <mark key="[" line="74" column="0" />
@@ -153,20 +159,20 @@
         <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/AppData/Local/Temp/7zO422E2658/BrFARouting.class" timestamp="1591101081625" />
-      <file name="/Dummy.txt" timestamp="1591112690497">
+      <file name="/Dummy.txt" timestamp="1591282852803">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.2.2.0/customize/config/menu.guidef" timestamp="1590672654597">
-        <mark key="[" line="106" column="62" />
-        <mark key="]" line="107" column="64" />
-        <mark key="^" line="107" column="64" />
-        <mark key="." line="107" column="63" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/modules/fa/brobj/BrFARouting.java" timestamp="1591112425495">
         <mark key="[" line="307" column="26" />
         <mark key="]" line="307" column="39" />
         <mark key="^" line="307" column="39" />
         <mark key="." line="307" column="38" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocumentFromSelected.java" timestamp="1591283188276">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="180" column="6" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.2.2.0/customize/config/default.txt" timestamp="1590674147590">
         <mark key="'" line="2669" column="39" />
@@ -183,11 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2108" column="57" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
-      <jump line="480" column="36" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
-      <jump line="167" column="95" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
-      <jump line="379" column="20" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
-      <jump line="433" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
       <jump line="436" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
       <jump line="439" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
       <jump line="441" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
@@ -283,12 +284,17 @@
       <jump line="103" column="39" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfMarkSourceCopy.java" />
       <jump line="106" column="37" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfMarkSourceCopy.java" />
       <jump line="129" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/omf/OmfEquipmentCreateMultiFromProdOrder.java" />
+      <jump line="49" column="19" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocumentFromSelected.java" />
+      <jump line="85" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocumentFromSelected.java" />
+      <jump line="86" column="41" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocumentFromSelected.java" />
+      <jump line="115" column="31" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocumentFromSelected.java" />
+      <jump line="21" column="32" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocumentFromSelected.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>fff</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50Lm9iam1vZC5QbG1Gb2xkZXI7Cg==</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -297,40 +303,40 @@
         <text>fff</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmcm9tX3RvXD4=</text>
+        <text encoding="base64">XDxhZGRUb09NZm9sZGVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmIChjb3B5VGFyZ2V0IGluc3RhbmNlb2YgQnJNYXRlcmlhbCkKICAgIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIHRtcF90eHRfb2JqID0gIiI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50Lm9iam1vZC5QbG1Gb2xkZXI7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxpZE9iakNvdW50Kys7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxpZE9iakNvdW50Kys7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGludCB2YWxpZE9iakNvdW50ID0gMDsK</text>
+        <text encoding="base64">ICAgICAgLy8gaWdub3JlIG9iamVjdCBhbmQgc2V0IGFjdGl2ZSBmb2xkZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0bXBfdHh0X29iaiA9IERpYy5nZXQoIlNZU1RFTS5ULkRPQ1VNRU5UIikgKyAiICIgKyBkb2MudG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">ICAgICAgZGMuYWRkT2JqZWN0KFBsbVByb2Nlc3NEb2N1bWVudENyZWF0ZS5JTl9GT0xERVIsIHBsbV9mbGQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0bXBfdHh0X29iaiA9IERpYy5nZXQoIlNZU1RFTS5ULk1BVEVSSUFMIikgKyAiICIgKyBtYXQuZ2V0RXh0TnVtYmVyKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGkgPT0gMCkKICAgICAgICB0eHRfb2JqX2Zyb20gPSB0bXBfdHh0X29iajsKICAgICAgZWxzZQogICAgICAgIHR4dF9vYmpfdG8gPSB0bXBfdHh0X29iajsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgIE9ick9iamVjdCBwYXJlbnRGb2xkZXIgPSBnZXRQYXJlbnRGb2xkZXIoKTsKICAgIGlmIChwYXJlbnRGb2xkZXIgaW5zdGFuY2VvZiBCckZvbGRlcikKICAgIHsKICAgICAgQnJGb2xkZXIgYnJfZmxkID0gKEJyRm9sZGVyKSBwYXJlbnRGb2xkZXI7CiAgICAgIGRjLmFkZE9iamVjdChQbG1Qcm9jZXNzRG9jdW1lbnRDcmVhdGUuSU5fRk9MREVSLCBicl9mbGQuZ2V0UGxtRm9sZGVyKCkpOwogICAgICBhZGRUb09NZm9sZGVyID0gKEJyRm9sZGVyKSBwYXJlbnRGb2xkZXI7CiAgICB9CiAgICBlbHNlCiAgICB7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGVsc2UgaWYgKG9iIGluc3RhbmNlb2YgQnJFcXVpcG1lbnQpCiAgICAgIHsKICAgICAgICB2YWxpZE9iakNvdW50Kys7CiAgICAgICAgQnJFcXVpcG1lbnQgYnJlcXVpID0gKEJyRXF1aXBtZW50KSBvYjsKICAgICAgICBQbG1FcXVpcG1lbnQgZXF1aSA9IGJyZXF1aS5nZXRQbG1PYmplY3QoKTsKICAgICAgICBTdHJpbmcgZXF1aV9ubyA9IFNhcE51bWJlckNvbnZlcnRlckFscGhhLkNPTlZfRVFVTlIuZXh0VG9JbnQoZXF1aS5nZXROdW1iZXIoKSk7CiAgICAgICAgLy9wYXJhbXMuYWRkSW1wb3J0KCJPQkpfIiArIGZyb21fdG8sIG1hdF9ubyk7CiAgICAgICAgcGFyYW1zLmFkZEltcG9ydCgiT0JKX1RZUEVfIiArIGZyb21fdG8sICJFUVVJIik7CiAgICAgICAgdl9vYmpfaWQuYWRkKG5ld1RhYmxlRW50cnkoIkVRVU5SIiwgZXF1aV9ubykpOwogICAgICAgIHRtcF90eHRfb2JqID0gIkVxdWlwbWVudCAiICsgZXF1aV9ubzsKICAgICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgU3RyaW5nIHRtcF90eHRfb2JqID0gIiI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>303</text>
@@ -339,9 +345,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxmcm9tX3RvXD4=</last-search>
+      <last-search encoding="base64">XDxhZGRUb09NZm9sZGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmcm9tX3RvXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhZGRUb09NZm9sZGVyXD4=</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute encoding="base64">XDxkcm9wTW9kZVw+</last-substitute>
       <last-dir>1</last-dir>
