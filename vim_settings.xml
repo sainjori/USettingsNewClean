@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx4bGF0ZVw+</entry>
         <entry encoding="base64">XDxJTl9URU1QTEFURV9GSUxFXD4=</entry>
         <entry encoding="base64">XDx1c2VFeHRlcm5hbFRlbXBsYXRlRmlsZVw+</entry>
         <entry encoding="base64">XDxkaXJlY3RvcnlcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxwcmV2U2VsRHR5cGVJZFw+</entry>
         <entry encoding="base64">XDxEQ1JfR3VpXD4=</entry>
         <entry encoding="base64">XDxEQ1JfYmVmb3JlR3VpXD4=</entry>
+        <entry encoding="base64">XDx3b3JrQ2VudGVyQ29udFw+</entry>
       </history-search>
       <history-cmd>
         <entry>92</entry>
@@ -148,12 +148,14 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" timestamp="1591297016867">
         <mark key="'" line="142" column="27" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/proc/ProcessObjectGetDetailFast.java" timestamp="1591376478451">
+        <mark key="'" line="463" column="54" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" timestamp="1591296089014">
         <mark key="'" line="966" column="23" />
         <mark key="[" line="2195" column="0" />
         <mark key="]" line="2195" column="89" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/utils/PlmUtils.java" timestamp="1591288763081" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/dadi/TEST1.java" timestamp="1591297833489">
         <mark key="[" line="14" column="14" />
         <mark key="]" line="8" column="8" />
@@ -199,11 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="18" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfMarkSourceCopy.java" />
-      <jump line="153" column="18" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfMarkSourceCopy.java" />
-      <jump line="67" column="11" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfMarkSourceCopy.java" />
-      <jump line="73" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfMarkSourceCopy.java" />
-      <jump line="90" column="39" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfMarkSourceCopy.java" />
       <jump line="103" column="39" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfMarkSourceCopy.java" />
       <jump line="106" column="37" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfMarkSourceCopy.java" />
       <jump line="129" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/omf/OmfEquipmentCreateMultiFromProdOrder.java" />
@@ -299,6 +296,11 @@
       <jump line="154" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocumentFromSelected.java" />
       <jump line="141" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocumentFromSelected.java" />
       <jump line="296" column="59" filename="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr-ectr-hotfix-V5.2.3.0/src/main/java/plm/modules/fa/brobj/BrFARouting.java" />
+      <jump line="524" column="33" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/proc/ProcessObjectGetDetailFast.java" />
+      <jump line="486" column="17" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/proc/ProcessObjectGetDetailFast.java" />
+      <jump line="319" column="34" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/proc/ProcessObjectGetDetailFast.java" />
+      <jump line="442" column="31" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/proc/ProcessObjectGetDetailFast.java" />
+      <jump line="463" column="54" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/proc/ProcessObjectGetDetailFast.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -313,7 +315,7 @@
         <text>n another place</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEQ1JfYmVmb3JlR3VpXD4=</text>
+        <text encoding="base64">XDx3b3JrQ2VudGVyQ29udFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgfCAgSG90Zml4IGR1ZSB0byBQTE0tMjkwNTAgKEVDVFItVmVyc2lvbnMgNS4xLjE2LjEvNS4yLjMuMCkKICAgfCAgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgfCAgICAgIC0gcGxtLmJyb2JqLkJyRG9jdW1lbnQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIGNoYW5nZWQgZHVlIHRvIHRyaWdnZXJpbmcgb2YgU1BJIElGYUNsYXNzaWZ5T2JyT2Jqc0ZvclBsbU9ialNlcnZpY2UKICAgfCAgICAgIC0gcGxtLm1vZHVsZXMuZmEuRkFVdGlscyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIGNoYW5nZWQgZHVlIHRvIHRyaWdnZXJpbmcgb2YgU1BJIElGYUNsYXNzaWZ5T2JyT2Jqc0ZvclBsbU9ialNlcnZpY2UKICAgfCAgICAgIC0gcGxtLm1vZHVsZXMuZmEuYnJvYmouSUZhQ2xhc3NpZnlPYnJPYmpzRm9yUGxtT2JqU2VydmljZSAtIGNoYW5nZWQgZHVlIHRvIHRyaWdnZXJpbmcgb2YgU1BJIElGYVBwT3JkZXJDcmVhdGVQcnRQb3NpdGlvbnNTZXJ2aWNlCiAgIHwK</text>
@@ -361,9 +363,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxEQ1JfYmVmb3JlR3VpXD4=</last-search>
+      <last-search encoding="base64">XDx3b3JrQ2VudGVyQ29udFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEQ1JfYmVmb3JlR3VpXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx3b3JrQ2VudGVyQ29udFw+</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute encoding="base64">XDxkcm9wTW9kZVw+</last-substitute>
       <last-dir>1</last-dir>
