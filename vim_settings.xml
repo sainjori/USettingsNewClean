@@ -140,7 +140,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/dadi/DadiAfterConvertHandler.java" timestamp="1591296576575" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/customize/config/default.txt" timestamp="1591299982048">
         <mark key="[" line="2721" column="55" />
       </file>
@@ -150,11 +149,6 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/proc/ProcessObjectGetDetailFast.java" timestamp="1591376478451">
         <mark key="'" line="463" column="54" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" timestamp="1591296089014">
-        <mark key="'" line="966" column="23" />
-        <mark key="[" line="2195" column="0" />
-        <mark key="]" line="2195" column="89" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/dadi/TEST1.java" timestamp="1591297833489">
         <mark key="[" line="14" column="14" />
@@ -170,6 +164,12 @@
         <mark key="^" line="195" column="2" />
         <mark key="." line="180" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/gui/browser/components/FaWorkCenterEquipmentsListPanel.java" timestamp="1591633819009">
+        <mark key="[" line="97" column="25" />
+        <mark key="]" line="97" column="62" />
+        <mark key="^" line="97" column="62" />
+        <mark key="." line="97" column="61" />
+      </file>
       <file name="/Dummy.txt" timestamp="1591301559678">
         <mark key="[" line="0" column="0" />
       </file>
@@ -184,6 +184,7 @@
         <mark key="^" line="307" column="39" />
         <mark key="." line="307" column="38" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/AbstractBrowsePanel.java" timestamp="1591633682251" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocumentFromSelected.java" timestamp="1591297418717">
         <mark key="'" line="135" column="0" />
       </file>
@@ -194,7 +195,7 @@
         <mark key="^" line="39" column="34" />
         <mark key="." line="39" column="33" />
       </file>
-      <file name="/fragment.java" timestamp="1591375797101">
+      <file name="/fragment.java" timestamp="1591632568891">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="2" column="37" />
@@ -305,20 +306,20 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>BorderFactory.createTitledBorder(BorderFactory.createLineBorder(Color.RED, 4), &quot;emptypanel&quot;));</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>n another place</text>
+        <text>BorderFactory.createTitledBorder(BorderFactory.createLineBorder(Color.RED, 4), &quot;emptypanel&quot;));</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3b3JrQ2VudGVyQ29udFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgfCAgSG90Zml4IGR1ZSB0byBQTE0tMjkwNTAgKEVDVFItVmVyc2lvbnMgNS4xLjE2LjEvNS4yLjMuMCkKICAgfCAgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgfCAgICAgIC0gcGxtLmJyb2JqLkJyRG9jdW1lbnQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIGNoYW5nZWQgZHVlIHRvIHRyaWdnZXJpbmcgb2YgU1BJIElGYUNsYXNzaWZ5T2JyT2Jqc0ZvclBsbU9ialNlcnZpY2UKICAgfCAgICAgIC0gcGxtLm1vZHVsZXMuZmEuRkFVdGlscyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIGNoYW5nZWQgZHVlIHRvIHRyaWdnZXJpbmcgb2YgU1BJIElGYUNsYXNzaWZ5T2JyT2Jqc0ZvclBsbU9ialNlcnZpY2UKICAgfCAgICAgIC0gcGxtLm1vZHVsZXMuZmEuYnJvYmouSUZhQ2xhc3NpZnlPYnJPYmpzRm9yUGxtT2JqU2VydmljZSAtIGNoYW5nZWQgZHVlIHRvIHRyaWdnZXJpbmcgb2YgU1BJIElGYVBwT3JkZXJDcmVhdGVQcnRQb3NpdGlvbnNTZXJ2aWNlCiAgIHwK</text>
+        <text encoding="base64">ICAgIGVtcHR5UGFuZWwuc2V0Qm9yZGVyKEJvcmRlckZhY3RvcnkuY3JlYXRlVGl0bGVkQm9yZGVyKEJvcmRlckZhY3RvcnkuY3JlYXRlTGluZUJvcmRlcihDb2xvci5SRUQsIDQpLCAiZW1wdHlwYW5lbCIpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
