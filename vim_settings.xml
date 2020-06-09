@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxkaXJlY3RvcnlcPg==</entry>
         <entry encoding="base64">XDxmcm9tX3RvXD4=</entry>
         <entry encoding="base64">XDxhZGRUb09NZm9sZGVyXD4=</entry>
         <entry encoding="base64">XDxHVUlfSU5fRFRZUEVfSURTXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDx3b3JrQ2VudGVyQ29udFw+</entry>
         <entry encoding="base64">XDxtYXN0ZXJQYW5lbFw+</entry>
         <entry encoding="base64">XDxvYnJDaGlsZHJlbkRpc3BsYXlcPg==</entry>
+        <entry encoding="base64">XDxJTlNUQU5DRVw+</entry>
       </history-search>
       <history-cmd>
         <entry>92</entry>
@@ -140,17 +140,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591301559678">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/dadi/DadiBeforShowGuiDocCreate.java" timestamp="1591297864354">
-        <mark key="]" line="14" column="38" />
-        <mark key="^" line="14" column="38" />
-        <mark key="." line="14" column="37" />
-      </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/customize/config/default.txt" timestamp="1591299982048">
-        <mark key="[" line="2721" column="55" />
-      </file>
       <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.desktop/java/awt/event/InvocationEvent.java" timestamp="1591711547759" />
       <file name="/a.dummy" timestamp="1591712991385">
         <mark key="[" line="0" column="0" />
@@ -159,13 +148,7 @@
         <mark key="'" line="463" column="54" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/brobj/BrFaTlmProductionOrderOperation.java" timestamp="1591712530396" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/modules/fa/brobj/BrFARouting.java" timestamp="1591300725149">
-        <mark key="[" line="307" column="26" />
-        <mark key="]" line="307" column="39" />
-        <mark key="^" line="307" column="39" />
-        <mark key="." line="307" column="38" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/gui/browser/components/FaWorkCenterWorkListPanel.java" timestamp="1591708880455" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/brobj/BrFaTlmEquipmentReservation.java" timestamp="1591714378183" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/modules/fa/gui/browser/FAWorkCenterBrowsePanel.java" timestamp="1591711927488" />
       <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr-ectr-hotfix-V5.2.3.0/src/main/java/plm/modules/fa/brobj/BrFARouting.java" timestamp="1591301553564">
         <mark key="'" line="296" column="59" />
@@ -175,7 +158,27 @@
         <mark key="." line="180" column="0" />
       </file>
       <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/Runnable.java" timestamp="1591709537198" />
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/basis/dictionary/de/ectr.txt" timestamp="1591707734103" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/gui/browser/components/FaWorkCenterEquipmentsListPanel.java" timestamp="1591696960424">
+        <mark key="'" line="105" column="4" />
+        <mark key="[" line="97" column="65" />
+        <mark key="]" line="97" column="66" />
+        <mark key="^" line="97" column="66" />
+        <mark key="." line="97" column="65" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591301559678">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/tlm/utils/times/unit/Minute.java" timestamp="1591714505661">
+        <mark key="'" line="47" column="2" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/modules/fa/brobj/BrFARouting.java" timestamp="1591300725149">
+        <mark key="[" line="307" column="26" />
+        <mark key="]" line="307" column="39" />
+        <mark key="^" line="307" column="39" />
+        <mark key="." line="307" column="38" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/gui/browser/components/FaWorkCenterWorkListPanel.java" timestamp="1591708880455" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/basis/dictionary/de/ectr.txt" timestamp="1591713140514" />
       <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr-ectr-hotfix-V5.2.3.0/src/main/resources/ReadMe.txt" timestamp="1591301461131">
         <mark key="[" line="56" column="113" />
         <mark key="]" line="39" column="34" />
@@ -188,21 +191,13 @@
         <mark key="." line="83" column="44" />
         <mark key="^" line="83" column="45" />
       </file>
-      <file name="/fragment.java" timestamp="1591713005333">
+      <file name="/fragment.java" timestamp="1591713083105">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="2" column="37" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/gui/browser/components/FaWorkCenterEquipmentsListPanel.java" timestamp="1591696960424">
-        <mark key="'" line="105" column="4" />
-        <mark key="[" line="97" column="65" />
-        <mark key="]" line="97" column="66" />
-        <mark key="^" line="97" column="66" />
-        <mark key="." line="97" column="65" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="416" column="14" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
       <jump line="420" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
       <jump line="433" column="43" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
       <jump line="404" column="31" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
@@ -302,6 +297,7 @@
       <jump line="114" column="4" filename="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/gui/browser/components/FaWorkCenterEquipmentsListPanel.java" />
       <jump line="116" column="15" filename="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/gui/browser/components/FaWorkCenterEquipmentsListPanel.java" />
       <jump line="105" column="4" filename="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/gui/browser/components/FaWorkCenterEquipmentsListPanel.java" />
+      <jump line="47" column="2" filename="C:/ENTWICKLUNG/java/workspaces/fctr-platform52/core/fctr/src/main/java/plm/modules/fa/tlm/utils/times/unit/Minute.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -316,7 +312,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvYnJDaGlsZHJlbkRpc3BsYXlcPg==</text>
+        <text encoding="base64">XDxJTlNUQU5DRVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGVtcHR5UGFuZWwuc2V0Qm9yZGVyKEJvcmRlckZhY3RvcnkuY3JlYXRlVGl0bGVkQm9yZGVyKEJvcmRlckZhY3RvcnkuY3JlYXRlTGluZUJvcmRlcihDb2xvci5SRUQsIDQpLCAiZW1wdHlwYW5lbCIpKTsK</text>
@@ -364,9 +360,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxvYnJDaGlsZHJlbkRpc3BsYXlcPg==</last-search>
+      <last-search encoding="base64">XDxJTlNUQU5DRVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvYnJDaGlsZHJlbkRpc3BsYXlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxJTlNUQU5DRVw+</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute encoding="base64">XDxkcm9wTW9kZVw+</last-substitute>
       <last-dir>1</last-dir>
