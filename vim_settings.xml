@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxHVUlfSU5fRFRZUEVfSURTXD4=</entry>
         <entry encoding="base64">XDx2RHR5cGVJRHNcPg==</entry>
         <entry encoding="base64">XDxJTl9DUkVBVEVfREVGSU5JVElPTlw+</entry>
         <entry encoding="base64">XDxtYXN0ZXJEdHlwZUlkXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxJTlNUQU5DRVw+</entry>
         <entry encoding="base64">XDxyZXNvdXJjZVN0YXJ0XD4=</entry>
         <entry encoding="base64">XDxkZXNjcmlwdGlvblw+</entry>
+        <entry encoding="base64">XDxQUk9KRUNUX0RFRklOSVRJT05fSU5UXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>92</entry>
@@ -143,17 +143,17 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/modules/fa/PlmFAWorkCenter.java" timestamp="1591787962660">
         <mark key="'" line="95" column="17" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/proc/ProcessObjectGetDetailFast.java" timestamp="1591787360724">
-        <mark key="'" line="463" column="54" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/utils/propertygenerator/ObrPropertyGenerator.java" timestamp="1591957198398" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/brobj/utils/GxKeyValueCombinator.java" timestamp="1591956422279" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/brobj/utils/GxKeyValueCombinator.java" timestamp="1591966268268" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivity.java" timestamp="1591954670700" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/brobj/ObrPSNetworkActivitySpecification.java" timestamp="1591955760739">
         <mark key="[" line="300" column="27" />
         <mark key="]" line="300" column="28" />
         <mark key="^" line="300" column="28" />
         <mark key="." line="300" column="27" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" timestamp="1591966209010">
+        <mark key="'" line="77" column="42" />
       </file>
       <file name="/Dummy.txt" timestamp="1591900264666">
         <mark key="[" line="0" column="0" />
@@ -162,7 +162,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/components/PsPspElementDynamicCustFieldsPanel.java" timestamp="1591897736691" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/url/LinkHandlerProviderService.java" timestamp="1591952882188" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/DefaultTableBrowserComponent.java" timestamp="1591898090252" />
-      <file name="/fragment.java" timestamp="1591957025439">
+      <file name="/fragment.java" timestamp="1591966754978">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="2" column="37" />
@@ -175,11 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2069" column="80" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
-      <jump line="2070" column="45" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
-      <jump line="284" column="81" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
-      <jump line="45" column="39" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocumentFromSelected.java" />
-      <jump line="129" column="82" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/nea/trunk/src/main/java/nea/omf/OmfCreateNewDocumentFromSelected.java" />
       <jump line="1828" column="59" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.15.1/sapbase-5.1.15.1-sources.jar!/cadagent/dtype/DType.java" />
       <jump line="2624" column="101" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.15.1/sapbase-5.1.15.1-sources.jar!/cadagent/dtype/DType.java" />
       <jump line="3212" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.15.1/sapbase-5.1.15.1-sources.jar!/cadagent/dtype/DType.java" />
@@ -275,6 +270,11 @@
       <jump line="23" column="27" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/modules/fa/PlmFAWorkCenter.java" />
       <jump line="60" column="34" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/modules/fa/PlmFAWorkCenter.java" />
       <jump line="95" column="17" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/modules/fa/PlmFAWorkCenter.java" />
+      <jump line="50" column="59" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" />
+      <jump line="58" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" />
+      <jump line="59" column="18" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" />
+      <jump line="68" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" />
+      <jump line="77" column="42" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -289,7 +289,7 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZXNjcmlwdGlvblw+</text>
+        <text encoding="base64">XDxQUk9KRUNUX0RFRklOSVRJT05fSU5UXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGVtcHR5UGFuZWwuc2V0Qm9yZGVyKEJvcmRlckZhY3RvcnkuY3JlYXRlVGl0bGVkQm9yZGVyKEJvcmRlckZhY3RvcnkuY3JlYXRlTGluZUJvcmRlcihDb2xvci5SRUQsIDQpLCAiZW1wdHlwYW5lbCIpKTsK</text>
@@ -331,9 +331,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxkZXNjcmlwdGlvblw+</last-search>
+      <last-search encoding="base64">XDxQUk9KRUNUX0RFRklOSVRJT05fSU5UXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZXNjcmlwdGlvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxQUk9KRUNUX0RFRklOSVRJT05fSU5UXD4=</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute encoding="base64">XDxkcm9wTW9kZVw+</last-substitute>
       <last-dir>1</last-dir>
