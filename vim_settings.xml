@@ -146,17 +146,19 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/utils/propertygenerator/ObrPropertyGenerator.java" timestamp="1591957198398" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/brobj/utils/GxKeyValueCombinator.java" timestamp="1591966268268" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivity.java" timestamp="1591954670700" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/brobj/ObrPSNetworkActivitySpecification.java" timestamp="1591955760739">
-        <mark key="[" line="300" column="27" />
-        <mark key="]" line="300" column="28" />
-        <mark key="^" line="300" column="28" />
-        <mark key="." line="300" column="27" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/brobj/ObrPSNetworkActivitySpecification.java" timestamp="1591967569333">
+        <mark key="[" line="301" column="0" />
+        <mark key="]" line="301" column="0" />
+        <mark key="^" line="303" column="0" />
+        <mark key="." line="301" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" timestamp="1591966209010">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" timestamp="1591967559810">
         <mark key="'" line="77" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591900264666">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1591967772682">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/brobj/BrPSNetworkActivity.java" timestamp="1591896329779" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/components/PsPspElementDynamicCustFieldsPanel.java" timestamp="1591897736691" />
@@ -280,13 +282,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>Hyperlink to parent objects</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>Hyperlink to parent objects</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQUk9KRUNUX0RFRklOSVRJT05fSU5UXD4=</text>
@@ -295,34 +297,34 @@
         <text encoding="base64">ICAgIGVtcHR5UGFuZWwuc2V0Qm9yZGVyKEJvcmRlckZhY3RvcnkuY3JlYXRlVGl0bGVkQm9yZGVyKEJvcmRlckZhY3RvcnkuY3JlYXRlTGluZUJvcmRlcihDb2xvci5SRUQsIDQpLCAiZW1wdHlwYW5lbCIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3Yy5nZXREZXNjcmlwdGlvbigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB3Yy5nZXREZXNjcmlwdGlvbigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBPcHRpb25hbC5vZihkZXNjcmlwdGlvbikKICAgICAgICAgICAgLmZpbHRlcihTdHJpbmdzOjppc05vdE51bGxBbmROb3RFbXB0eSkKICAgICAgICAgICAgLm9yRWxzZUdldCgoKSAtPiBEaWMuZ2V0KCJzYXAucGxtLmRlc2NyaXB0aW9uLmZhbGxiYWNrLmxhbmd1YWdlIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdzLmlzTm90TnVsbEFuZE5vdEVtcHR5KGRlc2NyaXB0aW9uKQo=</text>
+        <text encoding="base64">ICAgICAgICBPcHRpb25hbC5vZihkZXNjcmlwdGlvbikKICAgICAgICAgICAgLmZpbHRlcihTdHJpbmdzOjppc05vdE51bGxBbmROb3RFbXB0eSkKICAgICAgICAgICAgLm9yRWxzZUdldCgoKSAtPiBEaWMuZ2V0KCJzYXAucGxtLmRlc2NyaXB0aW9uLmZhbGxiYWNrLmxhbmd1YWdlIikpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdzLmlzTm90TnVsbEFuZE5vdEVtcHR5KGRlc2NyaXB0aW9uKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgfCAgICAgIC0gcGxtLm1vZHVsZXMuZmEuRkFVdGlscyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIGNoYW5nZWQgZHVlIHRvIHRyaWdnZXJpbmcgb2YgU1BJIElGYUNsYXNzaWZ5T2JyT2Jqc0ZvclBsbU9ialNlcnZpY2UKICAgfCAgICAgIC0gcGxtLm1vZHVsZXMuZmEuYnJvYmouSUZhQ2xhc3NpZnlPYnJPYmpzRm9yUGxtT2JqU2VydmljZSAtIGNoYW5nZWQgZHVlIHRvIHRyaWdnZXJpbmcgb2YgU1BJIElGYVBwT3JkZXJDcmVhdGVQcnRQb3NpdGlvbnNTZXJ2aWNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogVXNlcmV4aXN0IHRvIHNlbGVjdCBjb3JyZWN0IGR0eXBlIAo=</text>
+        <text encoding="base64">ICAgfCAgICAgIC0gcGxtLm1vZHVsZXMuZmEuRkFVdGlscyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIGNoYW5nZWQgZHVlIHRvIHRyaWdnZXJpbmcgb2YgU1BJIElGYUNsYXNzaWZ5T2JyT2Jqc0ZvclBsbU9ialNlcnZpY2UKICAgfCAgICAgIC0gcGxtLm1vZHVsZXMuZmEuYnJvYmouSUZhQ2xhc3NpZnlPYnJPYmpzRm9yUGxtT2JqU2VydmljZSAtIGNoYW5nZWQgZHVlIHRvIHRyaWdnZXJpbmcgb2YgU1BJIElGYVBwT3JkZXJDcmVhdGVQcnRQb3NpdGlvbnNTZXJ2aWNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICogVXNlcmV4aXN0IHRvIHNlbGVjdCBjb3JyZWN0IGR0eXBlIAo=</text>
       </register>
       <register name=":" type="4">
         <text>427</text>
