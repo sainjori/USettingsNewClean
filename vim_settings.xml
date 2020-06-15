@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxJTl9DUkVBVEVfREVGSU5JVElPTlw+</entry>
         <entry encoding="base64">XDxtYXN0ZXJEdHlwZUlkXD4=</entry>
         <entry encoding="base64">XDxJTl9EVFlQRV9JRFw+</entry>
         <entry encoding="base64">XDx0YXJnZXREdHlwZUxpc3RcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxkZXNjcmlwdGlvblw+</entry>
         <entry encoding="base64">XDxQUk9KRUNUX0RFRklOSVRJT05fSU5UXD4=</entry>
         <entry encoding="base64">XDx0eXBlZERhdGFEZWxlZ2F0ZVw+</entry>
+        <entry encoding="base64">XDxsaW5rYWJsZVByb3BlcnRpZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>92</entry>
@@ -147,6 +147,7 @@
         <mark key="." line="34" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/utils/propertygenerator/ObrPropertyGenerator.java" timestamp="1591957198398" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/gui/browser/components/PspBasicDataPanel.java" timestamp="1592246250796" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/brobj/utils/GxKeyValueCombinator.java" timestamp="1591966268268" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivity.java" timestamp="1591978961602" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/brobj/ObrPSNetworkActivitySpecification.java" timestamp="1591978844856">
@@ -157,6 +158,9 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" timestamp="1591969061300">
         <mark key="'" line="77" column="42" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/gui/browser/components/PsNetworkActivityCategoryDataPanel.java" timestamp="1592246531696">
+        <mark key="'" line="62" column="45" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsMaterialComponent.java" timestamp="1592218125958">
         <mark key="'" line="47" column="39" />
@@ -174,6 +178,9 @@
         <mark key="^" line="38" column="17" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/url/LinkHandlerProviderService.java" timestamp="1591952882188" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/brobj/ObrPSNetworkActivitySpecification.java" timestamp="1592246547236">
+        <mark key="'" line="80" column="53" />
+      </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/addons/fctr/basis/dictionary/de/fctr.txt" timestamp="1592217046969" />
       <file name="/fragment.java" timestamp="1592218982747">
         <mark key="[" line="0" column="0" />
@@ -182,8 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2624" column="101" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.15.1/sapbase-5.1.15.1-sources.jar!/cadagent/dtype/DType.java" />
-      <jump line="3212" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.15.1/sapbase-5.1.15.1-sources.jar!/cadagent/dtype/DType.java" />
       <jump line="391" column="23" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.15.1/sapbase-5.1.15.1-sources.jar!/cadagent/dtype/DType.java" />
       <jump line="392" column="29" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.15.1/sapbase-5.1.15.1-sources.jar!/cadagent/dtype/DType.java" />
       <jump line="281" column="16" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreateGui.java" />
@@ -282,6 +287,8 @@
       <jump line="68" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" />
       <jump line="77" column="42" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" />
       <jump line="47" column="39" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsMaterialComponent.java" />
+      <jump line="62" column="45" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/gui/browser/components/PsNetworkActivityCategoryDataPanel.java" />
+      <jump line="80" column="53" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/brobj/ObrPSNetworkActivitySpecification.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -296,7 +303,7 @@
         <text>3</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0eXBlZERhdGFEZWxlZ2F0ZVw+</text>
+        <text encoding="base64">XDxsaW5rYWJsZVByb3BlcnRpZXNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGlmIChQbG1QU05ldHdvcmtBY3Rpdml0eUtleXMuZ2V0UHJvcGVydHlLZXkoUGxtUFNOZXR3b3JrQWN0aXZpdHlLZXlzLlBST0pFQ1RfREVGSU5JVElPTikuZXF1YWxzKHByb3BlcnR5S2V5KSkK</text>
@@ -338,9 +345,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx0eXBlZERhdGFEZWxlZ2F0ZVw+</last-search>
+      <last-search encoding="base64">XDxsaW5rYWJsZVByb3BlcnRpZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0eXBlZERhdGFEZWxlZ2F0ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxsaW5rYWJsZVByb3BlcnRpZXNcPg==</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute encoding="base64">XDxkcm9wTW9kZVw+</last-substitute>
       <last-dir>1</last-dir>
