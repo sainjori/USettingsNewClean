@@ -140,13 +140,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1592247720180">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/brobj/ObrPSMaterialComponetSpecification.java" timestamp="1592218942587">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="^" line="139" column="51" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/utils/propertygenerator/ObrPropertyGenerator.java" timestamp="1591957198398" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/gui/browser/components/PspBasicDataPanel.java" timestamp="1592246250796" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/brobj/utils/GxKeyValueCombinator.java" timestamp="1591966268268" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivity.java" timestamp="1591978961602" />
@@ -165,6 +167,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsMaterialComponent.java" timestamp="1592218125958">
         <mark key="'" line="47" column="39" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/gui/browser/components/PsMaterialComponentBasicDataPanel.java" timestamp="1592247589888" />
       <file name="/Dummy.txt" timestamp="1592218907497">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
@@ -177,13 +180,12 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="38" column="17" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/url/LinkHandlerProviderService.java" timestamp="1591952882188" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/brobj/ObrPSNetworkActivitySpecification.java" timestamp="1592246547236">
         <mark key="'" line="80" column="53" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/addons/fctr/basis/dictionary/de/fctr.txt" timestamp="1592217046969" />
-      <file name="/fragment.java" timestamp="1592218982747">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.java" timestamp="1592247725473">
+        <mark key="[" line="0" column="93" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="2" column="37" />
       </file>
