@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx2RHR5cGVJRHNcPg==</entry>
         <entry encoding="base64">XDxJTl9DUkVBVEVfREVGSU5JVElPTlw+</entry>
         <entry encoding="base64">XDxtYXN0ZXJEdHlwZUlkXD4=</entry>
         <entry encoding="base64">XDxJTl9EVFlQRV9JRFw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxyZXNvdXJjZVN0YXJ0XD4=</entry>
         <entry encoding="base64">XDxkZXNjcmlwdGlvblw+</entry>
         <entry encoding="base64">XDxQUk9KRUNUX0RFRklOSVRJT05fSU5UXD4=</entry>
+        <entry encoding="base64">XDx0eXBlZERhdGFEZWxlZ2F0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>92</entry>
@@ -140,11 +140,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/brobj/ObrPSMaterialComponetSpecification.java" timestamp="1592217432327">
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="142" column="0" />
-        <mark key="." line="142" column="0" />
-        <mark key="^" line="141" column="51" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/brobj/ObrPSMaterialComponetSpecification.java" timestamp="1592218942587">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="139" column="51" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/utils/propertygenerator/ObrPropertyGenerator.java" timestamp="1591957198398" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/brobj/utils/GxKeyValueCombinator.java" timestamp="1591966268268" />
@@ -158,25 +158,31 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" timestamp="1591969061300">
         <mark key="'" line="77" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591969179435">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsMaterialComponent.java" timestamp="1592218125958">
+        <mark key="'" line="47" column="39" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592218907497">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsMaterialComponentKeys.java" timestamp="1592217421994" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/components/widgets/linkhandler/NetworkLinkHandler.java" timestamp="1591978967815" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/components/PsPspElementDynamicCustFieldsPanel.java" timestamp="1591897736691" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/components/widgets/linkhandler/NetworkLinkHandler.java" timestamp="1592218885171">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="38" column="17" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/url/LinkHandlerProviderService.java" timestamp="1591952882188" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/browser/DefaultTableBrowserComponent.java" timestamp="1591898090252" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/addons/fctr/basis/dictionary/de/fctr.txt" timestamp="1592217046969" />
-      <file name="/fragment.java" timestamp="1592216862252">
+      <file name="/fragment.java" timestamp="1592217909983">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="2" column="37" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1828" column="59" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.15.1/sapbase-5.1.15.1-sources.jar!/cadagent/dtype/DType.java" />
       <jump line="2624" column="101" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.15.1/sapbase-5.1.15.1-sources.jar!/cadagent/dtype/DType.java" />
       <jump line="3212" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.15.1/sapbase-5.1.15.1-sources.jar!/cadagent/dtype/DType.java" />
       <jump line="391" column="23" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.15.1/sapbase-5.1.15.1-sources.jar!/cadagent/dtype/DType.java" />
@@ -276,54 +282,55 @@
       <jump line="59" column="18" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" />
       <jump line="68" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" />
       <jump line="77" column="42" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" />
+      <jump line="47" column="39" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsMaterialComponent.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50Lm1vZHVsZXMucHMub2JqbW9kLlBsbVBzUHJvamVjdDsK</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>ProjectLinkHandler</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQUk9KRUNUX0RFRklOSVRJT05fSU5UXD4=</text>
+        <text encoding="base64">XDx0eXBlZERhdGFEZWxlZ2F0ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGlmIChQbG1QU05ldHdvcmtBY3Rpdml0eUtleXMuZ2V0UHJvcGVydHlLZXkoUGxtUFNOZXR3b3JrQWN0aXZpdHlLZXlzLlBST0pFQ1RfREVGSU5JVElPTikuZXF1YWxzKHByb3BlcnR5S2V5KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50Lm1vZHVsZXMucHMub2JqbW9kLlBsbVBzUHJvamVjdDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQnJQU05ldHdvcmtBY3Rpdml0eS5PQkpFQ1RfVFlQRS5lcXVhbHMoc2VsZWN0b3IuZ2V0T2JqZWN0VHlwZSgpKSkKICAgICAgICB7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBsbS5tb2R1bGVzLnBzLmd1aS5icm93c2VyLmNvbXBvbmVudHMud2lkZ2V0cy5saW5raGFuZGxlci5XYnNMaW5rSGFuZGxlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZWxzZQo=</text>
+        <text encoding="base64">aW1wb3J0IHBsbS5tb2R1bGVzLnBzLmd1aS5icm93c2VyLmNvbXBvbmVudHMud2lkZ2V0cy5saW5raGFuZGxlci5Qcm9qZWN0TGlua0hhbmRsZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChQbG1QU05ldHdvcmtBY3Rpdml0eUtleXMuZ2V0UHJvcGVydHlLZXkoUGxtUFNOZXR3b3JrQWN0aXZpdHlLZXlzLldCU19FTEVNRU5UKS5lcXVhbHMocHJvcGVydHlLZXkpKQogICAgICAgICAgICByZXR1cm4gTGlzdC5vZihuZXcgV2JzTGlua0hhbmRsZXIoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGFjdGl2ZSkKICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoQnJQU05ldHdvcmtBY3Rpdml0eS5PQkpFQ1RfVFlQRS5lcXVhbHMoc2VsZWN0b3IuZ2V0T2JqZWN0VHlwZSgpKSkKICAgICAgICB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgZWxzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIExpc3Qub2YoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChQbG1QU05ldHdvcmtBY3Rpdml0eUtleXMuZ2V0UHJvcGVydHlLZXkoUGxtUFNOZXR3b3JrQWN0aXZpdHlLZXlzLldCU19FTEVNRU5UKS5lcXVhbHMocHJvcGVydHlLZXkpKQogICAgICAgICAgICByZXR1cm4gTGlzdC5vZihuZXcgV2JzTGlua0hhbmRsZXIoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAga2trCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKGFjdGl2ZSkKICAgICAgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>427</text>
@@ -332,9 +339,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxQUk9KRUNUX0RFRklOSVRJT05fSU5UXD4=</last-search>
+      <last-search encoding="base64">XDx0eXBlZERhdGFEZWxlZ2F0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQUk9KRUNUX0RFRklOSVRJT05fSU5UXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0eXBlZERhdGFEZWxlZ2F0ZVw+</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute encoding="base64">XDxkcm9wTW9kZVw+</last-substitute>
       <last-dir>1</last-dir>
