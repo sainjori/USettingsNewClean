@@ -162,8 +162,8 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivity.java" timestamp="1592248115233">
         <mark key="'" line="713" column="3" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsMaterialComponentKeys.java" timestamp="1592247875114" />
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/basis/dictionary/de/ectr.txt" timestamp="1592249607214" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsMaterialComponentKeys.java" timestamp="1592309449290" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/basis/dictionary/de/ectr.txt" timestamp="1592308928596" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsMaterialComponent.java" timestamp="1592218125958">
         <mark key="'" line="47" column="39" />
       </file>
@@ -173,7 +173,7 @@
         <mark key="^" line="49" column="135" />
         <mark key="." line="49" column="134" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592249792386">
+      <file name="/Dummy.txt" timestamp="1592308026016">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -185,10 +185,10 @@
         <mark key="^" line="83" column="135" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/components/widgets/linkhandler/NetworkLinkHandler.java" timestamp="1592249534844">
-        <mark key="[" line="68" column="69" />
-        <mark key="]" line="68" column="69" />
-        <mark key="." line="68" column="69" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/components/widgets/linkhandler/NetworkLinkHandler.java" timestamp="1592308777785">
+        <mark key="[" line="68" column="78" />
+        <mark key="]" line="68" column="78" />
+        <mark key="." line="68" column="78" />
         <mark key="^" line="68" column="57" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/brobj/ObrPSNetworkActivitySpecification.java" timestamp="1592248989302">
@@ -307,13 +307,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>selector.getPropertyKey()</text>
+        <text>Network</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>selector.getPropertyKey()</text>
+        <text>Network</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaW5rYWJsZVByb3BlcnRpZXNcPg==</text>
