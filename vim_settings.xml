@@ -140,6 +140,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1592318220448">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/gui/browser/components/widgets/oburl/NetworkUrlHandler.java" timestamp="1592248930711">
         <mark key="[" line="19" column="10" />
         <mark key="]" line="19" column="30" />
@@ -147,9 +150,8 @@
         <mark key="^" line="19" column="30" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.2.2.1/base-5.2.2.1-sources.jar!/cadagent/gui/obr/ObjectManagerGui.java" timestamp="1592315424037" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/gui/browser/components/PspBasicDataPanel.java" timestamp="1592248290668" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/addons/ruleEditor/template-customize/config/default.txt" timestamp="1592317474943" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/techdoc/techdoc-main/src/main/java/techdoc/brobj/BrTechDocRoot.java" timestamp="1592317847177">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/techdoc/techdoc-main/src/main/java/techdoc/brobj/BrTechDocRoot.java" timestamp="1592318296317">
         <mark key="[" line="181" column="55" />
         <mark key="]" line="181" column="55" />
         <mark key="." line="181" column="55" />
@@ -195,10 +197,10 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/gui/ruleeditor/ObrBomRuleEditorDisplay.java" timestamp="1592315972126">
         <mark key="'" line="1381" column="79" />
       </file>
-      <file name="/fragment.java" timestamp="1592317772508">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="2" column="37" />
+      <file name="/fragment.java" timestamp="1592318275934">
+        <mark key="[" line="1" column="72" />
+        <mark key="]" line="1" column="72" />
+        <mark key="." line="1" column="72" />
       </file>
     </filemarks>
     <jumps>
@@ -307,13 +309,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>BrBomRuleset</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>BrBomRuleset</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3aW5kb3dMaXN0ZW5lclw+</text>
