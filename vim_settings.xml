@@ -157,21 +157,21 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/omf/utils/PlmSapMatChangeUtils.java" timestamp="1592481452316" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hilti/trunk/ectr_cust/src/main/java/hilti/omf/OmfFamilyCreateMatLinksHilti.java" timestamp="1592482639237" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hilti/trunk/ectr_cust/src/main/java/hilti/proc/HiltiProcessOmrChangeMulti.java" timestamp="1592482765255" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfMarkSourceCopy.java" timestamp="1592483061357">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="67" column="6" />
-        <mark key="." line="12" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfMarkSourceCopy.java" timestamp="1592490869520">
+        <mark key="[" line="51" column="164" />
+        <mark key="]" line="51" column="191" />
+        <mark key="." line="51" column="190" />
+        <mark key="^" line="51" column="191" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfMarkSource.java" timestamp="1592481485155">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfMarkSource.java" timestamp="1592490658738">
         <mark key="[" line="9" column="24" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592483399467">
+      <file name="/Dummy.txt" timestamp="1592490716878">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/gb/trunk/ectr/src/main/java/gb/omf/OmfGbUpdateCloneOptions.java" timestamp="1592482375786" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/objmod/PlmFile.java" timestamp="1592480716311" />
@@ -283,14 +283,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNhZGFnZW50Lmd1aS5vYnIuT2JyTW9kZWxJbnRlcmZhY2U7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>set</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>set</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidXN5XD4=</text>
@@ -299,16 +299,16 @@
         <text encoding="base64">ICAgIFBsbU9ic2VydmVyLmdldEluc3QoKS5zZXRIaWJlcm5hdGVkKHRydWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNhZGFnZW50Lmd1aS5vYnIuT2JyTW9kZWxJbnRlcmZhY2U7Cg==</text>
+        <text encoding="base64">CnVwZGF0ZSBkaXNwbGF5CmZpeCBkaWMga2V5</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgUGxtU2Vzc2lvbk1hbmFnZXIuZ2V0SW5zdCgpLmdldE9ick1vZGVsSW50ZXJmYWNlKCkuZ2V0Q29udGV4dChQbG1TZXNzaW9uTWFuYWdlci5PQl9DT05URVhUKS5nZXRPYnJDb250ZXh0SW5mbygpLnVwZGF0ZURpc3BsYXkoKTsK</text>
+        <text encoding="base64">aW1wb3J0IHBsbS51dGlscy5QbG1PYnNlcnZlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFBsbVNlc3Npb25NYW5hZ2VyLmdldEluc3QoKS5nZXRPYnJNb2RlbEludGVyZmFjZSgpLnNldEJ1c3kodHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgUGxtU2Vzc2lvbk1hbmFnZXIuZ2V0SW5zdCgpLmdldE9ick1vZGVsSW50ZXJmYWNlKCkuZ2V0Q29udGV4dChQbG1TZXNzaW9uTWFuYWdlci5PQl9DT05URVhUKS5nZXRPYnJDb250ZXh0SW5mbygpLnVwZGF0ZURpc3BsYXkoKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -317,16 +317,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgT2JyTW9kZWxJbnRlcmZhY2Ugb21pID0gUGxtU2Vzc2lvbk1hbmFnZXIuZ2V0SW5zdCgpLmdldE9ick1vZGVsSW50ZXJmYWNlKCk7CiAgICAgIG9taS51cGRhdGVEaXNwbGF5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgUGxtT2JzZXJ2ZXIuZ2V0SW5zdCgpLnRyaWdnZXJFbmZvcmNlZE1vZGUoKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgUGxtT2JzZXJ2ZXIuZ2V0SW5zdCgpLnNldEhpYmVybmF0ZWQoZmFsc2UpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgUGxtU2Vzc2lvbk1hbmFnZXIuZ2V0SW5zdCgpLmdldE9ick1vZGVsSW50ZXJmYWNlKCkuc2V0QnVzeShmYWxzZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgUGxtT2JzZXJ2ZXIuZ2V0SW5zdCgpLnRyaWdnZXJFbmZvcmNlZE1vZGUoKTsK</text>
+        <text encoding="base64">ICAgICAgUGxtU2Vzc2lvbk1hbmFnZXIuZ2V0SW5zdCgpLmdldE9ick1vZGVsSW50ZXJmYWNlKCkuc2V0QnVzeShmYWxzZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>427</text>
