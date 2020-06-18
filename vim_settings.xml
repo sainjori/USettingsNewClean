@@ -144,7 +144,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/brobj/BrBomRuleset.java" timestamp="1592322009370" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/proc/doc/PlmProcessSingleCheckinCdeskServices.java" timestamp="1592477332302" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/addons/extensions/basis/dictionary/de/addon.txt" timestamp="1592320260232" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/proc/PlmProcessRulesetsSave.java" timestamp="1592477353653">
+        <mark key="'" line="245" column="10" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.2.2.1/base-5.2.2.1-sources.jar!/cadagent/gui/obr/ObjectManagerGui.java" timestamp="1592315424037" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/addons/ruleEditor/template-customize/config/default.txt" timestamp="1592317474943" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/techdoc/techdoc-main/src/main/java/techdoc/brobj/BrTechDocRoot.java" timestamp="1592318296317">
@@ -166,13 +170,6 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/brobj/ObrPSMaterialComponetSpecification.java" timestamp="1592249102630">
-        <mark key="'" line="83" column="4" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="83" column="135" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ps/gui/browser/components/widgets/linkhandler/NetworkLinkHandler.java" timestamp="1592308777785">
         <mark key="[" line="68" column="78" />
         <mark key="]" line="68" column="78" />
@@ -192,7 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="421" column="26" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
       <jump line="513" column="100" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
       <jump line="524" column="39" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
       <jump line="1261" column="41" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
@@ -292,6 +288,7 @@
       <jump line="611" column="15" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.desktop/java/awt/Frame.java" />
       <jump line="1783" column="8" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.desktop/java/awt/Window.java" />
       <jump line="1381" column="79" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/gui/ruleeditor/ObrBomRuleEditorDisplay.java" />
+      <jump line="245" column="10" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/proc/PlmProcessRulesetsSave.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
