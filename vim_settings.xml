@@ -146,6 +146,9 @@
         <mark key="]" line="2720" column="24" />
         <mark key="." line="2720" column="24" />
       </file>
+      <file name="/Clipboard.txt" timestamp="1592567834865">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/brobj/BrPsMaterialComponent.java" timestamp="1592499726390" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.2.2.0/base-5.2.2.0-sources.jar!/cadagent/gui/obr/ObjectBrowsePanel.java" timestamp="1592494130413">
         <mark key="'" line="122" column="41" />
@@ -157,12 +160,6 @@
         <mark key="." line="43" column="28" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hilti/trunk/ectr_cust/src/main/java/hilti/proc/HiltiProcessOmrChangeMulti.java" timestamp="1592564243413" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfMarkSource.java" timestamp="1592490658738">
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/hilti/trunk/ectr_cust/src/main/java/hilti/omf/OmfHiltiOmrChangeMulti.java" timestamp="1592482837439" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/brobj/BrPSMilestone.java" timestamp="1592499479021">
         <mark key="'" line="111" column="0" />
         <mark key="[" line="219" column="3" />
@@ -175,6 +172,13 @@
         <mark key="[" line="660" column="0" />
         <mark key="]" line="660" column="0" />
         <mark key="." line="660" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/utils/macro/smartobject/SmartObjectWriter.java" timestamp="1592567925148" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/branches/ricwolf-hotfix-5.1.15.1/src/main/java/plm/utils/macro/smartobject/SmartObjectWriter.java" timestamp="1592568011114">
+        <mark key="[" line="93" column="3" />
+        <mark key="]" line="95" column="0" />
+        <mark key="^" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/utils/apigeneric/ObrPropertyApiGenericValueRetriever.java" timestamp="1592499191887">
         <mark key="[" line="24" column="0" />
@@ -194,7 +198,6 @@
         <mark key="]" line="1" column="72" />
         <mark key="." line="1" column="72" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/brobj/BrAccDocContainer.java" timestamp="1592482723472" />
     </filemarks>
     <jumps>
       <jump line="566" column="24" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
@@ -301,20 +304,20 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>nea</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFRyYWNlLnByaW50bG4oImJ5YSIsIDAsICJzYXZlU21hcnRGb2xkZXIiKTsK</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>nea</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidXN5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFBsbU9ic2VydmVyLmdldEluc3QoKS5zZXRIaWJlcm5hdGVkKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgIFRyYWNlLnByaW50bG4oImJ5YSIsIDAsICJzYXZlU21hcnRGb2xkZXIiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
