@@ -140,12 +140,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592577116818">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/components/FAClassificationPanel.java" timestamp="1592579611050" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/components/FAClassificationPanel.java" timestamp="1592582994144" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/customize/config/default.txt" timestamp="1592562989020">
         <mark key="'" line="46" column="60" />
         <mark key="[" line="2720" column="24" />
@@ -162,15 +157,6 @@
         <mark key="." line="43" column="28" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/DirBrowsePanel.java" timestamp="1592581028380" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/branches/ricwolf-hotfix-5.1.15.1/src/main/java/plm/utils/macro/smartobject/SmartObjectWriter.java" timestamp="1592568011114">
-        <mark key="[" line="93" column="3" />
-        <mark key="]" line="95" column="0" />
-        <mark key="^" line="95" column="0" />
-        <mark key="." line="95" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" timestamp="1592581767301">
-        <mark key="'" line="584" column="59" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/brobj/BrPSMilestone.java" timestamp="1592499479021">
         <mark key="'" line="111" column="0" />
         <mark key="[" line="219" column="3" />
@@ -178,24 +164,33 @@
         <mark key="^" line="225" column="3" />
         <mark key="." line="225" column="2" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/brobj/BrPSNetworkActivity.java" timestamp="1592499273501">
-        <mark key="'" line="196" column="6" />
-        <mark key="[" line="660" column="0" />
-        <mark key="]" line="660" column="0" />
-        <mark key="." line="660" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.2.2.0/sapbase-5.2.2.0-sources.jar!/cadagent/objmod/PlmClassifiedObject.java" timestamp="1592580884951" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/BrowseContextInfo.java" timestamp="1592579467593">
         <mark key="'" line="122" column="4" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/basis/dictionary/de/ectr.txt" timestamp="1592570067227" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfMarkSourceCopy.java" timestamp="1592581880850">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfMarkSourceCopy.java" timestamp="1592583860994">
         <mark key="'" line="79" column="113" />
-        <mark key="[" line="87" column="64" />
-        <mark key="]" line="87" column="80" />
-        <mark key="^" line="87" column="80" />
-        <mark key="." line="87" column="79" />
+        <mark key="[" line="106" column="32" />
+        <mark key="]" line="106" column="32" />
+        <mark key="^" line="75" column="20" />
+        <mark key="." line="106" column="32" />
       </file>
+      <file name="/Dummy.txt" timestamp="1592577116818">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/branches/ricwolf-hotfix-5.1.15.1/src/main/java/plm/utils/macro/smartobject/SmartObjectWriter.java" timestamp="1592568011114">
+        <mark key="[" line="93" column="3" />
+        <mark key="]" line="95" column="0" />
+        <mark key="^" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" timestamp="1592582535924">
+        <mark key="'" line="560" column="76" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.2.2.0/sapbase-5.2.2.0-sources.jar!/cadagent/objmod/PlmMaterial.java" timestamp="1592582630021" />
       <file name="/Clipboard.txt" timestamp="1592567834865">
         <mark key="[" line="0" column="0" />
       </file>
@@ -273,6 +268,14 @@
       <jump line="110" column="14" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
       <jump line="131" column="89" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
       <jump line="168" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
+      <jump line="563" column="54" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
+      <jump line="565" column="34" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
+      <jump line="568" column="37" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
+      <jump line="572" column="14" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
+      <jump line="576" column="68" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
+      <jump line="577" column="83" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
+      <jump line="584" column="59" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
+      <jump line="79" column="113" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfMarkSourceCopy.java" />
       <jump line="181" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
       <jump line="184" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
       <jump line="186" column="50" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
@@ -298,32 +301,24 @@
       <jump line="554" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
       <jump line="558" column="14" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
       <jump line="560" column="76" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
-      <jump line="563" column="54" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
-      <jump line="565" column="34" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
-      <jump line="568" column="37" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
-      <jump line="572" column="14" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
-      <jump line="576" column="68" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
-      <jump line="577" column="83" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
-      <jump line="584" column="59" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
-      <jump line="79" column="113" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfMarkSourceCopy.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>getPlmDocument</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>getPlmDocument</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbG1PYmpcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgR3VpVXRpbHMuc2V0U3RhdHVzTGluZVN1Y2Nlc3NUZXh0KERpYy5nZXQoIndzZS5vbWYuY2hhcmFjdGVyaXN0aWNzLmNvcHkuc3VjY2VzcyIsICJDbGFzcyBjaGFyYWN0ZXJpc3RpY3Mgb2Ygb2JqZWN0ICUxIHRvICUyIGNvcGllZCIsIGNvcHlTb3VyY2UuZ2V0T2JqZWN0S2V5KCksIGNvcHlUYXJnZXQuZ2V0T2JqZWN0S2V5KCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICBQbG1DbGFzc2lmaWVkT2JqZWN0IGZyb21DYWNoZSA9IChQbG1DbGFzc2lmaWVkT2JqZWN0KSBnZXRJbnN0YW5jZSgpLmdldFBsbU9iamVjdChwbG1NYXRlcmlhbC5nZXRTYXBLZXkoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -332,28 +327,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBCckRvY3VtZW50IGZpcnN0T2JyT2JqZWN0MSA9IChCckRvY3VtZW50KSBmaXJzdE9ick9iamVjdDsK</text>
+        <text encoding="base64">ICAgICAgT2JyQ29udGV4dCBjb250ZXh0ID0gUGxtU2Vzc2lvbk1hbmFnZXIuZ2V0SW5zdCgpLmdldE9ick1vZGVsSW50ZXJmYWNlKCkuZ2V0Q29udGV4dChQbG1TZXNzaW9uTWFuYWdlci5PQl9DT05URVhUKTsKICAgICAgT2JyQ29udGV4dEluZm8gb2JyQ29udGV4dEluZm8gPSBjb250ZXh0LmdldE9ickNvbnRleHRJbmZvKCk7Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgT2JyQ29udGV4dCBjb250ZXh0ID0gUGxtU2Vzc2lvbk1hbmFnZXIuZ2V0SW5zdCgpLmdldE9ick1vZGVsSW50ZXJmYWNlKCkuZ2V0Q29udGV4dChQbG1TZXNzaW9uTWFuYWdlci5PQl9DT05URVhUKTsKICAgICAgT2JyQ29udGV4dEluZm8gb2JyQ29udGV4dEluZm8gPSBjb250ZXh0LmdldE9ickNvbnRleHRJbmZvKCk7Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZvaWQgdXBkYXRlT0JDb250ZXh0KE9ick9iamVjdCBicm9iaikKICB7CiAgICAKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgT2JyT2JqZWN0IGZpcnN0T2JyT2JqZWN0ID0gb2JyVHJlZVNlbGVjdGlvbi5nZXRGaXJzdE9ick9iamVjdCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc2FwS2V5ID0gZmlyc3RPYnJPYmplY3QxLmdldFNhcEtleSgpOwo=</text>
+        <text encoding="base64">ICAgICAgT2JyVHJlZVNlbGVjdGlvbiBvYnJUcmVlU2VsZWN0aW9uID0gb2JyQ29udGV4dEluZm8uZ2V0T2JyVHJlZVNlbGVjdGlvbigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBEZXRhaWxzU3BlY2lmaWNhdGlvbkJ1aWxkZXIuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKCJPQiIsIFRyYWNlLkRFQlVHLCAiUmVhZCBkZXRhaWxzIG9mICIgKyBwbG1PYmopOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBQbW9iamVjYXMK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBjb250ZXh0LmdldE9ickNvbnRleHRJbmZvKCkudXBkYXRlRGlzcGxheSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text>thisf</text>
+        <text encoding="base64">ICAgICAgICBmcm9tQ2FjaGUK</text>
       </register>
       <register name=":" type="4">
         <text>427</text>
