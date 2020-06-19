@@ -140,7 +140,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592561815934">
+      <file name="/Dummy.txt" timestamp="1592577116818">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -180,6 +180,12 @@
         <mark key="." line="660" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/basis/dictionary/de/ectr.txt" timestamp="1592570067227" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfMarkSourceCopy.java" timestamp="1592577452066">
+        <mark key="[" line="58" column="115" />
+        <mark key="]" line="58" column="115" />
+        <mark key="^" line="58" column="42" />
+        <mark key="." line="58" column="115" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/core/plm++/java/src/plm/utils/apigeneric/ObrPropertyApiGenericValueRetriever.java" timestamp="1592499191887">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -196,7 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="566" column="24" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
       <jump line="565" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
       <jump line="564" column="16" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
       <jump line="139" column="27" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/proc/doc/create/PlmProcessDocumentCreate.java" />
@@ -296,54 +301,55 @@
       <jump line="196" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/brobj/BrPSNetworkActivity.java" />
       <jump line="112" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/brobj/BrPSMilestone.java" />
       <jump line="46" column="60" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/customize/config/default.txt" />
+      <jump line="140" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfMarkSourceCopy.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFRyYWNlLnByaW50bG4oImJ5YSIsIDAsICJzYXZlU21hcnRGb2xkZXIiKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidXN5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFRyYWNlLnByaW50bG4oImJ5YSIsIDAsICJzYXZlU21hcnRGb2xkZXIiKTsK</text>
+        <text encoding="base64">ICAgICAgR3VpVXRpbHMuc2V0U3RhdHVzTGluZVN1Y2Nlc3NUZXh0KERpYy5nZXQoIndzZS5vbWYuY2hhcmFjdGVyaXN0aWNzLmNvcHkuc3VjY2VzcyIsICJDbGFzcyBjaGFyYWN0ZXJpc3RpY3Mgb2Ygb2JqZWN0ICUxIHRvICUyIGNvcGllZCIsIGNvcHlTb3VyY2UuZ2V0T2JqZWN0S2V5KCksIGNvcHlUYXJnZXQuZ2V0T2JqZWN0S2V5KCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgR3VpVXRpbHMuc2V0U3RhdHVzTGluZVN1Y2Nlc3NUZXh0KERpYy5nZXQoIndzZS5vbWYuY2hhcmFjdGVyaXN0aWNzLmNvcHkuc3VjY2VzcyIsICJDbGFzcyBjaGFyYWN0ZXJpc3RpY3Mgb2Ygb2JqZWN0ICUxIHRvICUyIGNvcGllZCIsIGNvcHlTb3VyY2UuZ2V0T2JqZWN0S2V5KCksIGNvcHlUYXJnZXQuZ2V0T2JqZWN0S2V5KCkpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGlmIChwYXJhbXMuZ2V0KQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgYm9vbGVhbiBpc0Zyb21UeXBlKFN0cmluZyBvYmplY3RUeXBlKQogICAgICB7CiAgICAgICAgcmV0dXJuICJORVRfQUNUIi5lcXVhbHNJZ25vcmVDYXNlKG9iamVjdFR5cGUpOwogICAgICB9</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kc2NzYWcudXRpbC5TdHJpbmdzOwo=</text>
+        <text encoding="base64">CiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgYm9vbGVhbiBpc0Zyb21UeXBlKFN0cmluZyBvYmplY3RUeXBlKQogICAgICB7CiAgICAgICAgcmV0dXJuICJORVRfQUNUIi5lcXVhbHNJZ25vcmVDYXNlKG9iamVjdFR5cGUpOwogICAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CnVwZGF0ZSBkaXNwbGF5CmZpeCBkaWMga2V5</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHBsbS51dGlscy5QbG1PYnNlcnZlcjsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kc2NzYWcudXRpbC5TdHJpbmdzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgUGxtU2Vzc2lvbk1hbmFnZXIuZ2V0SW5zdCgpLmdldE9ick1vZGVsSW50ZXJmYWNlKCkuZ2V0Q29udGV4dChQbG1TZXNzaW9uTWFuYWdlci5PQl9DT05URVhUKS5nZXRPYnJDb250ZXh0SW5mbygpLnVwZGF0ZURpc3BsYXkoKTsK</text>
+        <text encoding="base64">CnVwZGF0ZSBkaXNwbGF5CmZpeCBkaWMga2V5</text>
       </register>
       <register name=":" type="4">
         <text>427</text>
