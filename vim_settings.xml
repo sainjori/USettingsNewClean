@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWxfaWRcPg==</entry>
         <entry encoding="base64">XDx1c2VEdHlwZUlEXD4=</entry>
         <entry encoding="base64">XDxkdHlwZUNvbWJvQm94XD4=</entry>
         <entry encoding="base64">XDxwcmV2U2VsRHR5cGVJZFw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxidXN5XD4=</entry>
         <entry encoding="base64">XDx1cGRhdGVEaXNwbGF5XD4=</entry>
         <entry encoding="base64">XDxwbG1PYmpcPg==</entry>
+        <entry encoding="base64">XDxvYmpOb2RSZWxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>142</entry>
@@ -151,9 +151,6 @@
         <mark key="'" line="208" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.2.2.0/sapbase-5.2.2.0-sources.jar!/cadagent/objmod/PlmClassifiedObject.java" timestamp="1592580884951" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/BrowseContextInfo.java" timestamp="1592579467593">
-        <mark key="'" line="122" column="4" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfMarkSourceCopy.java" timestamp="1592583860994">
         <mark key="'" line="79" column="113" />
         <mark key="[" line="106" column="32" />
@@ -162,55 +159,35 @@
         <mark key="." line="106" column="32" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/utils/macro/smartobject/SmartObjectWriter.java" timestamp="1592815376594" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" timestamp="1592825479573">
+        <mark key="'" line="1041" column="30" />
+      </file>
       <file name="/Dummy.txt" timestamp="1592584049686">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/branches/ricwolf-hotfix-5.1.15.1/src/main/java/plm/utils/macro/MacroCommandHandler.java" timestamp="1592815722274" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/gui/browser/FolderBrowser.java" timestamp="1592823478589" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/gui/browser/FolderBrowser.java" timestamp="1592825062200" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/omf/OmfExpansionPerformed.java" timestamp="1592823943316" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" timestamp="1592582535924">
         <mark key="'" line="560" column="76" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.2.2.0/sapbase-5.2.2.0-sources.jar!/cadagent/objmod/PlmMaterial.java" timestamp="1592582630021" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/ObjectBrowsePanel.java" timestamp="1592825530011">
+        <mark key="'" line="792" column="2" />
+      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/util/Vector.java" timestamp="1592823568416" />
       <file name="/Clipboard.txt" timestamp="1592815532235">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1592581282259">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.java" timestamp="1592825174903">
+        <mark key="[" line="0" column="81" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" />
-      <jump line="59" column="18" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" />
-      <jump line="68" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" />
-      <jump line="77" column="42" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivityKeys.java" />
-      <jump line="47" column="39" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPsMaterialComponent.java" />
-      <jump line="62" column="45" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/gui/browser/components/PsNetworkActivityCategoryDataPanel.java" />
-      <jump line="80" column="53" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/brobj/ObrPSNetworkActivitySpecification.java" />
-      <jump line="53" column="53" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/brobj/ObrPSMaterialComponetSpecification.java" />
-      <jump line="713" column="3" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/cadagent/modules/ps/objmod/PlmPSNetworkActivity.java" />
-      <jump line="82" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/brobj/ObrPSMaterialComponetSpecification.java" />
-      <jump line="83" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/brobj/ObrPSMaterialComponetSpecification.java" />
-      <jump line="84" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/brobj/ObrPSMaterialComponetSpecification.java" />
-      <jump line="85" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/ps/brobj/ObrPSMaterialComponetSpecification.java" />
-      <jump line="615" column="34" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.desktop/java/awt/Frame.java" />
-      <jump line="616" column="59" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.desktop/java/awt/Frame.java" />
-      <jump line="620" column="37" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.desktop/java/awt/Frame.java" />
-      <jump line="621" column="36" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.desktop/java/awt/Frame.java" />
-      <jump line="625" column="29" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.desktop/java/awt/Frame.java" />
-      <jump line="628" column="34" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.desktop/java/awt/Frame.java" />
-      <jump line="633" column="43" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.desktop/java/awt/Frame.java" />
-      <jump line="640" column="54" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.desktop/java/awt/Frame.java" />
-      <jump line="1069" column="12" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.desktop/java/awt/Frame.java" />
-      <jump line="1070" column="21" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.desktop/java/awt/Frame.java" />
-      <jump line="316" column="49" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.desktop/java/awt/Frame.java" />
-      <jump line="318" column="14" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.desktop/java/awt/Frame.java" />
-      <jump line="319" column="7" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.desktop/java/awt/Frame.java" />
       <jump line="324" column="16" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.desktop/java/awt/Frame.java" />
       <jump line="604" column="39" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.desktop/java/awt/Frame.java" />
       <jump line="605" column="44" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.desktop/java/awt/Frame.java" />
@@ -285,6 +262,32 @@
       <jump line="558" column="14" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
       <jump line="560" column="76" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
       <jump line="208" column="0" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/utils/macro/smartobject/SmartListManager.java" />
+      <jump line="77" column="29" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="91" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="92" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="174" column="41" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="199" column="43" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="275" column="32" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="309" column="32" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="347" column="32" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="392" column="30" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="426" column="30" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="485" column="31" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="570" column="31" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="582" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="594" column="37" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="609" column="37" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="627" column="30" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="756" column="30" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="778" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="787" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="839" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="978" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="983" column="33" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="1034" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="1040" column="29" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="1041" column="30" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
+      <jump line="792" column="2" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/ObjectBrowsePanel.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -299,7 +302,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwbG1PYmpcPg==</text>
+        <text encoding="base64">XDxvYmpOb2RSZWxcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBQbG1DbGFzc2lmaWVkT2JqZWN0IGZyb21DYWNoZSA9IChQbG1DbGFzc2lmaWVkT2JqZWN0KSBnZXRJbnN0YW5jZSgpLmdldFBsbU9iamVjdChwbG1NYXRlcmlhbC5nZXRTYXBLZXkoKSk7Cg==</text>
@@ -341,9 +344,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwbG1PYmpcPg==</last-search>
+      <last-search encoding="base64">XDxvYmpOb2RSZWxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwbG1PYmpcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxvYmpOb2RSZWxcPg==</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute encoding="base64">XDxkcm9wTW9kZVw+</last-substitute>
       <last-dir>1</last-dir>
