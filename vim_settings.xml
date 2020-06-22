@@ -140,7 +140,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/components/FAClassificationPanel.java" timestamp="1592582994144" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/customize/config/default.txt" timestamp="1592836573415">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/gui/GuiUtils.java" timestamp="1592834818434">
         <mark key="'" line="2404" column="2" />
       </file>
