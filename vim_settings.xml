@@ -151,7 +151,6 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/gui/browser/FolderTablePanel.java" timestamp="1592839853040">
         <mark key="'" line="153" column="17" />
       </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/io/File.java" timestamp="1592814252543" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/utils/macro/gui/SmartListRenameHelper.java" timestamp="1592829014137">
         <mark key="[" line="134" column="74" />
         <mark key="]" line="135" column="0" />
@@ -161,17 +160,17 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/utils/macro/smartobject/SmartListManager.java" timestamp="1592832486569">
         <mark key="'" line="245" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/addons/acm/template-customize/config/default.txt" timestamp="1592841740711">
+        <mark key="[" line="84" column="28" />
+        <mark key="]" line="84" column="28" />
+        <mark key="." line="84" column="28" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1592827226102">
         <mark key="'" line="241" column="4" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/utils/macro/smartobject/SmartObjectWriter.java" timestamp="1592815376594" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" timestamp="1592827756965">
         <mark key="'" line="1041" column="30" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592584049686">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/branches/ricwolf-hotfix-5.1.15.1/src/main/java/plm/utils/macro/MacroCommandHandler.java" timestamp="1592815722274" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/gui/browser/FolderBrowser.java" timestamp="1592839576288">
@@ -183,7 +182,7 @@
         <mark key="'" line="792" column="2" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/util/Vector.java" timestamp="1592823568416" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/brobj/BrSmartListContainer.java" timestamp="1592838099935" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/brobj/BrSmartListContainer.java" timestamp="1592841703637" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/omf/OmfRenameSmartList.java" timestamp="1592829363384">
         <mark key="[" line="78" column="28" />
         <mark key="]" line="78" column="28" />
@@ -197,6 +196,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/addons/acm/customize/config/default.txt" timestamp="1592841721353">
+        <mark key="[" line="84" column="28" />
+        <mark key="]" line="84" column="28" />
+        <mark key="." line="84" column="27" />
+        <mark key="^" line="84" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -304,14 +309,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>obrObjects.get(key);</text>
+      <register name="&quot;" type="4">
+        <text>@plm.system.smartlists@;</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>@plm.system.smartlists@;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb2xkZXJCcm93c2VyXD4=</text>
