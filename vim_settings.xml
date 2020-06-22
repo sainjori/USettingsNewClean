@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcmV2U2VsRHR5cGVJZFw+</entry>
         <entry encoding="base64">XDxEQ1JfR3VpXD4=</entry>
         <entry encoding="base64">XDxEQ1JfYmVmb3JlR3VpXD4=</entry>
         <entry encoding="base64">XDx3b3JrQ2VudGVyQ29udFw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxvYmpOb2RSZWxcPg==</entry>
         <entry encoding="base64">XDxkYm9PYmplY3RLZXlcPg==</entry>
         <entry encoding="base64">XDxjb250YWluZXJcPg==</entry>
+        <entry encoding="base64">XDxmb2xkZXJCcm93c2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>142</entry>
@@ -148,7 +148,9 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/gui/GuiUtils.java" timestamp="1592834818434">
         <mark key="'" line="2404" column="2" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/gui/browser/FolderTablePanel.java" timestamp="1592823509696" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/gui/browser/FolderTablePanel.java" timestamp="1592839853040">
+        <mark key="'" line="153" column="17" />
+      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/io/File.java" timestamp="1592814252543" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/utils/macro/gui/SmartListRenameHelper.java" timestamp="1592829014137">
         <mark key="[" line="134" column="74" />
@@ -172,8 +174,8 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/branches/ricwolf-hotfix-5.1.15.1/src/main/java/plm/utils/macro/MacroCommandHandler.java" timestamp="1592815722274" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/gui/browser/FolderBrowser.java" timestamp="1592829221151">
-        <mark key="'" line="419" column="13" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/gui/browser/FolderBrowser.java" timestamp="1592839576288">
+        <mark key="'" line="582" column="43" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/omf/OmfExpansionPerformed.java" timestamp="1592823943316" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/brobj/BrTmpFolder.java" timestamp="1592827193751" />
@@ -191,16 +193,13 @@
       <file name="/Clipboard.txt" timestamp="1592815532235">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1592835439647">
+      <file name="/fragment.java" timestamp="1592839478279">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="645" column="52" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
-      <jump line="110" column="14" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
-      <jump line="131" column="89" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
       <jump line="168" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
       <jump line="563" column="54" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
       <jump line="565" column="34" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
@@ -271,7 +270,6 @@
       <jump line="563" column="97" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/gui/browser/FolderBrowser.java" />
       <jump line="578" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/gui/browser/FolderBrowser.java" />
       <jump line="579" column="58" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/gui/browser/FolderBrowser.java" />
-      <jump line="582" column="33" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/gui/browser/FolderBrowser.java" />
       <jump line="584" column="32" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/gui/browser/FolderBrowser.java" />
       <jump line="637" column="30" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/gui/browser/FolderBrowser.java" />
       <jump line="663" column="30" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/gui/browser/FolderBrowser.java" />
@@ -298,12 +296,16 @@
       <jump line="419" column="13" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/gui/browser/FolderBrowser.java" />
       <jump line="245" column="0" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/utils/macro/smartobject/SmartListManager.java" />
       <jump line="2404" column="2" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/gui/GuiUtils.java" />
+      <jump line="582" column="43" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/gui/browser/FolderBrowser.java" />
+      <jump line="62" column="24" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/gui/browser/FolderTablePanel.java" />
+      <jump line="76" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/gui/browser/FolderTablePanel.java" />
+      <jump line="153" column="17" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/gui/browser/FolderTablePanel.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text>obrObjects.get(key);</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -312,40 +314,40 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb250YWluZXJcPg==</text>
+        <text encoding="base64">XDxmb2xkZXJCcm93c2VyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBQbG1DbGFzc2lmaWVkT2JqZWN0IGZyb21DYWNoZSA9IChQbG1DbGFzc2lmaWVkT2JqZWN0KSBnZXRJbnN0YW5jZSgpLmdldFBsbU9iamVjdChwbG1NYXRlcmlhbC5nZXRTYXBLZXkoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>obrObjects.get(key);</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgT2JyQ29udGV4dCBjb250ZXh0ID0gUGxtU2Vzc2lvbk1hbmFnZXIuZ2V0SW5zdCgpLmdldE9ick1vZGVsSW50ZXJmYWNlKCkuZ2V0Q29udGV4dChQbG1TZXNzaW9uTWFuYWdlci5PQl9DT05URVhUKTsKICAgICAgT2JyQ29udGV4dEluZm8gb2JyQ29udGV4dEluZm8gPSBjb250ZXh0LmdldE9ickNvbnRleHRJbmZvKCk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgT2JyQ29udGV4dCBjb250ZXh0ID0gUGxtU2Vzc2lvbk1hbmFnZXIuZ2V0SW5zdCgpLmdldE9ick1vZGVsSW50ZXJmYWNlKCkuZ2V0Q29udGV4dChQbG1TZXNzaW9uTWFuYWdlci5PQl9DT05URVhUKTsKICAgICAgT2JyQ29udGV4dEluZm8gb2JyQ29udGV4dEluZm8gPSBjb250ZXh0LmdldE9ickNvbnRleHRJbmZvKCk7Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgT2JyT2JqZWN0IGZpcnN0T2JyT2JqZWN0ID0gb2JyVHJlZVNlbGVjdGlvbi5nZXRGaXJzdE9ick9iamVjdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgT2JyQ29udGV4dCBjb250ZXh0ID0gUGxtU2Vzc2lvbk1hbmFnZXIuZ2V0SW5zdCgpLmdldE9ick1vZGVsSW50ZXJmYWNlKCkuZ2V0Q29udGV4dChQbG1TZXNzaW9uTWFuYWdlci5PQl9DT05URVhUKTsKICAgICAgT2JyQ29udGV4dEluZm8gb2JyQ29udGV4dEluZm8gPSBjb250ZXh0LmdldE9ickNvbnRleHRJbmZvKCk7Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgT2JyVHJlZVNlbGVjdGlvbiBvYnJUcmVlU2VsZWN0aW9uID0gb2JyQ29udGV4dEluZm8uZ2V0T2JyVHJlZVNlbGVjdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgT2JyT2JqZWN0IGZpcnN0T2JyT2JqZWN0ID0gb2JyVHJlZVNlbGVjdGlvbi5nZXRGaXJzdE9ick9iamVjdCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgT2JyVHJlZVNlbGVjdGlvbiBvYnJUcmVlU2VsZWN0aW9uID0gb2JyQ29udGV4dEluZm8uZ2V0T2JyVHJlZVNlbGVjdGlvbigpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBjb250ZXh0LmdldE9ickNvbnRleHRJbmZvKCkudXBkYXRlRGlzcGxheSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tQ2FjaGUK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBjb250ZXh0LmdldE9ickNvbnRleHRJbmZvKCkudXBkYXRlRGlzcGxheSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>174</text>
@@ -354,9 +356,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjb250YWluZXJcPg==</last-search>
+      <last-search encoding="base64">XDxmb2xkZXJCcm93c2VyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb250YWluZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmb2xkZXJCcm93c2VyXD4=</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute encoding="base64">XDxkcm9wTW9kZVw+</last-substitute>
       <last-dir>1</last-dir>
