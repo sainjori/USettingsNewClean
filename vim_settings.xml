@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxEQ1JfR3VpXD4=</entry>
-        <entry encoding="base64">XDxEQ1JfYmVmb3JlR3VpXD4=</entry>
         <entry encoding="base64">XDx3b3JrQ2VudGVyQ29udFw+</entry>
         <entry encoding="base64">XDxtYXN0ZXJQYW5lbFw+</entry>
         <entry encoding="base64">XDxvYnJDaGlsZHJlbkRpc3BsYXlcPg==</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxkYm9PYmplY3RLZXlcPg==</entry>
         <entry encoding="base64">XDxjb250YWluZXJcPg==</entry>
         <entry encoding="base64">XDxmb2xkZXJCcm93c2VyXD4=</entry>
+        <entry encoding="base64">XDxuZWVkRWNuXD4=</entry>
+        <entry encoding="base64">XDxpc0hpc3RSZXFcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>142</entry>
@@ -140,8 +140,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/omf/OmfRulesetMaintainBom.java" timestamp="1592993474408">
+        <mark key="'" line="142" column="14" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/gui/browser/FolderBrowser.java" timestamp="1592839576288">
         <mark key="'" line="582" column="43" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/SetChangeMasterDialog.java" timestamp="1592994196233">
+        <mark key="[" line="184" column="61" />
+        <mark key="]" line="184" column="75" />
+        <mark key="^" line="184" column="75" />
+        <mark key="." line="184" column="74" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/customize/config/default.txt" timestamp="1592836573415">
         <mark key="[" line="4" column="24" />
@@ -168,7 +177,6 @@
         <mark key="^" line="135" column="0" />
         <mark key="." line="135" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/sess/PlmSessionManager.java" timestamp="1592918579429" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/utils/macro/smartobject/SmartListManager.java" timestamp="1592832486569">
         <mark key="'" line="245" column="0" />
       </file>
@@ -187,7 +195,6 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1592827226102">
         <mark key="'" line="241" column="4" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/utils/AdditionalOriginalCheckoutHelper.java" timestamp="1592920528961" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/omf/OmfRenameSmartList.java" timestamp="1592829363384">
         <mark key="[" line="78" column="28" />
         <mark key="]" line="78" column="28" />
@@ -197,10 +204,13 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" timestamp="1592827756965">
         <mark key="'" line="1041" column="30" />
       </file>
-      <file name="/fragment.java" timestamp="1592840614662">
+      <file name="/fragment.java" timestamp="1592993639175">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/objmod/PlmMatBomLink.java" timestamp="1592993548865">
+        <mark key="'" line="503" column="21" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/addons/acm/customize/config/default.txt" timestamp="1592841721353">
         <mark key="[" line="84" column="28" />
@@ -210,12 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="563" column="54" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
-      <jump line="565" column="34" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
-      <jump line="568" column="37" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
-      <jump line="572" column="14" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
-      <jump line="576" column="68" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
-      <jump line="577" column="83" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
       <jump line="584" column="59" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
       <jump line="79" column="113" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/wittenstein-ectr/wittenstein-cust/src/main/java/wittenstein/omf/OmfMarkSourceCopy.java" />
       <jump line="181" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.2.2.0/plm-5.2.2.0-sources.jar!/plm/gui/browser/StandardBrowsePanel.java" />
@@ -310,6 +314,12 @@
       <jump line="76" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/gui/browser/FolderTablePanel.java" />
       <jump line="153" column="17" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/gui/browser/FolderTablePanel.java" />
       <jump line="129" column="41" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/brobj/BrSmartListContainer.java" />
+      <jump line="142" column="14" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/omf/OmfRulesetMaintainBom.java" />
+      <jump line="61" column="18" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/objmod/PlmMatBomLink.java" />
+      <jump line="496" column="17" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/objmod/PlmMatBomLink.java" />
+      <jump line="498" column="11" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/objmod/PlmMatBomLink.java" />
+      <jump line="501" column="33" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/objmod/PlmMatBomLink.java" />
+      <jump line="503" column="21" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/objmod/PlmMatBomLink.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -324,7 +334,7 @@
         <text>@plm.system.smartlists@;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmb2xkZXJCcm93c2VyXD4=</text>
+        <text encoding="base64">XDxpc0hpc3RSZXFcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBQbG1DbGFzc2lmaWVkT2JqZWN0IGZyb21DYWNoZSA9IChQbG1DbGFzc2lmaWVkT2JqZWN0KSBnZXRJbnN0YW5jZSgpLmdldFBsbU9iamVjdChwbG1NYXRlcmlhbC5nZXRTYXBLZXkoKSk7Cg==</text>
@@ -366,9 +376,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxmb2xkZXJCcm93c2VyXD4=</last-search>
+      <last-search encoding="base64">XDxpc0hpc3RSZXFcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmb2xkZXJCcm93c2VyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpc0hpc3RSZXFcPg==</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute encoding="base64">XDxkcm9wTW9kZVw+</last-substitute>
       <last-dir>1</last-dir>
