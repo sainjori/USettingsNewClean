@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx0eXBlZERhdGFEZWxlZ2F0ZVw+</entry>
-        <entry encoding="base64">XDxsaW5rYWJsZVByb3BlcnRpZXNcPg==</entry>
         <entry encoding="base64">XDxyZXNpemFibGVcPg==</entry>
         <entry encoding="base64">XDx3aW5kb3dMaXN0ZW5lclw+</entry>
         <entry encoding="base64">XDxidXN5XD4=</entry>
@@ -22,8 +20,10 @@
         <entry encoding="base64">XDxpc09rUHJlc3NlZFw+</entry>
         <entry encoding="base64">XDxjaGFuZ2VfbWFzdGVyXD4=</entry>
         <entry encoding="base64">XDxpbkNoYW5nZU1hc3Rlclw+</entry>
-        <entry encoding="base64">XDxza2lwRWNuXD4=</entry>
         <entry encoding="base64">XDxwY21EZWZcPg==</entry>
+        <entry encoding="base64">XDxyc1w+</entry>
+        <entry encoding="base64">XDxudWxsXD4=</entry>
+        <entry encoding="base64">XDxza2lwRWNuXD4=</entry>
         <entry encoding="base64">XDxwY21cPg==</entry>
       </history-search>
       <history-cmd>
@@ -140,20 +140,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/omf/OmfRulesetMaintainBom.java" timestamp="1593011946669">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/omf/OmfRulesetMaintainBom.java" timestamp="1593012936911">
         <mark key="'" line="216" column="78" />
-        <mark key="[" line="376" column="0" />
-        <mark key="]" line="376" column="0" />
-        <mark key="." line="376" column="0" />
-        <mark key="^" line="371" column="8" />
+        <mark key="[" line="377" column="0" />
+        <mark key="]" line="377" column="0" />
+        <mark key="." line="377" column="0" />
+        <mark key="^" line="370" column="17" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/SetChangeMasterDialog.java" timestamp="1593007085725">
-        <mark key="'" line="88" column="18" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/omf/OmfBomPatternMaintainBom.java" timestamp="1593012840039">
+        <mark key="'" line="121" column="24" />
+        <mark key="[" line="194" column="117" />
+        <mark key="]" line="194" column="117" />
+        <mark key="." line="194" column="116" />
+        <mark key="^" line="194" column="117" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/addons/acm/template-customize/config/default.txt" timestamp="1592842287904">
-        <mark key="[" line="84" column="28" />
-        <mark key="]" line="84" column="28" />
-        <mark key="." line="84" column="28" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/SetChangeMasterDialog.java" timestamp="1593012447131">
+        <mark key="'" line="214" column="11" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/customize/config/default.txt" timestamp="1592998238908">
         <mark key="'" line="2840" column="39" />
@@ -183,6 +185,9 @@
         <mark key="^" line="161" column="48" />
         <mark key="." line="161" column="47" />
       </file>
+      <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/HashMap.java" timestamp="1593012155566">
+        <mark key="'" line="338" column="23" />
+      </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/basis/dictionary/de/ectr.txt" timestamp="1592995901278" />
       <file name="/fragment.java" timestamp="1593000435000">
         <mark key="[" line="0" column="0" />
@@ -192,30 +197,8 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/objmod/PlmMatBomLink.java" timestamp="1592993548865">
         <mark key="'" line="503" column="21" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/addons/acm/customize/config/default.txt" timestamp="1592841721353">
-        <mark key="[" line="84" column="28" />
-        <mark key="]" line="84" column="28" />
-        <mark key="." line="84" column="27" />
-        <mark key="^" line="84" column="28" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="43" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="275" column="32" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="309" column="32" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="347" column="32" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="392" column="30" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="426" column="30" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="485" column="31" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="570" column="31" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="582" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="594" column="37" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="609" column="37" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="627" column="30" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="756" column="30" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="778" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="787" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
-      <jump line="839" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
       <jump line="978" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
       <jump line="983" column="33" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
       <jump line="1034" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
@@ -282,9 +265,7 @@
       <jump line="283" column="53" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/utils/PlmBomUtils.java" />
       <jump line="480" column="54" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/proc/mat/ProcessMatBomRead.java" />
       <jump line="195" column="13" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/SetChangeMasterDialog.java" />
-      <jump line="196" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/SetChangeMasterDialog.java" />
       <jump line="2840" column="39" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-52/customize/config/default.txt" />
-      <jump line="88" column="18" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/SetChangeMasterDialog.java" />
       <jump line="176" column="22" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/omf/OmfRulesetMaintainBom.java" />
       <jump line="238" column="82" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/omf/OmfRulesetMaintainBom.java" />
       <jump line="239" column="72" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/omf/OmfRulesetMaintainBom.java" />
@@ -300,18 +281,36 @@
       <jump line="211" column="16" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/omf/OmfRulesetMaintainBom.java" />
       <jump line="212" column="14" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/omf/OmfRulesetMaintainBom.java" />
       <jump line="216" column="78" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/omf/OmfRulesetMaintainBom.java" />
+      <jump line="281" column="15" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/HashMap.java" />
+      <jump line="343" column="28" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/HashMap.java" />
+      <jump line="338" column="23" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/HashMap.java" />
+      <jump line="431" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/SetChangeMasterDialog.java" />
+      <jump line="88" column="18" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/SetChangeMasterDialog.java" />
+      <jump line="196" column="13" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/SetChangeMasterDialog.java" />
+      <jump line="197" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/SetChangeMasterDialog.java" />
+      <jump line="198" column="17" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/SetChangeMasterDialog.java" />
+      <jump line="214" column="11" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/SetChangeMasterDialog.java" />
+      <jump line="124" column="61" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/omf/OmfBomPatternMaintainBom.java" />
+      <jump line="125" column="25" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/omf/OmfBomPatternMaintainBom.java" />
+      <jump line="127" column="78" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/omf/OmfBomPatternMaintainBom.java" />
+      <jump line="128" column="66" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/omf/OmfBomPatternMaintainBom.java" />
+      <jump line="173" column="61" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/omf/OmfBomPatternMaintainBom.java" />
+      <jump line="180" column="59" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/omf/OmfBomPatternMaintainBom.java" />
+      <jump line="194" column="113" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/omf/OmfBomPatternMaintainBom.java" />
+      <jump line="198" column="70" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/omf/OmfBomPatternMaintainBom.java" />
+      <jump line="121" column="24" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/omf/OmfBomPatternMaintainBom.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2tpRWNuLCA=</text>
+        <text encoding="base64">cmV0ID0g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwY21cPg==</text>
@@ -320,34 +319,34 @@
         <text encoding="base64">ICAgICAgICBTZXRDaGFuZ2VNYXN0ZXJEaWFsb2cgY21EaWFsb2cgPSBuZXcgU2V0Q2hhbmdlTWFzdGVyRGlhbG9nKGZyYW1lUmVzb3VyY2UuZ2V0RnJhbWUoKSwgdGV4dCwgUHJlZmVyZW5jZXMuYm9vbGVhblZhbHVlKCJwbG0uYm9tLnJ1bGVlZGl0b3Iuc2hvd0lnbm9yZUhpc3RSZXFCdXR0b24iLCBmYWxzZSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY21EaWFsb2cuaXNTa2lwRWNuKCkpCiAgICAgICAgICByZXR1cm4gbnVsbDsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY21EaWFsb2cuaXNTa2lwRWNuKCkpCiAgICAgICAgICByZXR1cm4gbnVsbDsKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwdWJsaWMgU2V0Q2hhbmdlTWFzdGVyRGlhbG9nKEZyYW1lIHBhcmVudEZyYW1lLCBTdHJpbmcgdGV4dCkKICB7CiAgICB0aGlzKHBhcmVudEZyYW1lLCB0ZXh0LCBmYWxzZSk7CiAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChza2lFY24pCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>174</text>
