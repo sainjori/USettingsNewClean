@@ -167,8 +167,10 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/proc/mat/ProcessMatBomRead.java" timestamp="1592996791340">
         <mark key="'" line="480" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593007101740">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1593013122289">
+        <mark key="[" line="0" column="57" />
+        <mark key="]" line="0" column="57" />
+        <mark key="." line="0" column="57" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/utils/PlmBomUtils.java" timestamp="1592996759444">
         <mark key="'" line="283" column="53" />
@@ -303,14 +305,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>bei Ableitung BOM (legacy)</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0ID0g</text>
+        <text>bei Ableitung BOM (legacy)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwY21cPg==</text>
