@@ -147,14 +147,11 @@
         <mark key="." line="371" column="7" />
         <mark key="^" line="371" column="8" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/SetChangeMasterDialog.java" timestamp="1592998120551">
-        <mark key="[" line="191" column="22" />
-        <mark key="]" line="191" column="22" />
-        <mark key="." line="191" column="21" />
-        <mark key="^" line="191" column="22" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/gui/browser/FolderTablePanel.java" timestamp="1592839853040">
-        <mark key="'" line="153" column="17" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/SetChangeMasterDialog.java" timestamp="1593000381503">
+        <mark key="[" line="429" column="0" />
+        <mark key="]" line="429" column="0" />
+        <mark key="." line="429" column="0" />
+        <mark key="^" line="193" column="29" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.1/addons/acm/template-customize/config/default.txt" timestamp="1592842287904">
         <mark key="[" line="84" column="28" />
@@ -171,7 +168,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/proc/mat/ProcessMatBomRead.java" timestamp="1592996791340">
         <mark key="'" line="480" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592998321952">
+      <file name="/Dummy.txt" timestamp="1593000467588">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/utils/PlmBomUtils.java" timestamp="1592996759444">
@@ -190,7 +187,7 @@
         <mark key="." line="161" column="47" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/basis/dictionary/de/ectr.txt" timestamp="1592995901278" />
-      <file name="/fragment.java" timestamp="1592998256410">
+      <file name="/fragment.java" timestamp="1593000435000">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -310,8 +307,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text>needEcn = true</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -326,34 +323,34 @@
         <text encoding="base64">ICAgICAgICBTZXRDaGFuZ2VNYXN0ZXJEaWFsb2cgY21EaWFsb2cgPSBuZXcgU2V0Q2hhbmdlTWFzdGVyRGlhbG9nKGZyYW1lUmVzb3VyY2UuZ2V0RnJhbWUoKSwgdGV4dCwgUHJlZmVyZW5jZXMuYm9vbGVhblZhbHVlKCJwbG0uYm9tLnJ1bGVlZGl0b3Iuc2hvd0lnbm9yZUhpc3RSZXFCdXR0b24iLCBmYWxzZSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY21EaWFsb2cuaXNTa2lwUHJlc3NlZCgpKQogICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text>needEcn = true</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgYnRuU2tpcC5zZXRQcmVmZXJyZWRTaXplKEd4QnV0dG9uLmNyZWF0ZU9rQnV0dG9uKCkuZ2V0UHJlZmVycmVkU2l6ZSgpKTsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgaWYoVHJhY2UuZ2V0TGV2ZWwoKT49OSkK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaXNTa2lwUHJlc3NlZCA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY21EaWFsb2cuaXNTa2lwUHJlc3NlZCgpKQogICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJ0blNraXAuYWRkQWN0aW9uTGlzdGVuZXIobmV3IFNraXBCdXR0b25BY3Rpb25MaXN0ZW5lcigpKTsK</text>
+        <text encoding="base64">Ly8gICAgYnRuU2tpcC5zZXRQcmVmZXJyZWRTaXplKEd4QnV0dG9uLmNyZWF0ZU9rQnV0dG9uKCkuZ2V0UHJlZmVycmVkU2l6ZSgpKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGNsYXNzIFNraXBCdXR0b25BY3Rpb25MaXN0ZW5lciBpbXBsZW1lbnRzIEFjdGlvbkxpc3RlbmVyCiAgewogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBhY3Rpb25QZXJmb3JtZWQoQWN0aW9uRXZlbnQgZSkKICAgIHsKICAgICAgaXNTa2lwUHJlc3NlZCA9IHRydWU7CiAgICAgIGlmKFRyYWNlLmdldExldmVsKCk+PTkpCiAgICAgICAgVHJhY2UucHJpbnRsbig5LCJza2lwIHByZXNzZWQuIik7CiAgICAgIGRpc3Bvc2UoKTsKCiAgICB9CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgaXNTa2lwUHJlc3NlZCA9IHRydWU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJ0blNraXAuYWRkQWN0aW9uTGlzdGVuZXIobmV3IFNraXBCdXR0b25BY3Rpb25MaXN0ZW5lcigpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgYm9vbGVhbiBpc1NraXBQcmVzc2VkKCkKICB7CiAgICByZXR1cm4oaXNTa2lwUHJlc3NlZCk7CiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>174</text>
