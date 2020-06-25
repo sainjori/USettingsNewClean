@@ -165,6 +165,9 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/utils/PlmBomUtils.java" timestamp="1592996759444">
         <mark key="'" line="283" column="53" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/molex/src/main/java/plm/brobj/BrConvJob.java" timestamp="1593095316102">
+        <mark key="'" line="154" column="19" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/Profile_Procache/pom.xml" timestamp="1593085497625">
         <mark key="[" line="120" column="17" />
         <mark key="]" line="120" column="20" />
@@ -206,7 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="978" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
       <jump line="983" column="33" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
       <jump line="1034" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
       <jump line="1040" column="29" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/gui/obr/tree/DefaultObrTreeModel.java" />
@@ -306,6 +308,7 @@
       <jump line="194" column="113" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/omf/OmfBomPatternMaintainBom.java" />
       <jump line="198" column="70" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/omf/OmfBomPatternMaintainBom.java" />
       <jump line="121" column="24" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/omf/OmfBomPatternMaintainBom.java" />
+      <jump line="154" column="19" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/molex/src/main/java/plm/brobj/BrConvJob.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
