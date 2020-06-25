@@ -141,26 +141,14 @@
     <globalmarks />
     <filemarks>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/omf/OmfRulesetMaintainBom.java" timestamp="1593012936911">
-        <mark key="'" line="216" column="78" />
-        <mark key="[" line="377" column="0" />
-        <mark key="]" line="377" column="0" />
-        <mark key="." line="377" column="0" />
-        <mark key="^" line="370" column="17" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/omf/OmfBomPatternMaintainBom.java" timestamp="1593012840039">
-        <mark key="'" line="121" column="24" />
-        <mark key="[" line="194" column="117" />
-        <mark key="]" line="194" column="117" />
-        <mark key="." line="194" column="116" />
-        <mark key="^" line="194" column="117" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1593013122289">
-        <mark key="[" line="0" column="57" />
+      <file name="/Dummy.txt" timestamp="1593096431102">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/SetChangeMasterDialog.java" timestamp="1593012447131">
-        <mark key="'" line="214" column="11" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/utils/PlmBomUtils.java" timestamp="1592996759444">
         <mark key="'" line="283" column="53" />
@@ -178,6 +166,12 @@
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/brobj/BrConvJob.java" timestamp="1593096031918">
+        <mark key="[" line="500" column="25" />
+        <mark key="]" line="500" column="36" />
+        <mark key="." line="500" column="35" />
+        <mark key="^" line="500" column="36" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/brobj/BrSmartListContainer.java" timestamp="1592917506598">
         <mark key="'" line="129" column="41" />
@@ -313,14 +307,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwY21cPg==</text>
@@ -329,34 +323,34 @@
         <text encoding="base64">ICAgICAgICBTZXRDaGFuZ2VNYXN0ZXJEaWFsb2cgY21EaWFsb2cgPSBuZXcgU2V0Q2hhbmdlTWFzdGVyRGlhbG9nKGZyYW1lUmVzb3VyY2UuZ2V0RnJhbWUoKSwgdGV4dCwgUHJlZmVyZW5jZXMuYm9vbGVhblZhbHVlKCJwbG0uYm9tLnJ1bGVlZGl0b3Iuc2hvd0lnbm9yZUhpc3RSZXFCdXR0b24iLCBmYWxzZSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoVHJhY2UuZ2V0TGV2ZWwoKSA+PSAyKQogICAgICAgIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY21EaWFsb2cuaXNTa2lwRWNuKCkpCiAgICAgICAgICByZXR1cm4gbnVsbDsKCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY21EaWFsb2cuaXNTa2lwRWNuKCkpCiAgICAgICAgICByZXR1cm4gbnVsbDsKCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoVHJhY2UuZ2V0TGV2ZWwoKSA+PSAyKQogICAgICAgIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY21EaWFsb2cuaXNTa2lwRWNuKCkpCiAgICAgICAgICByZXR1cm4gbnVsbDsKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY21EaWFsb2cuaXNTa2lwRWNuKCkpCiAgICAgICAgICByZXR1cm4gbnVsbDsKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>174</text>
