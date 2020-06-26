@@ -151,7 +151,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593161525852">
+      <file name="/Dummy.txt" timestamp="1593161597480">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -168,11 +168,11 @@
       <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/HashMap.java" timestamp="1593012155566">
         <mark key="'" line="338" column="23" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/brobj/BrConvJob.java" timestamp="1593159926033">
-        <mark key="[" line="505" column="125" />
-        <mark key="]" line="506" column="9" />
-        <mark key="." line="506" column="8" />
-        <mark key="^" line="506" column="9" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/brobj/BrConvJob.java" timestamp="1593161589603">
+        <mark key="[" line="485" column="24" />
+        <mark key="]" line="485" column="25" />
+        <mark key="." line="485" column="24" />
+        <mark key="^" line="485" column="25" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/customize/config/default.txt" timestamp="1592998238908">
         <mark key="'" line="2840" column="39" />
@@ -297,13 +297,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>DEBUG</text>
+        <text>Trace.ALWAYS</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>DEBUG</text>
+        <text>Trace.ALWAYS</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwY21cPg==</text>
