@@ -140,18 +140,29 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/brobj/BrConvJob.java" timestamp="1593155619713" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/omf/OmfRulesetMaintainBom.java" timestamp="1593012936911">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/brobj/BrConvJob.java" timestamp="1593155741799">
+        <mark key="[" line="500" column="25" />
+        <mark key="]" line="500" column="36" />
+        <mark key="." line="500" column="35" />
+        <mark key="^" line="500" column="36" />
+      </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/customize/config/default.txt" timestamp="1592998238908">
+        <mark key="'" line="2840" column="39" />
+        <mark key="[" line="2908" column="23" />
+        <mark key="]" line="2910" column="49" />
+        <mark key="^" line="2910" column="49" />
+        <mark key="." line="2910" column="48" />
+      </file>
       <file name="/Dummy.txt" timestamp="1593096431102">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/utils/PlmBomUtils.java" timestamp="1592996759444">
-        <mark key="'" line="283" column="53" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/molex/src/main/java/plm/brobj/BrConvJob.java" timestamp="1593095316102">
         <mark key="'" line="154" column="19" />
@@ -162,45 +173,14 @@
         <mark key="^" line="114" column="20" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ricwolf/branches/ricwolf-hotfix-5.1.15.1/src/main/java/plm/utils/macro/smartobject/SmartObjectWriter.java" timestamp="1592917522618">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/brobj/BrConvJob.java" timestamp="1593096031918">
-        <mark key="[" line="500" column="25" />
-        <mark key="]" line="500" column="36" />
-        <mark key="." line="500" column="35" />
-        <mark key="^" line="500" column="36" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/Profile_Procache/java/src/web/fs/M404Handler.java" timestamp="1593097786067" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/brobj/BrSmartListContainer.java" timestamp="1592917506598">
-        <mark key="'" line="129" column="41" />
-        <mark key="[" line="161" column="48" />
-        <mark key="]" line="161" column="48" />
-        <mark key="^" line="161" column="48" />
-        <mark key="." line="161" column="47" />
-      </file>
       <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/HashMap.java" timestamp="1593012155566">
         <mark key="'" line="338" column="23" />
-      </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-52/customize/config/default.txt" timestamp="1592998238908">
-        <mark key="'" line="2840" column="39" />
-        <mark key="[" line="2908" column="23" />
-        <mark key="]" line="2910" column="49" />
-        <mark key="^" line="2910" column="49" />
-        <mark key="." line="2910" column="48" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/proc/mat/ProcessMatBomRead.java" timestamp="1592996791340">
-        <mark key="'" line="480" column="54" />
       </file>
       <file name="/fragment.java" timestamp="1593018324151">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/objmod/PlmMatBomLink.java" timestamp="1592993548865">
-        <mark key="'" line="503" column="21" />
       </file>
     </filemarks>
     <jumps>
