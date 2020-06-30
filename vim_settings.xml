@@ -27,7 +27,6 @@
         <entry encoding="base64">XDxhcmNoaXZlQ29uZmlndXJhdGlvblw+</entry>
       </history-search>
       <history-cmd>
-        <entry>682</entry>
         <entry>263</entry>
         <entry>182</entry>
         <entry>559</entry>
@@ -47,6 +46,7 @@
         <entry>427</entry>
         <entry>174</entry>
         <entry>1163</entry>
+        <entry>1210</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -167,6 +167,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/maven-war-plugin/src/main/java/org/apache/maven/plugins/war/AbstractWarMojo.java" timestamp="1593176531604">
         <mark key="'" line="352" column="38" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/util/Vector.java" timestamp="1593443907813" />
       <file name="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd" timestamp="1593174151983">
         <mark key="'" line="951" column="90" />
       </file>
@@ -335,7 +336,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>1163</text>
+        <text>1210</text>
       </register>
     </registers>
   </component>
