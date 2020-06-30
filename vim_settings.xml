@@ -157,40 +157,45 @@
         <mark key="." line="173" column="0" />
         <mark key="^" line="120" column="20" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/gui/convert/ConvertDisplay.java" timestamp="1593434525387" />
-      <file name="/SystemProperties.properties" timestamp="1593173276115">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/brobj/BrBomRuleset.java" timestamp="1593514706717">
+        <mark key="'" line="325" column="0" />
+        <mark key="[" line="322" column="3" />
+        <mark key="]" line="323" column="14" />
+        <mark key="^" line="323" column="14" />
+        <mark key="." line="323" column="13" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/env/Environment.java" timestamp="1593514295523">
+        <mark key="'" line="756" column="15" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/gui/convert/ConvertDisplay.java" timestamp="1593434525387" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/maven-war-plugin/src/main/java/org/apache/maven/plugin/war/WarMojo.java" timestamp="1593176756964">
         <mark key="'" line="79" column="38" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/maven-war-plugin/src/main/java/org/apache/maven/plugins/war/AbstractWarMojo.java" timestamp="1593176531604">
         <mark key="'" line="352" column="38" />
       </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/util/Vector.java" timestamp="1593443907813" />
-      <file name="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd" timestamp="1593174151983">
-        <mark key="'" line="951" column="90" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ruleeditor/ruleset/create/NewRulesetDialog.java" timestamp="1593514736125">
+        <mark key="[" line="272" column="3" />
+        <mark key="]" line="273" column="14" />
+        <mark key="^" line="273" column="14" />
+        <mark key="." line="273" column="13" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ruleeditor/ruleengine/Ruleset.java" timestamp="1593514588249">
+        <mark key="'" line="113" column="4" />
+        <mark key="[" line="176" column="3" />
+        <mark key="]" line="177" column="14" />
+        <mark key="^" line="177" column="14" />
+        <mark key="." line="177" column="13" />
+      </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/util/Vector.java" timestamp="1593443907813" />
       <file name="$MAVEN_REPOSITORY$/org/apache/maven/maven-archiver/2.0.1/maven-archiver-2.0.1-sources.jar!/org/apache/maven/archiver/MavenArchiveConfiguration.java" timestamp="1593176710421">
         <mark key="'" line="37" column="20" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects-git/maven-war-plugin/src/main/java/org/apache/maven/plugins/war/util/ClassesPackager.java" timestamp="1593176201826">
-        <mark key="'" line="69" column="54" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/Profile_Procache/java/src/web/fs/util/HttpUtils.java" timestamp="1593172972506">
-        <mark key="'" line="44" column="22" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="138" column="29" />
-        <mark key="." line="45" column="0" />
+      <file name="/fragment.java" timestamp="1593514054319">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="582" column="43" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/gui/browser/FolderBrowser.java" />
-      <jump line="62" column="24" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/gui/browser/FolderTablePanel.java" />
-      <jump line="76" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/gui/browser/FolderTablePanel.java" />
-      <jump line="153" column="17" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/gui/browser/FolderTablePanel.java" />
-      <jump line="129" column="41" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/brobj/BrSmartListContainer.java" />
       <jump line="142" column="14" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/omf/OmfRulesetMaintainBom.java" />
       <jump line="61" column="18" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/objmod/PlmMatBomLink.java" />
       <jump line="496" column="17" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/sapbase/java/src/cadagent/objmod/PlmMatBomLink.java" />
@@ -286,6 +291,11 @@
       <jump line="213" column="79" filename="$MAVEN_REPOSITORY$/org/apache/maven/maven-archiver/2.0.1/maven-archiver-2.0.1-sources.jar!/org/apache/maven/archiver/MavenArchiver.java" />
       <jump line="222" column="13" filename="$MAVEN_REPOSITORY$/org/apache/maven/maven-archiver/2.0.1/maven-archiver-2.0.1-sources.jar!/org/apache/maven/archiver/MavenArchiver.java" />
       <jump line="272" column="28" filename="$MAVEN_REPOSITORY$/org/apache/maven/maven-archiver/2.0.1/maven-archiver-2.0.1-sources.jar!/org/apache/maven/archiver/MavenArchiver.java" />
+      <jump line="759" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/brobj/BrBomRuleset.java" />
+      <jump line="756" column="15" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/env/Environment.java" />
+      <jump line="301" column="27" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/brobj/BrBomRuleset.java" />
+      <jump line="113" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ruleeditor/ruleengine/Ruleset.java" />
+      <jump line="325" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/brobj/BrBomRuleset.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
