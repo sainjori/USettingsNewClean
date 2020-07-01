@@ -145,6 +145,12 @@
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/modules/convert/utils/PlmConversionObsever.java" timestamp="1593596782553">
+        <mark key="[" line="281" column="80" />
+        <mark key="]" line="281" column="81" />
+        <mark key="." line="281" column="80" />
+        <mark key="^" line="281" column="81" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/maven/maven-archiver/2.0.1/maven-archiver-2.0.1-sources.jar!/org/apache/maven/archiver/MavenArchiver.java" timestamp="1593176771666">
         <mark key="'" line="272" column="28" />
       </file>
@@ -164,8 +170,8 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/env/Environment.java" timestamp="1593514295523">
         <mark key="'" line="756" column="15" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/gui/convert/ConvertDisplay.java" timestamp="1593595978943">
-        <mark key="'" line="106" column="25" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/gui/convert/ConvertDisplay.java" timestamp="1593596153993">
+        <mark key="'" line="278" column="4" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.2.2.0-rc84/addons-5.2.2.0-rc84-sources.jar!/plm/gui/ruleeditor/ObrBomRuleEditorDisplay.java" timestamp="1593532168965">
         <mark key="'" line="1235" column="17" />
@@ -192,14 +198,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/gui/ruleeditor/ObrBomRuleEditorDisplay.java" timestamp="1593525538272">
         <mark key="'" line="1269" column="8" />
       </file>
-      <file name="/fragment.java" timestamp="1593531708369">
+      <file name="/fragment.java" timestamp="1593596277712">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="253" column="18" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/SetChangeMasterDialog.java" />
-      <jump line="276" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/SetChangeMasterDialog.java" />
-      <jump line="307" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/SetChangeMasterDialog.java" />
       <jump line="414" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/SetChangeMasterDialog.java" />
       <jump line="87" column="18" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/SetChangeMasterDialog.java" />
       <jump line="178" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/plm++/java/src/plm/gui/SetChangeMasterDialog.java" />
@@ -297,18 +300,21 @@
       <jump line="1475" column="22" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.2.2.0-rc84/addons-5.2.2.0-rc84-sources.jar!/plm/gui/ruleeditor/ObrBomRuleEditorDisplay.java" />
       <jump line="1235" column="17" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.2.2.0-rc84/addons-5.2.2.0-rc84-sources.jar!/plm/gui/ruleeditor/ObrBomRuleEditorDisplay.java" />
       <jump line="106" column="25" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/gui/convert/ConvertDisplay.java" />
+      <jump line="267" column="9" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/gui/convert/ConvertDisplay.java" />
+      <jump line="268" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/gui/convert/ConvertDisplay.java" />
+      <jump line="278" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/gui/convert/ConvertDisplay.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>run on java 11</text>
+        <text>0</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>run on java 11</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbGxPYnJLZXlzXD4=</text>
