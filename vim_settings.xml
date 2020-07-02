@@ -146,13 +146,6 @@
         <mark key="." line="282" column="17" />
         <mark key="^" line="282" column="18" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/brobj/BrBomRuleset.java" timestamp="1593514706717">
-        <mark key="'" line="325" column="0" />
-        <mark key="[" line="322" column="3" />
-        <mark key="]" line="323" column="14" />
-        <mark key="^" line="323" column="14" />
-        <mark key="." line="323" column="13" />
-      </file>
       <file name="/a.dummy" timestamp="1593607065535">
         <mark key="[" line="0" column="0" />
       </file>
@@ -172,20 +165,12 @@
         <mark key="." line="107" column="33" />
         <mark key="^" line="107" column="34" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ruleeditor/ruleset/create/NewRulesetDialog.java" timestamp="1593514736125">
-        <mark key="[" line="272" column="3" />
-        <mark key="]" line="273" column="14" />
-        <mark key="^" line="273" column="14" />
-        <mark key="." line="273" column="13" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.0_ypsomed/customize/config/menu.guidef" timestamp="1593682092059">
+        <mark key="[" line="106" column="46" />
+        <mark key="]" line="106" column="46" />
+        <mark key="." line="106" column="46" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ruleeditor/ruleengine/Ruleset.java" timestamp="1593514588249">
-        <mark key="'" line="113" column="4" />
-        <mark key="[" line="176" column="3" />
-        <mark key="]" line="177" column="14" />
-        <mark key="^" line="177" column="14" />
-        <mark key="." line="177" column="13" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1593681490938">
+      <file name="/Dummy.txt" timestamp="1593681837396">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="32" />
@@ -200,9 +185,6 @@
         <mark key="]" line="4" column="7" />
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="6" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/core/base/java/src/cadagent/cfc/env/Environment.java" timestamp="1593514295523">
-        <mark key="'" line="756" column="15" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/gui/convert/ConvertDisplay.java" timestamp="1593598983828">
         <mark key="'" line="280" column="4" />
@@ -326,20 +308,20 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>show.admin.menu</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>vdsCadFinder</text>
+        <text>show.admin.menu</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxlY3Rpb25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzZWxlY3Rpb24uZ2V0VHlwZSgpLmVxdWFsc0lnbm9yZUNhc2UoVkRTX0RPQ19UWVBFKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gZm5jLnNob3cuYWRtaW4ubWVudQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
