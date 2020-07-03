@@ -154,11 +154,11 @@
         <mark key="." line="63" column="34" />
         <mark key="^" line="63" column="35" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.0_ypsomed/customize/config/plm_setenv.bat" timestamp="1593799262114">
-        <mark key="[" line="230" column="0" />
-        <mark key="]" line="230" column="0" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.0_ypsomed/customize/config/plm_setenv.bat" timestamp="1593799953776">
+        <mark key="[" line="238" column="109" />
+        <mark key="]" line="238" column="109" />
         <mark key="^" line="238" column="111" />
-        <mark key="." line="230" column="0" />
+        <mark key="." line="238" column="109" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ruleeditor/ruleset/create/NewRulesetDialog.java" timestamp="1593787910818">
         <mark key="[" line="118" column="0" />
@@ -171,12 +171,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/omf/OmfDocCopyAs.java" timestamp="1593797422740">
         <mark key="'" line="47" column="20" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/test/java/ypsomed/omf/OmfYpsomedDmuMatSendVdsTest.java" timestamp="1593784759246">
-        <mark key="[" line="36" column="4" />
-        <mark key="]" line="36" column="4" />
-        <mark key="." line="36" column="4" />
-        <mark key="^" line="36" column="68" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.0_ypsomed/basis/dictionary/de/ectr.txt" timestamp="1593795918707" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.0_ypsomed/customize/config/plm_initialize.bat" timestamp="1593799245703">
@@ -191,6 +185,7 @@
       <file name="C:/Program Files/Java/jdk1.8.0_212/src.zip!/javax/swing/AbstractButton.java" timestamp="1593792132792">
         <mark key="'" line="1953" column="15" />
       </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.0_ypsomed/template-customize/exec/win/addutils/VEConverter.bat" timestamp="1593800108018" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.0_ypsomed/applications/vea/customize/config/dtype.xml" timestamp="1593796852673" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.15.1/sapbase-5.1.15.1-sources.jar!/cadagent/dtype/DType.java" timestamp="1593796372783">
         <mark key="'" line="1733" column="41" />
@@ -204,13 +199,16 @@
         <mark key="^" line="445" column="12" />
         <mark key="." line="445" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593784714605">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/omf/OmfYpsomedDmuCreatePart.java" timestamp="1593796955907">
         <mark key="'" line="561" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/omf/OmfDocSwitchAdditionalOriginal.java" timestamp="1593797343571" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.0_ypsomed/template-customize/config/plm_setenv.bat" timestamp="1593799960191">
+        <mark key="[" line="232" column="0" />
+        <mark key="]" line="234" column="0" />
+        <mark key="." line="234" column="0" />
+        <mark key="^" line="234" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/gui/ruleeditor/ObrBomRuleEditorDisplay.java" timestamp="1593787639663">
         <mark key="'" line="141" column="35" />
       </file>
@@ -330,7 +328,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>VEConverter.bat&quot;</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQcm9jZXNzQ2FuY2VsbGVkRXhjZXB0aW9uXD4=</text>
@@ -345,28 +343,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgc2V0IFBMTV9WRUNPTlZESVI9JVBMTV9JTlNURElSJVxWRUNvbnZlcnRlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2V0IFBMTV9WRUNPTlZESVI9IkM6XEVOVFdJQ0tMVU5HXGVjdHJfaW5zdGFsbGF0aW9uc1xFQ1RSNS4xLjE1LjBfeXBzb21lZFx0ZW1wbGF0ZS1jdXN0b21pemVcZXhlY1x3aW5cYWRkdXRpbHNcVkVDb252ZXJ0ZXIuYmF0Igo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBWRFNfRE9DX0RUWVBFX0lEID0gIlZFQU0iOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBWRFNfRE9DX1RZUEUgPSAiVkRTIjsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">c2V0IFBMTV9WRUNPTlZESVI9IkM6XEVOVFdJQ0tMVU5HXGVjdHJfaW5zdGFsbGF0aW9uc1xFQ1RSNS4xLjE1LjBfeXBzb21lZFx0ZW1wbGF0ZS1jdXN0b21pemVcZXhlY1x3aW5cYWRkdXRpbHNcVkVDb252ZXJ0ZXIuYmF0Igo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBWRFNfRE9DX0RUWVBFX0lEID0gIlZFQU0iOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBWRFNfRE9DX1RZUEUgPSAiVkRTIjsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgRmlsZSBmaWxlID0gbmV3IEZpbGUoRW52aXJvbm1lbnQuZ2V0VXNlckRhdGFEaXIobnVsbCkpOwogICAgICBTdHJpbmcgY2hlY2tlZE91dFBhdGggPSBwbG1GaWxlLmNoZWNrT3V0VmlldyhmaWxlLmdldEFic29sdXRlUGF0aCgpKTsKICAgICAgaWYgKGNoZWNrZWRPdXRQYXRoICE9IG51bGwpCiAgICAgICAgcmV0dXJuIE9wdGlvbmFsLm9mKGZpbGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHBsbS5zZXNzLmNvbW0udXRpbC5TZXNzaW9uVXRpbDsK</text>
+        <text encoding="base64">ICAgICAgRmlsZSBmaWxlID0gbmV3IEZpbGUoRW52aXJvbm1lbnQuZ2V0VXNlckRhdGFEaXIobnVsbCkpOwogICAgICBTdHJpbmcgY2hlY2tlZE91dFBhdGggPSBwbG1GaWxlLmNoZWNrT3V0VmlldyhmaWxlLmdldEFic29sdXRlUGF0aCgpKTsKICAgICAgaWYgKGNoZWNrZWRPdXRQYXRoICE9IG51bGwpCiAgICAgICAgcmV0dXJuIE9wdGlvbmFsLm9mKGZpbGUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>209</text>
