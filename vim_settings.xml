@@ -140,6 +140,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/omf/OmfBomPatternMaintainBom.java" timestamp="1593779664150" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/sess/metainf/MetaInfPartInfo.java" timestamp="1593771206035">
         <mark key="'" line="142" column="22" />
       </file>
@@ -175,20 +176,9 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/sess/XmlData.java" timestamp="1593774786236">
         <mark key="'" line="1212" column="40" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/omf/GeneratorPart.java" timestamp="1593765132020">
-        <mark key="'" line="293" column="28" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="182" column="58" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/utils/YpsomedVeaHelper.java" timestamp="1593761970093">
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="166" column="0" />
-        <mark key="." line="166" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/aurubis/trunk/src/main/java/aurubis/omf/OmfAddUrlForeignAppl.java" timestamp="1593770653572" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/idf/PlmProcessCadDocumentPCBImport.java" timestamp="1593774048303" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/omf/OmfRulesetMaintainBom.java" timestamp="1593779135816" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/rauch/branches/ECTR-4.4.40/java/src/rauch/proc/bobi/RauchProcessBobiCheckMachinePairs.java" timestamp="1593770119745">
         <mark key="'" line="92" column="6" />
       </file>
