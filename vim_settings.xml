@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb2xsZWN0XD4=</entry>
-        <entry encoding="base64">XDxtYXRcPg==</entry>
         <entry encoding="base64">XDxnZXRWYWx1ZVw+</entry>
         <entry encoding="base64">XDxTeXN0ZW1TdGFydERhdGFkaXJcPg==</entry>
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxtX21lc3NhZ2VcPg==</entry>
         <entry encoding="base64">XDxjX2NhZE1hdGVyaWFsc1w+</entry>
         <entry encoding="base64">XDxsaXN0ZW5lckxpc3RcPg==</entry>
+        <entry encoding="base64">XDxhdHRyaWJ1dGVTZWN0aW9uXD4=</entry>
+        <entry encoding="base64">XDxQcm9jZXNzQ2FuY2VsbGVkRXhjZXB0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>740</entry>
@@ -140,16 +140,25 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/omf/OmfBomPatternMaintainBom.java" timestamp="1593779664150" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/sess/metainf/MetaInfPartInfo.java" timestamp="1593771206035">
-        <mark key="'" line="142" column="22" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/omf/GeneratorAssembly.java" timestamp="1593796006213">
+        <mark key="'" line="500" column="11" />
+        <mark key="[" line="111" column="24" />
+        <mark key="]" line="111" column="61" />
+        <mark key="." line="111" column="60" />
+        <mark key="^" line="111" column="61" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/omf/OmfYpsomedDmuMatSendVds.java" timestamp="1593793679712">
-        <mark key="'" line="91" column="2" />
-        <mark key="[" line="49" column="45" />
-        <mark key="]" line="49" column="45" />
-        <mark key="." line="49" column="45" />
-        <mark key="^" line="356" column="29" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/omf/OmfYpsomedDmuMatSendVds.java" timestamp="1593797608449">
+        <mark key="'" line="187" column="0" />
+        <mark key="[" line="62" column="65" />
+        <mark key="]" line="63" column="35" />
+        <mark key="." line="63" column="34" />
+        <mark key="^" line="63" column="35" />
+      </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.0_ypsomed/customize/config/plm_setenv.bat" timestamp="1593799262114">
+        <mark key="[" line="230" column="0" />
+        <mark key="]" line="230" column="0" />
+        <mark key="^" line="238" column="111" />
+        <mark key="." line="230" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/modules/ruleeditor/ruleset/create/NewRulesetDialog.java" timestamp="1593787910818">
         <mark key="[" line="118" column="0" />
@@ -160,19 +169,21 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.15.1/base-5.1.15.1-sources.jar!/cadagent/cfc/env/Environment.java" timestamp="1593792176882">
         <mark key="'" line="1287" column="12" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/sess/comm/channel/ChannelBasedPlmSession.java" timestamp="1593771818723" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/sess/ApplPart.java" timestamp="1593772510141">
-        <mark key="'" line="213" column="14" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/omf/OmfDocCopyAs.java" timestamp="1593797422740">
+        <mark key="'" line="47" column="20" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/omf/OmfDocOpenMultiuser.java" timestamp="1593772935041" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/test/java/ypsomed/omf/OmfYpsomedDmuMatSendVdsTest.java" timestamp="1593784759246">
         <mark key="[" line="36" column="4" />
         <mark key="]" line="36" column="4" />
         <mark key="." line="36" column="4" />
         <mark key="^" line="36" column="68" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/sess/XmlData.java" timestamp="1593774786236">
-        <mark key="'" line="1212" column="40" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.0_ypsomed/basis/dictionary/de/ectr.txt" timestamp="1593795918707" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.0_ypsomed/customize/config/plm_initialize.bat" timestamp="1593799245703">
+        <mark key="'" line="18" column="78" />
+        <mark key="[" line="220" column="0" />
+        <mark key="]" line="220" column="0" />
+        <mark key="." line="220" column="0" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_212/src.zip!/javax/swing/JButton.java" timestamp="1593792005607">
         <mark key="'" line="308" column="47" />
@@ -180,30 +191,34 @@
       <file name="C:/Program Files/Java/jdk1.8.0_212/src.zip!/javax/swing/AbstractButton.java" timestamp="1593792132792">
         <mark key="'" line="1953" column="15" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/idf/PlmProcessCadDocumentPCBImport.java" timestamp="1593774048303" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform51/modules/addons/src/main/java/plm/omf/OmfRulesetMaintainBom.java" timestamp="1593779135816" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/omf/OmfDocOpenShared.java" timestamp="1593774138771" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/gui/LoadOptionComboBox.java" timestamp="1593774826534" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.0_ypsomed/applications/vea/customize/config/dtype.xml" timestamp="1593796852673" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.15.1/sapbase-5.1.15.1-sources.jar!/cadagent/dtype/DType.java" timestamp="1593796372783">
+        <mark key="'" line="1733" column="41" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/utils/converter/VEConverter.java" timestamp="1593798597951">
+        <mark key="'" line="122" column="6" />
+      </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.0_ypsomed/customize/config/attributes-from-sap.xml" timestamp="1593797797215">
+        <mark key="[" line="395" column="12" />
+        <mark key="]" line="445" column="12" />
+        <mark key="^" line="445" column="12" />
+        <mark key="." line="445" column="11" />
+      </file>
       <file name="/Dummy.txt" timestamp="1593784714605">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/omf/OmfDocOpenByLoadScenario.java" timestamp="1593772254022">
-        <mark key="'" line="39" column="16" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/omf/OmfYpsomedDmuCreatePart.java" timestamp="1593796955907">
+        <mark key="'" line="561" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/omf/OmfDocSwitchAdditionalOriginal.java" timestamp="1593797343571" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform/modules/addons/src/main/java/plm/gui/ruleeditor/ObrBomRuleEditorDisplay.java" timestamp="1593787639663">
         <mark key="'" line="141" column="35" />
       </file>
-      <file name="/fragment.java" timestamp="1593792300666">
+      <file name="/fragment.java" timestamp="1593799468997">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="14" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/omf/GeneratorAssembly.java" />
-      <jump line="119" column="18" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/omf/GeneratorAssembly.java" />
-      <jump line="121" column="50" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/omf/GeneratorAssembly.java" />
-      <jump line="453" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/omf/GeneratorAssembly.java" />
-      <jump line="492" column="21" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/omf/GeneratorAssembly.java" />
-      <jump line="500" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/omf/GeneratorAssembly.java" />
       <jump line="502" column="11" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/omf/GeneratorAssembly.java" />
       <jump line="57" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/omf/OmfYpsomedDmuMatSendVds.java" />
       <jump line="72" column="23" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/utils/converter/VEConverter.java" />
@@ -298,54 +313,60 @@
       <jump line="1925" column="8" filename="C:/Program Files/Java/jdk1.8.0_212/src.zip!/javax/swing/AbstractButton.java" />
       <jump line="1940" column="12" filename="C:/Program Files/Java/jdk1.8.0_212/src.zip!/javax/swing/AbstractButton.java" />
       <jump line="1953" column="15" filename="C:/Program Files/Java/jdk1.8.0_212/src.zip!/javax/swing/AbstractButton.java" />
+      <jump line="897" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.15.1/sapbase-5.1.15.1-sources.jar!/cadagent/dtype/DType.java" />
+      <jump line="1733" column="41" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.15.1/sapbase-5.1.15.1-sources.jar!/cadagent/dtype/DType.java" />
+      <jump line="47" column="20" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/omf/OmfDocCopyAs.java" />
+      <jump line="187" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/omf/OmfYpsomedDmuMatSendVds.java" />
+      <jump line="194" column="82" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.0_ypsomed/customize/config/plm_initialize.bat" />
+      <jump line="18" column="78" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.0_ypsomed/customize/config/plm_initialize.bat" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>UGD</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgc2V0IFBMTV9WRUNPTlZESVI9JVBMTV9JTlNURElSJVxWRUNvbnZlcnRlcgo=</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>UGD</text>
+        <text>VEConverter.bat&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsaXN0ZW5lckxpc3RcPg==</text>
+        <text encoding="base64">XDxQcm9jZXNzQ2FuY2VsbGVkRXhjZXB0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyB0ZXN0ID0gT21mWXBzb21lZERtdU1hdFNlbmRWZHMuc2VuZEZhaWx1cmVSZXNwb25zZShudWxsKTsK</text>
+        <text encoding="base64">ICAgICAgR3VpVXRpbHMuc2V0U3RhdHVzTGluZUVycm9yVGV4dChlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgc2V0IFBMTV9WRUNPTlZESVI9JVBMTV9JTlNURElSJVxWRUNvbnZlcnRlcgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgRmlsZSBmaWxlID0gbmV3IEZpbGUoRW52aXJvbm1lbnQuZ2V0VXNlckRhdGFEaXIobnVsbCkpOwogICAgICBTdHJpbmcgY2hlY2tlZE91dFBhdGggPSBwbG1GaWxlLmNoZWNrT3V0VmlldyhmaWxlLmdldEFic29sdXRlUGF0aCgpKTsKICAgICAgaWYgKGNoZWNrZWRPdXRQYXRoICE9IG51bGwpCiAgICAgICAgcmV0dXJuIE9wdGlvbmFsLm9mKGZpbGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHBsbS5zZXNzLmNvbW0udXRpbC5TZXNzaW9uVXRpbDsK</text>
+        <text encoding="base64">c2V0IFBMTV9WRUNPTlZESVI9IkM6XEVOVFdJQ0tMVU5HXGVjdHJfaW5zdGFsbGF0aW9uc1xFQ1RSNS4xLjE1LjBfeXBzb21lZFx0ZW1wbGF0ZS1jdXN0b21pemVcZXhlY1x3aW5cYWRkdXRpbHNcVkVDb252ZXJ0ZXIuYmF0Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG9vbwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyB4bWwgPSBudWxsOwogICAgdHJ5CiAgICB7CiAgICAgIHhtbCA9IFNlc3Npb25VdGlsLnJlc3BvbnNlVG9YbWxTdHJpbmcoIlZFQSIsIHhtbERhdGEpOwogICAgICByZXR1cm4geG1sOwogICAgfQogICAgY2F0Y2ggKERlZmF1bHRMb2dFeGNlcHRpb24gZSkKICAgIHsKICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgIH0KICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBWRFNfRE9DX0RUWVBFX0lEID0gIlZFQU0iOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB4bWw7Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBWRFNfRE9DX1RZUEUgPSAiVkRTIjsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFwcGxQYXJ0LmFkZE9wdGlvbigiVVNFUkZTU1RBVEUiLCAiUk8iKTsKICAgIHhtbERhdGEuYWRkUGFydChmaWxlLmdldEFic29sdXRlUGF0aCgpLCBhcHBsUGFydCk7CiAgICB4bWxEYXRhLmFkZFNlYXJjaERpcmVjdG9yaWVzKENvbGxlY3Rpb25zLnNpbmdsZXRvbkxpc3QoZmlsZS5nZXRQYXJlbnQoKSkpOwogICAgeG1sRGF0YS5zZXRMb2FkT3B0aW9ucyhuZXcgUGxtTG9hZE9wdGlvbk9iamVjdCgpLCBuZXcgSGFzaE1hcDw+KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgRmlsZSBmaWxlID0gbmV3IEZpbGUoRW52aXJvbm1lbnQuZ2V0VXNlckRhdGFEaXIobnVsbCkpOwogICAgICBTdHJpbmcgY2hlY2tlZE91dFBhdGggPSBwbG1GaWxlLmNoZWNrT3V0VmlldyhmaWxlLmdldEFic29sdXRlUGF0aCgpKTsKICAgICAgaWYgKGNoZWNrZWRPdXRQYXRoICE9IG51bGwpCiAgICAgICAgcmV0dXJuIE9wdGlvbmFsLm9mKGZpbGUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHhtbERhdGEuc2V0TG9hZE9wdGlvbnMobmV3IFBsbUxvYWRPcHRpb25PYmplY3QoKSwgbmV3IEhhc2hNYXA8PigpKTsK</text>
+        <text encoding="base64">aW1wb3J0IHBsbS5zZXNzLmNvbW0udXRpbC5TZXNzaW9uVXRpbDsK</text>
       </register>
       <register name=":" type="4">
         <text>209</text>
@@ -354,9 +375,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxsaXN0ZW5lckxpc3RcPg==</last-search>
+      <last-search encoding="base64">XDxQcm9jZXNzQ2FuY2VsbGVkRXhjZXB0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsaXN0ZW5lckxpc3RcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxQcm9jZXNzQ2FuY2VsbGVkRXhjZXB0aW9uXD4=</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute encoding="base64">XDxkcm9wTW9kZVw+</last-substitute>
       <last-dir>1</last-dir>
