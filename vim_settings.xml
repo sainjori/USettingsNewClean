@@ -151,12 +151,12 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="146" column="17" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/omf/OmfYpsomedDmuMatSendVds.java" timestamp="1593776266466">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/omf/OmfYpsomedDmuMatSendVds.java" timestamp="1593784748969">
         <mark key="'" line="91" column="2" />
         <mark key="[" line="171" column="2" />
-        <mark key="]" line="171" column="9" />
-        <mark key="." line="171" column="8" />
-        <mark key="^" line="171" column="9" />
+        <mark key="]" line="171" column="2" />
+        <mark key="." line="171" column="2" />
+        <mark key="^" line="171" column="2" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/util/MessageService.java" timestamp="1593769345973" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" timestamp="1593768737551">
@@ -167,10 +167,10 @@
         <mark key="'" line="213" column="14" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/omf/OmfDocOpenMultiuser.java" timestamp="1593772935041" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/test/java/ypsomed/omf/OmfYpsomedDmuMatSendVdsTest.java" timestamp="1593776175233">
-        <mark key="[" line="36" column="67" />
-        <mark key="]" line="36" column="68" />
-        <mark key="." line="36" column="67" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/test/java/ypsomed/omf/OmfYpsomedDmuMatSendVdsTest.java" timestamp="1593784759246">
+        <mark key="[" line="36" column="4" />
+        <mark key="]" line="36" column="4" />
+        <mark key="." line="36" column="4" />
         <mark key="^" line="36" column="68" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/sess/XmlData.java" timestamp="1593774786236">
@@ -184,7 +184,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/omf/OmfDocOpenShared.java" timestamp="1593774138771" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/gui/LoadOptionComboBox.java" timestamp="1593774826534" />
-      <file name="/Dummy.txt" timestamp="1593776237808">
+      <file name="/Dummy.txt" timestamp="1593784714605">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/omf/OmfDocOpenByLoadScenario.java" timestamp="1593772254022">
@@ -300,19 +300,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>public</text>
+        <text>String test =</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>String test =</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYXNoY29udGFpbmVyTWl0Tm9kZXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG9iamVjdE9iamVjdEhhc2hNYXAucHV0KCJNT0RFIiwgIm9wZW5EaXNwbGF5Iik7Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyB0ZXN0ID0gT21mWXBzb21lZERtdU1hdFNlbmRWZHMuc2VuZEZhaWx1cmVSZXNwb25zZShudWxsKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIFN0cmluZyB4bWwgPSBudWxsOwogICAgdHJ5CiAgICB7CiAgICAgIHhtbCA9IFNlc3Npb25VdGlsLnJlc3BvbnNlVG9YbWxTdHJpbmcoIlZFQSIsIHhtbERhdGEpOwogICAgICByZXR1cm4geG1sOwogICAgfQogICAgY2F0Y2ggKERlZmF1bHRMb2dFeGNlcHRpb24gZSkKICAgIHsKICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgIH0KICAgIHJldHVybiBudWxsOwo=</text>
