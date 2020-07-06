@@ -140,7 +140,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Program Files/Java/jdk1.8.0_212/src.zip!/javax/swing/DefaultComboBoxModel.java" timestamp="1594047732787" />
+      <file name="/Dummy.txt" timestamp="1594058334945">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
+      <file name="/menu.guidef" timestamp="1594059760789" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.2/customize/config/menu.guidef" timestamp="1594059831818">
+        <mark key="'" line="105" column="60" />
+        <mark key="[" line="108" column="40" />
+        <mark key="]" line="108" column="71" />
+        <mark key="^" line="108" column="71" />
+        <mark key="." line="108" column="70" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/omf/GeneratorAssembly.java" timestamp="1594054855240">
         <mark key="'" line="501" column="11" />
         <mark key="[" line="257" column="0" />
@@ -155,18 +167,21 @@
         <mark key="." line="54" column="45" />
         <mark key="^" line="54" column="46" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/omf/OmfYpsomedDmuCreateNew.java" timestamp="1593805302202">
-        <mark key="'" line="393" column="4" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/tool/FAComposeToolExtPanel.java" timestamp="1594028226467">
-        <mark key="'" line="1543" column="0" />
-      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/bhs/trunk/bhs/src/main/java/bhs/omf/OmfBhsInheritFolderTraits.java" timestamp="1594059254327" />
       <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/omf/OmfFATooleditorWorkcenterChange.java" timestamp="1594036468438">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/utils/FaOmfHelper.java" timestamp="1594032963644" />
+      <file name="C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/util/HashSet.java" timestamp="1594037088916">
+        <mark key="'" line="104" column="11" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/omf/OmfFASingleToolSearch.java" timestamp="1594028329089">
+        <mark key="'" line="337" column="0" />
+      </file>
+      <file name="/default.txt" timestamp="1594059737626">
+        <mark key="'" line="27" column="74" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/omf/GeneratorPart.java" timestamp="1594054878181">
         <mark key="'" line="295" column="28" />
         <mark key="[" line="156" column="106" />
@@ -174,9 +189,18 @@
         <mark key="." line="156" column="105" />
         <mark key="^" line="156" column="106" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/fctr/customize/config/menu.guidef" timestamp="1594028159306" />
-      <file name="C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/util/HashSet.java" timestamp="1594037088916">
-        <mark key="'" line="104" column="11" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/omf/OmfYpsomedDmuCreateNew.java" timestamp="1593805302202">
+        <mark key="'" line="393" column="4" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/tool/FAComposeToolExtPanel.java" timestamp="1594028226467">
+        <mark key="'" line="1543" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.2/customize/config/default.txt" timestamp="1594059837915">
+        <mark key="'" line="40" column="21" />
+        <mark key="[" line="2757" column="27" />
+        <mark key="]" line="2763" column="39" />
+        <mark key="^" line="2763" column="39" />
+        <mark key="." line="2763" column="38" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/toolconf/toolbar/FaWorkCenterSelectionBoxModel.java" timestamp="1594054437888">
         <mark key="'" line="148" column="0" />
@@ -189,19 +213,8 @@
         <mark key="[" line="187" column="0" />
         <mark key="]" line="187" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594058334945">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/omf/OmfFASingleToolSearch.java" timestamp="1594028329089">
-        <mark key="'" line="337" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="1773" column="41" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentAssignMaterials.java" />
-      <jump line="92" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/rauch/branches/ECTR-4.4.40/java/src/rauch/proc/bobi/RauchProcessBobiCheckMachinePairs.java" />
-      <jump line="91" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/omf/OmfYpsomedDmuMatSendVds.java" />
       <jump line="119" column="25" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/sess/XmlData.java" />
       <jump line="139" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/sess/XmlData.java" />
       <jump line="154" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.15.1/plm-5.1.15.1-sources.jar!/plm/sess/XmlData.java" />
@@ -299,6 +312,9 @@
       <jump line="80" column="0" filename="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/toolconf/toolbar/FaWorkCenterSelectionBoxModel.java" />
       <jump line="69" column="41" filename="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/toolconf/toolbar/FaWorkCenterSelectionBoxModel.java" />
       <jump line="148" column="0" filename="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/toolconf/toolbar/FaWorkCenterSelectionBoxModel.java" />
+      <jump line="40" column="21" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.2/customize/config/default.txt" />
+      <jump line="27" column="74" filename="/default.txt" />
+      <jump line="105" column="60" filename="C:/ENTWICKLUNG/ectr_installations/ECTR5.1.15.2/customize/config/menu.guidef" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
