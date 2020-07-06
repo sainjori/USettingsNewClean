@@ -141,12 +141,12 @@
     <globalmarks />
     <filemarks>
       <file name="C:/Program Files/Java/jdk1.8.0_212/src.zip!/javax/swing/DefaultComboBoxModel.java" timestamp="1594047732787" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/omf/GeneratorAssembly.java" timestamp="1594054803098">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/omf/GeneratorAssembly.java" timestamp="1594054855240">
         <mark key="'" line="501" column="11" />
-        <mark key="[" line="127" column="130" />
-        <mark key="]" line="128" column="33" />
-        <mark key="." line="128" column="32" />
-        <mark key="^" line="128" column="33" />
+        <mark key="[" line="257" column="0" />
+        <mark key="]" line="257" column="106" />
+        <mark key="." line="257" column="103" />
+        <mark key="^" line="257" column="104" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/omf/OmfYpsomedDmuMatSendVds.java" timestamp="1594054828278">
         <mark key="'" line="191" column="0" />
@@ -167,12 +167,12 @@
         <mark key="." line="79" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/utils/FaOmfHelper.java" timestamp="1594032963644" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/omf/GeneratorPart.java" timestamp="1593805338337">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/omf/GeneratorPart.java" timestamp="1594054878181">
         <mark key="'" line="295" column="28" />
-        <mark key="[" line="125" column="130" />
-        <mark key="]" line="127" column="0" />
-        <mark key="^" line="127" column="0" />
-        <mark key="." line="127" column="0" />
+        <mark key="[" line="156" column="106" />
+        <mark key="]" line="156" column="106" />
+        <mark key="." line="156" column="105" />
+        <mark key="^" line="156" column="106" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/fctr/customize/config/menu.guidef" timestamp="1594028159306" />
       <file name="C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/util/HashSet.java" timestamp="1594037088916">
@@ -189,8 +189,8 @@
         <mark key="[" line="187" column="0" />
         <mark key="]" line="187" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594052682874">
-        <mark key="[" line="0" column="11" />
+      <file name="/Dummy.txt" timestamp="1594054903504">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
@@ -303,50 +303,50 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>VDS_DOC_DTYPE_ID</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEF0dHJpYnV0ZVNlY3Rpb24gc2VjdGlvbiA9IE9wWG1sUGFyc2VyLmdldEF0dHJpYnV0ZVNlY3Rpb24oZHR5cGUuZ2V0QXR0cmlidXRlU2VjdGlvbigpKTsK</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>VDS_DOC_DTYPE_ID</text>
+        <text>dtype.getAttributeSection()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQcm9jZXNzQ2FuY2VsbGVkRXhjZXB0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBWRFNfRE9DX0RUWVBFX0lEID0gIlZFQU0iOwo=</text>
+        <text encoding="base64">ICAgIEF0dHJpYnV0ZVNlY3Rpb24gc2VjdGlvbiA9IE9wWG1sUGFyc2VyLmdldEF0dHJpYnV0ZVNlY3Rpb24oT21mWXBzb21lZERtdU1hdFNlbmRWZHMuQVRUUklCVVRFX1NFQ1RJT04pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIEF0dHJpYnV0ZVNlY3Rpb24gc2VjdGlvbiA9IE9wWG1sUGFyc2VyLmdldEF0dHJpYnV0ZVNlY3Rpb24oZHR5cGUuZ2V0QXR0cmlidXRlU2VjdGlvbigpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIFZFQV9ETVVfQ09OVgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaGlzdG9yeUxpc3QuYWRkKHNhcEtleSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgKCFoaXN0b3J5TGlzdC5jb250YWlucyhzYXBLZXkpKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChoaXN0b3J5TGlzdC5zaXplKCkgPCBMQVNUX1NFTEVDVEVEX0hJU1RPUllfQ09VTlQpCiAgICAgIGhpc3RvcnlMaXN0LmFkZChzYXBLZXkpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHsK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgaGlzdG9yeUxpc3QuYWRkKHNhcEtleSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgKCFoaXN0b3J5TGlzdC5jb250YWlucyhzYXBLZXkpKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGlmIChoaXN0b3J5TGlzdC5zaXplKCkgPCBMQVNUX1NFTEVDVEVEX0hJU1RPUllfQ09VTlQpCiAgICAgIGhpc3RvcnlMaXN0LmFkZChzYXBLZXkpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgUHJlZmVyZW5jZXMuc2V0VXNlclZhbHVlKFdPUktDRU5URVJfU1RPUkVfTEFTVF9QUkVGLCBuZXcgQXJyYXlMaXN0PD4oaGlzdG9yeUxpc3QpKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>209</text>
