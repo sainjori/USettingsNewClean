@@ -172,7 +172,13 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/fctr/5.1.15.1/fctr-5.1.15.1-sources.jar!/plm/modules/fa/omf/OmfNxCamMachineDataCheckout.java" timestamp="1593804327643" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/omf/OmfFATooleditorWorkcenterChange.java" timestamp="1594031204072" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/omf/OmfFATooleditorWorkcenterChange.java" timestamp="1594032579192">
+        <mark key="[" line="79" column="71" />
+        <mark key="]" line="79" column="72" />
+        <mark key="." line="79" column="71" />
+        <mark key="^" line="79" column="72" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/utils/FaOmfHelper.java" timestamp="1594032963644" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/omf/GeneratorPart.java" timestamp="1593805338337">
         <mark key="'" line="295" column="28" />
         <mark key="[" line="125" column="130" />
@@ -192,9 +198,6 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/fctr-platform/core/fctr/src/main/java/plm/modules/fa/omf/OmfFASingleToolSearch.java" timestamp="1594028329089">
         <mark key="'" line="337" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1593799468997">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -303,19 +306,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;UGM&quot;</text>
+        <text>selection.dialog.location.height&quot;;</text>
       </register>
       <register name="c" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;UGM&quot;</text>
+        <text>selection.dialog.location.height&quot;;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQcm9jZXNzQ2FuY2VsbGVkRXhjZXB0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgR3VpVXRpbHMuc2V0U3RhdHVzTGluZUVycm9yVGV4dChlKTsK</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgUFJFRl9IRUlHSFQgPSAid29ya2NlbnRlci5zZWxlY3Rpb24uZGlhbG9nLmxvY2F0aW9uLmhlaWdodCI7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9yOwo=</text>
