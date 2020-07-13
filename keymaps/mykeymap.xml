@@ -167,6 +167,8 @@
   <action id="StructuralSearchPlugin.StructuralSearchAction">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
+  <action id="SwitcherIterateItems" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="f11" />
     <mouse-shortcut keystroke="control button143" />
