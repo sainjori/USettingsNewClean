@@ -126,6 +126,9 @@
     <keyboard-shortcut first-keystroke="ctrl f5" />
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
+  <action id="RerunFailedTests">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="RerunTests" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
