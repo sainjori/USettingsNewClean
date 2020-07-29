@@ -5,7 +5,9 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="schemav1" type="JSON" />
       <mapping pattern="fefe" type="PLAIN_TEXT" />
+      <mapping pattern="fff" type="PLAIN_TEXT" />
       <mapping pattern="eeee" type="PLAIN_TEXT" />
+      <mapping pattern="eeww" type="PLAIN_TEXT" />
       <mapping pattern="efe" type="PLAIN_TEXT" />
       <mapping pattern="efefe" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
