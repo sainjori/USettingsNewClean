@@ -4,14 +4,14 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="schemav1" type="JSON" />
-      <mapping pattern="fefe" type="PLAIN_TEXT" />
       <mapping pattern="fff" type="PLAIN_TEXT" />
-      <mapping pattern="eeee" type="PLAIN_TEXT" />
       <mapping pattern="eeww" type="PLAIN_TEXT" />
       <mapping pattern="efe" type="PLAIN_TEXT" />
+      <mapping pattern="eeee" type="PLAIN_TEXT" />
+      <mapping pattern="fefe" type="PLAIN_TEXT" />
       <mapping pattern="efefe" type="PLAIN_TEXT" />
-      <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="mustache" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
       <removed_mapping ext="schemav1" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
