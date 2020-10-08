@@ -5,6 +5,7 @@
   <component name="DaemonCodeAnalyzerSettings">
     <option name="AUTOREPARSE_DELAY" value="400" />
     <option name="SHOW_ADD_IMPORT_HINTS" value="false" />
+    <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="16" />
