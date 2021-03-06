@@ -17,5 +17,7 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <action id="Hotswap" icon="$USER_HOME$/Desktop/temp/icons/actions/refresh_dark.svg" />
+    <action id="Git.Pull" icon="$USER_HOME$/Desktop/temp/icons/general/getProjectfromVCS@2x.png" />
   </component>
 </application>
