@@ -10,5 +10,6 @@
     <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.txt</mask>
   </component>
 </application>
